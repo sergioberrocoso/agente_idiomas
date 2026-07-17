@@ -3,7 +3,7 @@
     "word": "abdos",
     "article": "les",
     "sentence": "Les abdos renforcent le ventre.",
-    "translation": "",
+    "translation": "abdominales",
     "tags": [
       "exercise"
     ]
@@ -12,7 +12,7 @@
     "word": "abeille",
     "article": "l'",
     "sentence": "L'abeille fait du miel.",
-    "translation": "",
+    "translation": "abeja",
     "tags": [
       "animals",
       "food"
@@ -22,7 +22,7 @@
     "word": "accepter",
     "article": "",
     "sentence": "Il accepte l'invitation.",
-    "translation": "",
+    "translation": "aceptar",
     "tags": [
       "actions"
     ]
@@ -31,7 +31,7 @@
     "word": "achat",
     "article": "l'",
     "sentence": "L'achat est sécurisé.",
-    "translation": "",
+    "translation": "compra",
     "tags": [
       "shopping"
     ]
@@ -40,7 +40,7 @@
     "word": "acheter",
     "article": "",
     "sentence": "Tu achètes du pain.",
-    "translation": "",
+    "translation": "comprar",
     "tags": [
       "shopping",
       "food",
@@ -51,7 +51,7 @@
     "word": "actif",
     "article": "",
     "sentence": "Reste actif toute la journée.",
-    "translation": "",
+    "translation": "activo",
     "tags": [
       "exercise"
     ]
@@ -60,7 +60,7 @@
     "word": "adorer",
     "article": "",
     "sentence": "Tu adores le chocolat.",
-    "translation": "",
+    "translation": "adorar",
     "tags": [
       "food",
       "actions"
@@ -70,7 +70,7 @@
     "word": "adresse",
     "article": "l'",
     "sentence": "L'adresse email est valide.",
-    "translation": "",
+    "translation": "dirección",
     "tags": [
       "email"
     ]
@@ -79,7 +79,7 @@
     "word": "agenda",
     "article": "l'",
     "sentence": "L'agenda est électronique.",
-    "translation": "",
+    "translation": "agenda",
     "tags": [
       "work"
     ]
@@ -88,7 +88,7 @@
     "word": "aider",
     "article": "",
     "sentence": "Tu aides ton ami.",
-    "translation": "",
+    "translation": "ayudar",
     "tags": [
       "actions"
     ]
@@ -97,7 +97,7 @@
     "word": "aigle",
     "article": "l'",
     "sentence": "L'aigle vole très haut.",
-    "translation": "",
+    "translation": "águila",
     "tags": [
       "animals"
     ]
@@ -106,7 +106,7 @@
     "word": "ail",
     "article": "l'",
     "sentence": "L'ail parfume le plat.",
-    "translation": "",
+    "translation": "ajo",
     "tags": [
       "food"
     ]
@@ -115,7 +115,7 @@
     "word": "aile",
     "article": "l'",
     "sentence": "L'oiseau bat des ailes.",
-    "translation": "",
+    "translation": "ala",
     "tags": [
       "animals"
     ]
@@ -124,7 +124,7 @@
     "word": "aimer",
     "article": "",
     "sentence": "J'aime les animaux.",
-    "translation": "",
+    "translation": "amar",
     "tags": [
       "animals",
       "food",
@@ -135,7 +135,7 @@
     "word": "aller",
     "article": "",
     "sentence": "Je vais à l'école.",
-    "translation": "",
+    "translation": "ir",
     "tags": [
       "travel",
       "actions"
@@ -145,7 +145,7 @@
     "word": "alternance",
     "article": "l'",
     "sentence": "L'alternance combine travail et études.",
-    "translation": "",
+    "translation": "alternancia",
     "tags": [
       "work"
     ]
@@ -154,7 +154,7 @@
     "word": "amande",
     "article": "l'",
     "sentence": "L'amande est un fruit sec.",
-    "translation": "",
+    "translation": "almendra",
     "tags": [
       "food"
     ]
@@ -163,7 +163,7 @@
     "word": "ami",
     "article": "l'",
     "sentence": "L'ami est fidèle.",
-    "translation": "",
+    "translation": "amigo",
     "tags": [
       "travel"
     ]
@@ -172,7 +172,7 @@
     "word": "amour",
     "article": "l'",
     "sentence": "L'amour est dans l'air.",
-    "translation": "",
+    "translation": "amor",
     "tags": [
       "actions"
     ]
@@ -181,7 +181,7 @@
     "word": "ancien",
     "article": "",
     "sentence": "Cet hôtel est ancien.",
-    "translation": "",
+    "translation": "antiguo",
     "tags": [
       "hotel"
     ]
@@ -190,7 +190,7 @@
     "word": "angle",
     "article": "l'",
     "sentence": "L'angle de la rue est à cinquante mètres.",
-    "translation": "",
+    "translation": "ángulo",
     "tags": [
       "directions"
     ]
@@ -199,7 +199,7 @@
     "word": "annuler",
     "article": "",
     "sentence": "Ils annulent le vol.",
-    "translation": "",
+    "translation": "cancelar",
     "tags": [
       "travel",
       "actions"
@@ -209,7 +209,7 @@
     "word": "année",
     "article": "l'",
     "sentence": "L'année prochaine je déménage.",
-    "translation": "",
+    "translation": "año",
     "tags": [
       "travel"
     ]
@@ -218,7 +218,7 @@
     "word": "août",
     "article": "",
     "sentence": "Août est le mois des vacances.",
-    "translation": "",
+    "translation": "agosto",
     "tags": [
       "travel"
     ]
@@ -227,7 +227,7 @@
     "word": "appareil photo",
     "article": "l'",
     "sentence": "L'appareil photo numérique est léger.",
-    "translation": "",
+    "translation": "cámara",
     "tags": [
       "travel"
     ]
@@ -236,7 +236,7 @@
     "word": "appel",
     "article": "l'",
     "sentence": "L'appel est perdu.",
-    "translation": "",
+    "translation": "llamada",
     "tags": [
       "phone"
     ]
@@ -245,7 +245,7 @@
     "word": "appeler",
     "article": "",
     "sentence": "Tu appelles le médecin.",
-    "translation": "",
+    "translation": "llamar",
     "tags": [
       "phone",
       "actions"
@@ -255,7 +255,7 @@
     "word": "apporter",
     "article": "",
     "sentence": "Tu apportes le dessert.",
-    "translation": "",
+    "translation": "traer",
     "tags": [
       "food",
       "actions"
@@ -265,7 +265,7 @@
     "word": "après-midi",
     "article": "l'",
     "sentence": "L'après-midi je travaille.",
-    "translation": "",
+    "translation": "tarde",
     "tags": [
       "work"
     ]
@@ -274,7 +274,7 @@
     "word": "araignée",
     "article": "l'",
     "sentence": "L'araignée tisse sa toile.",
-    "translation": "",
+    "translation": "araña",
     "tags": [
       "animals"
     ]
@@ -283,7 +283,7 @@
     "word": "arbitre",
     "article": "l'",
     "sentence": "L'arbitre siffle une faute.",
-    "translation": "",
+    "translation": "árbitro",
     "tags": [
       "sports"
     ]
@@ -292,7 +292,7 @@
     "word": "archiver",
     "article": "",
     "sentence": "Archive les anciens messages.",
-    "translation": "",
+    "translation": "archivar",
     "tags": [
       "email",
       "actions"
@@ -302,7 +302,7 @@
     "word": "argent",
     "article": "l'",
     "sentence": "L'argent ne fait pas le bonheur.",
-    "translation": "",
+    "translation": "dinero",
     "tags": [
       "shopping"
     ]
@@ -311,7 +311,7 @@
     "word": "argument",
     "article": "l'",
     "sentence": "L'argument est convaincant.",
-    "translation": "",
+    "translation": "argumento",
     "tags": [
       "work"
     ]
@@ -320,7 +320,7 @@
     "word": "armoire",
     "article": "l'",
     "sentence": "L'armoire contient des vêtements.",
-    "translation": "",
+    "translation": "armario",
     "tags": [
       "hotel"
     ]
@@ -329,7 +329,7 @@
     "word": "arriver",
     "article": "",
     "sentence": "Le train arrive en gare.",
-    "translation": "",
+    "translation": "llegar",
     "tags": [
       "travel",
       "actions"
@@ -339,7 +339,7 @@
     "word": "arrivée",
     "article": "l'",
     "sentence": "L'arrivée a du retard.",
-    "translation": "",
+    "translation": "llegada",
     "tags": [
       "travel"
     ]
@@ -348,7 +348,7 @@
     "word": "arrêt maladie",
     "article": "l'",
     "sentence": "L'arrêt maladie est justifié.",
-    "translation": "",
+    "translation": "baja por enfermedad",
     "tags": [
       "work"
     ]
@@ -357,7 +357,7 @@
     "word": "ascenseur",
     "article": "l'",
     "sentence": "L'ascenseur est en panne.",
-    "translation": "",
+    "translation": "ascensor",
     "tags": [
       "hotel"
     ]
@@ -366,7 +366,7 @@
     "word": "aspirateur",
     "article": "l'",
     "sentence": "L'aspirateur est silencieux.",
-    "translation": "",
+    "translation": "aspiradora",
     "tags": [
       "hotel"
     ]
@@ -375,7 +375,7 @@
     "word": "assemblée",
     "article": "l'",
     "sentence": "L'assemblée générale est annuelle.",
-    "translation": "",
+    "translation": "asamblea",
     "tags": [
       "work"
     ]
@@ -384,7 +384,7 @@
     "word": "assez",
     "article": "",
     "sentence": "C'est assez grand.",
-    "translation": "",
+    "translation": "bastante",
     "tags": [
       "shopping"
     ]
@@ -393,7 +393,7 @@
     "word": "assiette",
     "article": "l'",
     "sentence": "L'assiette est vide.",
-    "translation": "",
+    "translation": "plato",
     "tags": [
       "food"
     ]
@@ -402,7 +402,7 @@
     "word": "athlétisme",
     "article": "l'",
     "sentence": "L'athlétisme regroupe plusieurs disciplines.",
-    "translation": "",
+    "translation": "atletismo",
     "tags": [
       "sports"
     ]
@@ -411,7 +411,7 @@
     "word": "attaque",
     "article": "l'",
     "sentence": "L'attaque est rapide.",
-    "translation": "",
+    "translation": "ataque",
     "tags": [
       "sports"
     ]
@@ -420,7 +420,7 @@
     "word": "attendre",
     "article": "",
     "sentence": "Nous attendons le bus.",
-    "translation": "",
+    "translation": "esperar",
     "tags": [
       "travel",
       "actions"
@@ -430,7 +430,7 @@
     "word": "attente",
     "article": "la",
     "sentence": "Je suis en attente.",
-    "translation": "",
+    "translation": "espera",
     "tags": [
       "phone"
     ]
@@ -439,7 +439,7 @@
     "word": "attraper",
     "article": "",
     "sentence": "Tu attrapes la balle.",
-    "translation": "",
+    "translation": "atrapar",
     "tags": [
       "sports",
       "actions"
@@ -449,7 +449,7 @@
     "word": "au revoir",
     "article": "",
     "sentence": "Au revoir et bonne journée !",
-    "translation": "",
+    "translation": "adiós",
     "tags": [
       "travel"
     ]
@@ -458,7 +458,7 @@
     "word": "auberge",
     "article": "l'",
     "sentence": "L'auberge de jeunesse est bon marché.",
-    "translation": "",
+    "translation": "albergue",
     "tags": [
       "travel",
       "hotel"
@@ -468,7 +468,7 @@
     "word": "aujourd'hui",
     "article": "",
     "sentence": "Aujourd'hui il fait beau.",
-    "translation": "",
+    "translation": "hoy",
     "tags": [
       "travel"
     ]
@@ -477,7 +477,7 @@
     "word": "automne",
     "article": "l'",
     "sentence": "L'automne est pluvieux.",
-    "translation": "",
+    "translation": "otoño",
     "tags": [
       "travel"
     ]
@@ -486,7 +486,7 @@
     "word": "autoroute",
     "article": "l'",
     "sentence": "L'autoroute est gratuite.",
-    "translation": "",
+    "translation": "autopista",
     "tags": [
       "travel",
       "directions"
@@ -496,7 +496,7 @@
     "word": "autre",
     "article": "",
     "sentence": "L'autre chambre est plus grande.",
-    "translation": "",
+    "translation": "otro",
     "tags": [
       "hotel"
     ]
@@ -505,7 +505,7 @@
     "word": "avec",
     "article": "",
     "sentence": "Je viens avec toi.",
-    "translation": "",
+    "translation": "con",
     "tags": [
       "travel"
     ]
@@ -514,7 +514,7 @@
     "word": "aventure",
     "article": "l'",
     "sentence": "L'aventure commence maintenant.",
-    "translation": "",
+    "translation": "aventura",
     "tags": [
       "travel"
     ]
@@ -523,7 +523,7 @@
     "word": "avenue",
     "article": "l'",
     "sentence": "L'avenue des Champs-Élysées est célèbre.",
-    "translation": "",
+    "translation": "avenida",
     "tags": [
       "directions",
       "travel"
@@ -533,7 +533,7 @@
     "word": "avion",
     "article": "l'",
     "sentence": "L'avion décolle dans une heure.",
-    "translation": "",
+    "translation": "avión",
     "tags": [
       "travel"
     ]
@@ -542,7 +542,7 @@
     "word": "avocat",
     "article": "l'",
     "sentence": "L'avocat est riche en bonnes graisses.",
-    "translation": "",
+    "translation": "abogado",
     "tags": [
       "food"
     ]
@@ -551,7 +551,7 @@
     "word": "avoir besoin",
     "article": "",
     "sentence": "J'ai besoin d'aide.",
-    "translation": "",
+    "translation": "necesitar",
     "tags": [
       "work",
       "shopping",
@@ -562,7 +562,7 @@
     "word": "avril",
     "article": "",
     "sentence": "Avril est variable.",
-    "translation": "",
+    "translation": "abril",
     "tags": [
       "travel"
     ]
@@ -571,7 +571,7 @@
     "word": "aéroport",
     "article": "l'",
     "sentence": "L'aéroport est loin du centre.",
-    "translation": "",
+    "translation": "aeropuerto",
     "tags": [
       "travel"
     ]
@@ -580,7 +580,7 @@
     "word": "bagage",
     "article": "le",
     "sentence": "Le bagage est perdu.",
-    "translation": "",
+    "translation": "equipaje",
     "tags": [
       "travel"
     ]
@@ -589,7 +589,7 @@
     "word": "baignoire",
     "article": "la",
     "sentence": "La baignoire est grande.",
-    "translation": "",
+    "translation": "bañera",
     "tags": [
       "hotel"
     ]
@@ -598,7 +598,7 @@
     "word": "balai",
     "article": "le",
     "sentence": "Le balai est dans le placard.",
-    "translation": "",
+    "translation": "escoba",
     "tags": [
       "hotel"
     ]
@@ -607,7 +607,7 @@
     "word": "baleine",
     "article": "la",
     "sentence": "La baleine chante sous l'eau.",
-    "translation": "",
+    "translation": "ballena",
     "tags": [
       "animals"
     ]
@@ -616,7 +616,7 @@
     "word": "ballon",
     "article": "le",
     "sentence": "Le ballon de gym est gonflé.",
-    "translation": "",
+    "translation": "balón",
     "tags": [
       "exercise"
     ]
@@ -625,7 +625,7 @@
     "word": "banane",
     "article": "la",
     "sentence": "La banane est jaune.",
-    "translation": "",
+    "translation": "plátano",
     "tags": [
       "food"
     ]
@@ -634,7 +634,7 @@
     "word": "banlieue",
     "article": "la",
     "sentence": "La banlieue est résidentielle.",
-    "translation": "",
+    "translation": "periferia",
     "tags": [
       "travel"
     ]
@@ -643,7 +643,7 @@
     "word": "bar",
     "article": "le",
     "sentence": "Le bar sert des cocktails.",
-    "translation": "",
+    "translation": "bar",
     "tags": [
       "hotel",
       "food"
@@ -653,7 +653,7 @@
     "word": "barre",
     "article": "la",
     "sentence": "La barre de musculation est chargée.",
-    "translation": "",
+    "translation": "barra",
     "tags": [
       "exercise"
     ]
@@ -662,7 +662,7 @@
     "word": "basketball",
     "article": "le",
     "sentence": "Le basketball américain est spectaculaire.",
-    "translation": "",
+    "translation": "baloncesto",
     "tags": [
       "sports"
     ]
@@ -671,7 +671,7 @@
     "word": "bateau",
     "article": "le",
     "sentence": "Le bateau traverse le fleuve.",
-    "translation": "",
+    "translation": "barco",
     "tags": [
       "travel"
     ]
@@ -680,7 +680,7 @@
     "word": "beau",
     "article": "",
     "sentence": "Le paysage est beau.",
-    "translation": "",
+    "translation": "hermoso",
     "tags": [
       "travel"
     ]
@@ -689,7 +689,7 @@
     "word": "beaucoup",
     "article": "",
     "sentence": "Merci beaucoup.",
-    "translation": "",
+    "translation": "mucho",
     "tags": [
       "travel"
     ]
@@ -698,7 +698,7 @@
     "word": "bec",
     "article": "le",
     "sentence": "Le perroquet a un bec coloré.",
-    "translation": "",
+    "translation": "pico",
     "tags": [
       "animals"
     ]
@@ -707,7 +707,7 @@
     "word": "beurre",
     "article": "le",
     "sentence": "Le beurre est salé.",
-    "translation": "",
+    "translation": "mantequilla",
     "tags": [
       "food"
     ]
@@ -716,7 +716,7 @@
     "word": "biceps",
     "article": "le",
     "sentence": "Le biceps est contracté.",
-    "translation": "",
+    "translation": "bíceps",
     "tags": [
       "exercise"
     ]
@@ -725,7 +725,7 @@
     "word": "bien",
     "article": "",
     "sentence": "Je vais bien.",
-    "translation": "",
+    "translation": "bien",
     "tags": [
       "travel"
     ]
@@ -734,7 +734,7 @@
     "word": "bijou",
     "article": "le",
     "sentence": "Le bijou en argent est joli.",
-    "translation": "",
+    "translation": "joya",
     "tags": [
       "shopping"
     ]
@@ -743,7 +743,7 @@
     "word": "billet",
     "article": "le",
     "sentence": "Le billet d'avion est cher.",
-    "translation": "",
+    "translation": "billete",
     "tags": [
       "travel"
     ]
@@ -752,7 +752,7 @@
     "word": "billet de banque",
     "article": "le",
     "sentence": "Le billet de banque est en euros.",
-    "translation": "",
+    "translation": "billete",
     "tags": [
       "shopping"
     ]
@@ -761,7 +761,7 @@
     "word": "bip",
     "article": "le",
     "sentence": "Le bip indique la fin du message.",
-    "translation": "",
+    "translation": "pitido",
     "tags": [
       "phone"
     ]
@@ -770,7 +770,7 @@
     "word": "bière",
     "article": "la",
     "sentence": "La bière est blonde.",
-    "translation": "",
+    "translation": "cerveza",
     "tags": [
       "food"
     ]
@@ -779,7 +779,7 @@
     "word": "boire",
     "article": "",
     "sentence": "Tu bois de l'eau.",
-    "translation": "",
+    "translation": "beber",
     "tags": [
       "food",
       "actions"
@@ -789,7 +789,7 @@
     "word": "bol",
     "article": "le",
     "sentence": "Le bol de soupe est chaud.",
-    "translation": "",
+    "translation": "bol",
     "tags": [
       "food"
     ]
@@ -798,7 +798,7 @@
     "word": "bon",
     "article": "",
     "sentence": "Le gâteau est bon.",
-    "translation": "",
+    "translation": "bueno",
     "tags": [
       "food"
     ]
@@ -807,7 +807,7 @@
     "word": "bon marché",
     "article": "",
     "sentence": "Ce marché est bon marché.",
-    "translation": "",
+    "translation": "barato",
     "tags": [
       "shopping"
     ]
@@ -816,7 +816,7 @@
     "word": "bonjour",
     "article": "",
     "sentence": "Bonjour, comment allez-vous ?",
-    "translation": "",
+    "translation": "hola",
     "tags": [
       "phone",
       "travel"
@@ -826,7 +826,7 @@
     "word": "bonne nuit",
     "article": "",
     "sentence": "Bonne nuit, fais de beaux rêves.",
-    "translation": "",
+    "translation": "buenas noches",
     "tags": [
       "travel"
     ]
@@ -835,7 +835,7 @@
     "word": "bonsoir",
     "article": "",
     "sentence": "Bonsoir, madame.",
-    "translation": "",
+    "translation": "buenas noches",
     "tags": [
       "travel",
       "phone"
@@ -845,7 +845,7 @@
     "word": "bouger",
     "article": "",
     "sentence": "Assis, ne bouge pas !",
-    "translation": "",
+    "translation": "moverse",
     "tags": [
       "actions"
     ]
@@ -854,7 +854,7 @@
     "word": "bouillir",
     "article": "",
     "sentence": "L'eau bout à cent degrés.",
-    "translation": "",
+    "translation": "hervir",
     "tags": [
       "food",
       "actions"
@@ -864,7 +864,7 @@
     "word": "boulevard",
     "article": "le",
     "sentence": "Le boulevard est large.",
-    "translation": "",
+    "translation": "bulevar",
     "tags": [
       "directions"
     ]
@@ -873,7 +873,7 @@
     "word": "bouteille",
     "article": "la",
     "sentence": "La bouteille est pleine.",
-    "translation": "",
+    "translation": "botella",
     "tags": [
       "food"
     ]
@@ -882,7 +882,7 @@
     "word": "boutique",
     "article": "la",
     "sentence": "La boutique de souvenirs est mignonne.",
-    "translation": "",
+    "translation": "tienda",
     "tags": [
       "shopping",
       "travel"
@@ -892,7 +892,7 @@
     "word": "boîte",
     "article": "la",
     "sentence": "La boîte de réception est pleine.",
-    "translation": "",
+    "translation": "caja",
     "tags": [
       "email"
     ]
@@ -901,7 +901,7 @@
     "word": "boîte d'envoi",
     "article": "la",
     "sentence": "La boîte d'envoi contient les messages.",
-    "translation": "",
+    "translation": "bandeja de salida",
     "tags": [
       "email"
     ]
@@ -910,7 +910,7 @@
     "word": "brocoli",
     "article": "le",
     "sentence": "Le brocoli est vert.",
-    "translation": "",
+    "translation": "brócoli",
     "tags": [
       "food"
     ]
@@ -919,7 +919,7 @@
     "word": "brosse à dents",
     "article": "la",
     "sentence": "La brosse à dents est rangée.",
-    "translation": "",
+    "translation": "cepillo de dientes",
     "tags": [
       "hotel"
     ]
@@ -928,7 +928,7 @@
     "word": "brouillon",
     "article": "le",
     "sentence": "Le brouillon est sauvegardé.",
-    "translation": "",
+    "translation": "borrador",
     "tags": [
       "email"
     ]
@@ -937,7 +937,7 @@
     "word": "bruit",
     "article": "le",
     "sentence": "Le bruit de la rue gêne le sommeil.",
-    "translation": "",
+    "translation": "ruido",
     "tags": [
       "hotel"
     ]
@@ -946,7 +946,7 @@
     "word": "budget",
     "article": "le",
     "sentence": "Le budget est limité.",
-    "translation": "",
+    "translation": "presupuesto",
     "tags": [
       "work"
     ]
@@ -955,7 +955,7 @@
     "word": "bureau",
     "article": "le",
     "sentence": "Le bureau est au troisième étage.",
-    "translation": "",
+    "translation": "oficina",
     "tags": [
       "work"
     ]
@@ -964,7 +964,7 @@
     "word": "bus",
     "article": "le",
     "sentence": "Le bus est bondé.",
-    "translation": "",
+    "translation": "autobús",
     "tags": [
       "travel"
     ]
@@ -973,7 +973,7 @@
     "word": "but",
     "article": "le",
     "sentence": "Le but est refusé.",
-    "translation": "",
+    "translation": "objetivo",
     "tags": [
       "sports"
     ]
@@ -982,7 +982,7 @@
     "word": "bœuf",
     "article": "le",
     "sentence": "Le bœuf bourguignon est un plat typique.",
-    "translation": "",
+    "translation": "buey",
     "tags": [
       "food"
     ]
@@ -991,7 +991,7 @@
     "word": "c'est",
     "article": "",
     "sentence": "C'est une bonne idée.",
-    "translation": "",
+    "translation": "es",
     "tags": [
       "work"
     ]
@@ -1000,7 +1000,7 @@
     "word": "cabine d'essayage",
     "article": "la",
     "sentence": "La cabine d'essayage est libre.",
-    "translation": "",
+    "translation": "probador",
     "tags": [
       "shopping"
     ]
@@ -1009,7 +1009,7 @@
     "word": "cacahuète",
     "article": "la",
     "sentence": "La cacahuète est salée.",
-    "translation": "",
+    "translation": "cacahuete",
     "tags": [
       "food"
     ]
@@ -1018,7 +1018,7 @@
     "word": "cacher",
     "article": "",
     "sentence": "Le chat se cache.",
-    "translation": "",
+    "translation": "esconder",
     "tags": [
       "animals",
       "actions"
@@ -1028,7 +1028,7 @@
     "word": "café",
     "article": "le",
     "sentence": "Le café est chaud.",
-    "translation": "",
+    "translation": "café",
     "tags": [
       "food"
     ]
@@ -1037,7 +1037,7 @@
     "word": "caisse",
     "article": "la",
     "sentence": "La caisse est au fond du magasin.",
-    "translation": "",
+    "translation": "caja",
     "tags": [
       "shopping"
     ]
@@ -1046,7 +1046,7 @@
     "word": "caisse enregistreuse",
     "article": "la",
     "sentence": "La caisse enregistreuse est automatique.",
-    "translation": "",
+    "translation": "caja registradora",
     "tags": [
       "shopping"
     ]
@@ -1055,7 +1055,7 @@
     "word": "calendrier",
     "article": "le",
     "sentence": "Le calendrier est sur le mur.",
-    "translation": "",
+    "translation": "calendario",
     "tags": [
       "work"
     ]
@@ -1064,7 +1064,7 @@
     "word": "calme",
     "article": "",
     "sentence": "L'hôtel est calme la nuit.",
-    "translation": "",
+    "translation": "calma",
     "tags": [
       "hotel"
     ]
@@ -1073,7 +1073,7 @@
     "word": "calories",
     "article": "les",
     "sentence": "Les calories brûlées sont affichées.",
-    "translation": "",
+    "translation": "calorías",
     "tags": [
       "exercise"
     ]
@@ -1082,7 +1082,7 @@
     "word": "canapé",
     "article": "le",
     "sentence": "Le canapé est moelleux.",
-    "translation": "",
+    "translation": "sofá",
     "tags": [
       "hotel"
     ]
@@ -1091,7 +1091,7 @@
     "word": "canard",
     "article": "le",
     "sentence": "Le canard nage dans l'étang.",
-    "translation": "",
+    "translation": "pato",
     "tags": [
       "animals"
     ]
@@ -1100,7 +1100,7 @@
     "word": "cannelle",
     "article": "la",
     "sentence": "La cannelle parfume le dessert.",
-    "translation": "",
+    "translation": "canela",
     "tags": [
       "food"
     ]
@@ -1109,7 +1109,7 @@
     "word": "capitaine",
     "article": "le",
     "sentence": "Le capitaine porte le brassard.",
-    "translation": "",
+    "translation": "capitán",
     "tags": [
       "sports"
     ]
@@ -1118,7 +1118,7 @@
     "word": "cardio",
     "article": "le",
     "sentence": "Le cardio améliore l'endurance.",
-    "translation": "",
+    "translation": "cardio",
     "tags": [
       "exercise"
     ]
@@ -1127,7 +1127,7 @@
     "word": "carnet",
     "article": "le",
     "sentence": "Le carnet de voyage est rempli.",
-    "translation": "",
+    "translation": "libreta",
     "tags": [
       "travel"
     ]
@@ -1136,7 +1136,7 @@
     "word": "carotte",
     "article": "la",
     "sentence": "La carotte crue est croquante.",
-    "translation": "",
+    "translation": "zanahoria",
     "tags": [
       "food"
     ]
@@ -1145,7 +1145,7 @@
     "word": "carrefour",
     "article": "le",
     "sentence": "Le carrefour est dangereux.",
-    "translation": "",
+    "translation": "cruce",
     "tags": [
       "directions",
       "travel"
@@ -1155,7 +1155,7 @@
     "word": "carrière",
     "article": "la",
     "sentence": "La carrière évolue rapidement.",
-    "translation": "",
+    "translation": "carrera",
     "tags": [
       "work"
     ]
@@ -1164,7 +1164,7 @@
     "word": "carte",
     "article": "la",
     "sentence": "La carte touristique est utile.",
-    "translation": "",
+    "translation": "tarjeta",
     "tags": [
       "travel",
       "directions"
@@ -1174,7 +1174,7 @@
     "word": "carte postale",
     "article": "la",
     "sentence": "La carte postale montre la tour Eiffel.",
-    "translation": "",
+    "translation": "postal",
     "tags": [
       "travel"
     ]
@@ -1183,7 +1183,7 @@
     "word": "carton",
     "article": "le",
     "sentence": "Le carton rouge exclut le joueur.",
-    "translation": "",
+    "translation": "cartón",
     "tags": [
       "sports"
     ]
@@ -1192,7 +1192,7 @@
     "word": "casserole",
     "article": "la",
     "sentence": "La casserole contient de l'eau.",
-    "translation": "",
+    "translation": "cacerola",
     "tags": [
       "food"
     ]
@@ -1201,7 +1201,7 @@
     "word": "cc",
     "article": "",
     "sentence": "Mets ton chef en cc.",
-    "translation": "",
+    "translation": "cc",
     "tags": [
       "email",
       "work"
@@ -1211,7 +1211,7 @@
     "word": "cci",
     "article": "",
     "sentence": "Envoie en cci pour discrétion.",
-    "translation": "",
+    "translation": "cco",
     "tags": [
       "email"
     ]
@@ -1220,7 +1220,7 @@
     "word": "ce sont",
     "article": "",
     "sentence": "Ce sont mes valises.",
-    "translation": "",
+    "translation": "son",
     "tags": [
       "travel"
     ]
@@ -1229,7 +1229,7 @@
     "word": "ceinture",
     "article": "la",
     "sentence": "La ceinture en cuir est solide.",
-    "translation": "",
+    "translation": "cinturón",
     "tags": [
       "shopping"
     ]
@@ -1238,7 +1238,7 @@
     "word": "centre-ville",
     "article": "le",
     "sentence": "Le centre-ville est piéton.",
-    "translation": "",
+    "translation": "centro",
     "tags": [
       "travel",
       "directions"
@@ -1248,7 +1248,7 @@
     "word": "cerf",
     "article": "le",
     "sentence": "Le cerf a de grands bois.",
-    "translation": "",
+    "translation": "ciervo",
     "tags": [
       "animals"
     ]
@@ -1257,7 +1257,7 @@
     "word": "cerise",
     "article": "la",
     "sentence": "La cerise est rouge foncé.",
-    "translation": "",
+    "translation": "cereza",
     "tags": [
       "food"
     ]
@@ -1266,7 +1266,7 @@
     "word": "chaise",
     "article": "la",
     "sentence": "La chaise est confortable.",
-    "translation": "",
+    "translation": "silla",
     "tags": [
       "hotel"
     ]
@@ -1275,7 +1275,7 @@
     "word": "chaleur",
     "article": "la",
     "sentence": "La chaleur est étouffante.",
-    "translation": "",
+    "translation": "calor",
     "tags": [
       "travel"
     ]
@@ -1284,7 +1284,7 @@
     "word": "chambre",
     "article": "la",
     "sentence": "La chambre est confortable.",
-    "translation": "",
+    "translation": "habitación",
     "tags": [
       "hotel"
     ]
@@ -1293,7 +1293,7 @@
     "word": "champignon",
     "article": "le",
     "sentence": "Le champignon est poêlé.",
-    "translation": "",
+    "translation": "champiñón",
     "tags": [
       "food"
     ]
@@ -1302,7 +1302,7 @@
     "word": "championnat",
     "article": "le",
     "sentence": "Le championnat de France commence.",
-    "translation": "",
+    "translation": "campeonato",
     "tags": [
       "sports"
     ]
@@ -1311,7 +1311,7 @@
     "word": "changer",
     "article": "",
     "sentence": "Je change de train.",
-    "translation": "",
+    "translation": "cambiar",
     "tags": [
       "travel",
       "actions"
@@ -1321,7 +1321,7 @@
     "word": "chanter",
     "article": "",
     "sentence": "Elle chante une chanson.",
-    "translation": "",
+    "translation": "cantar",
     "tags": [
       "actions"
     ]
@@ -1330,7 +1330,7 @@
     "word": "chapeau",
     "article": "le",
     "sentence": "Le chapeau protège du soleil.",
-    "translation": "",
+    "translation": "sombrero",
     "tags": [
       "shopping"
     ]
@@ -1339,7 +1339,7 @@
     "word": "chaque",
     "article": "",
     "sentence": "Chaque jour je fais du sport.",
-    "translation": "",
+    "translation": "cada",
     "tags": [
       "exercise"
     ]
@@ -1348,7 +1348,7 @@
     "word": "charge de travail",
     "article": "la",
     "sentence": "La charge de travail est lourde.",
-    "translation": "",
+    "translation": "carga de trabajo",
     "tags": [
       "work"
     ]
@@ -1357,7 +1357,7 @@
     "word": "chat",
     "article": "le",
     "sentence": "Le chat dort sur le canapé.",
-    "translation": "",
+    "translation": "gato",
     "tags": [
       "animals"
     ]
@@ -1366,7 +1366,7 @@
     "word": "chaud",
     "article": "",
     "sentence": "Le café est chaud.",
-    "translation": "",
+    "translation": "caliente",
     "tags": [
       "food"
     ]
@@ -1375,7 +1375,7 @@
     "word": "chauffage",
     "article": "le",
     "sentence": "Le chauffage est central.",
-    "translation": "",
+    "translation": "calefacción",
     "tags": [
       "hotel"
     ]
@@ -1384,7 +1384,7 @@
     "word": "chauffeur",
     "article": "le",
     "sentence": "Le chauffeur de taxi connaît la ville.",
-    "translation": "",
+    "translation": "chofer",
     "tags": [
       "travel"
     ]
@@ -1393,7 +1393,7 @@
     "word": "chausson",
     "article": "le",
     "sentence": "Le chausson est confortable.",
-    "translation": "",
+    "translation": "zapatilla",
     "tags": [
       "hotel"
     ]
@@ -1402,7 +1402,7 @@
     "word": "chaussures",
     "article": "les",
     "sentence": "Les chaussures sont confortables.",
-    "translation": "",
+    "translation": "zapatos",
     "tags": [
       "shopping"
     ]
@@ -1411,7 +1411,7 @@
     "word": "check-in",
     "article": "le",
     "sentence": "Le check-in est à quinze heures.",
-    "translation": "",
+    "translation": "registro",
     "tags": [
       "hotel"
     ]
@@ -1420,7 +1420,7 @@
     "word": "check-out",
     "article": "le",
     "sentence": "Le check-out est à onze heures.",
-    "translation": "",
+    "translation": "salida",
     "tags": [
       "hotel"
     ]
@@ -1429,7 +1429,7 @@
     "word": "chef",
     "article": "le",
     "sentence": "Le chef de service est sévère.",
-    "translation": "",
+    "translation": "jefe",
     "tags": [
       "work"
     ]
@@ -1438,7 +1438,7 @@
     "word": "chemise",
     "article": "la",
     "sentence": "La chemise blanche est classique.",
-    "translation": "",
+    "translation": "camisa",
     "tags": [
       "shopping"
     ]
@@ -1447,7 +1447,7 @@
     "word": "cher",
     "article": "",
     "sentence": "Ce sac est trop cher.",
-    "translation": "",
+    "translation": "caro",
     "tags": [
       "shopping"
     ]
@@ -1456,7 +1456,7 @@
     "word": "cheval",
     "article": "le",
     "sentence": "Le cheval galope dans le pré.",
-    "translation": "",
+    "translation": "caballo",
     "tags": [
       "animals"
     ]
@@ -1465,7 +1465,7 @@
     "word": "chez",
     "article": "",
     "sentence": "Je vais chez le médecin.",
-    "translation": "",
+    "translation": "en casa de",
     "tags": [
       "travel"
     ]
@@ -1474,7 +1474,7 @@
     "word": "chien",
     "article": "le",
     "sentence": "Le chien court dans le parc.",
-    "translation": "",
+    "translation": "perro",
     "tags": [
       "animals"
     ]
@@ -1483,7 +1483,7 @@
     "word": "chiffon",
     "article": "le",
     "sentence": "Le chiffon est propre.",
-    "translation": "",
+    "translation": "trapo",
     "tags": [
       "hotel"
     ]
@@ -1492,7 +1492,7 @@
     "word": "chiffre",
     "article": "le",
     "sentence": "Le chiffre d'affaires augmente.",
-    "translation": "",
+    "translation": "cifra",
     "tags": [
       "work"
     ]
@@ -1501,7 +1501,7 @@
     "word": "chocolat",
     "article": "le",
     "sentence": "Le chocolat noir est amer.",
-    "translation": "",
+    "translation": "chocolate",
     "tags": [
       "food"
     ]
@@ -1510,7 +1510,7 @@
     "word": "choisir",
     "article": "",
     "sentence": "Tu choisis le menu.",
-    "translation": "",
+    "translation": "elegir",
     "tags": [
       "food",
       "shopping",
@@ -1521,7 +1521,7 @@
     "word": "chèvre",
     "article": "la",
     "sentence": "La chèvre grimpe sur la colline.",
-    "translation": "",
+    "translation": "cabra",
     "tags": [
       "animals"
     ]
@@ -1530,7 +1530,7 @@
     "word": "citron",
     "article": "le",
     "sentence": "Le citron est acide.",
-    "translation": "",
+    "translation": "limón",
     "tags": [
       "food"
     ]
@@ -1539,7 +1539,7 @@
     "word": "classement",
     "article": "le",
     "sentence": "Le classement est mis à jour.",
-    "translation": "",
+    "translation": "clasificación",
     "tags": [
       "sports"
     ]
@@ -1548,7 +1548,7 @@
     "word": "classeur",
     "article": "le",
     "sentence": "Le classeur est étiqueté.",
-    "translation": "",
+    "translation": "archivador",
     "tags": [
       "work"
     ]
@@ -1557,7 +1557,7 @@
     "word": "clavier",
     "article": "le",
     "sentence": "Le clavier est sans fil.",
-    "translation": "",
+    "translation": "teclado",
     "tags": [
       "work"
     ]
@@ -1566,7 +1566,7 @@
     "word": "client",
     "article": "le",
     "sentence": "Le client est satisfait.",
-    "translation": "",
+    "translation": "cliente",
     "tags": [
       "shopping",
       "work"
@@ -1576,7 +1576,7 @@
     "word": "climatisation",
     "article": "la",
     "sentence": "La climatisation est réglable.",
-    "translation": "",
+    "translation": "aire acondicionado",
     "tags": [
       "hotel"
     ]
@@ -1585,7 +1585,7 @@
     "word": "clé",
     "article": "la",
     "sentence": "La clé de la chambre est sur le comptoir.",
-    "translation": "",
+    "translation": "llave",
     "tags": [
       "hotel"
     ]
@@ -1594,7 +1594,7 @@
     "word": "cochon",
     "article": "le",
     "sentence": "Le cochon se roule dans la boue.",
-    "translation": "",
+    "translation": "cerdo",
     "tags": [
       "animals",
       "food"
@@ -1604,7 +1604,7 @@
     "word": "code promo",
     "article": "le",
     "sentence": "Le code promo donne dix pour cent.",
-    "translation": "",
+    "translation": "código promocional",
     "tags": [
       "shopping"
     ]
@@ -1613,7 +1613,7 @@
     "word": "coin",
     "article": "le",
     "sentence": "Le café est au coin de la rue.",
-    "translation": "",
+    "translation": "rincón",
     "tags": [
       "directions"
     ]
@@ -1622,7 +1622,7 @@
     "word": "collaborateur",
     "article": "le",
     "sentence": "Le collaborateur est efficace.",
-    "translation": "",
+    "translation": "colaborador",
     "tags": [
       "work"
     ]
@@ -1631,7 +1631,7 @@
     "word": "collation",
     "article": "la",
     "sentence": "La collation est à quatre heures.",
-    "translation": "",
+    "translation": "refrigerio",
     "tags": [
       "food"
     ]
@@ -1640,7 +1640,7 @@
     "word": "collègue",
     "article": "le",
     "sentence": "Le collègue est sympathique.",
-    "translation": "",
+    "translation": "colega",
     "tags": [
       "work"
     ]
@@ -1649,7 +1649,7 @@
     "word": "comité",
     "article": "le",
     "sentence": "Le comité se réunit demain.",
-    "translation": "",
+    "translation": "comité",
     "tags": [
       "work"
     ]
@@ -1658,7 +1658,7 @@
     "word": "commande",
     "article": "la",
     "sentence": "La commande est confirmée.",
-    "translation": "",
+    "translation": "pedido",
     "tags": [
       "work",
       "shopping"
@@ -1668,7 +1668,7 @@
     "word": "commander",
     "article": "",
     "sentence": "Tu commandes en ligne.",
-    "translation": "",
+    "translation": "pedir",
     "tags": [
       "shopping",
       "actions"
@@ -1678,7 +1678,7 @@
     "word": "commencer",
     "article": "",
     "sentence": "Le cours commence à neuf heures.",
-    "translation": "",
+    "translation": "empezar",
     "tags": [
       "work",
       "actions"
@@ -1688,7 +1688,7 @@
     "word": "composer",
     "article": "",
     "sentence": "Tu composes le mauvais numéro.",
-    "translation": "",
+    "translation": "componer",
     "tags": [
       "phone",
       "actions"
@@ -1698,7 +1698,7 @@
     "word": "comprendre",
     "article": "",
     "sentence": "Tu comprends la leçon ?",
-    "translation": "",
+    "translation": "comprender",
     "tags": [
       "work",
       "actions"
@@ -1708,7 +1708,7 @@
     "word": "compétition",
     "article": "la",
     "sentence": "La compétition est féroce.",
-    "translation": "",
+    "translation": "competición",
     "tags": [
       "sports"
     ]
@@ -1717,7 +1717,7 @@
     "word": "concierge",
     "article": "le",
     "sentence": "Le concierge donne des conseils.",
-    "translation": "",
+    "translation": "conserje",
     "tags": [
       "hotel"
     ]
@@ -1726,7 +1726,7 @@
     "word": "concombre",
     "article": "le",
     "sentence": "Le concombre est rafraîchissant.",
-    "translation": "",
+    "translation": "pepino",
     "tags": [
       "food"
     ]
@@ -1735,7 +1735,7 @@
     "word": "conduire",
     "article": "",
     "sentence": "Il conduit la voiture.",
-    "translation": "",
+    "translation": "conducir",
     "tags": [
       "travel",
       "actions"
@@ -1745,7 +1745,7 @@
     "word": "confirmer",
     "article": "",
     "sentence": "Je confirme la réservation.",
-    "translation": "",
+    "translation": "confirmar",
     "tags": [
       "hotel",
       "actions"
@@ -1755,7 +1755,7 @@
     "word": "confiture",
     "article": "la",
     "sentence": "La confiture de fraises est maison.",
-    "translation": "",
+    "translation": "mermelada",
     "tags": [
       "food"
     ]
@@ -1764,7 +1764,7 @@
     "word": "congés",
     "article": "les",
     "sentence": "Les congés sont payés.",
-    "translation": "",
+    "translation": "vacaciones",
     "tags": [
       "work"
     ]
@@ -1773,7 +1773,7 @@
     "word": "conseiller",
     "article": "le",
     "sentence": "Le conseiller clientèle est à l'écoute.",
-    "translation": "",
+    "translation": "aconsejar",
     "tags": [
       "shopping",
       "work"
@@ -1783,7 +1783,7 @@
     "word": "construire",
     "article": "",
     "sentence": "Ils construisent une maison.",
-    "translation": "",
+    "translation": "construir",
     "tags": [
       "work",
       "actions"
@@ -1793,7 +1793,7 @@
     "word": "contact",
     "article": "le",
     "sentence": "Le contact est enregistré.",
-    "translation": "",
+    "translation": "contacto",
     "tags": [
       "phone"
     ]
@@ -1802,7 +1802,7 @@
     "word": "content",
     "article": "",
     "sentence": "Je suis content.",
-    "translation": "",
+    "translation": "contento",
     "tags": [
       "actions"
     ]
@@ -1811,7 +1811,7 @@
     "word": "continuer",
     "article": "",
     "sentence": "Continue tout droit.",
-    "translation": "",
+    "translation": "continuar",
     "tags": [
       "directions",
       "actions"
@@ -1821,7 +1821,7 @@
     "word": "contrat",
     "article": "le",
     "sentence": "Le contrat est signé.",
-    "translation": "",
+    "translation": "contrato",
     "tags": [
       "work"
     ]
@@ -1830,7 +1830,7 @@
     "word": "contre",
     "article": "",
     "sentence": "Je suis contre cette idée.",
-    "translation": "",
+    "translation": "contra",
     "tags": [
       "work"
     ]
@@ -1839,7 +1839,7 @@
     "word": "contrôle",
     "article": "le",
     "sentence": "Le contrôle des passeports est lent.",
-    "translation": "",
+    "translation": "control",
     "tags": [
       "travel"
     ]
@@ -1848,7 +1848,7 @@
     "word": "copie",
     "article": "la",
     "sentence": "Mets-moi en copie de l'email.",
-    "translation": "",
+    "translation": "copia",
     "tags": [
       "email",
       "work"
@@ -1858,7 +1858,7 @@
     "word": "corde à sauter",
     "article": "la",
     "sentence": "La corde à sauter est un bon cardio.",
-    "translation": "",
+    "translation": "cuerda de saltar",
     "tags": [
       "exercise"
     ]
@@ -1867,7 +1867,7 @@
     "word": "corner",
     "article": "le",
     "sentence": "Le corner est tiré.",
-    "translation": "",
+    "translation": "córner",
     "tags": [
       "sports"
     ]
@@ -1876,7 +1876,7 @@
     "word": "couleur",
     "article": "la",
     "sentence": "La couleur rouge est belle.",
-    "translation": "",
+    "translation": "color",
     "tags": [
       "shopping"
     ]
@@ -1885,7 +1885,7 @@
     "word": "couloir",
     "article": "le",
     "sentence": "Le couloir de l'hôtel est long.",
-    "translation": "",
+    "translation": "pasillo",
     "tags": [
       "hotel"
     ]
@@ -1894,7 +1894,7 @@
     "word": "coupe",
     "article": "la",
     "sentence": "La coupe du monde est tous les quatre ans.",
-    "translation": "",
+    "translation": "copa",
     "tags": [
       "sports"
     ]
@@ -1903,7 +1903,7 @@
     "word": "couper",
     "article": "",
     "sentence": "Tu coupes le pain.",
-    "translation": "",
+    "translation": "cortar",
     "tags": [
       "food",
       "actions"
@@ -1913,7 +1913,7 @@
     "word": "courir",
     "article": "",
     "sentence": "Il court dans le stade.",
-    "translation": "",
+    "translation": "correr",
     "tags": [
       "sports",
       "exercise",
@@ -1924,7 +1924,7 @@
     "word": "course",
     "article": "la",
     "sentence": "La course à pied est populaire.",
-    "translation": "",
+    "translation": "carrera",
     "tags": [
       "sports",
       "exercise"
@@ -1934,7 +1934,7 @@
     "word": "couteau",
     "article": "le",
     "sentence": "Le couteau est bien aiguisé.",
-    "translation": "",
+    "translation": "cuchillo",
     "tags": [
       "food"
     ]
@@ -1943,7 +1943,7 @@
     "word": "couvercle",
     "article": "le",
     "sentence": "Le couvercle est en verre.",
-    "translation": "",
+    "translation": "tapa",
     "tags": [
       "food"
     ]
@@ -1952,7 +1952,7 @@
     "word": "couverture",
     "article": "la",
     "sentence": "La couverture est chaude.",
-    "translation": "",
+    "translation": "mantel",
     "tags": [
       "hotel"
     ]
@@ -1961,7 +1961,7 @@
     "word": "coûter",
     "article": "",
     "sentence": "Combien coûte ce sac ?",
-    "translation": "",
+    "translation": "costar",
     "tags": [
       "shopping",
       "actions"
@@ -1971,7 +1971,7 @@
     "word": "crayon",
     "article": "le",
     "sentence": "Le crayon est taillé.",
-    "translation": "",
+    "translation": "lápiz",
     "tags": [
       "work"
     ]
@@ -1980,7 +1980,7 @@
     "word": "crevette",
     "article": "la",
     "sentence": "La crevette est rose.",
-    "translation": "",
+    "translation": "camarón",
     "tags": [
       "food"
     ]
@@ -1989,7 +1989,7 @@
     "word": "croire",
     "article": "",
     "sentence": "Je crois en toi.",
-    "translation": "",
+    "translation": "creer",
     "tags": [
       "actions"
     ]
@@ -1998,7 +1998,7 @@
     "word": "croisement",
     "article": "le",
     "sentence": "Le croisement est dangereux.",
-    "translation": "",
+    "translation": "cruce",
     "tags": [
       "directions",
       "travel"
@@ -2008,7 +2008,7 @@
     "word": "crossfit",
     "article": "le",
     "sentence": "Le crossfit est intense.",
-    "translation": "",
+    "translation": "crossfit",
     "tags": [
       "exercise"
     ]
@@ -2017,7 +2017,7 @@
     "word": "crème",
     "article": "la",
     "sentence": "La crème fraîche est épaisse.",
-    "translation": "",
+    "translation": "crema",
     "tags": [
       "food"
     ]
@@ -2026,7 +2026,7 @@
     "word": "crêpe",
     "article": "la",
     "sentence": "La crêpe au sucre est simple.",
-    "translation": "",
+    "translation": "crepa",
     "tags": [
       "food"
     ]
@@ -2035,7 +2035,7 @@
     "word": "cuillère",
     "article": "la",
     "sentence": "La cuillère est en bois.",
-    "translation": "",
+    "translation": "cuchara",
     "tags": [
       "food"
     ]
@@ -2044,7 +2044,7 @@
     "word": "cuisine",
     "article": "la",
     "sentence": "La cuisine française est réputée.",
-    "translation": "",
+    "translation": "cocina",
     "tags": [
       "food"
     ]
@@ -2053,7 +2053,7 @@
     "word": "cuisiner",
     "article": "",
     "sentence": "Elle cuisine un bon repas.",
-    "translation": "",
+    "translation": "cocinar",
     "tags": [
       "food",
       "actions"
@@ -2063,7 +2063,7 @@
     "word": "CV",
     "article": "le",
     "sentence": "Le CV est à jour.",
-    "translation": "",
+    "translation": "CV",
     "tags": [
       "work"
     ]
@@ -2072,7 +2072,7 @@
     "word": "cyclisme",
     "article": "le",
     "sentence": "Le cyclisme est un sport d'endurance.",
-    "translation": "",
+    "translation": "ciclismo",
     "tags": [
       "sports",
       "exercise"
@@ -2082,7 +2082,7 @@
     "word": "céréale",
     "article": "la",
     "sentence": "La céréale contient des fibres.",
-    "translation": "",
+    "translation": "cereal",
     "tags": [
       "food"
     ]
@@ -2091,7 +2091,7 @@
     "word": "côte",
     "article": "la",
     "sentence": "La côte méditerranéenne est belle.",
-    "translation": "",
+    "translation": "costa",
     "tags": [
       "travel"
     ]
@@ -2100,7 +2100,7 @@
     "word": "danser",
     "article": "",
     "sentence": "Ils dansent dans la salle.",
-    "translation": "",
+    "translation": "bailar",
     "tags": [
       "actions"
     ]
@@ -2109,7 +2109,7 @@
     "word": "dauphin",
     "article": "le",
     "sentence": "Le dauphin nage dans l'océan.",
-    "translation": "",
+    "translation": "delfín",
     "tags": [
       "animals"
     ]
@@ -2118,7 +2118,7 @@
     "word": "de rien",
     "article": "",
     "sentence": "De rien, c'est normal.",
-    "translation": "",
+    "translation": "de nada",
     "tags": [
       "travel"
     ]
@@ -2127,7 +2127,7 @@
     "word": "demain",
     "article": "",
     "sentence": "Demain je travaille.",
-    "translation": "",
+    "translation": "mañana",
     "tags": [
       "work"
     ]
@@ -2136,7 +2136,7 @@
     "word": "dentifrice",
     "article": "le",
     "sentence": "Le dentifrice est à la menthe.",
-    "translation": "",
+    "translation": "pasta de dientes",
     "tags": [
       "hotel"
     ]
@@ -2145,7 +2145,7 @@
     "word": "dernier",
     "article": "",
     "sentence": "C'est le dernier train.",
-    "translation": "",
+    "translation": "último",
     "tags": [
       "travel"
     ]
@@ -2154,7 +2154,7 @@
     "word": "dessert",
     "article": "le",
     "sentence": "Le dessert est sucré.",
-    "translation": "",
+    "translation": "postre",
     "tags": [
       "food"
     ]
@@ -2163,7 +2163,7 @@
     "word": "dessiner",
     "article": "",
     "sentence": "Tu dessines un paysage.",
-    "translation": "",
+    "translation": "dibujar",
     "tags": [
       "actions"
     ]
@@ -2172,7 +2172,7 @@
     "word": "destinataire",
     "article": "le",
     "sentence": "Le destinataire est votre collègue.",
-    "translation": "",
+    "translation": "destinatario",
     "tags": [
       "email",
       "work"
@@ -2182,7 +2182,7 @@
     "word": "destination",
     "article": "la",
     "sentence": "La destination finale est Nice.",
-    "translation": "",
+    "translation": "destino",
     "tags": [
       "travel"
     ]
@@ -2191,7 +2191,7 @@
     "word": "devenir",
     "article": "",
     "sentence": "Elle devient médecin.",
-    "translation": "",
+    "translation": "convertirse",
     "tags": [
       "work",
       "actions"
@@ -2201,7 +2201,7 @@
     "word": "devoir",
     "article": "",
     "sentence": "Tu dois finir ce projet.",
-    "translation": "",
+    "translation": "deber",
     "tags": [
       "work",
       "actions"
@@ -2211,7 +2211,7 @@
     "word": "difficile",
     "article": "",
     "sentence": "Le problème est difficile.",
-    "translation": "",
+    "translation": "difícil",
     "tags": [
       "work"
     ]
@@ -2220,7 +2220,7 @@
     "word": "dimanche",
     "article": "",
     "sentence": "Dimanche je me repose.",
-    "translation": "",
+    "translation": "domingo",
     "tags": [
       "exercise"
     ]
@@ -2229,7 +2229,7 @@
     "word": "dire",
     "article": "",
     "sentence": "Il dit la vérité.",
-    "translation": "",
+    "translation": "decir",
     "tags": [
       "actions"
     ]
@@ -2238,7 +2238,7 @@
     "word": "direction",
     "article": "la",
     "sentence": "La direction de Paris est par là.",
-    "translation": "",
+    "translation": "dirección",
     "tags": [
       "travel",
       "directions"
@@ -2248,7 +2248,7 @@
     "word": "discuter",
     "article": "",
     "sentence": "Nous discutons du projet.",
-    "translation": "",
+    "translation": "discutir",
     "tags": [
       "work",
       "phone",
@@ -2259,7 +2259,7 @@
     "word": "disponible",
     "article": "",
     "sentence": "Il y a une chambre disponible.",
-    "translation": "",
+    "translation": "disponible",
     "tags": [
       "hotel"
     ]
@@ -2268,7 +2268,7 @@
     "word": "document",
     "article": "le",
     "sentence": "Le document est signé.",
-    "translation": "",
+    "translation": "documento",
     "tags": [
       "work"
     ]
@@ -2277,7 +2277,7 @@
     "word": "donner",
     "article": "",
     "sentence": "Elle donne un cadeau.",
-    "translation": "",
+    "translation": "dar",
     "tags": [
       "shopping",
       "actions"
@@ -2287,7 +2287,7 @@
     "word": "dormir",
     "article": "",
     "sentence": "Il dort huit heures par nuit.",
-    "translation": "",
+    "translation": "dormir",
     "tags": [
       "hotel",
       "actions"
@@ -2297,7 +2297,7 @@
     "word": "dos",
     "article": "le",
     "sentence": "Le dos est large.",
-    "translation": "",
+    "translation": "espalda",
     "tags": [
       "exercise"
     ]
@@ -2306,7 +2306,7 @@
     "word": "dossier",
     "article": "le",
     "sentence": "Le dossier est organisé.",
-    "translation": "",
+    "translation": "expediente",
     "tags": [
       "email",
       "work"
@@ -2316,7 +2316,7 @@
     "word": "douane",
     "article": "la",
     "sentence": "La douane vérifie les bagages.",
-    "translation": "",
+    "translation": "aduana",
     "tags": [
       "travel"
     ]
@@ -2325,7 +2325,7 @@
     "word": "double",
     "article": "la",
     "sentence": "La chambre double a un grand lit.",
-    "translation": "",
+    "translation": "doble",
     "tags": [
       "hotel"
     ]
@@ -2334,7 +2334,7 @@
     "word": "douche",
     "article": "la",
     "sentence": "La douche a de la pression.",
-    "translation": "",
+    "translation": "ducha",
     "tags": [
       "hotel"
     ]
@@ -2343,7 +2343,7 @@
     "word": "droite",
     "article": "la",
     "sentence": "La banque est à droite.",
-    "translation": "",
+    "translation": "derecha",
     "tags": [
       "directions"
     ]
@@ -2352,7 +2352,7 @@
     "word": "décembre",
     "article": "",
     "sentence": "Décembre est festif.",
-    "translation": "",
+    "translation": "diciembre",
     "tags": [
       "travel"
     ]
@@ -2361,7 +2361,7 @@
     "word": "décider",
     "article": "",
     "sentence": "Elle décide de partir.",
-    "translation": "",
+    "translation": "decidir",
     "tags": [
       "travel",
       "actions"
@@ -2371,7 +2371,7 @@
     "word": "découvrir",
     "article": "",
     "sentence": "Tu découvres un nouveau pays.",
-    "translation": "",
+    "translation": "descubrir",
     "tags": [
       "travel",
       "actions"
@@ -2381,7 +2381,7 @@
     "word": "décrire",
     "article": "",
     "sentence": "Elle décrit le suspect.",
-    "translation": "",
+    "translation": "describir",
     "tags": [
       "actions"
     ]
@@ -2390,7 +2390,7 @@
     "word": "défense",
     "article": "la",
     "sentence": "La défense est solide.",
-    "translation": "",
+    "translation": "defensa",
     "tags": [
       "sports"
     ]
@@ -2399,7 +2399,7 @@
     "word": "déjeuner",
     "article": "le",
     "sentence": "Le déjeuner est à midi.",
-    "translation": "",
+    "translation": "almuerzo",
     "tags": [
       "food",
       "work"
@@ -2409,7 +2409,7 @@
     "word": "délai",
     "article": "le",
     "sentence": "Le délai est court.",
-    "translation": "",
+    "translation": "plazo",
     "tags": [
       "work"
     ]
@@ -2418,7 +2418,7 @@
     "word": "départ",
     "article": "le",
     "sentence": "Le départ est prévu à midi.",
-    "translation": "",
+    "translation": "salida",
     "tags": [
       "travel"
     ]
@@ -2427,7 +2427,7 @@
     "word": "dépenser",
     "article": "",
     "sentence": "Tu dépenses trop d'argent.",
-    "translation": "",
+    "translation": "gastar",
     "tags": [
       "shopping",
       "actions"
@@ -2437,7 +2437,7 @@
     "word": "dépôt",
     "article": "le",
     "sentence": "Le dépôt de garantie est requis.",
-    "translation": "",
+    "translation": "depósito",
     "tags": [
       "hotel"
     ]
@@ -2446,7 +2446,7 @@
     "word": "désert",
     "article": "le",
     "sentence": "Le désert est aride.",
-    "translation": "",
+    "translation": "desierto",
     "tags": [
       "travel"
     ]
@@ -2455,7 +2455,7 @@
     "word": "désolé",
     "article": "",
     "sentence": "Je suis désolé.",
-    "translation": "",
+    "translation": "lo siento",
     "tags": [
       "travel"
     ]
@@ -2464,7 +2464,7 @@
     "word": "détester",
     "article": "",
     "sentence": "Elle déteste le froid.",
-    "translation": "",
+    "translation": "detestar",
     "tags": [
       "actions"
     ]
@@ -2473,7 +2473,7 @@
     "word": "déviation",
     "article": "la",
     "sentence": "La déviation est indiquée.",
-    "translation": "",
+    "translation": "desviación",
     "tags": [
       "directions",
       "travel"
@@ -2483,7 +2483,7 @@
     "word": "dîner",
     "article": "le",
     "sentence": "Le dîner est à vingt heures.",
-    "translation": "",
+    "translation": "cena",
     "tags": [
       "food"
     ]
@@ -2492,7 +2492,7 @@
     "word": "eau",
     "article": "l'",
     "sentence": "L'eau est fraîche.",
-    "translation": "",
+    "translation": "agua",
     "tags": [
       "food"
     ]
@@ -2501,7 +2501,7 @@
     "word": "elliptique",
     "article": "l'",
     "sentence": "L'elliptique est doux pour les articulations.",
-    "translation": "",
+    "translation": "elíptica",
     "tags": [
       "exercise"
     ]
@@ -2510,7 +2510,7 @@
     "word": "email",
     "article": "l'",
     "sentence": "L'email est envoyé.",
-    "translation": "",
+    "translation": "correo electrónico",
     "tags": [
       "email"
     ]
@@ -2519,7 +2519,7 @@
     "word": "embarquement",
     "article": "l'",
     "sentence": "L'embarquement est à la porte trois.",
-    "translation": "",
+    "translation": "embarque",
     "tags": [
       "travel"
     ]
@@ -2528,7 +2528,7 @@
     "word": "embaucher",
     "article": "",
     "sentence": "L'entreprise embauche des développeurs.",
-    "translation": "",
+    "translation": "contratar",
     "tags": [
       "work",
       "actions"
@@ -2538,7 +2538,7 @@
     "word": "employeur",
     "article": "l'",
     "sentence": "L'employeur offre des avantages.",
-    "translation": "",
+    "translation": "empleador",
     "tags": [
       "work"
     ]
@@ -2547,7 +2547,7 @@
     "word": "employé",
     "article": "l'",
     "sentence": "L'employé est ponctuel.",
-    "translation": "",
+    "translation": "empleado",
     "tags": [
       "work"
     ]
@@ -2556,7 +2556,7 @@
     "word": "enchanté",
     "article": "",
     "sentence": "Enchanté de faire votre connaissance.",
-    "translation": "",
+    "translation": "encantado",
     "tags": [
       "travel",
       "work"
@@ -2566,7 +2566,7 @@
     "word": "endurance",
     "article": "l'",
     "sentence": "L'endurance s'améliore avec l'entraînement.",
-    "translation": "",
+    "translation": "resistencia",
     "tags": [
       "exercise"
     ]
@@ -2575,7 +2575,7 @@
     "word": "enfant",
     "article": "l'",
     "sentence": "L'enfant dort.",
-    "translation": "",
+    "translation": "niño",
     "tags": [
       "actions"
     ]
@@ -2584,7 +2584,7 @@
     "word": "enquête",
     "article": "l'",
     "sentence": "L'enquête est en cours.",
-    "translation": "",
+    "translation": "encuesta",
     "tags": [
       "work"
     ]
@@ -2593,7 +2593,7 @@
     "word": "ensemble",
     "article": "",
     "sentence": "Nous travaillons ensemble.",
-    "translation": "",
+    "translation": "juntos",
     "tags": [
       "work"
     ]
@@ -2602,7 +2602,7 @@
     "word": "entraînement",
     "article": "l'",
     "sentence": "L'entraînement est quotidien.",
-    "translation": "",
+    "translation": "entrenamiento",
     "tags": [
       "sports",
       "exercise"
@@ -2612,7 +2612,7 @@
     "word": "entraîneur",
     "article": "l'",
     "sentence": "L'entraîneur motive les joueurs.",
-    "translation": "",
+    "translation": "entrenador",
     "tags": [
       "sports",
       "exercise"
@@ -2622,7 +2622,7 @@
     "word": "entre",
     "article": "",
     "sentence": "Entre la gare et l'hôtel.",
-    "translation": "",
+    "translation": "entre",
     "tags": [
       "directions",
       "travel"
@@ -2632,7 +2632,7 @@
     "word": "entretien",
     "article": "l'",
     "sentence": "L'entretien d'embauche est à dix heures.",
-    "translation": "",
+    "translation": "entrevista",
     "tags": [
       "work"
     ]
@@ -2641,7 +2641,7 @@
     "word": "entrée",
     "article": "l'",
     "sentence": "L'entrée est gratuite.",
-    "translation": "",
+    "translation": "entrada",
     "tags": [
       "directions",
       "travel"
@@ -2651,7 +2651,7 @@
     "word": "envoyer",
     "article": "",
     "sentence": "Elle envoie un email.",
-    "translation": "",
+    "translation": "enviar",
     "tags": [
       "email",
       "actions"
@@ -2661,7 +2661,7 @@
     "word": "escale",
     "article": "l'",
     "sentence": "L'escale dure deux heures.",
-    "translation": "",
+    "translation": "escala",
     "tags": [
       "travel"
     ]
@@ -2670,7 +2670,7 @@
     "word": "escalier",
     "article": "l'",
     "sentence": "L'escalier est raide.",
-    "translation": "",
+    "translation": "escalera",
     "tags": [
       "hotel"
     ]
@@ -2679,7 +2679,7 @@
     "word": "escargot",
     "article": "l'",
     "sentence": "L'escargot avance doucement.",
-    "translation": "",
+    "translation": "caracol",
     "tags": [
       "animals"
     ]
@@ -2688,7 +2688,7 @@
     "word": "espèces",
     "article": "les",
     "sentence": "Je paie en espèces.",
-    "translation": "",
+    "translation": "efectivo",
     "tags": [
       "shopping"
     ]
@@ -2697,7 +2697,7 @@
     "word": "essayer",
     "article": "",
     "sentence": "Tu essaies ce nouveau plat.",
-    "translation": "",
+    "translation": "intentar",
     "tags": [
       "food",
       "actions"
@@ -2707,7 +2707,7 @@
     "word": "est",
     "article": "l'",
     "sentence": "L'est de la région est montagneux.",
-    "translation": "",
+    "translation": "este",
     "tags": [
       "travel",
       "directions"
@@ -2717,7 +2717,7 @@
     "word": "excusez-moi",
     "article": "",
     "sentence": "Excusez-moi, où sont les toilettes ?",
-    "translation": "",
+    "translation": "discúlpeme",
     "tags": [
       "directions",
       "travel"
@@ -2727,7 +2727,7 @@
     "word": "exercice",
     "article": "l'",
     "sentence": "L'exercice est difficile.",
-    "translation": "",
+    "translation": "ejercicio",
     "tags": [
       "exercise"
     ]
@@ -2736,7 +2736,7 @@
     "word": "expliquer",
     "article": "",
     "sentence": "Peux-tu expliquer la règle ?",
-    "translation": "",
+    "translation": "explicar",
     "tags": [
       "work",
       "actions"
@@ -2746,7 +2746,7 @@
     "word": "explorer",
     "article": "",
     "sentence": "Ils explorent la vieille ville.",
-    "translation": "",
+    "translation": "explorar",
     "tags": [
       "travel",
       "actions"
@@ -2756,7 +2756,7 @@
     "word": "expéditeur",
     "article": "l'",
     "sentence": "L'expéditeur est inconnu.",
-    "translation": "",
+    "translation": "remitente",
     "tags": [
       "email"
     ]
@@ -2765,7 +2765,7 @@
     "word": "facile",
     "article": "",
     "sentence": "Cet exercice est facile.",
-    "translation": "",
+    "translation": "fácil",
     "tags": [
       "exercise"
     ]
@@ -2774,7 +2774,7 @@
     "word": "faim",
     "article": "la",
     "sentence": "J'ai faim, je veux manger.",
-    "translation": "",
+    "translation": "hambre",
     "tags": [
       "food"
     ]
@@ -2783,7 +2783,7 @@
     "word": "faire",
     "article": "",
     "sentence": "Je fais du sport.",
-    "translation": "",
+    "translation": "hacer",
     "tags": [
       "exercise",
       "sports",
@@ -2794,7 +2794,7 @@
     "word": "faire cuire",
     "article": "",
     "sentence": "Je fais cuire les légumes.",
-    "translation": "",
+    "translation": "cocinar",
     "tags": [
       "food",
       "actions"
@@ -2804,7 +2804,7 @@
     "word": "famille",
     "article": "la",
     "sentence": "La famille est nombreuse.",
-    "translation": "",
+    "translation": "familia",
     "tags": [
       "travel"
     ]
@@ -2813,7 +2813,7 @@
     "word": "fan",
     "article": "le",
     "sentence": "Le fan encourage son équipe.",
-    "translation": "",
+    "translation": "fan",
     "tags": [
       "sports"
     ]
@@ -2822,7 +2822,7 @@
     "word": "farine",
     "article": "la",
     "sentence": "La farine est tamisée.",
-    "translation": "",
+    "translation": "harina",
     "tags": [
       "food"
     ]
@@ -2831,7 +2831,7 @@
     "word": "fatigué",
     "article": "",
     "sentence": "Il est fatigué après le sport.",
-    "translation": "",
+    "translation": "cansado",
     "tags": [
       "exercise"
     ]
@@ -2840,7 +2840,7 @@
     "word": "faute",
     "article": "la",
     "sentence": "La faute est sanctionnée.",
-    "translation": "",
+    "translation": "falta",
     "tags": [
       "sports"
     ]
@@ -2849,7 +2849,7 @@
     "word": "fax",
     "article": "le",
     "sentence": "Le fax est encore utilisé.",
-    "translation": "",
+    "translation": "fax",
     "tags": [
       "work"
     ]
@@ -2858,7 +2858,7 @@
     "word": "femme",
     "article": "la",
     "sentence": "La femme est élégante.",
-    "translation": "",
+    "translation": "mujer",
     "tags": [
       "shopping"
     ]
@@ -2867,7 +2867,7 @@
     "word": "femme de chambre",
     "article": "la",
     "sentence": "La femme de chambre nettoie la chambre.",
-    "translation": "",
+    "translation": "camarera",
     "tags": [
       "hotel"
     ]
@@ -2876,7 +2876,7 @@
     "word": "fente",
     "article": "la",
     "sentence": "La fente avant muscle les cuisses.",
-    "translation": "",
+    "translation": "ranura",
     "tags": [
       "exercise"
     ]
@@ -2885,7 +2885,7 @@
     "word": "fenêtre",
     "article": "la",
     "sentence": "La fenêtre donne sur la rue.",
-    "translation": "",
+    "translation": "ventana",
     "tags": [
       "hotel"
     ]
@@ -2894,7 +2894,7 @@
     "word": "fermer",
     "article": "",
     "sentence": "Tu fermes la fenêtre.",
-    "translation": "",
+    "translation": "cerrar",
     "tags": [
       "actions"
     ]
@@ -2903,7 +2903,7 @@
     "word": "fermé",
     "article": "",
     "sentence": "Le magasin est fermé.",
-    "translation": "",
+    "translation": "cerrado",
     "tags": [
       "shopping"
     ]
@@ -2912,7 +2912,7 @@
     "word": "fessiers",
     "article": "les",
     "sentence": "Les fessiers sont tonifiés.",
-    "translation": "",
+    "translation": "glúteos",
     "tags": [
       "exercise"
     ]
@@ -2921,7 +2921,7 @@
     "word": "feu",
     "article": "le",
     "sentence": "Le feu est rouge.",
-    "translation": "",
+    "translation": "fuego",
     "tags": [
       "directions",
       "travel"
@@ -2931,7 +2931,7 @@
     "word": "feuille",
     "article": "la",
     "sentence": "La feuille de papier est blanche.",
-    "translation": "",
+    "translation": "hoja",
     "tags": [
       "work"
     ]
@@ -2940,7 +2940,7 @@
     "word": "fichier",
     "article": "le",
     "sentence": "Le fichier joint est un PDF.",
-    "translation": "",
+    "translation": "archivo",
     "tags": [
       "email"
     ]
@@ -2949,7 +2949,7 @@
     "word": "fidélité",
     "article": "la",
     "sentence": "La carte de fidélité donne des points.",
-    "translation": "",
+    "translation": "fidelidad",
     "tags": [
       "shopping"
     ]
@@ -2958,7 +2958,7 @@
     "word": "fille",
     "article": "la",
     "sentence": "La fille joue dans le parc.",
-    "translation": "",
+    "translation": "hija",
     "tags": [
       "animals"
     ]
@@ -2967,7 +2967,7 @@
     "word": "fils",
     "article": "le",
     "sentence": "Le fils va à l'école.",
-    "translation": "",
+    "translation": "hijo",
     "tags": [
       "travel"
     ]
@@ -2976,7 +2976,7 @@
     "word": "finir",
     "article": "",
     "sentence": "Elle finit son travail.",
-    "translation": "",
+    "translation": "terminar",
     "tags": [
       "work",
       "actions"
@@ -2986,7 +2986,7 @@
     "word": "fitness",
     "article": "le",
     "sentence": "Le fitness est à la mode.",
-    "translation": "",
+    "translation": "fitness",
     "tags": [
       "exercise"
     ]
@@ -2995,7 +2995,7 @@
     "word": "fois",
     "article": "la",
     "sentence": "La première fois est spéciale.",
-    "translation": "",
+    "translation": "vez",
     "tags": [
       "travel"
     ]
@@ -3004,7 +3004,7 @@
     "word": "football",
     "article": "le",
     "sentence": "Le football est populaire.",
-    "translation": "",
+    "translation": "fútbol",
     "tags": [
       "sports"
     ]
@@ -3013,7 +3013,7 @@
     "word": "force",
     "article": "la",
     "sentence": "La force musculaire augmente.",
-    "translation": "",
+    "translation": "fuerza",
     "tags": [
       "exercise"
     ]
@@ -3022,7 +3022,7 @@
     "word": "formation",
     "article": "la",
     "sentence": "La formation est obligatoire.",
-    "translation": "",
+    "translation": "formación",
     "tags": [
       "work"
     ]
@@ -3031,7 +3031,7 @@
     "word": "formulaire",
     "article": "le",
     "sentence": "Le formulaire est rempli.",
-    "translation": "",
+    "translation": "formulario",
     "tags": [
       "work"
     ]
@@ -3040,7 +3040,7 @@
     "word": "forêt",
     "article": "la",
     "sentence": "La forêt est dense.",
-    "translation": "",
+    "translation": "bosque",
     "tags": [
       "travel"
     ]
@@ -3049,7 +3049,7 @@
     "word": "four",
     "article": "le",
     "sentence": "Le four est préchauffé.",
-    "translation": "",
+    "translation": "horno",
     "tags": [
       "food"
     ]
@@ -3058,7 +3058,7 @@
     "word": "fourchette",
     "article": "la",
     "sentence": "La fourchette est en métal.",
-    "translation": "",
+    "translation": "tenedor",
     "tags": [
       "food"
     ]
@@ -3067,7 +3067,7 @@
     "word": "fourmi",
     "article": "la",
     "sentence": "La fourmi transporte une feuille.",
-    "translation": "",
+    "translation": "hormiga",
     "tags": [
       "animals"
     ]
@@ -3076,7 +3076,7 @@
     "word": "fournisseur",
     "article": "le",
     "sentence": "Le fournisseur est fiable.",
-    "translation": "",
+    "translation": "proveedor",
     "tags": [
       "work",
       "shopping"
@@ -3086,7 +3086,7 @@
     "word": "fourrure",
     "article": "la",
     "sentence": "La fourrure du renard est épaisse.",
-    "translation": "",
+    "translation": "piel",
     "tags": [
       "animals"
     ]
@@ -3095,7 +3095,7 @@
     "word": "fraise",
     "article": "la",
     "sentence": "La fraise est mûre à point.",
-    "translation": "",
+    "translation": "fresa",
     "tags": [
       "food"
     ]
@@ -3104,7 +3104,7 @@
     "word": "frire",
     "article": "",
     "sentence": "Tu fais frire les oignons.",
-    "translation": "",
+    "translation": "freír",
     "tags": [
       "food",
       "actions"
@@ -3114,7 +3114,7 @@
     "word": "froid",
     "article": "",
     "sentence": "L'eau est froide.",
-    "translation": "",
+    "translation": "frío",
     "tags": [
       "food"
     ]
@@ -3123,7 +3123,7 @@
     "word": "fromage",
     "article": "le",
     "sentence": "Le fromage français est varié.",
-    "translation": "",
+    "translation": "queso",
     "tags": [
       "food"
     ]
@@ -3132,7 +3132,7 @@
     "word": "fruit",
     "article": "le",
     "sentence": "Le fruit est mûr.",
-    "translation": "",
+    "translation": "fruta",
     "tags": [
       "food"
     ]
@@ -3141,7 +3141,7 @@
     "word": "frère",
     "article": "le",
     "sentence": "Le frère cadet est sportif.",
-    "translation": "",
+    "translation": "hermano",
     "tags": [
       "sports"
     ]
@@ -3150,7 +3150,7 @@
     "word": "fâché",
     "article": "",
     "sentence": "Le client est fâché.",
-    "translation": "",
+    "translation": "enfadado",
     "tags": [
       "shopping"
     ]
@@ -3159,7 +3159,7 @@
     "word": "février",
     "article": "",
     "sentence": "Février est court.",
-    "translation": "",
+    "translation": "febrero",
     "tags": [
       "travel"
     ]
@@ -3168,7 +3168,7 @@
     "word": "gagner",
     "article": "",
     "sentence": "Notre équipe gagne le match.",
-    "translation": "",
+    "translation": "ganar",
     "tags": [
       "sports",
       "actions"
@@ -3178,7 +3178,7 @@
     "word": "gants",
     "article": "les",
     "sentence": "Les gants en cuir sont souples.",
-    "translation": "",
+    "translation": "guantes",
     "tags": [
       "shopping"
     ]
@@ -3187,7 +3187,7 @@
     "word": "garantie",
     "article": "la",
     "sentence": "La garantie est de deux ans.",
-    "translation": "",
+    "translation": "garantía",
     "tags": [
       "shopping"
     ]
@@ -3196,7 +3196,7 @@
     "word": "garder",
     "article": "",
     "sentence": "Elle garde les enfants.",
-    "translation": "",
+    "translation": "guardar",
     "tags": [
       "work",
       "actions"
@@ -3206,7 +3206,7 @@
     "word": "gare",
     "article": "la",
     "sentence": "La gare est centrale.",
-    "translation": "",
+    "translation": "estación",
     "tags": [
       "travel"
     ]
@@ -3215,7 +3215,7 @@
     "word": "garçon",
     "article": "le",
     "sentence": "Le garçon court vite.",
-    "translation": "",
+    "translation": "chico",
     "tags": [
       "sports"
     ]
@@ -3224,7 +3224,7 @@
     "word": "gauche",
     "article": "la",
     "sentence": "Tourne à gauche au feu.",
-    "translation": "",
+    "translation": "izquierda",
     "tags": [
       "directions"
     ]
@@ -3233,7 +3233,7 @@
     "word": "glace",
     "article": "la",
     "sentence": "La glace à la vanille est crémeuse.",
-    "translation": "",
+    "translation": "helado",
     "tags": [
       "food"
     ]
@@ -3242,7 +3242,7 @@
     "word": "goûter",
     "article": "",
     "sentence": "Tu goûtes la sauce.",
-    "translation": "",
+    "translation": "merendar",
     "tags": [
       "food",
       "actions"
@@ -3252,7 +3252,7 @@
     "word": "grand",
     "article": "",
     "sentence": "Le musée est grand.",
-    "translation": "",
+    "translation": "grande",
     "tags": [
       "travel"
     ]
@@ -3261,7 +3261,7 @@
     "word": "grenouille",
     "article": "la",
     "sentence": "La grenouille saute dans la mare.",
-    "translation": "",
+    "translation": "rana",
     "tags": [
       "animals"
     ]
@@ -3270,7 +3270,7 @@
     "word": "griller",
     "article": "",
     "sentence": "Tu grilles les steaks.",
-    "translation": "",
+    "translation": "asar",
     "tags": [
       "food",
       "actions"
@@ -3280,7 +3280,7 @@
     "word": "guide",
     "article": "le",
     "sentence": "Le guide montre les monuments.",
-    "translation": "",
+    "translation": "guía",
     "tags": [
       "travel"
     ]
@@ -3289,7 +3289,7 @@
     "word": "gym",
     "article": "la",
     "sentence": "La gym est bonne pour la santé.",
-    "translation": "",
+    "translation": "gimnasio",
     "tags": [
       "exercise"
     ]
@@ -3298,7 +3298,7 @@
     "word": "gâteau",
     "article": "le",
     "sentence": "Le gâteau au chocolat est délicieux.",
-    "translation": "",
+    "translation": "pastel",
     "tags": [
       "food"
     ]
@@ -3307,7 +3307,7 @@
     "word": "hacher",
     "article": "",
     "sentence": "Hache les oignons finement.",
-    "translation": "",
+    "translation": "picar",
     "tags": [
       "food",
       "actions"
@@ -3317,7 +3317,7 @@
     "word": "haltère",
     "article": "l'",
     "sentence": "L'haltère pèse vingt kilos.",
-    "translation": "",
+    "translation": "mancuerna",
     "tags": [
       "exercise"
     ]
@@ -3326,7 +3326,7 @@
     "word": "hamburger",
     "article": "le",
     "sentence": "Le hamburger est servi avec des frites.",
-    "translation": "",
+    "translation": "hamburguesa",
     "tags": [
       "food"
     ]
@@ -3335,7 +3335,7 @@
     "word": "hamster",
     "article": "le",
     "sentence": "Le hamster fait tourner sa roue.",
-    "translation": "",
+    "translation": "hámster",
     "tags": [
       "animals"
     ]
@@ -3344,7 +3344,7 @@
     "word": "handball",
     "article": "le",
     "sentence": "Le handball est rapide.",
-    "translation": "",
+    "translation": "balonmano",
     "tags": [
       "sports"
     ]
@@ -3353,7 +3353,7 @@
     "word": "haricot",
     "article": "le",
     "sentence": "Le haricot vert est tendre.",
-    "translation": "",
+    "translation": "judía",
     "tags": [
       "food"
     ]
@@ -3362,7 +3362,7 @@
     "word": "haut-parleur",
     "article": "le",
     "sentence": "Le haut-parleur est activé.",
-    "translation": "",
+    "translation": "altavoz",
     "tags": [
       "phone"
     ]
@@ -3371,7 +3371,7 @@
     "word": "herbe",
     "article": "l'",
     "sentence": "L'herbe aromatique parfume le plat.",
-    "translation": "",
+    "translation": "hierba",
     "tags": [
       "food"
     ]
@@ -3380,7 +3380,7 @@
     "word": "heure",
     "article": "l'",
     "sentence": "L'heure du départ est dix heures.",
-    "translation": "",
+    "translation": "hora",
     "tags": [
       "travel"
     ]
@@ -3389,7 +3389,7 @@
     "word": "heureux",
     "article": "",
     "sentence": "Nous sommes heureux.",
-    "translation": "",
+    "translation": "feliz",
     "tags": [
       "actions"
     ]
@@ -3398,7 +3398,7 @@
     "word": "hibou",
     "article": "le",
     "sentence": "Le hibou chasse la nuit.",
-    "translation": "",
+    "translation": "búho",
     "tags": [
       "animals"
     ]
@@ -3407,7 +3407,7 @@
     "word": "hier",
     "article": "",
     "sentence": "Hier j'ai visité le musée.",
-    "translation": "",
+    "translation": "ayer",
     "tags": [
       "travel"
     ]
@@ -3416,7 +3416,7 @@
     "word": "hiver",
     "article": "l'",
     "sentence": "L'hiver est froid.",
-    "translation": "",
+    "translation": "invierno",
     "tags": [
       "travel"
     ]
@@ -3425,7 +3425,7 @@
     "word": "homme",
     "article": "l'",
     "sentence": "L'homme est âgé.",
-    "translation": "",
+    "translation": "hombre",
     "tags": [
       "travel"
     ]
@@ -3434,7 +3434,7 @@
     "word": "horaire",
     "article": "l'",
     "sentence": "L'horaire des trains est affiché.",
-    "translation": "",
+    "translation": "horario",
     "tags": [
       "travel"
     ]
@@ -3443,7 +3443,7 @@
     "word": "huile",
     "article": "l'",
     "sentence": "L'huile d'olive est saine.",
-    "translation": "",
+    "translation": "aceite",
     "tags": [
       "food"
     ]
@@ -3452,7 +3452,7 @@
     "word": "hôtel",
     "article": "l'",
     "sentence": "L'hôtel est près de la plage.",
-    "translation": "",
+    "translation": "hotel",
     "tags": [
       "travel",
       "hotel"
@@ -3462,7 +3462,7 @@
     "word": "il fait",
     "article": "",
     "sentence": "Il fait beau aujourd'hui.",
-    "translation": "",
+    "translation": "hace",
     "tags": [
       "travel"
     ]
@@ -3471,7 +3471,7 @@
     "word": "il neige",
     "article": "",
     "sentence": "Il neige en hiver.",
-    "translation": "",
+    "translation": "nieva",
     "tags": [
       "travel"
     ]
@@ -3480,7 +3480,7 @@
     "word": "il pleut",
     "article": "",
     "sentence": "Il pleut en automne.",
-    "translation": "",
+    "translation": "llueve",
     "tags": [
       "travel"
     ]
@@ -3489,7 +3489,7 @@
     "word": "il y a",
     "article": "",
     "sentence": "Il y a un problème.",
-    "translation": "",
+    "translation": "hay",
     "tags": [
       "work"
     ]
@@ -3498,7 +3498,7 @@
     "word": "impasse",
     "article": "l'",
     "sentence": "L'impasse est sans issue.",
-    "translation": "",
+    "translation": "callejón sin salida",
     "tags": [
       "directions"
     ]
@@ -3507,7 +3507,7 @@
     "word": "imprimante",
     "article": "l'",
     "sentence": "L'imprimante est en panne.",
-    "translation": "",
+    "translation": "impresora",
     "tags": [
       "work"
     ]
@@ -3516,7 +3516,7 @@
     "word": "inclure",
     "article": "",
     "sentence": "Le prix inclut le petit-déjeuner.",
-    "translation": "",
+    "translation": "incluir",
     "tags": [
       "hotel",
       "shopping",
@@ -3527,7 +3527,7 @@
     "word": "inclus",
     "article": "",
     "sentence": "Le petit-déjeuner est inclus.",
-    "translation": "",
+    "translation": "incluido",
     "tags": [
       "hotel",
       "food"
@@ -3537,7 +3537,7 @@
     "word": "indicatif",
     "article": "l'",
     "sentence": "L'indicatif du pays est le 33.",
-    "translation": "",
+    "translation": "prefijo",
     "tags": [
       "phone"
     ]
@@ -3546,7 +3546,7 @@
     "word": "insecte",
     "article": "l'",
     "sentence": "L'insecte vole autour de la fleur.",
-    "translation": "",
+    "translation": "insecto",
     "tags": [
       "animals"
     ]
@@ -3555,7 +3555,7 @@
     "word": "interrupteur",
     "article": "l'",
     "sentence": "L'interrupteur est à droite.",
-    "translation": "",
+    "translation": "interruptor",
     "tags": [
       "hotel"
     ]
@@ -3564,7 +3564,7 @@
     "word": "ischios",
     "article": "les",
     "sentence": "Les ischios sont étirés.",
-    "translation": "",
+    "translation": "isquiotibiales",
     "tags": [
       "exercise"
     ]
@@ -3573,7 +3573,7 @@
     "word": "itinéraire",
     "article": "l'",
     "sentence": "L'itinéraire est sur le GPS.",
-    "translation": "",
+    "translation": "itinerario",
     "tags": [
       "directions",
       "travel"
@@ -3583,7 +3583,7 @@
     "word": "jamais",
     "article": "",
     "sentence": "Je ne fume jamais.",
-    "translation": "",
+    "translation": "nunca",
     "tags": [
       "actions"
     ]
@@ -3592,7 +3592,7 @@
     "word": "jambon",
     "article": "le",
     "sentence": "Le jambon blanc est doux.",
-    "translation": "",
+    "translation": "jamón",
     "tags": [
       "food"
     ]
@@ -3601,7 +3601,7 @@
     "word": "janvier",
     "article": "",
     "sentence": "Janvier est le premier mois.",
-    "translation": "",
+    "translation": "enero",
     "tags": [
       "travel"
     ]
@@ -3610,7 +3610,7 @@
     "word": "jean",
     "article": "le",
     "sentence": "Le jean bleu est décontracté.",
-    "translation": "",
+    "translation": "vaqueros",
     "tags": [
       "shopping"
     ]
@@ -3619,7 +3619,7 @@
     "word": "jeudi",
     "article": "",
     "sentence": "Jeudi je voyage.",
-    "translation": "",
+    "translation": "jueves",
     "tags": [
       "travel"
     ]
@@ -3628,7 +3628,7 @@
     "word": "jeune",
     "article": "",
     "sentence": "Le joueur est jeune.",
-    "translation": "",
+    "translation": "joven",
     "tags": [
       "sports"
     ]
@@ -3637,7 +3637,7 @@
     "word": "joindre",
     "article": "",
     "sentence": "Je joins le fichier.",
-    "translation": "",
+    "translation": "unir",
     "tags": [
       "email",
       "actions"
@@ -3647,7 +3647,7 @@
     "word": "joli",
     "article": "",
     "sentence": "La fleur est jolie.",
-    "translation": "",
+    "translation": "bonito",
     "tags": [
       "shopping"
     ]
@@ -3656,7 +3656,7 @@
     "word": "joueur",
     "article": "le",
     "sentence": "Le joueur marque un but.",
-    "translation": "",
+    "translation": "jugador",
     "tags": [
       "sports"
     ]
@@ -3665,7 +3665,7 @@
     "word": "jour",
     "article": "le",
     "sentence": "Le jour se lève.",
-    "translation": "",
+    "translation": "día",
     "tags": [
       "travel"
     ]
@@ -3674,7 +3674,7 @@
     "word": "juillet",
     "article": "",
     "sentence": "Juillet est chaud.",
-    "translation": "",
+    "translation": "julio",
     "tags": [
       "travel"
     ]
@@ -3683,7 +3683,7 @@
     "word": "juin",
     "article": "",
     "sentence": "Juin commence l'été.",
-    "translation": "",
+    "translation": "junio",
     "tags": [
       "travel"
     ]
@@ -3692,7 +3692,7 @@
     "word": "jus",
     "article": "le",
     "sentence": "Le jus d'orange est pressé.",
-    "translation": "",
+    "translation": "zumo",
     "tags": [
       "food"
     ]
@@ -3701,7 +3701,7 @@
     "word": "kettlebell",
     "article": "le",
     "sentence": "Le kettlebell balance entre les jambes.",
-    "translation": "",
+    "translation": "kettlebell",
     "tags": [
       "exercise"
     ]
@@ -3710,7 +3710,7 @@
     "word": "lac",
     "article": "le",
     "sentence": "Le lac est calme.",
-    "translation": "",
+    "translation": "lago",
     "tags": [
       "travel"
     ]
@@ -3719,7 +3719,7 @@
     "word": "lait",
     "article": "le",
     "sentence": "Le lait est dans le frigo.",
-    "translation": "",
+    "translation": "leche",
     "tags": [
       "food"
     ]
@@ -3728,7 +3728,7 @@
     "word": "laitue",
     "article": "la",
     "sentence": "La laitue est lavée.",
-    "translation": "",
+    "translation": "lechuga",
     "tags": [
       "food"
     ]
@@ -3737,7 +3737,7 @@
     "word": "lampe",
     "article": "la",
     "sentence": "La lampe éclaire la pièce.",
-    "translation": "",
+    "translation": "lámpara",
     "tags": [
       "hotel"
     ]
@@ -3746,7 +3746,7 @@
     "word": "lancer",
     "article": "",
     "sentence": "Il lance le ballon.",
-    "translation": "",
+    "translation": "lanzar",
     "tags": [
       "sports",
       "actions"
@@ -3756,7 +3756,7 @@
     "word": "lapin",
     "article": "le",
     "sentence": "Le lapin mange une carotte.",
-    "translation": "",
+    "translation": "conejo",
     "tags": [
       "animals"
     ]
@@ -3765,7 +3765,7 @@
     "word": "laver",
     "article": "",
     "sentence": "Je lave la voiture.",
-    "translation": "",
+    "translation": "lavar",
     "tags": [
       "actions"
     ]
@@ -3774,7 +3774,7 @@
     "word": "lentement",
     "article": "",
     "sentence": "La tortue marche lentement.",
-    "translation": "",
+    "translation": "lentamente",
     "tags": [
       "animals"
     ]
@@ -3783,7 +3783,7 @@
     "word": "libre",
     "article": "",
     "sentence": "La table est libre.",
-    "translation": "",
+    "translation": "libre",
     "tags": [
       "food"
     ]
@@ -3792,7 +3792,7 @@
     "word": "licencier",
     "article": "",
     "sentence": "Ils licencient une partie du personnel.",
-    "translation": "",
+    "translation": "despedir",
     "tags": [
       "work",
       "actions"
@@ -3802,7 +3802,7 @@
     "word": "ligne",
     "article": "la",
     "sentence": "La ligne est occupée.",
-    "translation": "",
+    "translation": "línea",
     "tags": [
       "phone"
     ]
@@ -3811,7 +3811,7 @@
     "word": "ligue",
     "article": "la",
     "sentence": "La ligue professionnelle a vingt clubs.",
-    "translation": "",
+    "translation": "liga",
     "tags": [
       "sports"
     ]
@@ -3820,7 +3820,7 @@
     "word": "lion",
     "article": "le",
     "sentence": "Le lion rugit dans la savane.",
-    "translation": "",
+    "translation": "león",
     "tags": [
       "animals"
     ]
@@ -3829,7 +3829,7 @@
     "word": "lire",
     "article": "",
     "sentence": "Nous lisons un livre intéressant.",
-    "translation": "",
+    "translation": "leer",
     "tags": [
       "work",
       "actions"
@@ -3839,7 +3839,7 @@
     "word": "lit",
     "article": "le",
     "sentence": "Le lit est confortable.",
-    "translation": "",
+    "translation": "cama",
     "tags": [
       "hotel"
     ]
@@ -3848,7 +3848,7 @@
     "word": "livraison",
     "article": "la",
     "sentence": "La livraison est sous trois jours.",
-    "translation": "",
+    "translation": "entrega",
     "tags": [
       "work",
       "shopping"
@@ -3858,7 +3858,7 @@
     "word": "livraison offerte",
     "article": "la",
     "sentence": "La livraison offerte est un avantage.",
-    "translation": "",
+    "translation": "envío gratis",
     "tags": [
       "shopping"
     ]
@@ -3867,7 +3867,7 @@
     "word": "loin",
     "article": "",
     "sentence": "La plage est loin d'ici.",
-    "translation": "",
+    "translation": "lejos",
     "tags": [
       "directions",
       "travel"
@@ -3877,7 +3877,7 @@
     "word": "loup",
     "article": "le",
     "sentence": "Le loup hurle à la lune.",
-    "translation": "",
+    "translation": "lobo",
     "tags": [
       "animals"
     ]
@@ -3886,7 +3886,7 @@
     "word": "lundi",
     "article": "",
     "sentence": "Lundi je travaille.",
-    "translation": "",
+    "translation": "lunes",
     "tags": [
       "work"
     ]
@@ -3895,7 +3895,7 @@
     "word": "lune",
     "article": "la",
     "sentence": "La lune est pleine.",
-    "translation": "",
+    "translation": "luna",
     "tags": [
       "travel"
     ]
@@ -3904,7 +3904,7 @@
     "word": "lunettes",
     "article": "les",
     "sentence": "Les lunettes de soleil sont à la mode.",
-    "translation": "",
+    "translation": "gafas",
     "tags": [
       "shopping"
     ]
@@ -3913,7 +3913,7 @@
     "word": "légume",
     "article": "le",
     "sentence": "Le légume est frais.",
-    "translation": "",
+    "translation": "verdura",
     "tags": [
       "food"
     ]
@@ -3922,7 +3922,7 @@
     "word": "magasin",
     "article": "le",
     "sentence": "Le magasin ouvre à dix heures.",
-    "translation": "",
+    "translation": "tienda",
     "tags": [
       "shopping"
     ]
@@ -3931,7 +3931,7 @@
     "word": "mai",
     "article": "",
     "sentence": "Mai est ensoleillé.",
-    "translation": "",
+    "translation": "mayo",
     "tags": [
       "travel"
     ]
@@ -3940,7 +3940,7 @@
     "word": "maintenant",
     "article": "",
     "sentence": "Maintenant je mange.",
-    "translation": "",
+    "translation": "ahora",
     "tags": [
       "food"
     ]
@@ -3949,7 +3949,7 @@
     "word": "mal",
     "article": "",
     "sentence": "Je me sens mal.",
-    "translation": "",
+    "translation": "mal",
     "tags": [
       "travel"
     ]
@@ -3958,7 +3958,7 @@
     "word": "malade",
     "article": "",
     "sentence": "Elle est malade.",
-    "translation": "",
+    "translation": "enfermo",
     "tags": [
       "actions"
     ]
@@ -3967,7 +3967,7 @@
     "word": "manager",
     "article": "le",
     "sentence": "Le manager organise la réunion.",
-    "translation": "",
+    "translation": "gerente",
     "tags": [
       "work"
     ]
@@ -3976,7 +3976,7 @@
     "word": "manger",
     "article": "",
     "sentence": "Je mange une pomme.",
-    "translation": "",
+    "translation": "comer",
     "tags": [
       "food",
       "actions"
@@ -3986,7 +3986,7 @@
     "word": "manquer",
     "article": "",
     "sentence": "Tu me manques.",
-    "translation": "",
+    "translation": "faltar",
     "tags": [
       "actions"
     ]
@@ -3995,7 +3995,7 @@
     "word": "manteau",
     "article": "le",
     "sentence": "Le manteau d'hiver est épais.",
-    "translation": "",
+    "translation": "abrigo",
     "tags": [
       "shopping"
     ]
@@ -4004,7 +4004,7 @@
     "word": "marathon",
     "article": "le",
     "sentence": "Le marathon fait quarante-deux kilomètres.",
-    "translation": "",
+    "translation": "maratón",
     "tags": [
       "sports",
       "exercise"
@@ -4014,7 +4014,7 @@
     "word": "marcher",
     "article": "",
     "sentence": "Nous marchons sur le sentier.",
-    "translation": "",
+    "translation": "caminar",
     "tags": [
       "exercise",
       "travel",
@@ -4025,7 +4025,7 @@
     "word": "marché",
     "article": "le",
     "sentence": "Le marché est en plein air.",
-    "translation": "",
+    "translation": "mercado",
     "tags": [
       "shopping"
     ]
@@ -4034,7 +4034,7 @@
     "word": "mardi",
     "article": "",
     "sentence": "Mardi j'ai une réunion.",
-    "translation": "",
+    "translation": "martes",
     "tags": [
       "work"
     ]
@@ -4043,7 +4043,7 @@
     "word": "mari",
     "article": "le",
     "sentence": "Le mari prépare le voyage.",
-    "translation": "",
+    "translation": "marido",
     "tags": [
       "travel"
     ]
@@ -4052,7 +4052,7 @@
     "word": "marque",
     "article": "la",
     "sentence": "La marque est française.",
-    "translation": "",
+    "translation": "marca",
     "tags": [
       "shopping"
     ]
@@ -4061,7 +4061,7 @@
     "word": "mars",
     "article": "",
     "sentence": "Mars annonce le printemps.",
-    "translation": "",
+    "translation": "marzo",
     "tags": [
       "travel"
     ]
@@ -4070,7 +4070,7 @@
     "word": "match",
     "article": "le",
     "sentence": "Le match commence à vingt heures.",
-    "translation": "",
+    "translation": "partido",
     "tags": [
       "sports"
     ]
@@ -4079,7 +4079,7 @@
     "word": "matin",
     "article": "le",
     "sentence": "Le matin je bois un café.",
-    "translation": "",
+    "translation": "mañana",
     "tags": [
       "food"
     ]
@@ -4088,7 +4088,7 @@
     "word": "mauvais",
     "article": "",
     "sentence": "Le temps est mauvais.",
-    "translation": "",
+    "translation": "malo",
     "tags": [
       "travel"
     ]
@@ -4097,7 +4097,7 @@
     "word": "maïs",
     "article": "le",
     "sentence": "Le maïs est cultivé dans les champs.",
-    "translation": "",
+    "translation": "maíz",
     "tags": [
       "food"
     ]
@@ -4106,7 +4106,7 @@
     "word": "melon",
     "article": "le",
     "sentence": "Le melon est mûr.",
-    "translation": "",
+    "translation": "melón",
     "tags": [
       "food"
     ]
@@ -4115,7 +4115,7 @@
     "word": "menu",
     "article": "le",
     "sentence": "Le menu propose plusieurs choix.",
-    "translation": "",
+    "translation": "menú",
     "tags": [
       "food"
     ]
@@ -4124,7 +4124,7 @@
     "word": "merci",
     "article": "",
     "sentence": "Merci beaucoup pour votre aide.",
-    "translation": "",
+    "translation": "gracias",
     "tags": [
       "shopping",
       "hotel"
@@ -4134,7 +4134,7 @@
     "word": "mercredi",
     "article": "",
     "sentence": "Mercredi je fais du sport.",
-    "translation": "",
+    "translation": "miércoles",
     "tags": [
       "sports"
     ]
@@ -4143,7 +4143,7 @@
     "word": "message",
     "article": "le",
     "sentence": "Le message vocal est enregistré.",
-    "translation": "",
+    "translation": "mensaje",
     "tags": [
       "phone"
     ]
@@ -4152,7 +4152,7 @@
     "word": "messagerie",
     "article": "la",
     "sentence": "La messagerie est pleine.",
-    "translation": "",
+    "translation": "buzón",
     "tags": [
       "phone"
     ]
@@ -4161,7 +4161,7 @@
     "word": "mi-temps",
     "article": "la",
     "sentence": "La mi-temps dure quinze minutes.",
-    "translation": "",
+    "translation": "medio tiempo",
     "tags": [
       "sports"
     ]
@@ -4170,7 +4170,7 @@
     "word": "midi",
     "article": "",
     "sentence": "Il est midi.",
-    "translation": "",
+    "translation": "mediodía",
     "tags": [
       "food"
     ]
@@ -4179,7 +4179,7 @@
     "word": "miel",
     "article": "le",
     "sentence": "Le miel est doux.",
-    "translation": "",
+    "translation": "miel",
     "tags": [
       "food"
     ]
@@ -4188,7 +4188,7 @@
     "word": "minibar",
     "article": "le",
     "sentence": "Le minibar est approvisionné.",
-    "translation": "",
+    "translation": "minibar",
     "tags": [
       "hotel"
     ]
@@ -4197,7 +4197,7 @@
     "word": "minuit",
     "article": "",
     "sentence": "Il est minuit.",
-    "translation": "",
+    "translation": "medianoche",
     "tags": [
       "travel"
     ]
@@ -4206,7 +4206,7 @@
     "word": "miroir",
     "article": "le",
     "sentence": "Le miroir est au-dessus du lavabo.",
-    "translation": "",
+    "translation": "espejo",
     "tags": [
       "hotel"
     ]
@@ -4215,7 +4215,7 @@
     "word": "mois",
     "article": "le",
     "sentence": "Le mois de mai est joli.",
-    "translation": "",
+    "translation": "mes",
     "tags": [
       "travel"
     ]
@@ -4224,7 +4224,7 @@
     "word": "mollet",
     "article": "le",
     "sentence": "Le mollet est contracté.",
-    "translation": "",
+    "translation": "pantorrilla",
     "tags": [
       "exercise"
     ]
@@ -4233,7 +4233,7 @@
     "word": "moment",
     "article": "le",
     "sentence": "Le moment est parfait.",
-    "translation": "",
+    "translation": "momento",
     "tags": [
       "travel"
     ]
@@ -4242,7 +4242,7 @@
     "word": "monnaie",
     "article": "la",
     "sentence": "La monnaie est rendue.",
-    "translation": "",
+    "translation": "moneda",
     "tags": [
       "shopping"
     ]
@@ -4251,7 +4251,7 @@
     "word": "montagne",
     "article": "la",
     "sentence": "La montagne est enneigée.",
-    "translation": "",
+    "translation": "montaña",
     "tags": [
       "travel"
     ]
@@ -4260,7 +4260,7 @@
     "word": "montre",
     "article": "la",
     "sentence": "La montre est élégante.",
-    "translation": "",
+    "translation": "reloj",
     "tags": [
       "shopping"
     ]
@@ -4269,7 +4269,7 @@
     "word": "montrer",
     "article": "",
     "sentence": "Je montre le chemin.",
-    "translation": "",
+    "translation": "mostrar",
     "tags": [
       "directions",
       "actions"
@@ -4279,7 +4279,7 @@
     "word": "monument",
     "article": "le",
     "sentence": "Le monument historique est visité.",
-    "translation": "",
+    "translation": "monumento",
     "tags": [
       "travel"
     ]
@@ -4288,7 +4288,7 @@
     "word": "mouche",
     "article": "la",
     "sentence": "La mouche bourdonne près de la fenêtre.",
-    "translation": "",
+    "translation": "mosca",
     "tags": [
       "animals"
     ]
@@ -4297,7 +4297,7 @@
     "word": "mourir",
     "article": "",
     "sentence": "Le vieil arbre meurt.",
-    "translation": "",
+    "translation": "morir",
     "tags": [
       "actions"
     ]
@@ -4306,7 +4306,7 @@
     "word": "moutarde",
     "article": "la",
     "sentence": "La moutarde de Dijon est forte.",
-    "translation": "",
+    "translation": "mostaza",
     "tags": [
       "food"
     ]
@@ -4315,7 +4315,7 @@
     "word": "mouton",
     "article": "le",
     "sentence": "Le mouton donne de la laine.",
-    "translation": "",
+    "translation": "oveja",
     "tags": [
       "animals"
     ]
@@ -4324,7 +4324,7 @@
     "word": "mur",
     "article": "le",
     "sentence": "Le mur est blanc.",
-    "translation": "",
+    "translation": "pared",
     "tags": [
       "hotel"
     ]
@@ -4333,7 +4333,7 @@
     "word": "musculation",
     "article": "la",
     "sentence": "La musculation développe les muscles.",
-    "translation": "",
+    "translation": "musculación",
     "tags": [
       "exercise"
     ]
@@ -4342,7 +4342,7 @@
     "word": "musée",
     "article": "le",
     "sentence": "Le musée du Louvre est grand.",
-    "translation": "",
+    "translation": "museo",
     "tags": [
       "travel"
     ]
@@ -4351,7 +4351,7 @@
     "word": "mère",
     "article": "la",
     "sentence": "La mère cuisine le dîner.",
-    "translation": "",
+    "translation": "madre",
     "tags": [
       "food"
     ]
@@ -4360,7 +4360,7 @@
     "word": "médaille",
     "article": "la",
     "sentence": "La médaille d'or est convoitée.",
-    "translation": "",
+    "translation": "medalla",
     "tags": [
       "sports"
     ]
@@ -4369,7 +4369,7 @@
     "word": "méditation",
     "article": "la",
     "sentence": "La méditation réduit le stress.",
-    "translation": "",
+    "translation": "meditación",
     "tags": [
       "exercise"
     ]
@@ -4378,7 +4378,7 @@
     "word": "mélanger",
     "article": "",
     "sentence": "Mélange les ingrédients.",
-    "translation": "",
+    "translation": "mezclar",
     "tags": [
       "food",
       "actions"
@@ -4388,7 +4388,7 @@
     "word": "même",
     "article": "",
     "sentence": "Le même plat est servi.",
-    "translation": "",
+    "translation": "mismo",
     "tags": [
       "food"
     ]
@@ -4397,7 +4397,7 @@
     "word": "nager",
     "article": "",
     "sentence": "Elle nage dans la piscine.",
-    "translation": "",
+    "translation": "nadar",
     "tags": [
       "sports",
       "exercise",
@@ -4408,7 +4408,7 @@
     "word": "natation",
     "article": "la",
     "sentence": "La natation est un sport complet.",
-    "translation": "",
+    "translation": "natación",
     "tags": [
       "sports",
       "exercise"
@@ -4418,7 +4418,7 @@
     "word": "neige",
     "article": "la",
     "sentence": "La neige recouvre le sol.",
-    "translation": "",
+    "translation": "nieve",
     "tags": [
       "travel"
     ]
@@ -4427,7 +4427,7 @@
     "word": "nettoyer",
     "article": "",
     "sentence": "Tu nettoies la cuisine.",
-    "translation": "",
+    "translation": "limpiar",
     "tags": [
       "hotel",
       "actions"
@@ -4437,7 +4437,7 @@
     "word": "noisette",
     "article": "la",
     "sentence": "La noisette est croquante.",
-    "translation": "",
+    "translation": "avellana",
     "tags": [
       "food"
     ]
@@ -4446,7 +4446,7 @@
     "word": "noix",
     "article": "la",
     "sentence": "La noix est riche en oméga.",
-    "translation": "",
+    "translation": "nuez",
     "tags": [
       "food"
     ]
@@ -4455,7 +4455,7 @@
     "word": "non",
     "article": "",
     "sentence": "Non, merci.",
-    "translation": "",
+    "translation": "no",
     "tags": [
       "shopping",
       "food"
@@ -4465,7 +4465,7 @@
     "word": "nord",
     "article": "le",
     "sentence": "Le nord de la France est vert.",
-    "translation": "",
+    "translation": "norte",
     "tags": [
       "travel",
       "directions"
@@ -4475,7 +4475,7 @@
     "word": "nouille",
     "article": "la",
     "sentence": "La nouille est cuite al dente.",
-    "translation": "",
+    "translation": "fideo",
     "tags": [
       "food"
     ]
@@ -4484,7 +4484,7 @@
     "word": "nourriture",
     "article": "la",
     "sentence": "La nourriture est délicieuse.",
-    "translation": "",
+    "translation": "comida",
     "tags": [
       "food"
     ]
@@ -4493,7 +4493,7 @@
     "word": "nouveau",
     "article": "",
     "sentence": "Le nouveau projet commence.",
-    "translation": "",
+    "translation": "nuevo",
     "tags": [
       "work"
     ]
@@ -4502,7 +4502,7 @@
     "word": "novembre",
     "article": "",
     "sentence": "Novembre est gris.",
-    "translation": "",
+    "translation": "noviembre",
     "tags": [
       "travel"
     ]
@@ -4511,7 +4511,7 @@
     "word": "nuage",
     "article": "le",
     "sentence": "Le nuage est gris.",
-    "translation": "",
+    "translation": "nube",
     "tags": [
       "travel"
     ]
@@ -4520,7 +4520,7 @@
     "word": "nuit",
     "article": "la",
     "sentence": "La nuit coûte cent euros.",
-    "translation": "",
+    "translation": "noche",
     "tags": [
       "hotel"
     ]
@@ -4529,7 +4529,7 @@
     "word": "numéro",
     "article": "le",
     "sentence": "Le numéro de téléphone est sur le site.",
-    "translation": "",
+    "translation": "número",
     "tags": [
       "phone"
     ]
@@ -4538,7 +4538,7 @@
     "word": "objectif",
     "article": "l'",
     "sentence": "L'objectif est atteint.",
-    "translation": "",
+    "translation": "objetivo",
     "tags": [
       "work"
     ]
@@ -4547,7 +4547,7 @@
     "word": "objet",
     "article": "l'",
     "sentence": "L'objet de l'email est important.",
-    "translation": "",
+    "translation": "objeto",
     "tags": [
       "email"
     ]
@@ -4556,7 +4556,7 @@
     "word": "occupé",
     "article": "",
     "sentence": "Le standard est occupé.",
-    "translation": "",
+    "translation": "ocupado",
     "tags": [
       "phone",
       "work"
@@ -4566,7 +4566,7 @@
     "word": "octobre",
     "article": "",
     "sentence": "Octobre est frais.",
-    "translation": "",
+    "translation": "octubre",
     "tags": [
       "travel"
     ]
@@ -4575,7 +4575,7 @@
     "word": "offre",
     "article": "l'",
     "sentence": "L'offre spéciale dure une semaine.",
-    "translation": "",
+    "translation": "oferta",
     "tags": [
       "shopping"
     ]
@@ -4584,7 +4584,7 @@
     "word": "offrir",
     "article": "",
     "sentence": "Tu offres un cadeau.",
-    "translation": "",
+    "translation": "ofrecer",
     "tags": [
       "shopping",
       "actions"
@@ -4594,7 +4594,7 @@
     "word": "oignon",
     "article": "l'",
     "sentence": "L'oignon fait pleurer.",
-    "translation": "",
+    "translation": "cebolla",
     "tags": [
       "food"
     ]
@@ -4603,7 +4603,7 @@
     "word": "oiseau",
     "article": "l'",
     "sentence": "L'oiseau chante le matin.",
-    "translation": "",
+    "translation": "pájaro",
     "tags": [
       "animals"
     ]
@@ -4612,7 +4612,7 @@
     "word": "olive",
     "article": "l'",
     "sentence": "L'olive verte est salée.",
-    "translation": "",
+    "translation": "aceituna",
     "tags": [
       "food"
     ]
@@ -4621,7 +4621,7 @@
     "word": "omelette",
     "article": "l'",
     "sentence": "L'omelette aux champignons est bonne.",
-    "translation": "",
+    "translation": "tortilla",
     "tags": [
       "food"
     ]
@@ -4630,7 +4630,7 @@
     "word": "orange",
     "article": "l'",
     "sentence": "L'orange est pleine de vitamine C.",
-    "translation": "",
+    "translation": "naranja",
     "tags": [
       "food"
     ]
@@ -4639,7 +4639,7 @@
     "word": "ordinateur",
     "article": "l'",
     "sentence": "L'ordinateur est allumé.",
-    "translation": "",
+    "translation": "ordenador",
     "tags": [
       "work",
       "email"
@@ -4649,7 +4649,7 @@
     "word": "ordre du jour",
     "article": "l'",
     "sentence": "L'ordre du jour est chargé.",
-    "translation": "",
+    "translation": "orden del día",
     "tags": [
       "work"
     ]
@@ -4658,7 +4658,7 @@
     "word": "oreiller",
     "article": "l'",
     "sentence": "L'oreiller est moelleux.",
-    "translation": "",
+    "translation": "almohada",
     "tags": [
       "hotel"
     ]
@@ -4667,7 +4667,7 @@
     "word": "oublier",
     "article": "",
     "sentence": "N'oublie pas les clés.",
-    "translation": "",
+    "translation": "olvidar",
     "tags": [
       "travel",
       "actions"
@@ -4677,7 +4677,7 @@
     "word": "ouest",
     "article": "l'",
     "sentence": "L'ouest a un climat océanique.",
-    "translation": "",
+    "translation": "oeste",
     "tags": [
       "travel",
       "directions"
@@ -4687,7 +4687,7 @@
     "word": "oui",
     "article": "",
     "sentence": "Oui, je suis d'accord.",
-    "translation": "",
+    "translation": "sí",
     "tags": [
       "phone",
       "work"
@@ -4697,7 +4697,7 @@
     "word": "ours",
     "article": "l'",
     "sentence": "L'ours hiberne en hiver.",
-    "translation": "",
+    "translation": "oso",
     "tags": [
       "animals"
     ]
@@ -4706,7 +4706,7 @@
     "word": "ouvert",
     "article": "",
     "sentence": "Le musée est ouvert.",
-    "translation": "",
+    "translation": "abierto",
     "tags": [
       "travel"
     ]
@@ -4715,7 +4715,7 @@
     "word": "ouvrir",
     "article": "",
     "sentence": "Elle ouvre la porte.",
-    "translation": "",
+    "translation": "abrir",
     "tags": [
       "actions"
     ]
@@ -4724,7 +4724,7 @@
     "word": "pain",
     "article": "le",
     "sentence": "Le pain est chaud et croustillant.",
-    "translation": "",
+    "translation": "pan",
     "tags": [
       "food"
     ]
@@ -4733,7 +4733,7 @@
     "word": "panier",
     "article": "le",
     "sentence": "Le panier est rempli de produits.",
-    "translation": "",
+    "translation": "cesta",
     "tags": [
       "shopping"
     ]
@@ -4742,7 +4742,7 @@
     "word": "pantalon",
     "article": "le",
     "sentence": "Le pantalon est bien coupé.",
-    "translation": "",
+    "translation": "pantalones",
     "tags": [
       "shopping"
     ]
@@ -4751,7 +4751,7 @@
     "word": "papillon",
     "article": "le",
     "sentence": "Le papillon a de belles couleurs.",
-    "translation": "",
+    "translation": "mariposa",
     "tags": [
       "animals"
     ]
@@ -4760,7 +4760,7 @@
     "word": "pardon",
     "article": "",
     "sentence": "Pardon, je suis en retard.",
-    "translation": "",
+    "translation": "perdón",
     "tags": [
       "travel",
       "directions"
@@ -4770,7 +4770,7 @@
     "word": "parfois",
     "article": "",
     "sentence": "Parfois je lis avant de dormir.",
-    "translation": "",
+    "translation": "a veces",
     "tags": [
       "actions"
     ]
@@ -4779,7 +4779,7 @@
     "word": "parfum",
     "article": "le",
     "sentence": "Le parfum français est célèbre.",
-    "translation": "",
+    "translation": "perfume",
     "tags": [
       "shopping"
     ]
@@ -4788,7 +4788,7 @@
     "word": "parking",
     "article": "le",
     "sentence": "Le parking est sécurisé.",
-    "translation": "",
+    "translation": "aparcamiento",
     "tags": [
       "hotel"
     ]
@@ -4797,7 +4797,7 @@
     "word": "parler",
     "article": "",
     "sentence": "Elle parle français couramment.",
-    "translation": "",
+    "translation": "hablar",
     "tags": [
       "phone",
       "work",
@@ -4808,7 +4808,7 @@
     "word": "partager",
     "article": "",
     "sentence": "Nous partageons le gâteau.",
-    "translation": "",
+    "translation": "compartir",
     "tags": [
       "food",
       "actions"
@@ -4818,7 +4818,7 @@
     "word": "partir",
     "article": "",
     "sentence": "Nous partons en vacances demain.",
-    "translation": "",
+    "translation": "partir",
     "tags": [
       "travel"
     ]
@@ -4827,7 +4827,7 @@
     "word": "passage",
     "article": "le",
     "sentence": "Le passage piéton est sûr.",
-    "translation": "",
+    "translation": "pasaje",
     "tags": [
       "directions"
     ]
@@ -4836,7 +4836,7 @@
     "word": "passager",
     "article": "le",
     "sentence": "Le passager attache sa ceinture.",
-    "translation": "",
+    "translation": "pasajero",
     "tags": [
       "travel"
     ]
@@ -4845,7 +4845,7 @@
     "word": "passe",
     "article": "la",
     "sentence": "La passe est précise.",
-    "translation": "",
+    "translation": "pase",
     "tags": [
       "sports"
     ]
@@ -4854,7 +4854,7 @@
     "word": "passeport",
     "article": "le",
     "sentence": "Le passeport est valide.",
-    "translation": "",
+    "translation": "pasaporte",
     "tags": [
       "travel"
     ]
@@ -4863,7 +4863,7 @@
     "word": "pastèque",
     "article": "la",
     "sentence": "La pastèque est rafraîchissante.",
-    "translation": "",
+    "translation": "sandía",
     "tags": [
       "food"
     ]
@@ -4872,7 +4872,7 @@
     "word": "patte",
     "article": "la",
     "sentence": "Le chat lève la patte.",
-    "translation": "",
+    "translation": "pata",
     "tags": [
       "animals"
     ]
@@ -4881,7 +4881,7 @@
     "word": "payer",
     "article": "",
     "sentence": "Nous payons par carte.",
-    "translation": "",
+    "translation": "pagar",
     "tags": [
       "shopping",
       "hotel",
@@ -4892,7 +4892,7 @@
     "word": "pays",
     "article": "le",
     "sentence": "Le pays est magnifique.",
-    "translation": "",
+    "translation": "país",
     "tags": [
       "travel"
     ]
@@ -4901,7 +4901,7 @@
     "word": "pectoraux",
     "article": "les",
     "sentence": "Les pectoraux sont développés.",
-    "translation": "",
+    "translation": "pectorales",
     "tags": [
       "exercise"
     ]
@@ -4910,7 +4910,7 @@
     "word": "peignoir",
     "article": "le",
     "sentence": "Le peignoir est blanc.",
-    "translation": "",
+    "translation": "albornoz",
     "tags": [
       "hotel"
     ]
@@ -4919,7 +4919,7 @@
     "word": "penalty",
     "article": "le",
     "sentence": "Le penalty est transformé.",
-    "translation": "",
+    "translation": "penalti",
     "tags": [
       "sports"
     ]
@@ -4928,7 +4928,7 @@
     "word": "penser",
     "article": "",
     "sentence": "Tu penses à la solution.",
-    "translation": "",
+    "translation": "pensar",
     "tags": [
       "work",
       "actions"
@@ -4938,7 +4938,7 @@
     "word": "perdre",
     "article": "",
     "sentence": "Il perd toujours ses clés.",
-    "translation": "",
+    "translation": "perder",
     "tags": [
       "travel",
       "actions"
@@ -4948,7 +4948,7 @@
     "word": "performance",
     "article": "la",
     "sentence": "La performance est mesurée.",
-    "translation": "",
+    "translation": "rendimiento",
     "tags": [
       "work"
     ]
@@ -4957,7 +4957,7 @@
     "word": "permis",
     "article": "le",
     "sentence": "Le permis de conduire est international.",
-    "translation": "",
+    "translation": "permiso",
     "tags": [
       "travel"
     ]
@@ -4966,7 +4966,7 @@
     "word": "perroquet",
     "article": "le",
     "sentence": "Le perroquet parle comme un humain.",
-    "translation": "",
+    "translation": "loro",
     "tags": [
       "animals"
     ]
@@ -4975,7 +4975,7 @@
     "word": "personne",
     "article": "",
     "sentence": "Personne n'est venu.",
-    "translation": "",
+    "translation": "persona",
     "tags": [
       "travel"
     ]
@@ -4984,7 +4984,7 @@
     "word": "petit",
     "article": "",
     "sentence": "Le chat est petit.",
-    "translation": "",
+    "translation": "pequeño",
     "tags": [
       "animals"
     ]
@@ -4993,7 +4993,7 @@
     "word": "petit-déjeuner",
     "article": "le",
     "sentence": "Le petit-déjeuner est servi à sept heures.",
-    "translation": "",
+    "translation": "desayuno",
     "tags": [
       "food",
       "hotel"
@@ -5003,7 +5003,7 @@
     "word": "peut-être",
     "article": "",
     "sentence": "Peut-être demain.",
-    "translation": "",
+    "translation": "quizás",
     "tags": [
       "work",
       "travel"
@@ -5013,7 +5013,7 @@
     "word": "photo",
     "article": "la",
     "sentence": "La photo est floue.",
-    "translation": "",
+    "translation": "foto",
     "tags": [
       "travel"
     ]
@@ -5022,7 +5022,7 @@
     "word": "photocopieuse",
     "article": "la",
     "sentence": "La photocopieuse est en bas.",
-    "translation": "",
+    "translation": "fotocopiadora",
     "tags": [
       "work"
     ]
@@ -5031,7 +5031,7 @@
     "word": "pilates",
     "article": "le",
     "sentence": "Le pilates renforce le centre du corps.",
-    "translation": "",
+    "translation": "pilates",
     "tags": [
       "exercise"
     ]
@@ -5040,7 +5040,7 @@
     "word": "pilote",
     "article": "le",
     "sentence": "Le pilote annonce l'atterrissage.",
-    "translation": "",
+    "translation": "piloto",
     "tags": [
       "travel"
     ]
@@ -5049,7 +5049,7 @@
     "word": "piscine",
     "article": "la",
     "sentence": "La piscine est chauffée.",
-    "translation": "",
+    "translation": "piscina",
     "tags": [
       "hotel",
       "sports"
@@ -5059,7 +5059,7 @@
     "word": "piste cyclable",
     "article": "la",
     "sentence": "La piste cyclable est sécurisée.",
-    "translation": "",
+    "translation": "carril bici",
     "tags": [
       "directions",
       "travel"
@@ -5069,7 +5069,7 @@
     "word": "pizza",
     "article": "la",
     "sentence": "La pizza est garnie de fromage.",
-    "translation": "",
+    "translation": "pizza",
     "tags": [
       "food"
     ]
@@ -5078,7 +5078,7 @@
     "word": "pièce",
     "article": "la",
     "sentence": "La pièce est attachée.",
-    "translation": "",
+    "translation": "pieza",
     "tags": [
       "email"
     ]
@@ -5087,7 +5087,7 @@
     "word": "pièce de monnaie",
     "article": "la",
     "sentence": "La pièce de monnaie est en euros.",
-    "translation": "",
+    "translation": "moneda",
     "tags": [
       "shopping"
     ]
@@ -5096,7 +5096,7 @@
     "word": "pièce jointe",
     "article": "la",
     "sentence": "La pièce jointe est trop lourde.",
-    "translation": "",
+    "translation": "archivo adjunto",
     "tags": [
       "email"
     ]
@@ -5105,7 +5105,7 @@
     "word": "piéton",
     "article": "le",
     "sentence": "Le piéton traverse au passage.",
-    "translation": "",
+    "translation": "peatón",
     "tags": [
       "directions"
     ]
@@ -5114,7 +5114,7 @@
     "word": "place",
     "article": "la",
     "sentence": "La place est entourée de cafés.",
-    "translation": "",
+    "translation": "plaza",
     "tags": [
       "directions",
       "travel"
@@ -5124,7 +5124,7 @@
     "word": "plafond",
     "article": "le",
     "sentence": "Le plafond est haut.",
-    "translation": "",
+    "translation": "techo",
     "tags": [
       "hotel"
     ]
@@ -5133,7 +5133,7 @@
     "word": "plage",
     "article": "la",
     "sentence": "La plage de sable fin est belle.",
-    "translation": "",
+    "translation": "playa",
     "tags": [
       "travel"
     ]
@@ -5142,7 +5142,7 @@
     "word": "planche",
     "article": "la",
     "sentence": "La planche renforce le tronc.",
-    "translation": "",
+    "translation": "tabla",
     "tags": [
       "exercise"
     ]
@@ -5151,7 +5151,7 @@
     "word": "planifier",
     "article": "",
     "sentence": "Tu planifies le voyage.",
-    "translation": "",
+    "translation": "planificar",
     "tags": [
       "travel",
       "work",
@@ -5162,7 +5162,7 @@
     "word": "plat",
     "article": "le",
     "sentence": "Le plat principal est servi.",
-    "translation": "",
+    "translation": "plato",
     "tags": [
       "food"
     ]
@@ -5171,7 +5171,7 @@
     "word": "plein",
     "article": "",
     "sentence": "Le verre est plein.",
-    "translation": "",
+    "translation": "lleno",
     "tags": [
       "food"
     ]
@@ -5180,7 +5180,7 @@
     "word": "pleurer",
     "article": "",
     "sentence": "L'enfant pleure.",
-    "translation": "",
+    "translation": "llorar",
     "tags": [
       "actions"
     ]
@@ -5189,7 +5189,7 @@
     "word": "pluie",
     "article": "la",
     "sentence": "La pluie tombe.",
-    "translation": "",
+    "translation": "lluvia",
     "tags": [
       "travel"
     ]
@@ -5198,7 +5198,7 @@
     "word": "plume",
     "article": "la",
     "sentence": "La plume tombe de l'oiseau.",
-    "translation": "",
+    "translation": "pluma",
     "tags": [
       "animals"
     ]
@@ -5207,7 +5207,7 @@
     "word": "podium",
     "article": "le",
     "sentence": "Le podium récompense les trois premiers.",
-    "translation": "",
+    "translation": "podio",
     "tags": [
       "sports"
     ]
@@ -5216,7 +5216,7 @@
     "word": "poids",
     "article": "le",
     "sentence": "Le poids soulevé est lourd.",
-    "translation": "",
+    "translation": "peso",
     "tags": [
       "exercise"
     ]
@@ -5225,7 +5225,7 @@
     "word": "poire",
     "article": "la",
     "sentence": "La poire est juteuse.",
-    "translation": "",
+    "translation": "pera",
     "tags": [
       "food"
     ]
@@ -5234,7 +5234,7 @@
     "word": "poisson",
     "article": "le",
     "sentence": "Le poisson nage dans l'aquarium.",
-    "translation": "",
+    "translation": "pescado",
     "tags": [
       "animals",
       "food"
@@ -5244,7 +5244,7 @@
     "word": "poivre",
     "article": "le",
     "sentence": "Le poivre est trop fort.",
-    "translation": "",
+    "translation": "pimienta",
     "tags": [
       "food"
     ]
@@ -5253,7 +5253,7 @@
     "word": "pomme",
     "article": "la",
     "sentence": "La pomme est croquante.",
-    "translation": "",
+    "translation": "manzana",
     "tags": [
       "food"
     ]
@@ -5262,7 +5262,7 @@
     "word": "pomme de terre",
     "article": "la",
     "sentence": "La pomme de terre est cuite au four.",
-    "translation": "",
+    "translation": "patata",
     "tags": [
       "food"
     ]
@@ -5271,7 +5271,7 @@
     "word": "pompes",
     "article": "les",
     "sentence": "Les pompes travaillent les bras.",
-    "translation": "",
+    "translation": "flexiones",
     "tags": [
       "exercise"
     ]
@@ -5280,7 +5280,7 @@
     "word": "pont",
     "article": "le",
     "sentence": "Le pont enjambe la rivière.",
-    "translation": "",
+    "translation": "puente",
     "tags": [
       "directions",
       "travel"
@@ -5290,7 +5290,7 @@
     "word": "porc",
     "article": "le",
     "sentence": "Le porc est bien cuit.",
-    "translation": "",
+    "translation": "cerdo",
     "tags": [
       "food"
     ]
@@ -5299,7 +5299,7 @@
     "word": "port",
     "article": "le",
     "sentence": "Le port est animé le matin.",
-    "translation": "",
+    "translation": "puerto",
     "tags": [
       "travel"
     ]
@@ -5308,7 +5308,7 @@
     "word": "portable",
     "article": "le",
     "sentence": "Le portable est déchargé.",
-    "translation": "",
+    "translation": "móvil",
     "tags": [
       "phone"
     ]
@@ -5317,7 +5317,7 @@
     "word": "porte",
     "article": "la",
     "sentence": "La porte est fermée.",
-    "translation": "",
+    "translation": "puerta",
     "tags": [
       "actions"
     ]
@@ -5326,7 +5326,7 @@
     "word": "portefeuille",
     "article": "le",
     "sentence": "Le portefeuille est en cuir.",
-    "translation": "",
+    "translation": "cartera",
     "tags": [
       "shopping"
     ]
@@ -5335,7 +5335,7 @@
     "word": "poste",
     "article": "le",
     "sentence": "Le poste est à pourvoir.",
-    "translation": "",
+    "translation": "puesto",
     "tags": [
       "work"
     ]
@@ -5344,7 +5344,7 @@
     "word": "posture",
     "article": "la",
     "sentence": "La posture est corrigée.",
-    "translation": "",
+    "translation": "postura",
     "tags": [
       "exercise"
     ]
@@ -5353,7 +5353,7 @@
     "word": "poule",
     "article": "la",
     "sentence": "La poule picore dans la cour.",
-    "translation": "",
+    "translation": "gallina",
     "tags": [
       "animals",
       "food"
@@ -5363,7 +5363,7 @@
     "word": "poulet",
     "article": "le",
     "sentence": "Le poulet rôti est parfumé.",
-    "translation": "",
+    "translation": "pollo",
     "tags": [
       "food"
     ]
@@ -5372,7 +5372,7 @@
     "word": "pour",
     "article": "",
     "sentence": "C'est pour toi.",
-    "translation": "",
+    "translation": "para",
     "tags": [
       "shopping"
     ]
@@ -5381,7 +5381,7 @@
     "word": "pourcentage",
     "article": "le",
     "sentence": "Le pourcentage est élevé.",
-    "translation": "",
+    "translation": "porcentaje",
     "tags": [
       "work"
     ]
@@ -5390,7 +5390,7 @@
     "word": "pousser",
     "article": "",
     "sentence": "Pousse la porte pour l'ouvrir.",
-    "translation": "",
+    "translation": "empujar",
     "tags": [
       "actions"
     ]
@@ -5399,7 +5399,7 @@
     "word": "pouvoir",
     "article": "",
     "sentence": "Je peux venir demain.",
-    "translation": "",
+    "translation": "poder",
     "tags": [
       "work",
       "actions"
@@ -5409,7 +5409,7 @@
     "word": "poêle",
     "article": "la",
     "sentence": "La poêle est chaude.",
-    "translation": "",
+    "translation": "sartén",
     "tags": [
       "food"
     ]
@@ -5418,7 +5418,7 @@
     "word": "premier",
     "article": "",
     "sentence": "C'est le premier jour.",
-    "translation": "",
+    "translation": "primero",
     "tags": [
       "travel"
     ]
@@ -5427,7 +5427,7 @@
     "word": "prendre",
     "article": "",
     "sentence": "Nous prenons le train.",
-    "translation": "",
+    "translation": "tomar",
     "tags": [
       "travel",
       "food",
@@ -5438,7 +5438,7 @@
     "word": "prime",
     "article": "la",
     "sentence": "La prime annuelle est versée en décembre.",
-    "translation": "",
+    "translation": "prima",
     "tags": [
       "work"
     ]
@@ -5447,7 +5447,7 @@
     "word": "printemps",
     "article": "le",
     "sentence": "Le printemps est doux.",
-    "translation": "",
+    "translation": "primavera",
     "tags": [
       "travel"
     ]
@@ -5456,7 +5456,7 @@
     "word": "prise",
     "article": "la",
     "sentence": "La prise électrique est près du lit.",
-    "translation": "",
+    "translation": "toma",
     "tags": [
       "hotel"
     ]
@@ -5465,7 +5465,7 @@
     "word": "prix",
     "article": "le",
     "sentence": "Le prix est raisonnable.",
-    "translation": "",
+    "translation": "precio",
     "tags": [
       "hotel",
       "shopping"
@@ -5475,7 +5475,7 @@
     "word": "prix réduit",
     "article": "le",
     "sentence": "Le prix réduit est intéressant.",
-    "translation": "",
+    "translation": "precio reducido",
     "tags": [
       "shopping"
     ]
@@ -5484,7 +5484,7 @@
     "word": "prochain",
     "article": "",
     "sentence": "La prochaine réunion est lundi.",
-    "translation": "",
+    "translation": "próximo",
     "tags": [
       "work"
     ]
@@ -5493,7 +5493,7 @@
     "word": "procès-verbal",
     "article": "le",
     "sentence": "Le procès-verbal est distribué.",
-    "translation": "",
+    "translation": "acta",
     "tags": [
       "work"
     ]
@@ -5502,7 +5502,7 @@
     "word": "productivité",
     "article": "la",
     "sentence": "La productivité augmente.",
-    "translation": "",
+    "translation": "productividad",
     "tags": [
       "work"
     ]
@@ -5511,7 +5511,7 @@
     "word": "projet",
     "article": "le",
     "sentence": "Le projet est ambitieux.",
-    "translation": "",
+    "translation": "proyecto",
     "tags": [
       "work"
     ]
@@ -5520,7 +5520,7 @@
     "word": "prolongation",
     "article": "la",
     "sentence": "La prolongation est de trente minutes.",
-    "translation": "",
+    "translation": "prolongación",
     "tags": [
       "sports"
     ]
@@ -5529,7 +5529,7 @@
     "word": "promotion",
     "article": "la",
     "sentence": "La promotion est méritée.",
-    "translation": "",
+    "translation": "promoción",
     "tags": [
       "work"
     ]
@@ -5538,7 +5538,7 @@
     "word": "proposition",
     "article": "la",
     "sentence": "La proposition est acceptée.",
-    "translation": "",
+    "translation": "propuesta",
     "tags": [
       "work"
     ]
@@ -5547,7 +5547,7 @@
     "word": "propre",
     "article": "",
     "sentence": "La chambre est propre.",
-    "translation": "",
+    "translation": "limpio",
     "tags": [
       "hotel"
     ]
@@ -5556,7 +5556,7 @@
     "word": "protéger",
     "article": "",
     "sentence": "Nous protégeons la nature.",
-    "translation": "",
+    "translation": "proteger",
     "tags": [
       "actions"
     ]
@@ -5565,7 +5565,7 @@
     "word": "protéine",
     "article": "la",
     "sentence": "La protéine aide à la récupération.",
-    "translation": "",
+    "translation": "proteína",
     "tags": [
       "exercise",
       "food"
@@ -5575,7 +5575,7 @@
     "word": "prouver",
     "article": "",
     "sentence": "Tu prouves ta théorie.",
-    "translation": "",
+    "translation": "probar",
     "tags": [
       "work",
       "actions"
@@ -5585,7 +5585,7 @@
     "word": "près",
     "article": "",
     "sentence": "L'hôtel est près de la gare.",
-    "translation": "",
+    "translation": "cerca",
     "tags": [
       "directions",
       "travel"
@@ -5595,7 +5595,7 @@
     "word": "préparer",
     "article": "",
     "sentence": "Elle prépare le dîner.",
-    "translation": "",
+    "translation": "preparar",
     "tags": [
       "food",
       "actions"
@@ -5605,7 +5605,7 @@
     "word": "présentation",
     "article": "la",
     "sentence": "La présentation est en anglais.",
-    "translation": "",
+    "translation": "presentación",
     "tags": [
       "work"
     ]
@@ -5614,7 +5614,7 @@
     "word": "prêt",
     "article": "",
     "sentence": "Es-tu prêt ?",
-    "translation": "",
+    "translation": "listo",
     "tags": [
       "travel"
     ]
@@ -5623,7 +5623,7 @@
     "word": "pull",
     "article": "le",
     "sentence": "Le pull en cachemire est cher.",
-    "translation": "",
+    "translation": "jersey",
     "tags": [
       "shopping"
     ]
@@ -5632,7 +5632,7 @@
     "word": "pâtes",
     "article": "les",
     "sentence": "Les pâtes sont al dente.",
-    "translation": "",
+    "translation": "pasta",
     "tags": [
       "food"
     ]
@@ -5641,7 +5641,7 @@
     "word": "père",
     "article": "le",
     "sentence": "Le père de famille travaille.",
-    "translation": "",
+    "translation": "padre",
     "tags": [
       "work"
     ]
@@ -5650,7 +5650,7 @@
     "word": "pêche",
     "article": "la",
     "sentence": "La pêche est sucrée.",
-    "translation": "",
+    "translation": "melocotón",
     "tags": [
       "food"
     ]
@@ -5659,7 +5659,7 @@
     "word": "quadriceps",
     "article": "le",
     "sentence": "Le quadriceps est sollicité.",
-    "translation": "",
+    "translation": "cuádriceps",
     "tags": [
       "exercise"
     ]
@@ -5668,7 +5668,7 @@
     "word": "quartier",
     "article": "le",
     "sentence": "Le quartier latin est animé.",
-    "translation": "",
+    "translation": "barrio",
     "tags": [
       "directions",
       "travel"
@@ -5678,7 +5678,7 @@
     "word": "quelqu'un",
     "article": "",
     "sentence": "Quelqu'un m'appelle.",
-    "translation": "",
+    "translation": "alguien",
     "tags": [
       "phone"
     ]
@@ -5687,7 +5687,7 @@
     "word": "quelque",
     "article": "",
     "sentence": "Je cherche quelque chose.",
-    "translation": "",
+    "translation": "algún",
     "tags": [
       "shopping"
     ]
@@ -5696,7 +5696,7 @@
     "word": "questionnaire",
     "article": "le",
     "sentence": "Le questionnaire est anonyme.",
-    "translation": "",
+    "translation": "cuestionario",
     "tags": [
       "work"
     ]
@@ -5705,7 +5705,7 @@
     "word": "queue",
     "article": "la",
     "sentence": "Le chien remue la queue.",
-    "translation": "",
+    "translation": "cola",
     "tags": [
       "animals"
     ]
@@ -5714,7 +5714,7 @@
     "word": "quitter",
     "article": "",
     "sentence": "Il quitte la maison.",
-    "translation": "",
+    "translation": "dejar",
     "tags": [
       "travel",
       "actions"
@@ -5724,7 +5724,7 @@
     "word": "raccrocher",
     "article": "",
     "sentence": "Ne raccroche pas !",
-    "translation": "",
+    "translation": "colgar",
     "tags": [
       "phone",
       "actions"
@@ -5734,7 +5734,7 @@
     "word": "raisin",
     "article": "le",
     "sentence": "Le raisin est sucré.",
-    "translation": "",
+    "translation": "uva",
     "tags": [
       "food"
     ]
@@ -5743,7 +5743,7 @@
     "word": "rameur",
     "article": "le",
     "sentence": "Le rameur sollicite tout le corps.",
-    "translation": "",
+    "translation": "remo",
     "tags": [
       "exercise"
     ]
@@ -5752,7 +5752,7 @@
     "word": "rappeler",
     "article": "",
     "sentence": "Tu rappelles plus tard.",
-    "translation": "",
+    "translation": "recordar",
     "tags": [
       "phone",
       "actions"
@@ -5762,7 +5762,7 @@
     "word": "rapport",
     "article": "le",
     "sentence": "Le rapport est terminé.",
-    "translation": "",
+    "translation": "informe",
     "tags": [
       "work"
     ]
@@ -5771,7 +5771,7 @@
     "word": "rat",
     "article": "le",
     "sentence": "Le rat court dans le grenier.",
-    "translation": "",
+    "translation": "rata",
     "tags": [
       "animals"
     ]
@@ -5780,7 +5780,7 @@
     "word": "rayon",
     "article": "le",
     "sentence": "Le rayon fruits et légumes est à gauche.",
-    "translation": "",
+    "translation": "pasillo",
     "tags": [
       "shopping",
       "food"
@@ -5790,7 +5790,7 @@
     "word": "recette",
     "article": "la",
     "sentence": "La recette est facile à suivre.",
-    "translation": "",
+    "translation": "receta",
     "tags": [
       "food"
     ]
@@ -5799,7 +5799,7 @@
     "word": "recevoir",
     "article": "",
     "sentence": "Tu reçois beaucoup d'emails.",
-    "translation": "",
+    "translation": "recibir",
     "tags": [
       "email",
       "actions"
@@ -5809,7 +5809,7 @@
     "word": "refuser",
     "article": "",
     "sentence": "Elle refuse l'offre.",
-    "translation": "",
+    "translation": "rechazar",
     "tags": [
       "shopping",
       "work",
@@ -5820,7 +5820,7 @@
     "word": "regarder",
     "article": "",
     "sentence": "Nous regardons la télévision.",
-    "translation": "",
+    "translation": "mirar",
     "tags": [
       "actions"
     ]
@@ -5829,7 +5829,7 @@
     "word": "relais",
     "article": "le",
     "sentence": "Le relais 4x100 mètres est spectaculaire.",
-    "translation": "",
+    "translation": "relevo",
     "tags": [
       "sports"
     ]
@@ -5838,7 +5838,7 @@
     "word": "relaxation",
     "article": "la",
     "sentence": "La relaxation est profonde.",
-    "translation": "",
+    "translation": "relajación",
     "tags": [
       "exercise"
     ]
@@ -5847,7 +5847,7 @@
     "word": "remboursement",
     "article": "le",
     "sentence": "Le remboursement prend une semaine.",
-    "translation": "",
+    "translation": "reembolso",
     "tags": [
       "shopping"
     ]
@@ -5856,7 +5856,7 @@
     "word": "remboursé",
     "article": "",
     "sentence": "Tu es remboursé sous sept jours.",
-    "translation": "",
+    "translation": "reembolsado",
     "tags": [
       "shopping"
     ]
@@ -5865,7 +5865,7 @@
     "word": "remise",
     "article": "la",
     "sentence": "La remise commerciale est de cinq pour cent.",
-    "translation": "",
+    "translation": "descuento",
     "tags": [
       "shopping"
     ]
@@ -5874,7 +5874,7 @@
     "word": "remplaçant",
     "article": "le",
     "sentence": "Le remplaçant entre en jeu.",
-    "translation": "",
+    "translation": "sustituto",
     "tags": [
       "sports"
     ]
@@ -5883,7 +5883,7 @@
     "word": "renard",
     "article": "le",
     "sentence": "Le renard est rusé.",
-    "translation": "",
+    "translation": "zorro",
     "tags": [
       "animals"
     ]
@@ -5892,7 +5892,7 @@
     "word": "rencontrer",
     "article": "",
     "sentence": "Je rencontre un ami.",
-    "translation": "",
+    "translation": "encontrar",
     "tags": [
       "travel",
       "work",
@@ -5903,7 +5903,7 @@
     "word": "rendez-vous",
     "article": "le",
     "sentence": "Le rendez-vous est à quinze heures.",
-    "translation": "",
+    "translation": "cita",
     "tags": [
       "work"
     ]
@@ -5912,7 +5912,7 @@
     "word": "repas",
     "article": "le",
     "sentence": "Le repas était excellent.",
-    "translation": "",
+    "translation": "comida",
     "tags": [
       "food"
     ]
@@ -5921,7 +5921,7 @@
     "word": "requin",
     "article": "le",
     "sentence": "Le requin nage dans les eaux profondes.",
-    "translation": "",
+    "translation": "tiburón",
     "tags": [
       "animals"
     ]
@@ -5930,7 +5930,7 @@
     "word": "respiration",
     "article": "la",
     "sentence": "La respiration est contrôlée.",
-    "translation": "",
+    "translation": "respiración",
     "tags": [
       "exercise"
     ]
@@ -5939,7 +5939,7 @@
     "word": "restaurant",
     "article": "le",
     "sentence": "Le restaurant sert des plats italiens.",
-    "translation": "",
+    "translation": "restaurante",
     "tags": [
       "food",
       "travel"
@@ -5949,7 +5949,7 @@
     "word": "rester",
     "article": "",
     "sentence": "Nous restons à l'hôtel.",
-    "translation": "",
+    "translation": "quedarse",
     "tags": [
       "hotel",
       "travel",
@@ -5960,7 +5960,7 @@
     "word": "retard",
     "article": "le",
     "sentence": "Le train a du retard.",
-    "translation": "",
+    "translation": "retraso",
     "tags": [
       "travel"
     ]
@@ -5969,7 +5969,7 @@
     "word": "retour",
     "article": "le",
     "sentence": "Le retour est gratuit.",
-    "translation": "",
+    "translation": "regreso",
     "tags": [
       "shopping"
     ]
@@ -5978,7 +5978,7 @@
     "word": "rez-de-chaussée",
     "article": "le",
     "sentence": "Le rez-de-chaussée est accessible.",
-    "translation": "",
+    "translation": "planta baja",
     "tags": [
       "hotel"
     ]
@@ -5987,7 +5987,7 @@
     "word": "reçu",
     "article": "le",
     "sentence": "Le reçu est dans le sac.",
-    "translation": "",
+    "translation": "recibo",
     "tags": [
       "shopping"
     ]
@@ -5996,7 +5996,7 @@
     "word": "rideau",
     "article": "le",
     "sentence": "Le rideau est tiré.",
-    "translation": "",
+    "translation": "cortina",
     "tags": [
       "hotel"
     ]
@@ -6005,7 +6005,7 @@
     "word": "rien",
     "article": "",
     "sentence": "Il n'y a rien à faire.",
-    "translation": "",
+    "translation": "nada",
     "tags": [
       "actions"
     ]
@@ -6014,7 +6014,7 @@
     "word": "rire",
     "article": "",
     "sentence": "Nous rions ensemble.",
-    "translation": "",
+    "translation": "reír",
     "tags": [
       "actions"
     ]
@@ -6023,7 +6023,7 @@
     "word": "rivière",
     "article": "la",
     "sentence": "La rivière traverse la vallée.",
-    "translation": "",
+    "translation": "río",
     "tags": [
       "travel"
     ]
@@ -6032,7 +6032,7 @@
     "word": "riz",
     "article": "le",
     "sentence": "Le riz est un aliment de base.",
-    "translation": "",
+    "translation": "arroz",
     "tags": [
       "food"
     ]
@@ -6041,7 +6041,7 @@
     "word": "robe",
     "article": "la",
     "sentence": "La robe bleue est jolie.",
-    "translation": "",
+    "translation": "vestido",
     "tags": [
       "shopping"
     ]
@@ -6050,7 +6050,7 @@
     "word": "rond-point",
     "article": "le",
     "sentence": "Le rond-point a une fontaine.",
-    "translation": "",
+    "translation": "rotonda",
     "tags": [
       "directions",
       "travel"
@@ -6060,7 +6060,7 @@
     "word": "route",
     "article": "la",
     "sentence": "La route de campagne est belle.",
-    "translation": "",
+    "translation": "carretera",
     "tags": [
       "travel",
       "directions"
@@ -6070,7 +6070,7 @@
     "word": "routine",
     "article": "la",
     "sentence": "La routine quotidienne est importante.",
-    "translation": "",
+    "translation": "rutina",
     "tags": [
       "exercise"
     ]
@@ -6079,7 +6079,7 @@
     "word": "rugby",
     "article": "le",
     "sentence": "Le rugby est un sport de contact.",
-    "translation": "",
+    "translation": "rugby",
     "tags": [
       "sports"
     ]
@@ -6088,7 +6088,7 @@
     "word": "réception",
     "article": "la",
     "sentence": "La réception est ouverte 24 heures.",
-    "translation": "",
+    "translation": "recepción",
     "tags": [
       "hotel"
     ]
@@ -6097,7 +6097,7 @@
     "word": "réduction",
     "article": "la",
     "sentence": "La réduction de vingt pour cent est appliquée.",
-    "translation": "",
+    "translation": "reducción",
     "tags": [
       "shopping"
     ]
@@ -6106,7 +6106,7 @@
     "word": "régime",
     "article": "le",
     "sentence": "Le régime alimentaire est équilibré.",
-    "translation": "",
+    "translation": "dieta",
     "tags": [
       "exercise",
       "food"
@@ -6116,7 +6116,7 @@
     "word": "répertoire",
     "article": "le",
     "sentence": "Le répertoire est sur la carte SIM.",
-    "translation": "",
+    "translation": "directorio",
     "tags": [
       "phone"
     ]
@@ -6125,7 +6125,7 @@
     "word": "répondeur",
     "article": "le",
     "sentence": "Le répondeur enregistre les messages.",
-    "translation": "",
+    "translation": "contestador",
     "tags": [
       "phone"
     ]
@@ -6134,7 +6134,7 @@
     "word": "répondre",
     "article": "",
     "sentence": "Tu réponds au téléphone.",
-    "translation": "",
+    "translation": "responder",
     "tags": [
       "phone",
       "actions"
@@ -6144,7 +6144,7 @@
     "word": "répétition",
     "article": "la",
     "sentence": "La répétition est efficace.",
-    "translation": "",
+    "translation": "repetición",
     "tags": [
       "exercise"
     ]
@@ -6153,7 +6153,7 @@
     "word": "réservation",
     "article": "la",
     "sentence": "La réservation est confirmée.",
-    "translation": "",
+    "translation": "reserva",
     "tags": [
       "travel",
       "hotel"
@@ -6163,7 +6163,7 @@
     "word": "réserver",
     "article": "",
     "sentence": "Tu réserves une chambre.",
-    "translation": "",
+    "translation": "reservar",
     "tags": [
       "travel",
       "hotel"
@@ -6173,7 +6173,7 @@
     "word": "réunion",
     "article": "la",
     "sentence": "La réunion commence à quatorze heures.",
-    "translation": "",
+    "translation": "reunión",
     "tags": [
       "work"
     ]
@@ -6182,7 +6182,7 @@
     "word": "réveil",
     "article": "le",
     "sentence": "Le réveil sonne à sept heures.",
-    "translation": "",
+    "translation": "despertador",
     "tags": [
       "hotel"
     ]
@@ -6191,7 +6191,7 @@
     "word": "rôti",
     "article": "le",
     "sentence": "Le rôti de bœuf est saignant.",
-    "translation": "",
+    "translation": "asado",
     "tags": [
       "food"
     ]
@@ -6200,7 +6200,7 @@
     "word": "s'il te plaît",
     "article": "",
     "sentence": "Passe-moi le sel, s'il te plaît.",
-    "translation": "",
+    "translation": "por favor",
     "tags": [
       "food"
     ]
@@ -6209,7 +6209,7 @@
     "word": "s'il vous plaît",
     "article": "",
     "sentence": "Un café, s'il vous plaît.",
-    "translation": "",
+    "translation": "por favor",
     "tags": [
       "food",
       "hotel"
@@ -6219,7 +6219,7 @@
     "word": "sac",
     "article": "le",
     "sentence": "Le sac de voyage est lourd.",
-    "translation": "",
+    "translation": "bolsa",
     "tags": [
       "travel"
     ]
@@ -6228,7 +6228,7 @@
     "word": "sac à dos",
     "article": "le",
     "sentence": "Le sac à dos est pratique.",
-    "translation": "",
+    "translation": "mochila",
     "tags": [
       "shopping",
       "travel"
@@ -6238,7 +6238,7 @@
     "word": "salade",
     "article": "la",
     "sentence": "La salade est verte et croquante.",
-    "translation": "",
+    "translation": "ensalada",
     "tags": [
       "food"
     ]
@@ -6247,7 +6247,7 @@
     "word": "salaire",
     "article": "le",
     "sentence": "Le salaire est négociable.",
-    "translation": "",
+    "translation": "salario",
     "tags": [
       "work"
     ]
@@ -6256,7 +6256,7 @@
     "word": "salle de bain",
     "article": "la",
     "sentence": "La salle de bain est propre.",
-    "translation": "",
+    "translation": "baño",
     "tags": [
       "hotel"
     ]
@@ -6265,7 +6265,7 @@
     "word": "salle de sport",
     "article": "la",
     "sentence": "La salle de sport est équipée.",
-    "translation": "",
+    "translation": "gimnasio",
     "tags": [
       "hotel",
       "exercise"
@@ -6275,7 +6275,7 @@
     "word": "salut",
     "article": "",
     "sentence": "Salut, ça va ?",
-    "translation": "",
+    "translation": "hola",
     "tags": [
       "phone",
       "travel"
@@ -6285,7 +6285,7 @@
     "word": "samedi",
     "article": "",
     "sentence": "Samedi je fais les courses.",
-    "translation": "",
+    "translation": "sábado",
     "tags": [
       "shopping"
     ]
@@ -6294,7 +6294,7 @@
     "word": "sandwich",
     "article": "le",
     "sentence": "Le sandwich au jambon est bon.",
-    "translation": "",
+    "translation": "sándwich",
     "tags": [
       "food"
     ]
@@ -6303,7 +6303,7 @@
     "word": "sans",
     "article": "",
     "sentence": "Je bois le café sans sucre.",
-    "translation": "",
+    "translation": "sin",
     "tags": [
       "food"
     ]
@@ -6312,7 +6312,7 @@
     "word": "santé",
     "article": "la",
     "sentence": "La santé est primordiale.",
-    "translation": "",
+    "translation": "salud",
     "tags": [
       "exercise"
     ]
@@ -6321,7 +6321,7 @@
     "word": "satisfait",
     "article": "",
     "sentence": "Le client est satisfait.",
-    "translation": "",
+    "translation": "satisfecho",
     "tags": [
       "shopping"
     ]
@@ -6330,7 +6330,7 @@
     "word": "sauce",
     "article": "la",
     "sentence": "La sauce tomate est maison.",
-    "translation": "",
+    "translation": "salsa",
     "tags": [
       "food"
     ]
@@ -6339,7 +6339,7 @@
     "word": "saucisse",
     "article": "la",
     "sentence": "La saucisse grillée est chaude.",
-    "translation": "",
+    "translation": "salchicha",
     "tags": [
       "food"
     ]
@@ -6348,7 +6348,7 @@
     "word": "saumon",
     "article": "le",
     "sentence": "Le saumon fumé est délicieux.",
-    "translation": "",
+    "translation": "salmón",
     "tags": [
       "food"
     ]
@@ -6357,7 +6357,7 @@
     "word": "saut",
     "article": "le",
     "sentence": "Le saut en hauteur est impressionnant.",
-    "translation": "",
+    "translation": "salto",
     "tags": [
       "sports"
     ]
@@ -6366,7 +6366,7 @@
     "word": "sauter",
     "article": "",
     "sentence": "Le chat saute sur la table.",
-    "translation": "",
+    "translation": "saltar",
     "tags": [
       "actions"
     ]
@@ -6375,7 +6375,7 @@
     "word": "sav",
     "article": "le",
     "sentence": "Le service après-vente est joignable.",
-    "translation": "",
+    "translation": "servicio técnico",
     "tags": [
       "shopping"
     ]
@@ -6384,7 +6384,7 @@
     "word": "savoir",
     "article": "",
     "sentence": "Il sait nager.",
-    "translation": "",
+    "translation": "saber",
     "tags": [
       "sports",
       "actions"
@@ -6394,7 +6394,7 @@
     "word": "savon",
     "article": "le",
     "sentence": "Le savon sent bon.",
-    "translation": "",
+    "translation": "jabón",
     "tags": [
       "hotel"
     ]
@@ -6403,7 +6403,7 @@
     "word": "scanner",
     "article": "le",
     "sentence": "Le scanner numérise les documents.",
-    "translation": "",
+    "translation": "escanear",
     "tags": [
       "work"
     ]
@@ -6412,7 +6412,7 @@
     "word": "score",
     "article": "le",
     "sentence": "Le score est de trois à un.",
-    "translation": "",
+    "translation": "marcador",
     "tags": [
       "sports"
     ]
@@ -6421,7 +6421,7 @@
     "word": "se battre",
     "article": "",
     "sentence": "Les garçons se battent dans la cour.",
-    "translation": "",
+    "translation": "pelearse",
     "tags": [
       "sports",
       "actions"
@@ -6431,7 +6431,7 @@
     "word": "se rappeler",
     "article": "",
     "sentence": "Je me rappelle de toi.",
-    "translation": "",
+    "translation": "acordarse",
     "tags": [
       "actions"
     ]
@@ -6440,7 +6440,7 @@
     "word": "sel",
     "article": "le",
     "sentence": "Ajoute un peu de sel.",
-    "translation": "",
+    "translation": "sal",
     "tags": [
       "food"
     ]
@@ -6449,7 +6449,7 @@
     "word": "semaine",
     "article": "la",
     "sentence": "La semaine prochaine je pars.",
-    "translation": "",
+    "translation": "semana",
     "tags": [
       "travel"
     ]
@@ -6458,7 +6458,7 @@
     "word": "sens interdit",
     "article": "le",
     "sentence": "Le sens interdit est signalé.",
-    "translation": "",
+    "translation": "sentido prohibido",
     "tags": [
       "directions",
       "travel"
@@ -6468,7 +6468,7 @@
     "word": "septembre",
     "article": "",
     "sentence": "Septembre est la rentrée.",
-    "translation": "",
+    "translation": "septiembre",
     "tags": [
       "work"
     ]
@@ -6477,7 +6477,7 @@
     "word": "serpent",
     "article": "le",
     "sentence": "Le serpent rampe sur le sol.",
-    "translation": "",
+    "translation": "serpiente",
     "tags": [
       "animals"
     ]
@@ -6486,7 +6486,7 @@
     "word": "service",
     "article": "le",
     "sentence": "Le service en chambre est rapide.",
-    "translation": "",
+    "translation": "servicio",
     "tags": [
       "hotel"
     ]
@@ -6495,7 +6495,7 @@
     "word": "serviette",
     "article": "la",
     "sentence": "La serviette en tissu est propre.",
-    "translation": "",
+    "translation": "servilleta",
     "tags": [
       "hotel",
       "food"
@@ -6505,7 +6505,7 @@
     "word": "serviette de toilette",
     "article": "la",
     "sentence": "La serviette de toilette est moelleuse.",
-    "translation": "",
+    "translation": "toalla",
     "tags": [
       "hotel"
     ]
@@ -6514,7 +6514,7 @@
     "word": "seul",
     "article": "",
     "sentence": "Je voyage seul.",
-    "translation": "",
+    "translation": "solo",
     "tags": [
       "travel"
     ]
@@ -6523,7 +6523,7 @@
     "word": "shampooing",
     "article": "le",
     "sentence": "Le shampooing est dans la douche.",
-    "translation": "",
+    "translation": "champú",
     "tags": [
       "hotel"
     ]
@@ -6532,7 +6532,7 @@
     "word": "short",
     "article": "le",
     "sentence": "Le short en jean est estival.",
-    "translation": "",
+    "translation": "pantalones cortos",
     "tags": [
       "shopping"
     ]
@@ -6541,7 +6541,7 @@
     "word": "signal",
     "article": "le",
     "sentence": "Le signal est faible.",
-    "translation": "",
+    "translation": "señal",
     "tags": [
       "phone"
     ]
@@ -6550,7 +6550,7 @@
     "word": "signaler",
     "article": "",
     "sentence": "Il signale un problème.",
-    "translation": "",
+    "translation": "señalar",
     "tags": [
       "work",
       "phone",
@@ -6561,7 +6561,7 @@
     "word": "signature",
     "article": "la",
     "sentence": "La signature est automatique.",
-    "translation": "",
+    "translation": "firma",
     "tags": [
       "email"
     ]
@@ -6570,7 +6570,7 @@
     "word": "silencieux",
     "article": "",
     "sentence": "Le téléphone est en mode silencieux.",
-    "translation": "",
+    "translation": "silencioso",
     "tags": [
       "phone"
     ]
@@ -6579,7 +6579,7 @@
     "word": "simple",
     "article": "la",
     "sentence": "La chambre simple est petite.",
-    "translation": "",
+    "translation": "simple",
     "tags": [
       "hotel"
     ]
@@ -6588,7 +6588,7 @@
     "word": "singe",
     "article": "le",
     "sentence": "Le singe grimpe aux arbres.",
-    "translation": "",
+    "translation": "mono",
     "tags": [
       "animals"
     ]
@@ -6597,7 +6597,7 @@
     "word": "siège",
     "article": "le",
     "sentence": "Le siège côté fenêtre est libre.",
-    "translation": "",
+    "translation": "asiento",
     "tags": [
       "travel"
     ]
@@ -6606,7 +6606,7 @@
     "word": "soif",
     "article": "la",
     "sentence": "J'ai soif, je veux boire.",
-    "translation": "",
+    "translation": "sed",
     "tags": [
       "food"
     ]
@@ -6615,7 +6615,7 @@
     "word": "soir",
     "article": "le",
     "sentence": "Le soir je dîne.",
-    "translation": "",
+    "translation": "tarde/noche",
     "tags": [
       "food"
     ]
@@ -6624,7 +6624,7 @@
     "word": "sol",
     "article": "le",
     "sentence": "Le sol est en marbre.",
-    "translation": "",
+    "translation": "suelo",
     "tags": [
       "hotel"
     ]
@@ -6633,7 +6633,7 @@
     "word": "soldes",
     "article": "les",
     "sentence": "Les soldes commencent en janvier.",
-    "translation": "",
+    "translation": "rebajas",
     "tags": [
       "shopping"
     ]
@@ -6642,7 +6642,7 @@
     "word": "soleil",
     "article": "le",
     "sentence": "Le soleil brille.",
-    "translation": "",
+    "translation": "sol",
     "tags": [
       "travel"
     ]
@@ -6651,7 +6651,7 @@
     "word": "solution",
     "article": "la",
     "sentence": "La solution est simple.",
-    "translation": "",
+    "translation": "solución",
     "tags": [
       "work"
     ]
@@ -6660,7 +6660,7 @@
     "word": "sondage",
     "article": "le",
     "sentence": "Le sondage est en ligne.",
-    "translation": "",
+    "translation": "encuesta",
     "tags": [
       "work"
     ]
@@ -6669,7 +6669,7 @@
     "word": "sonner",
     "article": "",
     "sentence": "Le téléphone sonne fort.",
-    "translation": "",
+    "translation": "sonar",
     "tags": [
       "phone",
       "actions"
@@ -6679,7 +6679,7 @@
     "word": "sonnerie",
     "article": "la",
     "sentence": "La sonnerie est forte.",
-    "translation": "",
+    "translation": "timbre",
     "tags": [
       "phone"
     ]
@@ -6688,7 +6688,7 @@
     "word": "sortie",
     "article": "la",
     "sentence": "La sortie est à droite.",
-    "translation": "",
+    "translation": "salida",
     "tags": [
       "directions",
       "travel"
@@ -6698,7 +6698,7 @@
     "word": "soupe",
     "article": "la",
     "sentence": "La soupe est chaude.",
-    "translation": "",
+    "translation": "sopa",
     "tags": [
       "food"
     ]
@@ -6707,7 +6707,7 @@
     "word": "souplesse",
     "article": "la",
     "sentence": "La souplesse est essentielle.",
-    "translation": "",
+    "translation": "flexibilidad",
     "tags": [
       "exercise"
     ]
@@ -6716,7 +6716,7 @@
     "word": "sourire",
     "article": "",
     "sentence": "Tu souris tout le temps.",
-    "translation": "",
+    "translation": "sonrisa",
     "tags": [
       "actions"
     ]
@@ -6725,7 +6725,7 @@
     "word": "souris",
     "article": "la",
     "sentence": "La souris mange le fromage.",
-    "translation": "",
+    "translation": "ratón",
     "tags": [
       "animals"
     ]
@@ -6734,7 +6734,7 @@
     "word": "sous-sol",
     "article": "le",
     "sentence": "Le sous-sol est sombre.",
-    "translation": "",
+    "translation": "sótano",
     "tags": [
       "hotel"
     ]
@@ -6743,7 +6743,7 @@
     "word": "sous-total",
     "article": "le",
     "sentence": "Le sous-total est affiché.",
-    "translation": "",
+    "translation": "subtotal",
     "tags": [
       "shopping"
     ]
@@ -6752,7 +6752,7 @@
     "word": "souvenir",
     "article": "le",
     "sentence": "Le souvenir est un aimant.",
-    "translation": "",
+    "translation": "recuerdo",
     "tags": [
       "shopping",
       "travel"
@@ -6762,7 +6762,7 @@
     "word": "souvent",
     "article": "",
     "sentence": "Nous allons souvent au cinéma.",
-    "translation": "",
+    "translation": "a menudo",
     "tags": [
       "actions"
     ]
@@ -6771,7 +6771,7 @@
     "word": "spam",
     "article": "le",
     "sentence": "Le spam est dans les indésirables.",
-    "translation": "",
+    "translation": "spam",
     "tags": [
       "email"
     ]
@@ -6780,7 +6780,7 @@
     "word": "spinning",
     "article": "le",
     "sentence": "Le spinning est un cours de vélo.",
-    "translation": "",
+    "translation": "spinning",
     "tags": [
       "exercise"
     ]
@@ -6789,7 +6789,7 @@
     "word": "sport",
     "article": "le",
     "sentence": "Le sport est bon pour la santé.",
-    "translation": "",
+    "translation": "deporte",
     "tags": [
       "sports",
       "exercise"
@@ -6799,7 +6799,7 @@
     "word": "sprint",
     "article": "le",
     "sentence": "Le sprint final est décisif.",
-    "translation": "",
+    "translation": "sprint",
     "tags": [
       "sports"
     ]
@@ -6808,7 +6808,7 @@
     "word": "squat",
     "article": "le",
     "sentence": "Le squat travaille les jambes.",
-    "translation": "",
+    "translation": "sentadilla",
     "tags": [
       "exercise"
     ]
@@ -6817,7 +6817,7 @@
     "word": "stade",
     "article": "le",
     "sentence": "Le stade est plein.",
-    "translation": "",
+    "translation": "estadio",
     "tags": [
       "sports"
     ]
@@ -6826,7 +6826,7 @@
     "word": "stage",
     "article": "le",
     "sentence": "Le stage dure six mois.",
-    "translation": "",
+    "translation": "prácticas",
     "tags": [
       "work"
     ]
@@ -6835,7 +6835,7 @@
     "word": "stationnement",
     "article": "le",
     "sentence": "Le stationnement est payant.",
-    "translation": "",
+    "translation": "aparcamiento",
     "tags": [
       "directions",
       "travel"
@@ -6845,7 +6845,7 @@
     "word": "statistique",
     "article": "la",
     "sentence": "La statistique montre une tendance.",
-    "translation": "",
+    "translation": "estadística",
     "tags": [
       "work"
     ]
@@ -6854,7 +6854,7 @@
     "word": "step",
     "article": "le",
     "sentence": "Le step améliore le cardio.",
-    "translation": "",
+    "translation": "step",
     "tags": [
       "exercise"
     ]
@@ -6863,7 +6863,7 @@
     "word": "stylo",
     "article": "le",
     "sentence": "Le stylo écrit en bleu.",
-    "translation": "",
+    "translation": "bolígrafo",
     "tags": [
       "work"
     ]
@@ -6872,7 +6872,7 @@
     "word": "sucre",
     "article": "le",
     "sentence": "Tu veux du sucre dans ton café ?",
-    "translation": "",
+    "translation": "azúcar",
     "tags": [
       "food"
     ]
@@ -6881,7 +6881,7 @@
     "word": "sud",
     "article": "le",
     "sentence": "Le sud est ensoleillé.",
-    "translation": "",
+    "translation": "sur",
     "tags": [
       "travel",
       "directions"
@@ -6891,7 +6891,7 @@
     "word": "sueur",
     "article": "la",
     "sentence": "La sueur coule sur le front.",
-    "translation": "",
+    "translation": "sudor",
     "tags": [
       "exercise"
     ]
@@ -6900,7 +6900,7 @@
     "word": "suggérer",
     "article": "",
     "sentence": "Je suggère une idée.",
-    "translation": "",
+    "translation": "sugerir",
     "tags": [
       "work",
       "actions"
@@ -6910,7 +6910,7 @@
     "word": "suite",
     "article": "la",
     "sentence": "La suite présidentielle est luxueuse.",
-    "translation": "",
+    "translation": "continuación",
     "tags": [
       "hotel"
     ]
@@ -6919,7 +6919,7 @@
     "word": "suivre",
     "article": "",
     "sentence": "Suivez cette route.",
-    "translation": "",
+    "translation": "seguir",
     "tags": [
       "directions",
       "travel",
@@ -6930,7 +6930,7 @@
     "word": "supplément",
     "article": "le",
     "sentence": "Le supplément pour le parking est de dix euros.",
-    "translation": "",
+    "translation": "suplemento",
     "tags": [
       "hotel"
     ]
@@ -6939,7 +6939,7 @@
     "word": "supporter",
     "article": "le",
     "sentence": "Le supporter agite un drapeau.",
-    "translation": "",
+    "translation": "soportar",
     "tags": [
       "sports"
     ]
@@ -6948,7 +6948,7 @@
     "word": "supprimer",
     "article": "",
     "sentence": "Tu supprimes l'email.",
-    "translation": "",
+    "translation": "eliminar",
     "tags": [
       "email",
       "actions"
@@ -6958,7 +6958,7 @@
     "word": "sèche-cheveux",
     "article": "le",
     "sentence": "Le sèche-cheveux est dans la salle de bain.",
-    "translation": "",
+    "translation": "secador de pelo",
     "tags": [
       "hotel"
     ]
@@ -6967,7 +6967,7 @@
     "word": "séjour",
     "article": "le",
     "sentence": "Le séjour à l'hôtel était agréable.",
-    "translation": "",
+    "translation": "estancia",
     "tags": [
       "hotel"
     ]
@@ -6976,7 +6976,7 @@
     "word": "série",
     "article": "la",
     "sentence": "La série de dix répétitions est finie.",
-    "translation": "",
+    "translation": "serie",
     "tags": [
       "exercise"
     ]
@@ -6985,7 +6985,7 @@
     "word": "sœur",
     "article": "la",
     "sentence": "La sœur aînée étudie.",
-    "translation": "",
+    "translation": "hermana",
     "tags": [
       "work"
     ]
@@ -6994,7 +6994,7 @@
     "word": "table",
     "article": "la",
     "sentence": "La table est en bois.",
-    "translation": "",
+    "translation": "mesa",
     "tags": [
       "food"
     ]
@@ -7003,7 +7003,7 @@
     "word": "taille",
     "article": "la",
     "sentence": "La taille M me va bien.",
-    "translation": "",
+    "translation": "talla",
     "tags": [
       "shopping"
     ]
@@ -7012,7 +7012,7 @@
     "word": "tapis",
     "article": "le",
     "sentence": "Le tapis de sol est antidérapant.",
-    "translation": "",
+    "translation": "alfombra",
     "tags": [
       "exercise"
     ]
@@ -7021,7 +7021,7 @@
     "word": "tapissus",
     "article": "le",
     "sentence": "Le tapis roulant est réglable.",
-    "translation": "",
+    "translation": "tapices",
     "tags": [
       "exercise"
     ]
@@ -7030,7 +7030,7 @@
     "word": "tarte",
     "article": "la",
     "sentence": "La tarte aux pommes est chaude.",
-    "translation": "",
+    "translation": "tarta",
     "tags": [
       "food"
     ]
@@ -7039,7 +7039,7 @@
     "word": "tasse",
     "article": "la",
     "sentence": "La tasse est remplie de café.",
-    "translation": "",
+    "translation": "taza",
     "tags": [
       "food"
     ]
@@ -7048,7 +7048,7 @@
     "word": "taxe",
     "article": "la",
     "sentence": "La taxe est incluse.",
-    "translation": "",
+    "translation": "impuesto",
     "tags": [
       "shopping"
     ]
@@ -7057,7 +7057,7 @@
     "word": "taxi",
     "article": "le",
     "sentence": "Le taxi attend devant l'hôtel.",
-    "translation": "",
+    "translation": "taxi",
     "tags": [
       "travel",
       "hotel"
@@ -7067,7 +7067,7 @@
     "word": "temps",
     "article": "le",
     "sentence": "Le temps est nuageux.",
-    "translation": "",
+    "translation": "tiempo",
     "tags": [
       "travel"
     ]
@@ -7076,7 +7076,7 @@
     "word": "temps partiel",
     "article": "le",
     "sentence": "Le temps partiel est possible.",
-    "translation": "",
+    "translation": "tiempo parcial",
     "tags": [
       "work"
     ]
@@ -7085,7 +7085,7 @@
     "word": "temps plein",
     "article": "le",
     "sentence": "Le temps plein est de trente-cinq heures.",
-    "translation": "",
+    "translation": "tiempo completo",
     "tags": [
       "work"
     ]
@@ -7094,7 +7094,7 @@
     "word": "tenir",
     "article": "",
     "sentence": "Il tient un parapluie.",
-    "translation": "",
+    "translation": "tener",
     "tags": [
       "actions"
     ]
@@ -7103,7 +7103,7 @@
     "word": "tennis",
     "article": "le",
     "sentence": "Le tennis sur gazon est classique.",
-    "translation": "",
+    "translation": "tenis",
     "tags": [
       "sports"
     ]
@@ -7112,7 +7112,7 @@
     "word": "terminal",
     "article": "le",
     "sentence": "Le terminal est immense.",
-    "translation": "",
+    "translation": "terminal",
     "tags": [
       "travel"
     ]
@@ -7121,7 +7121,7 @@
     "word": "terrasse",
     "article": "la",
     "sentence": "La terrasse a une belle vue.",
-    "translation": "",
+    "translation": "terraza",
     "tags": [
       "hotel"
     ]
@@ -7130,7 +7130,7 @@
     "word": "thon",
     "article": "le",
     "sentence": "Le thon en boîte est pratique.",
-    "translation": "",
+    "translation": "atún",
     "tags": [
       "food"
     ]
@@ -7139,7 +7139,7 @@
     "word": "thé",
     "article": "le",
     "sentence": "Le thé à la menthe est bon.",
-    "translation": "",
+    "translation": "té",
     "tags": [
       "food"
     ]
@@ -7148,7 +7148,7 @@
     "word": "tigre",
     "article": "le",
     "sentence": "Le tigre chasse dans la jungle.",
-    "translation": "",
+    "translation": "tigre",
     "tags": [
       "animals"
     ]
@@ -7157,7 +7157,7 @@
     "word": "tir",
     "article": "le",
     "sentence": "Le tir est cadré.",
-    "translation": "",
+    "translation": "disparo",
     "tags": [
       "sports"
     ]
@@ -7166,7 +7166,7 @@
     "word": "tirer",
     "article": "",
     "sentence": "Tire la corde doucement.",
-    "translation": "",
+    "translation": "tirar",
     "tags": [
       "exercise",
       "actions"
@@ -7176,7 +7176,7 @@
     "word": "tiroir",
     "article": "le",
     "sentence": "Le tiroir est bloqué.",
-    "translation": "",
+    "translation": "cajón",
     "tags": [
       "hotel"
     ]
@@ -7185,7 +7185,7 @@
     "word": "tirs au but",
     "article": "les",
     "sentence": "Les tirs au but décident du vainqueur.",
-    "translation": "",
+    "translation": "penaltis",
     "tags": [
       "sports"
     ]
@@ -7194,7 +7194,7 @@
     "word": "toit",
     "article": "le",
     "sentence": "Le toit de l'immeuble est plat.",
-    "translation": "",
+    "translation": "techo",
     "tags": [
       "travel"
     ]
@@ -7203,7 +7203,7 @@
     "word": "tomate",
     "article": "la",
     "sentence": "La tomate est rouge et juteuse.",
-    "translation": "",
+    "translation": "tomate",
     "tags": [
       "food"
     ]
@@ -7212,7 +7212,7 @@
     "word": "tortue",
     "article": "la",
     "sentence": "La tortue marche lentement.",
-    "translation": "",
+    "translation": "tortuga",
     "tags": [
       "animals"
     ]
@@ -7221,7 +7221,7 @@
     "word": "total",
     "article": "le",
     "sentence": "Le total est cent euros.",
-    "translation": "",
+    "translation": "total",
     "tags": [
       "shopping"
     ]
@@ -7230,7 +7230,7 @@
     "word": "toujours",
     "article": "",
     "sentence": "Il est toujours en retard.",
-    "translation": "",
+    "translation": "siempre",
     "tags": [
       "travel"
     ]
@@ -7239,7 +7239,7 @@
     "word": "touriste",
     "article": "le",
     "sentence": "Le touriste prend des photos.",
-    "translation": "",
+    "translation": "turista",
     "tags": [
       "travel"
     ]
@@ -7248,7 +7248,7 @@
     "word": "tourner",
     "article": "",
     "sentence": "Tourne à droite au prochain feu.",
-    "translation": "",
+    "translation": "girar",
     "tags": [
       "directions",
       "travel",
@@ -7259,7 +7259,7 @@
     "word": "tournoi",
     "article": "le",
     "sentence": "Le tournoi de tennis est annuel.",
-    "translation": "",
+    "translation": "torneo",
     "tags": [
       "sports"
     ]
@@ -7268,7 +7268,7 @@
     "word": "tout",
     "article": "",
     "sentence": "Tout va bien.",
-    "translation": "",
+    "translation": "todo",
     "tags": [
       "travel"
     ]
@@ -7277,7 +7277,7 @@
     "word": "tout droit",
     "article": "",
     "sentence": "Continue tout droit pendant deux kilomètres.",
-    "translation": "",
+    "translation": "todo recto",
     "tags": [
       "directions"
     ]
@@ -7286,7 +7286,7 @@
     "word": "tractions",
     "article": "les",
     "sentence": "Les tractions sont difficiles.",
-    "translation": "",
+    "translation": "dominadas",
     "tags": [
       "exercise"
     ]
@@ -7295,7 +7295,7 @@
     "word": "train",
     "article": "le",
     "sentence": "Le train part à neuf heures.",
-    "translation": "",
+    "translation": "tren",
     "tags": [
       "travel"
     ]
@@ -7304,7 +7304,7 @@
     "word": "trancher",
     "article": "",
     "sentence": "Tranche le pain.",
-    "translation": "",
+    "translation": "cortar",
     "tags": [
       "food",
       "actions"
@@ -7314,7 +7314,7 @@
     "word": "transférer",
     "article": "",
     "sentence": "Je transfère l'appel.",
-    "translation": "",
+    "translation": "transferir",
     "tags": [
       "phone",
       "actions"
@@ -7324,7 +7324,7 @@
     "word": "travail",
     "article": "le",
     "sentence": "Le travail est intéressant.",
-    "translation": "",
+    "translation": "trabajo",
     "tags": [
       "work"
     ]
@@ -7333,7 +7333,7 @@
     "word": "traverser",
     "article": "",
     "sentence": "Traverse la rue au passage piéton.",
-    "translation": "",
+    "translation": "cruzar",
     "tags": [
       "directions",
       "travel",
@@ -7344,7 +7344,7 @@
     "word": "triceps",
     "article": "le",
     "sentence": "Le triceps est travaillé.",
-    "translation": "",
+    "translation": "tríceps",
     "tags": [
       "exercise"
     ]
@@ -7353,7 +7353,7 @@
     "word": "trier",
     "article": "",
     "sentence": "Trie les emails par date.",
-    "translation": "",
+    "translation": "clasificar",
     "tags": [
       "email",
       "actions"
@@ -7363,7 +7363,7 @@
     "word": "triste",
     "article": "",
     "sentence": "Elle est triste.",
-    "translation": "",
+    "translation": "triste",
     "tags": [
       "actions"
     ]
@@ -7372,7 +7372,7 @@
     "word": "trop",
     "article": "",
     "sentence": "C'est trop cher.",
-    "translation": "",
+    "translation": "demasiado",
     "tags": [
       "shopping"
     ]
@@ -7381,7 +7381,7 @@
     "word": "trouver",
     "article": "",
     "sentence": "Je trouve le chemin.",
-    "translation": "",
+    "translation": "encontrar",
     "tags": [
       "directions",
       "actions"
@@ -7391,7 +7391,7 @@
     "word": "très",
     "article": "",
     "sentence": "C'est très intéressant.",
-    "translation": "",
+    "translation": "muy",
     "tags": [
       "work"
     ]
@@ -7400,7 +7400,7 @@
     "word": "tunnel",
     "article": "le",
     "sentence": "Le tunnel est long.",
-    "translation": "",
+    "translation": "túnel",
     "tags": [
       "directions",
       "travel"
@@ -7410,7 +7410,7 @@
     "word": "tâche",
     "article": "la",
     "sentence": "La tâche est urgente.",
-    "translation": "",
+    "translation": "tarea",
     "tags": [
       "work"
     ]
@@ -7419,7 +7419,7 @@
     "word": "téléphone",
     "article": "le",
     "sentence": "Le téléphone sonne.",
-    "translation": "",
+    "translation": "teléfono",
     "tags": [
       "phone"
     ]
@@ -7428,7 +7428,7 @@
     "word": "téléphone fixe",
     "article": "le",
     "sentence": "Le téléphone fixe sonne dans le bureau.",
-    "translation": "",
+    "translation": "teléfono fijo",
     "tags": [
       "work",
       "phone"
@@ -7438,7 +7438,7 @@
     "word": "téléphoner",
     "article": "",
     "sentence": "Je telephone à ma mère.",
-    "translation": "",
+    "translation": "llamar por teléfono",
     "tags": [
       "phone",
       "actions"
@@ -7448,7 +7448,7 @@
     "word": "télétravail",
     "article": "le",
     "sentence": "Le télétravail est autorisé deux jours par semaine.",
-    "translation": "",
+    "translation": "teletrabajo",
     "tags": [
       "work"
     ]
@@ -7457,7 +7457,7 @@
     "word": "télévision",
     "article": "la",
     "sentence": "La télévision a des chaînes internationales.",
-    "translation": "",
+    "translation": "televisión",
     "tags": [
       "hotel"
     ]
@@ -7466,7 +7466,7 @@
     "word": "un peu",
     "article": "",
     "sentence": "Je parle un peu français.",
-    "translation": "",
+    "translation": "un poco",
     "tags": [
       "phone"
     ]
@@ -7475,7 +7475,7 @@
     "word": "urgent",
     "article": "",
     "sentence": "Le message est urgent.",
-    "translation": "",
+    "translation": "urgente",
     "tags": [
       "phone",
       "work"
@@ -7485,7 +7485,7 @@
     "word": "utiliser",
     "article": "",
     "sentence": "Nous utilisons le dictionnaire.",
-    "translation": "",
+    "translation": "utilizar",
     "tags": [
       "work",
       "actions"
@@ -7495,7 +7495,7 @@
     "word": "vacances",
     "article": "les",
     "sentence": "Les vacances d'été commencent.",
-    "translation": "",
+    "translation": "vacaciones",
     "tags": [
       "travel"
     ]
@@ -7504,7 +7504,7 @@
     "word": "vache",
     "article": "la",
     "sentence": "La vache mange de l'herbe.",
-    "translation": "",
+    "translation": "vaca",
     "tags": [
       "animals"
     ]
@@ -7513,7 +7513,7 @@
     "word": "valise",
     "article": "la",
     "sentence": "La valise est dans le coffre.",
-    "translation": "",
+    "translation": "maleta",
     "tags": [
       "travel"
     ]
@@ -7522,7 +7522,7 @@
     "word": "vendeur",
     "article": "le",
     "sentence": "Le vendeur est aimable.",
-    "translation": "",
+    "translation": "vendedor",
     "tags": [
       "shopping"
     ]
@@ -7531,7 +7531,7 @@
     "word": "vendre",
     "article": "",
     "sentence": "Il vend sa voiture.",
-    "translation": "",
+    "translation": "vender",
     "tags": [
       "shopping",
       "actions"
@@ -7541,7 +7541,7 @@
     "word": "vendredi",
     "article": "",
     "sentence": "Vendredi soir je sors.",
-    "translation": "",
+    "translation": "viernes",
     "tags": [
       "travel"
     ]
@@ -7550,7 +7550,7 @@
     "word": "venir",
     "article": "",
     "sentence": "Tu viens à la fête ?",
-    "translation": "",
+    "translation": "venir",
     "tags": [
       "travel",
       "actions"
@@ -7560,7 +7560,7 @@
     "word": "vent",
     "article": "le",
     "sentence": "Le vent souffle fort.",
-    "translation": "",
+    "translation": "viento",
     "tags": [
       "travel"
     ]
@@ -7569,7 +7569,7 @@
     "word": "verre",
     "article": "le",
     "sentence": "Le verre est en cristal.",
-    "translation": "",
+    "translation": "vaso",
     "tags": [
       "food"
     ]
@@ -7578,7 +7578,7 @@
     "word": "verser",
     "article": "",
     "sentence": "Verse le lait dans le bol.",
-    "translation": "",
+    "translation": "verter",
     "tags": [
       "food",
       "actions"
@@ -7588,7 +7588,7 @@
     "word": "veste",
     "article": "la",
     "sentence": "La veste en cuir est chaude.",
-    "translation": "",
+    "translation": "chaqueta",
     "tags": [
       "shopping"
     ]
@@ -7597,7 +7597,7 @@
     "word": "viande",
     "article": "la",
     "sentence": "La viande est bien cuite.",
-    "translation": "",
+    "translation": "carne",
     "tags": [
       "food"
     ]
@@ -7606,7 +7606,7 @@
     "word": "vide",
     "article": "",
     "sentence": "La salle est vide.",
-    "translation": "",
+    "translation": "vacío",
     "tags": [
       "hotel"
     ]
@@ -7615,7 +7615,7 @@
     "word": "vieux",
     "article": "",
     "sentence": "Le bâtiment est vieux.",
-    "translation": "",
+    "translation": "viejo",
     "tags": [
       "travel"
     ]
@@ -7624,7 +7624,7 @@
     "word": "village",
     "article": "le",
     "sentence": "Le village est paisible.",
-    "translation": "",
+    "translation": "pueblo",
     "tags": [
       "travel"
     ]
@@ -7633,7 +7633,7 @@
     "word": "ville",
     "article": "la",
     "sentence": "La ville est animée.",
-    "translation": "",
+    "translation": "ciudad",
     "tags": [
       "travel"
     ]
@@ -7642,7 +7642,7 @@
     "word": "vin",
     "article": "le",
     "sentence": "Le vin rouge est tannique.",
-    "translation": "",
+    "translation": "vino",
     "tags": [
       "food"
     ]
@@ -7651,7 +7651,7 @@
     "word": "vinaigre",
     "article": "le",
     "sentence": "Le vinaigre balsamique est doux.",
-    "translation": "",
+    "translation": "vinagre",
     "tags": [
       "food"
     ]
@@ -7660,7 +7660,7 @@
     "word": "visiter",
     "article": "",
     "sentence": "Nous visitons le musée.",
-    "translation": "",
+    "translation": "visitar",
     "tags": [
       "travel",
       "actions"
@@ -7670,7 +7670,7 @@
     "word": "vite",
     "article": "",
     "sentence": "Il court vite.",
-    "translation": "",
+    "translation": "rápido",
     "tags": [
       "sports"
     ]
@@ -7679,7 +7679,7 @@
     "word": "vivre",
     "article": "",
     "sentence": "Elle vit à Paris.",
-    "translation": "",
+    "translation": "vivir",
     "tags": [
       "travel",
       "actions"
@@ -7689,7 +7689,7 @@
     "word": "voici",
     "article": "",
     "sentence": "Voici mon ami.",
-    "translation": "",
+    "translation": "aquí está",
     "tags": [
       "travel"
     ]
@@ -7698,7 +7698,7 @@
     "word": "voie",
     "article": "la",
     "sentence": "La voie de gauche est libre.",
-    "translation": "",
+    "translation": "vía",
     "tags": [
       "directions",
       "travel"
@@ -7708,7 +7708,7 @@
     "word": "voilà",
     "article": "",
     "sentence": "Voilà la solution.",
-    "translation": "",
+    "translation": "allí está",
     "tags": [
       "work"
     ]
@@ -7717,7 +7717,7 @@
     "word": "voir",
     "article": "",
     "sentence": "Tu vois le monument ?",
-    "translation": "",
+    "translation": "ver",
     "tags": [
       "travel",
       "actions"
@@ -7727,7 +7727,7 @@
     "word": "voiture",
     "article": "la",
     "sentence": "La voiture est garée dehors.",
-    "translation": "",
+    "translation": "coche",
     "tags": [
       "travel"
     ]
@@ -7736,7 +7736,7 @@
     "word": "vol",
     "article": "le",
     "sentence": "Le vol dure trois heures.",
-    "translation": "",
+    "translation": "vuelo",
     "tags": [
       "travel"
     ]
@@ -7745,7 +7745,7 @@
     "word": "voler",
     "article": "",
     "sentence": "L'oiseau vole dans le ciel.",
-    "translation": "",
+    "translation": "volar",
     "tags": [
       "animals",
       "travel",
@@ -7756,7 +7756,7 @@
     "word": "volleyball",
     "article": "le",
     "sentence": "Le volleyball se joue sur un terrain.",
-    "translation": "",
+    "translation": "voleibol",
     "tags": [
       "sports"
     ]
@@ -7765,7 +7765,7 @@
     "word": "vouloir",
     "article": "",
     "sentence": "Je veux un café.",
-    "translation": "",
+    "translation": "querer",
     "tags": [
       "food",
       "shopping",
@@ -7776,7 +7776,7 @@
     "word": "voyage",
     "article": "le",
     "sentence": "Le voyage en France est magnifique.",
-    "translation": "",
+    "translation": "viaje",
     "tags": [
       "travel"
     ]
@@ -7785,7 +7785,7 @@
     "word": "voyager",
     "article": "",
     "sentence": "Nous voyageons en Europe.",
-    "translation": "",
+    "translation": "viajar",
     "tags": [
       "travel",
       "actions"
@@ -7795,7 +7795,7 @@
     "word": "voyageur",
     "article": "le",
     "sentence": "Le voyageur a un sac à dos.",
-    "translation": "",
+    "translation": "viajero",
     "tags": [
       "travel"
     ]
@@ -7804,7 +7804,7 @@
     "word": "vue",
     "article": "la",
     "sentence": "La vue sur la mer est magnifique.",
-    "translation": "",
+    "translation": "vista",
     "tags": [
       "hotel"
     ]
@@ -7813,7 +7813,7 @@
     "word": "vélo",
     "article": "le",
     "sentence": "Le vélo est un bon moyen de transport.",
-    "translation": "",
+    "translation": "bicicleta",
     "tags": [
       "travel",
       "exercise"
@@ -7823,7 +7823,7 @@
     "word": "vêtement",
     "article": "le",
     "sentence": "Le vêtement est en coton.",
-    "translation": "",
+    "translation": "ropa",
     "tags": [
       "shopping"
     ]
@@ -7832,7 +7832,7 @@
     "word": "wifi",
     "article": "le",
     "sentence": "Le wifi est gratuit.",
-    "translation": "",
+    "translation": "wifi",
     "tags": [
       "hotel"
     ]
@@ -7841,7 +7841,7 @@
     "word": "yaourt",
     "article": "le",
     "sentence": "Le yaourt nature est bon pour la santé.",
-    "translation": "",
+    "translation": "yogur",
     "tags": [
       "food"
     ]
@@ -7850,7 +7850,7 @@
     "word": "yoga",
     "article": "le",
     "sentence": "Le yoga améliore la souplesse.",
-    "translation": "",
+    "translation": "yoga",
     "tags": [
       "exercise"
     ]
@@ -7859,7 +7859,7 @@
     "word": "zumba",
     "article": "la",
     "sentence": "La zumba est une danse fitness.",
-    "translation": "",
+    "translation": "zumba",
     "tags": [
       "exercise"
     ]
@@ -7868,7 +7868,7 @@
     "word": "âne",
     "article": "l'",
     "sentence": "L'âne porte une lourde charge.",
-    "translation": "",
+    "translation": "burro",
     "tags": [
       "animals"
     ]
@@ -7877,7 +7877,7 @@
     "word": "échange",
     "article": "l'",
     "sentence": "L'échange est possible sous trente jours.",
-    "translation": "",
+    "translation": "intercambio",
     "tags": [
       "shopping"
     ]
@@ -7886,7 +7886,7 @@
     "word": "écharpe",
     "article": "l'",
     "sentence": "L'écharpe en laine est douce.",
-    "translation": "",
+    "translation": "bufanda",
     "tags": [
       "shopping"
     ]
@@ -7895,7 +7895,7 @@
     "word": "échauffement",
     "article": "l'",
     "sentence": "L'échauffement avant le match est essentiel.",
-    "translation": "",
+    "translation": "calentamiento",
     "tags": [
       "sports",
       "exercise"
@@ -7905,7 +7905,7 @@
     "word": "échéance",
     "article": "l'",
     "sentence": "L'échéance est dans une semaine.",
-    "translation": "",
+    "translation": "vencimiento",
     "tags": [
       "work"
     ]
@@ -7914,7 +7914,7 @@
     "word": "économiser",
     "article": "",
     "sentence": "Elle économise pour ses vacances.",
-    "translation": "",
+    "translation": "ahorrar",
     "tags": [
       "travel",
       "shopping",
@@ -7925,7 +7925,7 @@
     "word": "écouter",
     "article": "",
     "sentence": "Elle écoute de la musique.",
-    "translation": "",
+    "translation": "escuchar",
     "tags": [
       "actions"
     ]
@@ -7934,7 +7934,7 @@
     "word": "écran",
     "article": "l'",
     "sentence": "L'écran est tactile.",
-    "translation": "",
+    "translation": "pantalla",
     "tags": [
       "work"
     ]
@@ -7943,7 +7943,7 @@
     "word": "écrire",
     "article": "",
     "sentence": "Tu écris une lettre.",
-    "translation": "",
+    "translation": "escribir",
     "tags": [
       "email",
       "work",
@@ -7954,7 +7954,7 @@
     "word": "écureuil",
     "article": "l'",
     "sentence": "L'écureuil cache des noisettes.",
-    "translation": "",
+    "translation": "ardilla",
     "tags": [
       "animals"
     ]
@@ -7963,7 +7963,7 @@
     "word": "élastique",
     "article": "l'",
     "sentence": "L'élastique de résistance est tendu.",
-    "translation": "",
+    "translation": "elástico",
     "tags": [
       "exercise"
     ]
@@ -7972,7 +7972,7 @@
     "word": "éléphant",
     "article": "l'",
     "sentence": "L'éléphant est un grand mammifère.",
-    "translation": "",
+    "translation": "elefante",
     "tags": [
       "animals"
     ]
@@ -7981,7 +7981,7 @@
     "word": "épaule",
     "article": "l'",
     "sentence": "L'épaule est musclée.",
-    "translation": "",
+    "translation": "hombro",
     "tags": [
       "exercise"
     ]
@@ -7990,7 +7990,7 @@
     "word": "épice",
     "article": "l'",
     "sentence": "L'épice donne du goût.",
-    "translation": "",
+    "translation": "especia",
     "tags": [
       "food"
     ]
@@ -7999,7 +7999,7 @@
     "word": "éplucher",
     "article": "",
     "sentence": "Épluche les pommes de terre.",
-    "translation": "",
+    "translation": "pelar",
     "tags": [
       "food",
       "actions"
@@ -8009,7 +8009,7 @@
     "word": "équilibre",
     "article": "l'",
     "sentence": "L'équilibre est bon.",
-    "translation": "",
+    "translation": "equilibrio",
     "tags": [
       "exercise"
     ]
@@ -8018,7 +8018,7 @@
     "word": "équipe",
     "article": "l'",
     "sentence": "L'équipe est motivée.",
-    "translation": "",
+    "translation": "equipo",
     "tags": [
       "work",
       "sports"
@@ -8028,7 +8028,7 @@
     "word": "étage",
     "article": "l'",
     "sentence": "L'étage est accessible par ascenseur.",
-    "translation": "",
+    "translation": "piso",
     "tags": [
       "hotel"
     ]
@@ -8037,7 +8037,7 @@
     "word": "étiquette",
     "article": "l'",
     "sentence": "L'étiquette indique le prix.",
-    "translation": "",
+    "translation": "etiqueta",
     "tags": [
       "shopping"
     ]
@@ -8046,7 +8046,7 @@
     "word": "étirer",
     "article": "",
     "sentence": "Étire-toi avant l'effort.",
-    "translation": "",
+    "translation": "estirar",
     "tags": [
       "exercise",
       "actions"
@@ -8056,7 +8056,7 @@
     "word": "étoile",
     "article": "l'",
     "sentence": "L'étoile brille dans le ciel.",
-    "translation": "",
+    "translation": "estrella",
     "tags": [
       "travel"
     ]
@@ -8065,7 +8065,7 @@
     "word": "étranger",
     "article": "l'",
     "sentence": "L'étranger demande son chemin.",
-    "translation": "",
+    "translation": "extranjero",
     "tags": [
       "travel"
     ]
@@ -8074,7 +8074,7 @@
     "word": "été",
     "article": "l'",
     "sentence": "L'été est chaud.",
-    "translation": "",
+    "translation": "verano",
     "tags": [
       "travel"
     ]
@@ -8083,7 +8083,7 @@
     "word": "évaluation",
     "article": "l'",
     "sentence": "L'évaluation annuelle est prévue.",
-    "translation": "",
+    "translation": "evaluación",
     "tags": [
       "work"
     ]
@@ -8092,7 +8092,7 @@
     "word": "éviter",
     "article": "",
     "sentence": "Évite les ennuis.",
-    "translation": "",
+    "translation": "evitar",
     "tags": [
       "actions"
     ]
@@ -8101,7 +8101,7 @@
     "word": "île",
     "article": "l'",
     "sentence": "L'île est entourée d'eau.",
-    "translation": "",
+    "translation": "isla",
     "tags": [
       "travel"
     ]
@@ -8110,7 +8110,7 @@
     "word": "œuf",
     "article": "l'",
     "sentence": "L'œuf est frais.",
-    "translation": "",
+    "translation": "huevo",
     "tags": [
       "food"
     ]

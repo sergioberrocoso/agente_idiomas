@@ -4,3 +4,5 @@ __pycache__/
 data/definitions_cache.json
 *.zip
 .DS_Store
+
+generate_translations.py

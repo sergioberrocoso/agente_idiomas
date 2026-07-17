@@ -95,6 +95,11 @@ def all_vocab():
         if entry["word"] not in existing_words:
             vocab.append(entry)
             existing_words.add(entry["word"])
+    for entry in vocab:
+        if "sentence" in entry and entry["sentence"] and "example" not in entry:
+            entry["example"] = entry["sentence"]
+        if "translation" in entry and entry["translation"] and "spanish" not in entry:
+            entry["spanish"] = entry["translation"]
     return jsonify(vocab)
 
 
@@ -111,6 +116,11 @@ def vocab_by_mission(mission_id):
             if entry["word"] not in existing_words:
                 vocab.append(entry)
                 existing_words.add(entry["word"])
+        for entry in vocab:
+            if "sentence" in entry and entry["sentence"] and "example" not in entry:
+                entry["example"] = entry["sentence"]
+            if "translation" in entry and entry["translation"] and "spanish" not in entry:
+                entry["spanish"] = entry["translation"]
         return jsonify(vocab)
     except (ValueError, KeyError) as e:
         return jsonify({"error": str(e)}), 404

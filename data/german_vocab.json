@@ -3,21 +3,21 @@
     "word": "ab",
     "article": "",
     "sentence": "Ab morgen muss ich arbeiten.",
-    "translation": "",
+    "translation": "desde",
     "tags": []
   },
   {
     "word": "aber",
     "article": "",
     "sentence": "Ich bin oft im Büro, aber nur für wenige Stunden.",
-    "translation": "",
+    "translation": "pero",
     "tags": []
   },
   {
     "word": "abfahren",
     "article": "",
     "sentence": "Wir fahren um zwölf Uhr ab.",
-    "translation": "",
+    "translation": "salir",
     "tags": [
       "actions"
     ]
@@ -26,7 +26,7 @@
     "word": "Abfahrt",
     "article": "die",
     "sentence": "Vor der Abfahrt rufe ich an.",
-    "translation": "",
+    "translation": "salida",
     "tags": [
       "travel"
     ]
@@ -35,7 +35,7 @@
     "word": "abgeben",
     "article": "",
     "sentence": "Ich muss meine Schlüssel abgeben.",
-    "translation": "",
+    "translation": "entregar",
     "tags": [
       "actions"
     ]
@@ -44,7 +44,7 @@
     "word": "abholen",
     "article": "",
     "sentence": "Wann kann ich den Schrank bei dir abholen?",
-    "translation": "",
+    "translation": "recoger",
     "tags": [
       "actions"
     ]
@@ -53,7 +53,7 @@
     "word": "Absender",
     "article": "der",
     "sentence": "Da ist ein Brief für dich ohne Absender.",
-    "translation": "",
+    "translation": "remitente",
     "tags": [
       "email"
     ]
@@ -69,7 +69,7 @@
     "word": "Adresse",
     "article": "die",
     "sentence": "Können Sie mir seine Adresse sagen?",
-    "translation": "",
+    "translation": "dirección",
     "tags": [
       "travel",
       "email",
@@ -80,56 +80,56 @@
     "word": "all-",
     "article": "",
     "sentence": "Alles Gute!",
-    "translation": "",
+    "translation": "todo",
     "tags": []
   },
   {
     "word": "allein",
     "article": "",
     "sentence": "Er kommt allein.",
-    "translation": "",
+    "translation": "solo",
     "tags": []
   },
   {
     "word": "also",
     "article": "",
     "sentence": "Also, es ist so: …",
-    "translation": "",
+    "translation": "así que",
     "tags": []
   },
   {
     "word": "alt",
     "article": "",
     "sentence": "Wie alt sind Sie?",
-    "translation": "",
+    "translation": "viejo",
     "tags": []
   },
   {
     "word": "Alter",
     "article": "das",
     "sentence": "Alter: 26 Jahre.",
-    "translation": "",
+    "translation": "edad",
     "tags": []
   },
   {
     "word": "an",
     "article": "",
     "sentence": "Fahren Sie an der nächsten Straße nach rechts.",
-    "translation": "",
+    "translation": "en",
     "tags": []
   },
   {
     "word": "anbieten",
     "article": "",
     "sentence": "Was darf ich dir anbieten?",
-    "translation": "",
+    "translation": "ofrecer",
     "tags": []
   },
   {
     "word": "Angebot",
     "article": "das",
     "sentence": "Heute sind Sportschuhe im Angebot.",
-    "translation": "",
+    "translation": "oferta",
     "tags": [
       "shopping"
     ]
@@ -138,14 +138,14 @@
     "word": "ander-",
     "article": "",
     "sentence": "Willst du diese Jacke?",
-    "translation": "",
+    "translation": "otro",
     "tags": []
   },
   {
     "word": "anfangen",
     "article": "",
     "sentence": "Hier fängt die Bahnhofstraße an.",
-    "translation": "",
+    "translation": "empezar",
     "tags": [
       "actions"
     ]
@@ -154,21 +154,21 @@
     "word": "Anfang",
     "article": "der",
     "sentence": "Sie wohnt am Anfang der Straße.",
-    "translation": "",
+    "translation": "principio",
     "tags": []
   },
   {
     "word": "anklicken",
     "article": "",
     "sentence": "Da musst du dieses Wort anklicken.",
-    "translation": "",
+    "translation": "hacer clic",
     "tags": []
   },
   {
     "word": "ankommen",
     "article": "",
     "sentence": "Wann kommt dieser Zug in Hamburg an?",
-    "translation": "",
+    "translation": "llegar",
     "tags": [
       "actions"
     ]
@@ -177,7 +177,7 @@
     "word": "Ankunft",
     "article": "die",
     "sentence": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.",
-    "translation": "",
+    "translation": "llegada",
     "tags": [
       "travel"
     ]
@@ -186,42 +186,42 @@
     "word": "ankreuzen",
     "article": "",
     "sentence": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
-    "translation": "",
+    "translation": "marcar con una cruz",
     "tags": []
   },
   {
     "word": "anmachen",
     "article": "",
     "sentence": "Mach bitte das Licht an!",
-    "translation": "",
+    "translation": "encender",
     "tags": []
   },
   {
     "word": "(sich) anmelden",
     "article": "",
     "sentence": "Wo kann ich mich anmelden?",
-    "translation": "",
+    "translation": "registrarse",
     "tags": []
   },
   {
     "word": "Anmeldung",
     "article": "die",
     "sentence": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich.",
-    "translation": "",
+    "translation": "registro",
     "tags": []
   },
   {
     "word": "Anrede",
     "article": "die",
     "sentence": "Schreiben Sie auch eine Anrede und einen Gruß.",
-    "translation": "",
+    "translation": "tratamiento",
     "tags": []
   },
   {
     "word": "anrufen",
     "article": "",
     "sentence": "Kann man Sie anrufen?",
-    "translation": "",
+    "translation": "llamar",
     "tags": [
       "actions",
       "phone"
@@ -231,7 +231,7 @@
     "word": "Anruf",
     "article": "der",
     "sentence": "Sie bekommt viele Anrufe auf ihrem Handy.",
-    "translation": "",
+    "translation": "llamada",
     "tags": [
       "phone"
     ]
@@ -249,28 +249,28 @@
     "word": "Ansage",
     "article": "die",
     "sentence": "Hören Sie die Ansagen.",
-    "translation": "",
+    "translation": "anuncio",
     "tags": []
   },
   {
     "word": "Anschluss",
     "article": "der",
     "sentence": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
-    "translation": "",
+    "translation": "conexión",
     "tags": []
   },
   {
     "word": "an sein",
     "article": "",
     "sentence": "Heute Nacht war das Licht an.",
-    "translation": "",
+    "translation": "estar encendido",
     "tags": []
   },
   {
     "word": "antworten",
     "article": "",
     "sentence": "Er antwortet nicht.",
-    "translation": "",
+    "translation": "responder",
     "tags": [
       "actions",
       "email"
@@ -280,35 +280,35 @@
     "word": "Antwort",
     "article": "die",
     "sentence": "Er gibt leider keine Antwort.",
-    "translation": "",
+    "translation": "respuesta",
     "tags": []
   },
   {
     "word": "Anzeige",
     "article": "die",
     "sentence": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
-    "translation": "",
+    "translation": "anuncio",
     "tags": []
   },
   {
     "word": "(sich) anziehen",
     "article": "",
     "sentence": "Ich muss mich noch anziehen.",
-    "translation": "",
+    "translation": "vestirse",
     "tags": []
   },
   {
     "word": "Apartment",
     "article": "das",
     "sentence": "Wir haben ein Apartment gemietet.",
-    "translation": "",
+    "translation": "apartamento",
     "tags": []
   },
   {
     "word": "Apfel",
     "article": "der",
     "sentence": "Ein Pfund Äpfel bitte.",
-    "translation": "",
+    "translation": "manzana",
     "tags": [
       "food"
     ]
@@ -317,14 +317,14 @@
     "word": "Appetit",
     "article": "der",
     "sentence": "Guten Appetit!",
-    "translation": "",
+    "translation": "apetito",
     "tags": []
   },
   {
     "word": "arbeiten",
     "article": "",
     "sentence": "Wo arbeiten Sie?",
-    "translation": "",
+    "translation": "trabajar",
     "tags": [
       "actions"
     ]
@@ -333,7 +333,7 @@
     "word": "Arbeit",
     "article": "die",
     "sentence": "Mein Bruder sucht Arbeit.",
-    "translation": "",
+    "translation": "trabajo",
     "tags": [
       "work"
     ]
@@ -342,28 +342,28 @@
     "word": "arbeitslos",
     "article": "",
     "sentence": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
-    "translation": "",
+    "translation": "desempleado",
     "tags": []
   },
   {
     "word": "Arbeitsplatz",
     "article": "der",
     "sentence": "An meinem Arbeitsplatz fehlt ein Drucker.",
-    "translation": "",
+    "translation": "puesto de trabajo",
     "tags": []
   },
   {
     "word": "Arm",
     "article": "der",
     "sentence": "Mein Arm tut weh.",
-    "translation": "",
+    "translation": "brazo",
     "tags": []
   },
   {
     "word": "Arzt",
     "article": "der",
     "sentence": "Morgen habe ich einen Termin bei meiner Ärztin.",
-    "translation": "",
+    "translation": "médico",
     "tags": [
       "health"
     ]
@@ -372,14 +372,14 @@
     "word": "auch",
     "article": "",
     "sentence": "Ich bin auch Spanier.",
-    "translation": "",
+    "translation": "también",
     "tags": []
   },
   {
     "word": "auf",
     "article": "",
     "sentence": "Die Kinder spielen auf der Straße.",
-    "translation": "",
+    "translation": "sobre",
     "tags": []
   },
   {
@@ -393,14 +393,14 @@
     "word": "aufstehen",
     "article": "",
     "sentence": "Ich muss immer um vier Uhr aufstehen.",
-    "translation": "",
+    "translation": "levantarse",
     "tags": []
   },
   {
     "word": "Aufzug",
     "article": "der",
     "sentence": "In diesem Haus gibt es keinen Aufzug.",
-    "translation": "",
+    "translation": "ascensor",
     "tags": [
       "hotel"
     ]
@@ -409,21 +409,21 @@
     "word": "Auge",
     "article": "das",
     "sentence": "Er hat blaue Augen.",
-    "translation": "",
+    "translation": "ojo",
     "tags": []
   },
   {
     "word": "aus",
     "article": "",
     "sentence": "Er kommt aus Brasilien.",
-    "translation": "",
+    "translation": "de",
     "tags": []
   },
   {
     "word": "Ausflug",
     "article": "der",
     "sentence": "Morgen machen wir einen Ausflug nach Heidelberg.",
-    "translation": "",
+    "translation": "excursión",
     "tags": [
       "travel"
     ]
@@ -432,7 +432,7 @@
     "word": "ausfüllen",
     "article": "",
     "sentence": "Füllen Sie bitte dieses Formular aus.",
-    "translation": "",
+    "translation": "rellenar",
     "tags": [
       "actions"
     ]
@@ -441,7 +441,7 @@
     "word": "Ausgang",
     "article": "der",
     "sentence": "Wo ist der Ausgang?",
-    "translation": "",
+    "translation": "salida",
     "tags": [
       "directions"
     ]
@@ -450,7 +450,7 @@
     "word": "Auskunft",
     "article": "die",
     "sentence": "Können Sie mir eine Auskunft geben?",
-    "translation": "",
+    "translation": "información",
     "tags": [
       "travel"
     ]
@@ -459,7 +459,7 @@
     "word": "Ausland",
     "article": "das",
     "sentence": "Fahren Sie ins Ausland?",
-    "translation": "",
+    "translation": "extranjero",
     "tags": [
       "travel"
     ]
@@ -468,49 +468,49 @@
     "word": "Ausländer",
     "article": "der",
     "sentence": "Sind Sie Ausländerin?",
-    "translation": "",
+    "translation": "extranjero",
     "tags": []
   },
   {
     "word": "ausländisch",
     "article": "",
     "sentence": "Leider habe ich nur ausländisches Geld.",
-    "translation": "",
+    "translation": "extranjero",
     "tags": []
   },
   {
     "word": "ausmachen",
     "article": "",
     "sentence": "Mach bitte das Licht aus!",
-    "translation": "",
+    "translation": "apagar",
     "tags": []
   },
   {
     "word": "Aussage",
     "article": "die",
     "sentence": "Ist die Aussage richtig oder falsch?",
-    "translation": "",
+    "translation": "declaración",
     "tags": []
   },
   {
     "word": "aussehen",
     "article": "",
     "sentence": "Das sieht schön aus.",
-    "translation": "",
+    "translation": "parecer",
     "tags": []
   },
   {
     "word": "aus sein",
     "article": "",
     "sentence": "Das Licht ist aus.",
-    "translation": "",
+    "translation": "estar apagado",
     "tags": []
   },
   {
     "word": "aussteigen",
     "article": "",
     "sentence": "Wo muss ich aussteigen?",
-    "translation": "",
+    "translation": "bajarse",
     "tags": [
       "actions"
     ]
@@ -519,7 +519,7 @@
     "word": "Ausweis",
     "article": "der",
     "sentence": "Hier ist mein Ausweis.",
-    "translation": "",
+    "translation": "documento de identidad",
     "tags": [
       "travel"
     ]
@@ -528,14 +528,14 @@
     "word": "(sich) ausziehen",
     "article": "",
     "sentence": "Zieh die Schuhe aus, bitte!",
-    "translation": "",
+    "translation": "desvestirse",
     "tags": []
   },
   {
     "word": "Auto",
     "article": "das",
     "sentence": "Er kommt mit dem Auto.",
-    "translation": "",
+    "translation": "coche",
     "tags": [
       "travel"
     ]
@@ -544,14 +544,14 @@
     "word": "Autobahn",
     "article": "die",
     "sentence": "Wo geht‘s hier bitte zur Autobahn?",
-    "translation": "",
+    "translation": "autopista",
     "tags": []
   },
   {
     "word": "Automat",
     "article": "der",
     "sentence": "Die Fahrkarten gibt es nur am Automaten.",
-    "translation": "",
+    "translation": "máquina expendedora",
     "tags": []
   },
   {
@@ -565,7 +565,7 @@
     "word": "Baby",
     "article": "das",
     "sentence": "Mein Kind ist noch ein Baby.",
-    "translation": "",
+    "translation": "bebé",
     "tags": [
       "family"
     ]
@@ -574,14 +574,14 @@
     "word": "Bäckerei",
     "article": "die",
     "sentence": "Ich geh mal schnell zur Bäckerei.",
-    "translation": "",
+    "translation": "panadería",
     "tags": []
   },
   {
     "word": "Bad",
     "article": "das",
     "sentence": "Wir haben kein großes Bad.",
-    "translation": "",
+    "translation": "baño",
     "tags": [
       "home"
     ]
@@ -590,21 +590,21 @@
     "word": "baden",
     "article": "",
     "sentence": "Ich bade nicht so gern, ich dusche lieber.",
-    "translation": "",
+    "translation": "bañarse",
     "tags": []
   },
   {
     "word": "Bahn",
     "article": "die",
     "sentence": "Wir fahren lieber mit der Bahn.",
-    "translation": "",
+    "translation": "tren",
     "tags": []
   },
   {
     "word": "Bahnhof",
     "article": "der",
     "sentence": "Komme ich hier zum Bahnhof?",
-    "translation": "",
+    "translation": "estación de tren",
     "tags": [
       "travel",
       "directions"
@@ -614,21 +614,21 @@
     "word": "Bahnsteig",
     "article": "der",
     "sentence": "Auf welchem Bahnsteig fährt der Zug?",
-    "translation": "",
+    "translation": "andén",
     "tags": []
   },
   {
     "word": "bald",
     "article": "",
     "sentence": "Ich komme bald.",
-    "translation": "",
+    "translation": "pronto",
     "tags": []
   },
   {
     "word": "Balkon",
     "article": "der",
     "sentence": "Die Wohnung hat auch einen kleinen Balkon.",
-    "translation": "",
+    "translation": "balcón",
     "tags": [
       "hotel",
       "home"
@@ -638,7 +638,7 @@
     "word": "Banane",
     "article": "die",
     "sentence": "Drei Bananen, bitte!",
-    "translation": "",
+    "translation": "plátano",
     "tags": [
       "food"
     ]
@@ -647,14 +647,14 @@
     "word": "Bank",
     "article": "die",
     "sentence": "Die Bank schließt schon um vier Uhr.",
-    "translation": "",
+    "translation": "banco",
     "tags": []
   },
   {
     "word": "bar",
     "article": "",
     "sentence": "Muss ich bar zahlen oder geht‘s auch mit Karte?",
-    "translation": "",
+    "translation": "en efectivo",
     "tags": [
       "shopping"
     ]
@@ -663,63 +663,63 @@
     "word": "Bauch",
     "article": "der",
     "sentence": "Seit gestern tut mir der Bauch weh.",
-    "translation": "",
+    "translation": "barriga",
     "tags": []
   },
   {
     "word": "Baum",
     "article": "der",
     "sentence": "Vorsicht, fahr nicht an den Baum!",
-    "translation": "",
+    "translation": "árbol",
     "tags": []
   },
   {
     "word": "Beamte",
     "article": "der",
     "sentence": "Fragen Sie die Beamtin am Schalter acht!",
-    "translation": "",
+    "translation": "funcionario",
     "tags": []
   },
   {
     "word": "bedeuten",
     "article": "",
     "sentence": "Was bedeutet das Wort?",
-    "translation": "",
+    "translation": "significar",
     "tags": []
   },
   {
     "word": "beginnen",
     "article": "",
     "sentence": "Das Spiel beginnt um 15.30 Uhr.",
-    "translation": "",
+    "translation": "comenzar",
     "tags": []
   },
   {
     "word": "bei",
     "article": "",
     "sentence": "Offenbach liegt bei Frankfurt.",
-    "translation": "",
+    "translation": "junto a",
     "tags": []
   },
   {
     "word": "beide",
     "article": "",
     "sentence": "Beide Eltern arbeiten.",
-    "translation": "",
+    "translation": "ambos",
     "tags": []
   },
   {
     "word": "Bein",
     "article": "das",
     "sentence": "Mein rechtes Bein tut weh.",
-    "translation": "",
+    "translation": "pierna",
     "tags": []
   },
   {
     "word": "Beispiel",
     "article": "das",
     "sentence": "Kannst du mir ein Beispiel sagen?",
-    "translation": "",
+    "translation": "ejemplo",
     "tags": []
   },
   {
@@ -733,42 +733,42 @@
     "word": "bekannt",
     "article": "",
     "sentence": "Picasso ist sehr bekannt.",
-    "translation": "",
+    "translation": "conocido",
     "tags": []
   },
   {
     "word": "der/die Bekannte",
     "article": "",
     "sentence": "Ein Bekannter von mir heißt Klaus.",
-    "translation": "",
+    "translation": "conocido/a",
     "tags": []
   },
   {
     "word": "bekommen",
     "article": "",
     "sentence": "Haben Sie meinen Brief bekommen?",
-    "translation": "",
+    "translation": "recibir",
     "tags": []
   },
   {
     "word": "benutzen",
     "article": "",
     "sentence": "Die Aufzüge bitte nicht benutzen!",
-    "translation": "",
+    "translation": "usar",
     "tags": []
   },
   {
     "word": "Beruf",
     "article": "der",
     "sentence": "Was sind Sie von Beruf?",
-    "translation": "",
+    "translation": "profesión",
     "tags": []
   },
   {
     "word": "besetzt",
     "article": "",
     "sentence": "Die Nummer ist immer besetzt.",
-    "translation": "",
+    "translation": "ocupado",
     "tags": [
       "phone"
     ]
@@ -777,28 +777,28 @@
     "word": "besichtigen",
     "article": "",
     "sentence": "Ich möchte gern den Dom besichtigen.",
-    "translation": "",
+    "translation": "visitar",
     "tags": []
   },
   {
     "word": "besser",
     "article": "",
     "sentence": "Es geht mir schon besser.",
-    "translation": "",
+    "translation": "mejor",
     "tags": []
   },
   {
     "word": "best-",
     "article": "",
     "sentence": "Am besten treffen wir uns morgen.",
-    "translation": "",
+    "translation": "mejor",
     "tags": []
   },
   {
     "word": "bestellen",
     "article": "",
     "sentence": "Wir möchten bestellen, bitte.",
-    "translation": "",
+    "translation": "pedir",
     "tags": [
       "actions",
       "food"
@@ -808,7 +808,7 @@
     "word": "besuchen",
     "article": "",
     "sentence": "Darf ich dich besuchen?",
-    "translation": "",
+    "translation": "visitar",
     "tags": [
       "actions"
     ]
@@ -817,7 +817,7 @@
     "word": "Bett",
     "article": "das",
     "sentence": "Wir brauchen noch ein Kinderbett.",
-    "translation": "",
+    "translation": "cama",
     "tags": [
       "home"
     ]
@@ -826,7 +826,7 @@
     "word": "bezahlen",
     "article": "",
     "sentence": "Wo muss ich bezahlen?",
-    "translation": "",
+    "translation": "pagar",
     "tags": [
       "shopping"
     ]
@@ -835,7 +835,7 @@
     "word": "Bier",
     "article": "das",
     "sentence": "Noch ein Bier bitte.",
-    "translation": "",
+    "translation": "cerveza",
     "tags": [
       "food"
     ]
@@ -844,7 +844,7 @@
     "word": "Bild",
     "article": "das",
     "sentence": "Hast du ein Bild von deinem Sohn?",
-    "translation": "",
+    "translation": "imagen/cuadro",
     "tags": [
       "home"
     ]
@@ -853,63 +853,63 @@
     "word": "billig",
     "article": "",
     "sentence": "Die Jacke kostet nur 10 Euro!",
-    "translation": "",
+    "translation": "barato",
     "tags": []
   },
   {
     "word": "Birne",
     "article": "die",
     "sentence": "Ein Kilo Birnen, bitte!",
-    "translation": "",
+    "translation": "pera",
     "tags": []
   },
   {
     "word": "bis",
     "article": "",
     "sentence": "Ich fahre nur bis Stuttgart.",
-    "translation": "",
+    "translation": "hasta",
     "tags": []
   },
   {
     "word": "bisschen",
     "article": "",
     "sentence": "Ich spreche Englisch, Französisch und ein bisschen Deutsch.",
-    "translation": "",
+    "translation": "un poco",
     "tags": []
   },
   {
     "word": "bitte",
     "article": "",
     "sentence": "Eine Tasse Kaffee, bitte!",
-    "translation": "",
+    "translation": "por favor",
     "tags": []
   },
   {
     "word": "Bitte",
     "article": "die",
     "sentence": "Ich habe noch eine Bitte.",
-    "translation": "",
+    "translation": "de nada",
     "tags": []
   },
   {
     "word": "bitten",
     "article": "",
     "sentence": "Darf ich Sie um etwas bitten?",
-    "translation": "",
+    "translation": "pedir",
     "tags": []
   },
   {
     "word": "bitter",
     "article": "",
     "sentence": "Der Kaffee schmeckt bitter.",
-    "translation": "",
+    "translation": "amargo",
     "tags": []
   },
   {
     "word": "bleiben",
     "article": "",
     "sentence": "Ich bleibe heute zu Hause.",
-    "translation": "",
+    "translation": "quedarse",
     "tags": [
       "actions"
     ]
@@ -918,7 +918,7 @@
     "word": "Bleistift",
     "article": "der",
     "sentence": "Hast du einen Bleistift?",
-    "translation": "",
+    "translation": "lápiz",
     "tags": [
       "education"
     ]
@@ -927,35 +927,35 @@
     "word": "Blick",
     "article": "der",
     "sentence": "Von diesem Hotel hat man einen guten Blick auf den Rhein.",
-    "translation": "",
+    "translation": "mirada/vista",
     "tags": []
   },
   {
     "word": "Blume",
     "article": "die",
     "sentence": "Gefallen dir die Blumen?",
-    "translation": "",
+    "translation": "flor",
     "tags": []
   },
   {
     "word": "Bogen",
     "article": "der",
     "sentence": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
-    "translation": "",
+    "translation": "arco/hoja",
     "tags": []
   },
   {
     "word": "böse",
     "article": "",
     "sentence": "Sie ist böse auf mich.",
-    "translation": "",
+    "translation": "malo/enfadado",
     "tags": []
   },
   {
     "word": "brauchen",
     "article": "",
     "sentence": "Brauchst du die Zeitung noch?",
-    "translation": "",
+    "translation": "necesitar",
     "tags": [
       "actions"
     ]
@@ -964,28 +964,28 @@
     "word": "breit",
     "article": "",
     "sentence": "Wie breit ist der Schrank?",
-    "translation": "",
+    "translation": "ancho",
     "tags": []
   },
   {
     "word": "Brief",
     "article": "der",
     "sentence": "Haben Sie einen Brief für mich?",
-    "translation": "",
+    "translation": "carta",
     "tags": []
   },
   {
     "word": "Briefmarke",
     "article": "die",
     "sentence": "Kaufst du bitte Briefmarken bei der Post.",
-    "translation": "",
+    "translation": "sello",
     "tags": []
   },
   {
     "word": "bringen",
     "article": "",
     "sentence": "Bringen Sie mir bitte noch einen Kaffee!",
-    "translation": "",
+    "translation": "traer",
     "tags": [
       "actions"
     ]
@@ -994,7 +994,7 @@
     "word": "Brot",
     "article": "das",
     "sentence": "Haben Sie auch Weißbrot?",
-    "translation": "",
+    "translation": "pan",
     "tags": [
       "food"
     ]
@@ -1003,14 +1003,14 @@
     "word": "Brötchen",
     "article": "das",
     "sentence": "Möchtest du Brötchen zum Frühstück?",
-    "translation": "",
+    "translation": "panecillo",
     "tags": []
   },
   {
     "word": "Bruder",
     "article": "der",
     "sentence": "Sein Bruder arbeitet auch hier.",
-    "translation": "",
+    "translation": "hermano",
     "tags": [
       "family"
     ]
@@ -1019,7 +1019,7 @@
     "word": "Buch",
     "article": "das",
     "sentence": "Gute Bücher sind oft sehr teuer.",
-    "translation": "",
+    "translation": "libro",
     "tags": [
       "education"
     ]
@@ -1028,21 +1028,21 @@
     "word": "Buchstabe",
     "article": "der",
     "sentence": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
-    "translation": "",
+    "translation": "letra",
     "tags": []
   },
   {
     "word": "buchstabieren",
     "article": "",
     "sentence": "Bitte buchstabieren Sie Ihren Namen.",
-    "translation": "",
+    "translation": "deletrear",
     "tags": []
   },
   {
     "word": "Bus",
     "article": "der",
     "sentence": "Wann kommt der nächste Bus?",
-    "translation": "",
+    "translation": "autobús",
     "tags": [
       "travel"
     ]
@@ -1051,7 +1051,7 @@
     "word": "Butter",
     "article": "die",
     "sentence": "Für mich bitte ein Brötchen mit Butter und Käse.",
-    "translation": "",
+    "translation": "mantequilla",
     "tags": [
       "food"
     ]
@@ -1060,7 +1060,7 @@
     "word": "Café",
     "article": "das",
     "sentence": "Sollen wir uns im Café treffen?",
-    "translation": "",
+    "translation": "cafetería",
     "tags": [
       "food"
     ]
@@ -1069,14 +1069,14 @@
     "word": "CD",
     "article": "die",
     "sentence": "Bring bitte deine Lieblings-CD mit.",
-    "translation": "",
+    "translation": "CD",
     "tags": []
   },
   {
     "word": "Chef",
     "article": "der",
     "sentence": "Wir haben eine neue Chefin.",
-    "translation": "",
+    "translation": "jefe",
     "tags": [
       "work"
     ]
@@ -1085,14 +1085,14 @@
     "word": "circa/ca.",
     "article": "",
     "sentence": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.",
-    "translation": "",
+    "translation": "aproximadamente",
     "tags": []
   },
   {
     "word": "Computer",
     "article": "der",
     "sentence": "Wann bekommst du deinen neuen Computer?",
-    "translation": "",
+    "translation": "ordenador/computadora",
     "tags": []
   },
   {
@@ -1106,7 +1106,7 @@
     "word": "Dame",
     "article": "die",
     "sentence": "Damen (an der Toilette) Ladies (at the toilet)",
-    "translation": "",
+    "translation": "dama/señora",
     "tags": []
   },
   {
@@ -2567,7 +2567,7 @@
     "word": "international",
     "article": "",
     "sentence": "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China … Our German course is international: Silvana comes from Italy, Conchi from Spain, Yin from China …",
-    "translation": "",
+    "translation": "internacional",
     "tags": []
   },
   {
@@ -3120,7 +3120,7 @@
     "word": "lieb-",
     "article": "",
     "sentence": "Liebe Susanne, lieber Hans, Dear Susanne, dear Hans,",
-    "translation": "",
+    "translation": "querido/amable",
     "tags": []
   },
   {
@@ -5282,14 +5282,14 @@
     "word": "german word",
     "article": "",
     "sentence": "german sentence",
-    "translation": "",
+    "translation": "palabra alemana",
     "tags": []
   },
   {
     "word": "abschließen",
     "article": "",
     "sentence": "Hast du die Tür abgeschlossen?",
-    "translation": "",
+    "translation": "cerrar/terminar",
     "tags": []
   },
   {
@@ -5303,42 +5303,42 @@
     "word": "Ahnung",
     "article": "die",
     "sentence": "Ich hatte keine Ahnung, dass du heute Geburtstag hast.",
-    "translation": "",
+    "translation": "idea",
     "tags": []
   },
   {
     "word": "aktiv",
     "article": "",
     "sentence": "Peter ist sehr aktiv und macht viel Sport.",
-    "translation": "",
+    "translation": "activo",
     "tags": []
   },
   {
     "word": "aktuell",
     "article": "",
     "sentence": "Das ist das aktuelle Kinoprogramm.",
-    "translation": "",
+    "translation": "actual",
     "tags": []
   },
   {
     "word": "als",
     "article": "",
     "sentence": "Hector ist jünger als seine Schwester.",
-    "translation": "",
+    "translation": "como/cuando",
     "tags": []
   },
   {
     "word": "Alter (Sg.)",
     "article": "das",
     "sentence": "Alter: 18 Jahre.",
-    "translation": "",
+    "translation": "edad",
     "tags": []
   },
   {
     "word": "Ampel",
     "article": "die",
     "sentence": "Du kannst fahren, die Ampel ist grün.",
-    "translation": "",
+    "translation": "semáforo",
     "tags": [
       "directions"
     ]
@@ -5347,49 +5347,49 @@
     "word": "ändern",
     "article": "",
     "sentence": "Das Wetter hat sich geändert.",
-    "translation": "",
+    "translation": "cambiar",
     "tags": []
   },
   {
     "word": "anders",
     "article": "",
     "sentence": "Anders geht das leider nicht.",
-    "translation": "",
+    "translation": "diferente",
     "tags": []
   },
   {
     "word": "Angst",
     "article": "die",
     "sentence": "Hab keine Angst!",
-    "translation": "",
+    "translation": "miedo",
     "tags": []
   },
   {
     "word": "anmelden (sich)",
     "article": "",
     "sentence": "Wo kann ich mich anmelden?",
-    "translation": "",
+    "translation": "registrarse/inscribirse",
     "tags": []
   },
   {
     "word": "ansehen",
     "article": "",
     "sentence": "Darf ich eure Urlaubsfotos ansehen?",
-    "translation": "",
+    "translation": "mirar/ver",
     "tags": []
   },
   {
     "word": "Anzug",
     "article": "der",
     "sentence": "Mein Mann muss sich einen neuen Anzug kaufen.",
-    "translation": "",
+    "translation": "traje",
     "tags": []
   },
   {
     "word": "Apotheke",
     "article": "die",
     "sentence": "Das Medikament bekommen Sie in der Apotheke.",
-    "translation": "",
+    "translation": "farmacia",
     "tags": [
       "health"
     ]
@@ -5398,7 +5398,7 @@
     "word": "Apparat",
     "article": "der",
     "sentence": "Was machen wir mit deinem alten Apparat?",
-    "translation": "",
+    "translation": "aparato",
     "tags": []
   },
   {
@@ -5412,14 +5412,14 @@
     "word": "arm",
     "article": "",
     "sentence": "Sie haben nicht viel Geld, sie sind arm.",
-    "translation": "",
+    "translation": "pobre",
     "tags": []
   },
   {
     "word": "Artikel",
     "article": "der",
     "sentence": "Im Deutschen gibt es drei Artikel: der, die und das.",
-    "translation": "",
+    "translation": "artículo",
     "tags": [
       "shopping"
     ]
@@ -5435,7 +5435,7 @@
     "word": "aufhören",
     "article": "",
     "sentence": "Wann hört ihr mit der Arbeit auf?",
-    "translation": "",
+    "translation": "parar/terminar",
     "tags": [
       "actions"
     ]
@@ -5444,63 +5444,63 @@
     "word": "aufmachen",
     "article": "",
     "sentence": "Kannst du bitte die Tür aufmachen?",
-    "translation": "",
+    "translation": "abrir",
     "tags": []
   },
   {
     "word": "aufpassen",
     "article": "",
     "sentence": "Pass auf, der Teller fällt gleich auf den Boden!",
-    "translation": "",
+    "translation": "prestar atención",
     "tags": []
   },
   {
     "word": "aufräumen",
     "article": "",
     "sentence": "Die Kinder müssen ihr Zimmer aufräumen.",
-    "translation": "",
+    "translation": "ordenar",
     "tags": []
   },
   {
     "word": "aufregend",
     "article": "",
     "sentence": "Die letzte Woche war sehr aufregend.",
-    "translation": "",
+    "translation": "emocionante",
     "tags": []
   },
   {
     "word": "Ausbildung",
     "article": "die",
     "sentence": "Ich möchte eine Ausbildung zum Krankenpfleger machen.",
-    "translation": "",
+    "translation": "formación/educación",
     "tags": []
   },
   {
     "word": "ausgeben",
     "article": "",
     "sentence": "Agata gibt viel Geld für Bücher aus.",
-    "translation": "",
+    "translation": "gastar",
     "tags": []
   },
   {
     "word": "ausgehen",
     "article": "",
     "sentence": "Gehen wir am Freitag zusammen aus?",
-    "translation": "",
+    "translation": "salir",
     "tags": []
   },
   {
     "word": "Ausland (Sg.)",
     "article": "das",
     "sentence": "Fahren Sie ins Ausland?",
-    "translation": "",
+    "translation": "extranjero",
     "tags": []
   },
   {
     "word": "auspacken",
     "article": "",
     "sentence": "Packst du bitte den Koffer aus?",
-    "translation": "",
+    "translation": "desempacar",
     "tags": []
   },
   {
@@ -5514,56 +5514,56 @@
     "word": "außer",
     "article": "",
     "sentence": "Außer Lisa möchte niemand den Film sehen.",
-    "translation": "",
+    "translation": "excepto",
     "tags": []
   },
   {
     "word": "außerdem",
     "article": "",
     "sentence": "Vier Brötchen, möchten Sie außerdem noch etwas?",
-    "translation": "",
+    "translation": "además",
     "tags": []
   },
   {
     "word": "außerhalb",
     "article": "",
     "sentence": "Die Wohnung ist nicht in der Stadt, sie liegt etwas außerhalb.",
-    "translation": "",
+    "translation": "fuera de",
     "tags": []
   },
   {
     "word": "aussprechen",
     "article": "",
     "sentence": "Wie spricht man das Wort aus?",
-    "translation": "",
+    "translation": "pronunciar",
     "tags": []
   },
   {
     "word": "Ausstellung",
     "article": "die",
     "sentence": "Gehen wir morgen zusammen in die Ausstellung?",
-    "translation": "",
+    "translation": "exposición",
     "tags": []
   },
   {
     "word": "austragen",
     "article": "",
     "sentence": "Er trägt jeden Morgen die Zeitung aus.",
-    "translation": "",
+    "translation": "repartir",
     "tags": []
   },
   {
     "word": "Babysitter",
     "article": "der",
     "sentence": "Meine Tochter arbeitet als Babysitter bei einer Familie mit vier Kindern.",
-    "translation": "",
+    "translation": "niñero/a",
     "tags": []
   },
   {
     "word": "backen",
     "article": "",
     "sentence": "Wenn du kommst, backe ich einen Kuchen.",
-    "translation": "",
+    "translation": "hornear",
     "tags": [
       "food"
     ]
@@ -5572,7 +5572,7 @@
     "word": "Ball",
     "article": "der",
     "sentence": "Meine Kinder spielen gern Ball.",
-    "translation": "",
+    "translation": "pelota",
     "tags": []
   },
   {
@@ -5586,7 +5586,7 @@
     "word": "Basketball",
     "article": "der",
     "sentence": "Yannick spielt lieber Basketball als Fußball.",
-    "translation": "",
+    "translation": "baloncesto",
     "tags": [
       "sports"
     ]
@@ -5595,14 +5595,14 @@
     "word": "basteln",
     "article": "",
     "sentence": "Die Kinder haben etwas gebastelt.",
-    "translation": "",
+    "translation": "hacer manualidades",
     "tags": []
   },
   {
     "word": "bauen",
     "article": "",
     "sentence": "Unsere Nachbarn bauen ein neues Haus.",
-    "translation": "",
+    "translation": "construir",
     "tags": [
       "actions"
     ]
@@ -5611,21 +5611,21 @@
     "word": "Baustelle",
     "article": "die",
     "sentence": "Vor unserem Haus ist eine große Baustelle.",
-    "translation": "",
+    "translation": "obra/construcción",
     "tags": []
   },
   {
     "word": "beantworten",
     "article": "",
     "sentence": "Können Sie meine Frage bitte beantworten?",
-    "translation": "",
+    "translation": "responder",
     "tags": []
   },
   {
     "word": "bedanken (sich)",
     "article": "",
     "sentence": "Ich möchte mich noch einmal sehr herzlich für Ihre Hilfe bedanken.",
-    "translation": "",
+    "translation": "agradecer",
     "tags": []
   },
   {
@@ -5639,42 +5639,42 @@
     "word": "beenden",
     "article": "",
     "sentence": "Du musst deine Ausbildung auf jeden Fall beenden.",
-    "translation": "",
+    "translation": "terminar",
     "tags": []
   },
   {
     "word": "begründen",
     "article": "",
     "sentence": "Bitte begründen Sie Ihre Meinung.",
-    "translation": "",
+    "translation": "justificar",
     "tags": []
   },
   {
     "word": "beliebt",
     "article": "",
     "sentence": "Fußball ist bei vielen Menschen beliebt.",
-    "translation": "",
+    "translation": "popular",
     "tags": []
   },
   {
     "word": "bequem",
     "article": "",
     "sentence": "Das Sofa ist sehr bequem.",
-    "translation": "",
+    "translation": "cómodo",
     "tags": []
   },
   {
     "word": "beraten",
     "article": "",
     "sentence": "Unsere Sekretärin berät Sie gern, wenn Sie Fragen haben.",
-    "translation": "",
+    "translation": "aconsejar/asesorar",
     "tags": []
   },
   {
     "word": "Berg",
     "article": "der",
     "sentence": "Die Zugspitze ist der höchste Berg in Deutschland.",
-    "translation": "",
+    "translation": "montaña",
     "tags": [
       "travel"
     ]
@@ -5683,14 +5683,14 @@
     "word": "berichten",
     "article": "",
     "sentence": "Alle Zeitungen berichten von dem Unfall.",
-    "translation": "",
+    "translation": "informar",
     "tags": []
   },
   {
     "word": "berühmt",
     "article": "",
     "sentence": "Thomas Müller ist ein berühmter Fußballspieler.",
-    "translation": "",
+    "translation": "famoso",
     "tags": []
   },
   {
@@ -5704,7 +5704,7 @@
     "word": "beschreiben",
     "article": "",
     "sentence": "Kannst du mir den Weg zum Bahnhof beschreiben?",
-    "translation": "",
+    "translation": "describir",
     "tags": [
       "actions"
     ]
@@ -5720,14 +5720,14 @@
     "word": "besonders",
     "article": "",
     "sentence": "Dieses Angebot ist besonders günstig.",
-    "translation": "",
+    "translation": "especialmente",
     "tags": []
   },
   {
     "word": "bestätigen",
     "article": "",
     "sentence": "Ich kann bestätigen, dass er hier war.",
-    "translation": "",
+    "translation": "confirmar",
     "tags": [
       "email"
     ]
@@ -5736,91 +5736,91 @@
     "word": "bestehen",
     "article": "",
     "sentence": "Ich habe die Prüfung bestanden!",
-    "translation": "",
+    "translation": "aprobar/existir",
     "tags": []
   },
   {
     "word": "Besuch",
     "article": "der",
     "sentence": "Wir bekommen am Wochenende Besuch.",
-    "translation": "",
+    "translation": "visita",
     "tags": []
   },
   {
     "word": "bewerben (sich)",
     "article": "",
     "sentence": "Ich möchte mich um diese Stelle bewerben.",
-    "translation": "",
+    "translation": "postularse",
     "tags": []
   },
   {
     "word": "bewölkt",
     "article": "",
     "sentence": "Heute ist es bewölkt.",
-    "translation": "",
+    "translation": "nublado",
     "tags": []
   },
   {
     "word": "Wolke",
     "article": "die",
     "sentence": "Es gibt viele Wolken am Himmel.",
-    "translation": "",
+    "translation": "nube",
     "tags": []
   },
   {
     "word": "Bibliothek",
     "article": "die",
     "sentence": "Sie lernt jeden Tag in der Bibliothek.",
-    "translation": "",
+    "translation": "biblioteca",
     "tags": []
   },
   {
     "word": "Blatt",
     "article": "das",
     "sentence": "Haben Sie ein Blatt Papier für mich?",
-    "translation": "",
+    "translation": "hoja",
     "tags": []
   },
   {
     "word": "blöd",
     "article": "",
     "sentence": "Ich finde es blöd, dass du morgen gehen musst.",
-    "translation": "",
+    "translation": "estúpido",
     "tags": []
   },
   {
     "word": "der/das Blog",
     "article": "",
     "sentence": "Ich schreibe einen Blog über Mode.",
-    "translation": "",
+    "translation": "el blog",
     "tags": []
   },
   {
     "word": "blond",
     "article": "",
     "sentence": "Lisa hat blonde Haare.",
-    "translation": "",
+    "translation": "rubio",
     "tags": []
   },
   {
     "word": "Bluse",
     "article": "die",
     "sentence": "Ich suche eine weiße Bluse.",
-    "translation": "",
+    "translation": "blusa",
     "tags": []
   },
   {
     "word": "Bohne",
     "article": "die",
     "sentence": "Hans isst nicht gern Bohnen.",
-    "translation": "",
+    "translation": "judía",
     "tags": []
   },
   {
     "word": "braten",
     "article": "",
     "sentence": "Braten Sie das Fleisch in etwas Öl!",
-    "translation": "",
+    "translation": "asar",
     "tags": [
       "food"
     ]
@@ -5829,14 +5829,14 @@
     "word": "Brille",
     "article": "die",
     "sentence": "Wo ist meine Brille?",
-    "translation": "",
+    "translation": "gafas",
     "tags": []
   },
   {
     "word": "Brücke",
     "article": "die",
     "sentence": "Fahren Sie über die nächste Brücke und dann nach links.",
-    "translation": "",
+    "translation": "puente",
     "tags": [
       "directions"
     ]
@@ -5845,21 +5845,21 @@
     "word": "buchen",
     "article": "",
     "sentence": "Morgen buche ich unsere Urlaubsreise.",
-    "translation": "",
+    "translation": "reservar",
     "tags": []
   },
   {
     "word": "bunt",
     "article": "",
     "sentence": "Anna trägt gern bunte Kleider.",
-    "translation": "",
+    "translation": "colorido",
     "tags": []
   },
   {
     "word": "Büro",
     "article": "das",
     "sentence": "Ich arbeite in einem Büro.",
-    "translation": "",
+    "translation": "oficina",
     "tags": [
       "work"
     ]
@@ -5868,7 +5868,7 @@
     "word": "Butter (Sg.)",
     "article": "die",
     "sentence": "Möchtest du Butter aufs Brot oder nur Käse?",
-    "translation": "",
+    "translation": "mantequilla",
     "tags": []
   },
   {
@@ -5882,49 +5882,49 @@
     "word": "chatten",
     "article": "",
     "sentence": "Luis chattet gern mit seinen Freunden im Internet.",
-    "translation": "",
+    "translation": "chatear",
     "tags": []
   },
   {
     "word": "Club",
     "article": "der",
     "sentence": "Gibt es hier einen Tennis-Club/Klub?",
-    "translation": "",
+    "translation": "club",
     "tags": []
   },
   {
     "word": "der/das Comic",
     "article": "",
     "sentence": "Mein Sohn liest immer nur Comics.",
-    "translation": "",
+    "translation": "el cómic",
     "tags": []
   },
   {
     "word": "Creme",
     "article": "die",
     "sentence": "Ich suche eine Creme für die Hände.",
-    "translation": "",
+    "translation": "crema",
     "tags": []
   },
   {
     "word": "da(r) (Bsp. darauf",
     "article": "",
     "sentence": "Darauf fällt mir keine Antwort ein.",
-    "translation": "",
+    "translation": "ahí (ej. sobre eso)",
     "tags": []
   },
   {
     "word": "dabei",
     "article": "",
     "sentence": "Hast du einen Stift dabei?",
-    "translation": "",
+    "translation": "allí / al respecto",
     "tags": []
   },
   {
     "word": "dafür/dagegen sein",
     "article": "",
     "sentence": "Ich bin dafür/dagegen.",
-    "translation": "",
+    "translation": "estar a favor/en contra",
     "tags": []
   },
   {
@@ -5938,21 +5938,21 @@
     "word": "Dank (Sg.)",
     "article": "der",
     "sentence": "Vielen Dank!",
-    "translation": "",
+    "translation": "agradecimiento",
     "tags": []
   },
   {
     "word": "dass",
     "article": "",
     "sentence": "Rico hat gesagt, dass er auch zur Party kommt.",
-    "translation": "",
+    "translation": "que",
     "tags": []
   },
   {
     "word": "Datei",
     "article": "die",
     "sentence": "Wo hast du die Datei gespeichert?",
-    "translation": "",
+    "translation": "archivo",
     "tags": [
       "email"
     ]
@@ -5961,7 +5961,7 @@
     "word": "denken",
     "article": "",
     "sentence": "Ich denke, du hast recht.",
-    "translation": "",
+    "translation": "pensar",
     "tags": [
       "actions"
     ]
@@ -5977,7 +5977,7 @@
     "word": "deutlich",
     "article": "",
     "sentence": "Sprechen Sie bitte deutlich!",
-    "translation": "",
+    "translation": "claro",
     "tags": []
   },
   {
@@ -5991,21 +5991,21 @@
     "word": "Ding",
     "article": "das",
     "sentence": "Gib mir bitte mal das Ding da drüben!",
-    "translation": "",
+    "translation": "cosa",
     "tags": []
   },
   {
     "word": "direkt",
     "article": "",
     "sentence": "Wir wohnen direkt über dem Café.",
-    "translation": "",
+    "translation": "directo",
     "tags": []
   },
   {
     "word": "diskutieren",
     "article": "",
     "sentence": "Ich möchte das mit meinen Kollegen diskutieren.",
-    "translation": "",
+    "translation": "discutir",
     "tags": [
       "actions"
     ]
@@ -6028,28 +6028,28 @@
     "word": "drinnen",
     "article": "",
     "sentence": "Wollen Sie drinnen oder draußen sitzen?",
-    "translation": "",
+    "translation": "dentro",
     "tags": []
   },
   {
     "word": "drüben",
     "article": "",
     "sentence": "Da drüben ist die Haltestelle.",
-    "translation": "",
+    "translation": "allí",
     "tags": []
   },
   {
     "word": "dumm",
     "article": "",
     "sentence": "Ich finde den Film dumm.",
-    "translation": "",
+    "translation": "tonto",
     "tags": []
   },
   {
     "word": "dunkel",
     "article": "",
     "sentence": "Um sechs Uhr ist es schon dunkel.",
-    "translation": "",
+    "translation": "oscuro",
     "tags": []
   },
   {
@@ -6070,63 +6070,63 @@
     "word": "duschen (sich)",
     "article": "",
     "sentence": "Ich bade nicht so gern, ich dusche lieber.",
-    "translation": "",
+    "translation": "ducharse",
     "tags": []
   },
   {
     "word": "E-Book",
     "article": "das",
     "sentence": "Liest du lieber E-Books oder Bücher aus Papier?",
-    "translation": "",
+    "translation": "libro electrónico",
     "tags": []
   },
   {
     "word": "echt",
     "article": "",
     "sentence": "Ist das Bild ein echter Picasso?",
-    "translation": "",
+    "translation": "real",
     "tags": []
   },
   {
     "word": "Einkaufszentrum",
     "article": "das",
     "sentence": "Kommst du morgen mit ins Einkaufszentrum?",
-    "translation": "",
+    "translation": "centro comercial",
     "tags": []
   },
   {
     "word": "einpacken",
     "article": "",
     "sentence": "Soll ich Ihnen das als Geschenk einpacken?",
-    "translation": "",
+    "translation": "empacar",
     "tags": []
   },
   {
     "word": "packt ein",
     "article": "",
     "sentence": "Pack bitte die Handtücher ein!",
-    "translation": "",
+    "translation": "empaca",
     "tags": []
   },
   {
     "word": "steigt ein",
     "article": "",
     "sentence": "Schnell, steig ein, der Zug fährt gleich ab.",
-    "translation": "",
+    "translation": "sube (a un vehículo)",
     "tags": []
   },
   {
     "word": "eintragen (sich)",
     "article": "",
     "sentence": "Sie müssen Ihren Namen und Ihre Adresse eintragen.",
-    "translation": "",
+    "translation": "inscribirse",
     "tags": []
   },
   {
     "word": "trägt ein",
     "article": "",
     "sentence": "Tragen Sie sich bitte in diese Liste ein!",
-    "translation": "",
+    "translation": "inscribe",
     "tags": []
   },
   {
@@ -6147,7 +6147,7 @@
     "word": "einziehen",
     "article": "",
     "sentence": "Wann können wir in die Wohnung einziehen?",
-    "translation": "",
+    "translation": "mudarse",
     "tags": [
       "home"
     ]
@@ -6156,49 +6156,49 @@
     "word": "zieht ein",
     "article": "",
     "sentence": "Im Juni ziehen unsere neuen Nachbarn ein.",
-    "translation": "",
+    "translation": "se muda",
     "tags": []
   },
   {
     "word": "egal",
     "article": "",
     "sentence": "Das ist mir egal.",
-    "translation": "",
+    "translation": "igual",
     "tags": []
   },
   {
     "word": "eigen-",
     "article": "",
     "sentence": "Nicht alle Kinder haben ein eigenes Zimmer.",
-    "translation": "",
+    "translation": "propio",
     "tags": []
   },
   {
     "word": "eigentlich",
     "article": "",
     "sentence": "Wir wollten eigentlich Freunde besuchen, aber dann sind wir doch zu Hause geblieben.",
-    "translation": "",
+    "translation": "en realidad",
     "tags": []
   },
   {
     "word": "Eis (Sg.)",
     "article": "das",
     "sentence": "Möchtest du auch ein Eis?",
-    "translation": "",
+    "translation": "helado",
     "tags": []
   },
   {
     "word": "(E-)Mail",
     "article": "die",
     "sentence": "Ich schreibe Ihnen/dir eine E-Mail.",
-    "translation": "",
+    "translation": "correo electrónico",
     "tags": []
   },
   {
     "word": "einig-",
     "article": "",
     "sentence": "In diesem Text sind einige Fehler.",
-    "translation": "",
+    "translation": "alguno",
     "tags": []
   },
   {
@@ -6219,21 +6219,21 @@
     "word": "entschuldigen (sich)",
     "article": "",
     "sentence": "Entschuldigen Sie bitte!",
-    "translation": "",
+    "translation": "disculparse",
     "tags": []
   },
   {
     "word": "Erdgeschoss",
     "article": "das",
     "sentence": "Ich wohne im Erdgeschoss.",
-    "translation": "",
+    "translation": "planta baja",
     "tags": []
   },
   {
     "word": "Erfahrung",
     "article": "die",
     "sentence": "Ich habe zehn Jahre Erfahrung in diesem Beruf.",
-    "translation": "",
+    "translation": "experiencia",
     "tags": []
   },
   {
@@ -6254,28 +6254,28 @@
     "word": "erlaubt sein",
     "article": "",
     "sentence": "Parken ist hier nicht erlaubt.",
-    "translation": "",
+    "translation": "estar permitido",
     "tags": []
   },
   {
     "word": "Erlaubnis (Sg.)",
     "article": "die",
     "sentence": "Haben Sie eine Arbeitserlaubnis?",
-    "translation": "",
+    "translation": "permiso",
     "tags": []
   },
   {
     "word": "Ermäßigung",
     "article": "die",
     "sentence": "Für Schüler, Studenten und Rentner gibt es eine Ermäßigung.",
-    "translation": "",
+    "translation": "descuento",
     "tags": []
   },
   {
     "word": "erreichen",
     "article": "",
     "sentence": "Wenn wir uns beeilen, erreichen wir noch den Zug um acht Uhr.",
-    "translation": "",
+    "translation": "alcanzar",
     "tags": [
       "phone"
     ]
@@ -6284,21 +6284,21 @@
     "word": "erst",
     "article": "",
     "sentence": "Wir können erst morgen kommen.",
-    "translation": "",
+    "translation": "recién / solo",
     "tags": []
   },
   {
     "word": "etwas",
     "article": "",
     "sentence": "Ich muss dir etwas erzählen!",
-    "translation": "",
+    "translation": "algo",
     "tags": []
   },
   {
     "word": "Fach",
     "article": "das",
     "sentence": "Welches Fach magst du in der Schule am liebsten?",
-    "translation": "",
+    "translation": "asignatura / compartimento",
     "tags": [
       "education"
     ]
@@ -6307,7 +6307,7 @@
     "word": "(ab)fahren",
     "article": "",
     "sentence": "Ich fahre mit dem Auto zur Arbeit.",
-    "translation": "",
+    "translation": "partir / salir",
     "tags": []
   },
   {
@@ -6321,42 +6321,42 @@
     "word": "ist (ab)gefahren",
     "article": "",
     "sentence": "Der Zug ist schon abgefahren.",
-    "translation": "",
+    "translation": "ha partido / ha salido",
     "tags": []
   },
   {
     "word": "Fahrplan",
     "article": "der",
     "sentence": "Ist das der neue Fahrplan?",
-    "translation": "",
+    "translation": "horario",
     "tags": []
   },
   {
     "word": "(Fahr)Rad",
     "article": "das",
     "sentence": "Wenn es nicht regnet, fahre ich mit dem Fahrrad.",
-    "translation": "",
+    "translation": "bicicleta",
     "tags": []
   },
   {
     "word": "fallen",
     "article": "",
     "sentence": "Pass auf, das Glas fällt gleich vom Tisch.",
-    "translation": "",
+    "translation": "caer",
     "tags": []
   },
   {
     "word": "ist gefallen",
     "article": "",
     "sentence": "Das Glas ist vom Tisch gefallen.",
-    "translation": "",
+    "translation": "ha caído",
     "tags": []
   },
   {
     "word": "Fan",
     "article": "der",
     "sentence": "Er ist ein großer Fußballfan.",
-    "translation": "",
+    "translation": "fan",
     "tags": [
       "sports"
     ]
@@ -6365,35 +6365,35 @@
     "word": "fantastisch",
     "article": "",
     "sentence": "Dein neues Kleid sieht fantastisch aus!",
-    "translation": "",
+    "translation": "fantástico",
     "tags": []
   },
   {
     "word": "fast",
     "article": "",
     "sentence": "Der Film ist fast zu Ende.",
-    "translation": "",
+    "translation": "casi",
     "tags": []
   },
   {
     "word": "faul",
     "article": "",
     "sentence": "Heute sind wir faul: Wir machen keine Hausaufgaben und arbeiten nicht.",
-    "translation": "",
+    "translation": "perezoso",
     "tags": []
   },
   {
     "word": "Feier",
     "article": "die",
     "sentence": "Wann hast du Feierabend?",
-    "translation": "",
+    "translation": "fiesta",
     "tags": []
   },
   {
     "word": "Fenster",
     "article": "das",
     "sentence": "Kannst du bitte das Fenster öffnen?",
-    "translation": "",
+    "translation": "ventana",
     "tags": [
       "home"
     ]
@@ -6402,21 +6402,21 @@
     "word": "Ferien (Pl.)",
     "article": "die",
     "sentence": "Bald haben wir Ferien.",
-    "translation": "",
+    "translation": "vacaciones",
     "tags": []
   },
   {
     "word": "Ferien",
     "article": "die",
     "sentence": "Fährst du in den Ferien weg oder bleibst du zu Hause?",
-    "translation": "",
+    "translation": "vacaciones",
     "tags": []
   },
   {
     "word": "Fernseher",
     "article": "der",
     "sentence": "Der Fernseher ist kaputt.",
-    "translation": "",
+    "translation": "televisor",
     "tags": []
   },
   {
@@ -6430,28 +6430,28 @@
     "word": "Fest",
     "article": "das",
     "sentence": "Frohes Fest!",
-    "translation": "",
+    "translation": "festival / fiesta",
     "tags": []
   },
   {
     "word": "Festival",
     "article": "das",
     "sentence": "Am Wochenende ist in der Stadt ein Musik-Festival.",
-    "translation": "",
+    "translation": "festival",
     "tags": []
   },
   {
     "word": "fett",
     "article": "",
     "sentence": "Die Wurst ist mir zu fett.",
-    "translation": "",
+    "translation": "gordo",
     "tags": []
   },
   {
     "word": "Fieber (Sg.)",
     "article": "das",
     "sentence": "Sie hat hohes Fieber.",
-    "translation": "",
+    "translation": "fiebre",
     "tags": []
   },
   {
@@ -6465,7 +6465,7 @@
     "word": "Fleisch (Sg.)",
     "article": "das",
     "sentence": "Fleisch mag ich nicht.",
-    "translation": "",
+    "translation": "carne",
     "tags": []
   },
   {
@@ -6479,21 +6479,21 @@
     "word": "(ab)fliegen",
     "article": "",
     "sentence": "Ich fliege in den Ferien nach Spanien.",
-    "translation": "",
+    "translation": "despegar",
     "tags": []
   },
   {
     "word": "Flohmarkt",
     "article": "der",
     "sentence": "Ich gehe gern auf den Flohmarkt.",
-    "translation": "",
+    "translation": "mercadillo",
     "tags": []
   },
   {
     "word": "Flug",
     "article": "der",
     "sentence": "Ich möchte einen Flug nach Kanada buchen.",
-    "translation": "",
+    "translation": "vuelo",
     "tags": [
       "travel"
     ]
@@ -6502,7 +6502,7 @@
     "word": "Fluss",
     "article": "der",
     "sentence": "Der Rhein ist ein großer Fluss.",
-    "translation": "",
+    "translation": "río",
     "tags": [
       "travel"
     ]
@@ -6511,105 +6511,105 @@
     "word": "Fotoapparat",
     "article": "der",
     "sentence": "Ich möchte mir einen Fotoapparat kaufen.",
-    "translation": "",
+    "translation": "cámara fotográfica",
     "tags": []
   },
   {
     "word": "fotografieren",
     "article": "",
     "sentence": "Ich fotografiere gern.",
-    "translation": "",
+    "translation": "fotografiar",
     "tags": []
   },
   {
     "word": "freiwillig",
     "article": "",
     "sentence": "Manchmal bleibe ich freiwillig länger im Büro.",
-    "translation": "",
+    "translation": "voluntario",
     "tags": []
   },
   {
     "word": "Frühstück (Sg.)",
     "article": "das",
     "sentence": "Möchtest du ein Ei zum Frühstück?",
-    "translation": "",
+    "translation": "desayuno",
     "tags": []
   },
   {
     "word": "fühlen (sich)",
     "article": "",
     "sentence": "Wie fühlen Sie sich?",
-    "translation": "",
+    "translation": "sentirse",
     "tags": []
   },
   {
     "word": "Führerschein",
     "article": "der",
     "sentence": "Hast du den Führerschein?",
-    "translation": "",
+    "translation": "carné de conducir",
     "tags": []
   },
   {
     "word": "Fundsachen (Pl.)",
     "article": "die",
     "sentence": "Haben Sie meinen Schirm gefunden?",
-    "translation": "",
+    "translation": "objetos perdidos",
     "tags": []
   },
   {
     "word": "Fundsachen",
     "article": "die",
     "sentence": "Sie können dort bei den Fundsachen schauen.",
-    "translation": "",
+    "translation": "objetos perdidos",
     "tags": []
   },
   {
     "word": "furchtbar",
     "article": "",
     "sentence": "Er hat furchtbare Schmerzen.",
-    "translation": "",
+    "translation": "terrible",
     "tags": []
   },
   {
     "word": "Freizeit (Sg.)",
     "article": "die",
     "sentence": "In meiner Freizeit spiele ich oft Fußball.",
-    "translation": "",
+    "translation": "tiempo libre",
     "tags": []
   },
   {
     "word": "freuen (sich)",
     "article": "",
     "sentence": "Zum Geburtstag habe ich ein interessantes Buch bekommen.",
-    "translation": "",
+    "translation": "alegrarse",
     "tags": []
   },
   {
     "word": "Freundin",
     "article": "die",
     "sentence": "Das ist meine Freundin Susanne.",
-    "translation": "",
+    "translation": "amiga",
     "tags": []
   },
   {
     "word": "freundlich",
     "article": "",
     "sentence": "Er ist immer sehr freundlich zu mir.",
-    "translation": "",
+    "translation": "amable",
     "tags": []
   },
   {
     "word": "frisch",
     "article": "",
     "sentence": "Das Brot ist noch ganz frisch.",
-    "translation": "",
+    "translation": "fresco",
     "tags": []
   },
   {
     "word": "froh",
     "article": "",
     "sentence": "Ich bin froh, dass du kommen kannst.",
-    "translation": "",
+    "translation": "contento",
     "tags": []
   },
   {
@@ -6623,7 +6623,7 @@
     "word": "Gabel",
     "article": "die",
     "sentence": "Kann ich bitte eine Gabel haben?",
-    "translation": "",
+    "translation": "tenedor",
     "tags": [
       "food"
     ]
@@ -6639,21 +6639,21 @@
     "word": "Garage",
     "article": "die",
     "sentence": "Hier ist eine Garage für dein Auto.",
-    "translation": "",
+    "translation": "garaje",
     "tags": []
   },
   {
     "word": "Geburts-(jahr",
     "article": "",
     "sentence": "Das Geburtsjahr Ihres Sohnes, bitte?",
-    "translation": "",
+    "translation": "año de nacimiento",
     "tags": []
   },
   {
     "word": "geehrt-",
     "article": "",
     "sentence": "Sehr geehrte Damen und Herren,",
-    "translation": "",
+    "translation": "honrado / estimado",
     "tags": []
   },
   {
@@ -6667,21 +6667,21 @@
     "word": "Gegenteil",
     "article": "das",
     "sentence": "Das Gegenteil von „klein“ ist „groß“.",
-    "translation": "",
+    "translation": "contrario",
     "tags": []
   },
   {
     "word": "gegenüber",
     "article": "",
     "sentence": "Die Post ist gegenüber vom Bahnhof.",
-    "translation": "",
+    "translation": "enfrente",
     "tags": []
   },
   {
     "word": "Gehalt",
     "article": "das",
     "sentence": "Sie ist mit ihrem Gehalt zufrieden.",
-    "translation": "",
+    "translation": "salario",
     "tags": [
       "work"
     ]
@@ -6690,21 +6690,21 @@
     "word": "Geld (Sg.)",
     "article": "das",
     "sentence": "Hast du noch Geld?",
-    "translation": "",
+    "translation": "dinero",
     "tags": []
   },
   {
     "word": "Geldbörse",
     "article": "die",
     "sentence": "Sie hat ihre Geldbörse verloren.",
-    "translation": "",
+    "translation": "monedero",
     "tags": []
   },
   {
     "word": "Gemüse (Sg.)",
     "article": "das",
     "sentence": "Wir kaufen das Gemüse immer auf dem Markt.",
-    "translation": "",
+    "translation": "verdura",
     "tags": []
   },
   {
@@ -6725,14 +6725,14 @@
     "word": "Gepäck (Sg.)",
     "article": "das",
     "sentence": "Wollen Sie Ihr Gepäck mitnehmen?",
-    "translation": "",
+    "translation": "equipaje",
     "tags": []
   },
   {
     "word": "geradeaus",
     "article": "",
     "sentence": "Gehen Sie immer geradeaus!",
-    "translation": "",
+    "translation": "recto",
     "tags": [
       "directions"
     ]
@@ -6741,7 +6741,7 @@
     "word": "Gerät",
     "article": "das",
     "sentence": "Elektrogeräte finden Sie im dritten Stock.",
-    "translation": "",
+    "translation": "dispositivo",
     "tags": [
       "exercise"
     ]
@@ -6750,35 +6750,35 @@
     "word": "Gericht",
     "article": "das",
     "sentence": "Mein Lieblingsgericht ist Pizza.",
-    "translation": "",
+    "translation": "plato",
     "tags": []
   },
   {
     "word": "gern",
     "article": "",
     "sentence": "Ich helfe Ihnen gern.",
-    "translation": "",
+    "translation": "con gusto",
     "tags": []
   },
   {
     "word": "Geschichte",
     "article": "die",
     "sentence": "Erzählst du mir eine Geschichte?",
-    "translation": "",
+    "translation": "historia",
     "tags": []
   },
   {
     "word": "Geschirr (Sg.)",
     "article": "das",
     "sentence": "Stellst du bitte das Geschirr in den Schrank?",
-    "translation": "",
+    "translation": "vajilla",
     "tags": []
   },
   {
     "word": "Gesicht",
     "article": "das",
     "sentence": "Wasch dir bitte das Gesicht.",
-    "translation": "",
+    "translation": "cara",
     "tags": []
   },
   {
@@ -6802,56 +6802,56 @@
     "word": "Gewitter",
     "article": "das",
     "sentence": "Ich glaube, es gibt heute ein Gewitter.",
-    "translation": "",
+    "translation": "tormenta",
     "tags": []
   },
   {
     "word": "Gitarre",
     "article": "die",
     "sentence": "Er kann gut Gitarre spielen.",
-    "translation": "",
+    "translation": "guitarra",
     "tags": []
   },
   {
     "word": "Glück (Sg.)",
     "article": "das",
     "sentence": "Viel Glück!",
-    "translation": "",
+    "translation": "suerte",
     "tags": []
   },
   {
     "word": "Grippe (Sg.)",
     "article": "die",
     "sentence": "Ich habe eine Grippe und kann leider nicht kommen.",
-    "translation": "",
+    "translation": "gripe",
     "tags": []
   },
   {
     "word": "gültig sein",
     "article": "",
     "sentence": "Der Pass ist nicht mehr gültig.",
-    "translation": "",
+    "translation": "ser válido",
     "tags": []
   },
   {
     "word": "Hals",
     "article": "der",
     "sentence": "Mir tut der Hals weh.",
-    "translation": "",
+    "translation": "cuello",
     "tags": []
   },
   {
     "word": "Hamburger",
     "article": "der",
     "sentence": "Einen Hamburger ohne Salat, bitte.",
-    "translation": "",
+    "translation": "hamburguesa",
     "tags": []
   },
   {
     "word": "Handtuch",
     "article": "das",
     "sentence": "Gibst du mir bitte ein frisches Handtuch?",
-    "translation": "",
+    "translation": "toalla",
     "tags": [
       "hotel"
     ]
@@ -6860,14 +6860,14 @@
     "word": "hängen",
     "article": "",
     "sentence": "Im Museum hängen moderne Bilder.",
-    "translation": "",
+    "translation": "colgar",
     "tags": []
   },
   {
     "word": "hart",
     "article": "",
     "sentence": "Ich finde das Bett zu hart.",
-    "translation": "",
+    "translation": "duro",
     "tags": []
   },
   {
@@ -6881,7 +6881,7 @@
     "word": "Hauptstadt",
     "article": "die",
     "sentence": "Berlin ist die Hauptstadt von Deutschland.",
-    "translation": "",
+    "translation": "capital",
     "tags": []
   },
   {
@@ -6895,7 +6895,7 @@
     "word": "Heft",
     "article": "das",
     "sentence": "Hast du dein Heft dabei?",
-    "translation": "",
+    "translation": "cuaderno",
     "tags": [
       "education"
     ]
@@ -6911,7 +6911,7 @@
     "word": "heiß",
     "article": "",
     "sentence": "Vorsicht, der Tee ist heiß!",
-    "translation": "",
+    "translation": "caliente",
     "tags": []
   },
   {
@@ -6925,14 +6925,14 @@
     "word": "Hemd",
     "article": "das",
     "sentence": "Nick trägt heute ein neues Hemd.",
-    "translation": "",
+    "translation": "camisa",
     "tags": []
   },
   {
     "word": "her/her-/-her",
     "article": "",
     "sentence": "Komm bitte mal her!",
-    "translation": "",
+    "translation": "aquí",
     "tags": []
   },
   {
@@ -6953,14 +6953,14 @@
     "word": "herstellen",
     "article": "",
     "sentence": "In unserer Firma stellen wir Möbel her.",
-    "translation": "",
+    "translation": "producir",
     "tags": []
   },
   {
     "word": "herunterladen",
     "article": "",
     "sentence": "Er lädt die Musik aus dem Internet herunter.",
-    "translation": "",
+    "translation": "descargar",
     "tags": []
   },
   {
@@ -6974,28 +6974,28 @@
     "word": "Himmel (Sg.)",
     "article": "der",
     "sentence": "Heute ist so tolles Wetter: Der Himmel ist blau und es gibt keine Wolken.",
-    "translation": "",
+    "translation": "cielo",
     "tags": []
   },
   {
     "word": "hin/hin-/-hin",
     "article": "",
     "sentence": "Wo gehst du hin?/Wohin gehst du?",
-    "translation": "",
+    "translation": "allí",
     "tags": []
   },
   {
     "word": "hinter",
     "article": "",
     "sentence": "Hinter dem Haus haben wir einen Garten.",
-    "translation": "",
+    "translation": "detrás",
     "tags": []
   },
   {
     "word": "hoffen",
     "article": "",
     "sentence": "Ich hoffe, dass es dir gut geht.",
-    "translation": "",
+    "translation": "esperar",
     "tags": [
       "actions"
     ]
@@ -7004,21 +7004,21 @@
     "word": "hoffentlich",
     "article": "",
     "sentence": "Hoffentlich hat unser Zug keine Verspätung.",
-    "translation": "",
+    "translation": "ojalá",
     "tags": []
   },
   {
     "word": "Homepage",
     "article": "die",
     "sentence": "Auf der Homepage von Freiburg gibt es alle wichtigen Informationen über die Stadt.",
-    "translation": "",
+    "translation": "página web",
     "tags": []
   },
   {
     "word": "Hose",
     "article": "die",
     "sentence": "Kann ich die Hose waschen?",
-    "translation": "",
+    "translation": "pantalones",
     "tags": []
   },
   {
@@ -7048,14 +7048,14 @@
     "word": "informieren (sich)",
     "article": "",
     "sentence": "Ich möchte mich vor der Reise über das Land informieren.",
-    "translation": "",
+    "translation": "informarse",
     "tags": []
   },
   {
     "word": "Insel",
     "article": "die",
     "sentence": "Ich möchte im Sommer auf einer Insel Urlaub machen.",
-    "translation": "",
+    "translation": "isla",
     "tags": [
       "travel"
     ]
@@ -7071,35 +7071,35 @@
     "word": "intelligent",
     "article": "",
     "sentence": "Einstein war sehr intelligent.",
-    "translation": "",
+    "translation": "inteligente",
     "tags": []
   },
   {
     "word": "Interesse",
     "article": "das",
     "sentence": "Ich habe viele Interessen: Sport, Lesen, Kultur, Reisen.",
-    "translation": "",
+    "translation": "interés",
     "tags": []
   },
   {
     "word": "interessieren (sich)",
     "article": "",
     "sentence": "Ich interessiere mich für Fußball.",
-    "translation": "",
+    "translation": "interesarse",
     "tags": []
   },
   {
     "word": "interessant",
     "article": "",
     "sentence": "Ich lese gerade ein interessantes Buch.",
-    "translation": "",
+    "translation": "interesante",
     "tags": []
   },
   {
     "word": "Internet (Sg.)",
     "article": "das",
     "sentence": "Das findest du im Internet.",
-    "translation": "",
+    "translation": "internet",
     "tags": []
   },
   {
@@ -7113,28 +7113,28 @@
     "word": "Jeans (Pl.)",
     "article": "die",
     "sentence": "Ich mag Jeans lieber als Röcke.",
-    "translation": "",
+    "translation": "vaqueros",
     "tags": []
   },
   {
     "word": "jeder",
     "article": "",
     "sentence": "Das Restaurant hat jeden Tag geöffnet.",
-    "translation": "",
+    "translation": "cada",
     "tags": []
   },
   {
     "word": "jemand",
     "article": "",
     "sentence": "Hat jemand meinen Stift?",
-    "translation": "",
+    "translation": "alguien",
     "tags": []
   },
   {
     "word": "joggen",
     "article": "",
     "sentence": "Ich jogge gern im Park.",
-    "translation": "",
+    "translation": "hacer jogging",
     "tags": [
       "exercise"
     ]
@@ -7143,14 +7143,14 @@
     "word": "Jugendherberge",
     "article": "die",
     "sentence": "Wir übernachten in einer Jugendherberge.",
-    "translation": "",
+    "translation": "albergue juvenil",
     "tags": []
   },
   {
     "word": "der/die Jugendliche",
     "article": "",
     "sentence": "Viele Jugendliche hören den ganzen Tag Musik.",
-    "translation": "",
+    "translation": "adolescente",
     "tags": []
   },
   {
@@ -7164,7 +7164,7 @@
     "word": "kalt",
     "article": "",
     "sentence": "Heute ist es sehr kalt.",
-    "translation": "",
+    "translation": "frío",
     "tags": []
   },
   {
@@ -7178,14 +7178,14 @@
     "word": "Käse (Sg.)",
     "article": "der",
     "sentence": "Isst du lieber Käse oder Wurst?",
-    "translation": "",
+    "translation": "queso",
     "tags": []
   },
   {
     "word": "Katze",
     "article": "die",
     "sentence": "Meine Tochter wünscht sich eine Katze.",
-    "translation": "",
+    "translation": "gato",
     "tags": [
       "animals"
     ]
@@ -7194,28 +7194,28 @@
     "word": "Keller",
     "article": "der",
     "sentence": "Bitte bring die Kartoffeln in den Keller!",
-    "translation": "",
+    "translation": "sótano",
     "tags": []
   },
   {
     "word": "Kenntnisse (Pl.)",
     "article": "die",
     "sentence": "Deine Deutschkenntnisse sind sehr gut!",
-    "translation": "",
+    "translation": "conocimientos",
     "tags": []
   },
   {
     "word": "Kette",
     "article": "die",
     "sentence": "Meine Mutter bekommt eine schöne Kette zum Geburtstag.",
-    "translation": "",
+    "translation": "cadena",
     "tags": []
   },
   {
     "word": "Kirche",
     "article": "die",
     "sentence": "Diese Kirche ist fast 800 Jahre alt.",
-    "translation": "",
+    "translation": "iglesia",
     "tags": [
       "travel"
     ]
@@ -7231,14 +7231,14 @@
     "word": "Klavier",
     "article": "das",
     "sentence": "Jakob kann sehr gut Klavier spielen.",
-    "translation": "",
+    "translation": "piano",
     "tags": []
   },
   {
     "word": "Kleid",
     "article": "das",
     "sentence": "Julia möchte ein rotes Kleid kaufen.",
-    "translation": "",
+    "translation": "vestido",
     "tags": []
   },
   {
@@ -7252,7 +7252,7 @@
     "word": "klug",
     "article": "",
     "sentence": "Molly ist ein kluges Mädchen.",
-    "translation": "",
+    "translation": "listo",
     "tags": []
   },
   {
@@ -7266,7 +7266,7 @@
     "word": "Kontakt",
     "article": "der",
     "sentence": "Ich habe wenig Kontakt zu meinen Kollegen.",
-    "translation": "",
+    "translation": "contacto",
     "tags": [
       "phone"
     ]
@@ -7275,7 +7275,7 @@
     "word": "kontrollieren",
     "article": "",
     "sentence": "Können Sie bei meinem Auto bitte das Öl kontrollieren?",
-    "translation": "",
+    "translation": "controlar",
     "tags": [
       "actions"
     ]
@@ -7284,7 +7284,7 @@
     "word": "Konzert",
     "article": "das",
     "sentence": "Für das Konzert am Sonntag gibt es noch Karten.",
-    "translation": "",
+    "translation": "concierto",
     "tags": []
   },
   {
@@ -7300,7 +7300,7 @@
     "word": "Kosmetik (Sg.)",
     "article": "die",
     "sentence": "Kosmetik können Sie im Erdgeschoss kaufen.",
-    "translation": "",
+    "translation": "cosmética",
     "tags": []
   },
   {
@@ -7314,7 +7314,7 @@
     "word": "Krankenhaus",
     "article": "das",
     "sentence": "Meine Tante ist im Krankenhaus.",
-    "translation": "",
+    "translation": "hospital",
     "tags": [
       "health"
     ]
@@ -7323,7 +7323,7 @@
     "word": "Krankenkasse",
     "article": "die",
     "sentence": "Bei welcher Krankenkasse sind Sie?",
-    "translation": "",
+    "translation": "seguro médico",
     "tags": [
       "health"
     ]
@@ -7332,7 +7332,7 @@
     "word": "Krankheit",
     "article": "die",
     "sentence": "Welche Krankheit hat Herr Brandner?",
-    "translation": "",
+    "translation": "enfermedad",
     "tags": [
       "health"
     ]
@@ -7341,14 +7341,14 @@
     "word": "Kredit",
     "article": "der",
     "sentence": "Ich brauche einen Kredit von der Bank.",
-    "translation": "",
+    "translation": "crédito",
     "tags": []
   },
   {
     "word": "Kreuzung",
     "article": "die",
     "sentence": "Fahren Sie an der nächsten Kreuzung rechts.",
-    "translation": "",
+    "translation": "cruce",
     "tags": [
       "directions"
     ]
@@ -7357,7 +7357,7 @@
     "word": "Krimi",
     "article": "der",
     "sentence": "Miriam liest gern spannende Krimis.",
-    "translation": "",
+    "translation": "novela policíaca",
     "tags": []
   },
   {
@@ -7371,7 +7371,7 @@
     "word": "Kultur",
     "article": "die",
     "sentence": "Ich finde fremde Länder und Kulturen sehr interessant.",
-    "translation": "",
+    "translation": "cultura",
     "tags": []
   },
   {
@@ -7392,7 +7392,7 @@
     "word": "Kunst",
     "article": "die",
     "sentence": "Ich verstehe nichts von moderner Kunst.",
-    "translation": "",
+    "translation": "arte",
     "tags": []
   },
   {
@@ -7408,28 +7408,28 @@
     "word": "Landschaft",
     "article": "die",
     "sentence": "Die Landschaft ist sehr schön.",
-    "translation": "",
+    "translation": "paisaje",
     "tags": []
   },
   {
     "word": "langweilig",
     "article": "",
     "sentence": "Mir ist langweilig.",
-    "translation": "",
+    "translation": "aburrido",
     "tags": []
   },
   {
     "word": "der/das Laptop",
     "article": "",
     "sentence": "Ich brauche einen neuen Laptop.",
-    "translation": "",
+    "translation": "portátil",
     "tags": []
   },
   {
     "word": "lassen",
     "article": "",
     "sentence": "Lass mich in Ruhe!",
-    "translation": "",
+    "translation": "dejar",
     "tags": [
       "actions"
     ]
@@ -7438,7 +7438,7 @@
     "word": "Lebensmittel (Pl.)",
     "article": "die",
     "sentence": "Lebensmittel bekommen Sie im Supermarkt.",
-    "translation": "",
+    "translation": "alimentos",
     "tags": []
   },
   {
@@ -7452,28 +7452,28 @@
     "word": "leidtun/leid tun",
     "article": "",
     "sentence": "Es tut mir leid, dass ich nicht kommen kann.",
-    "translation": "",
+    "translation": "sentir",
     "tags": []
   },
   {
     "word": "leihen",
     "article": "",
     "sentence": "Kannst du mir fünf Euro leihen?",
-    "translation": "",
+    "translation": "prestar",
     "tags": []
   },
   {
     "word": "Leute (Pl.)",
     "article": "die",
     "sentence": "Auf der Party sind viele Leute.",
-    "translation": "",
+    "translation": "gente",
     "tags": []
   },
   {
     "word": "liefern",
     "article": "",
     "sentence": "Wir liefern Ihnen den Schrank nach Hause.",
-    "translation": "",
+    "translation": "entregar",
     "tags": [
       "actions"
     ]
@@ -7482,14 +7482,14 @@
     "word": "Link",
     "article": "der",
     "sentence": "Ich schicke dir einen Link zu Deutschübungen.",
-    "translation": "",
+    "translation": "enlace",
     "tags": []
   },
   {
     "word": "Löffel",
     "article": "der",
     "sentence": "Bitte bringen Sie mir einen Löffel.",
-    "translation": "",
+    "translation": "cuchara",
     "tags": [
       "food"
     ]
@@ -7505,7 +7505,7 @@
     "word": "lügen",
     "article": "",
     "sentence": "Du sollst nicht lügen.",
-    "translation": "",
+    "translation": "mentir",
     "tags": []
   },
   {
@@ -7519,14 +7519,14 @@
     "word": "Magen",
     "article": "der",
     "sentence": "Mein Magen tut weh.",
-    "translation": "",
+    "translation": "estómago",
     "tags": []
   },
   {
     "word": "Mailbox",
     "article": "die",
     "sentence": "Hier ist die Mailbox von Susanne König.",
-    "translation": "",
+    "translation": "buzón de voz",
     "tags": [
       "phone"
     ]
@@ -7535,14 +7535,14 @@
     "word": "mal / das Mal",
     "article": "",
     "sentence": "Sag mal, wie gefällt dir mein neues Kleid?",
-    "translation": "",
+    "translation": "vez",
     "tags": []
   },
   {
     "word": "malen",
     "article": "",
     "sentence": "Mein Sohn kann gut malen.",
-    "translation": "",
+    "translation": "pintar",
     "tags": [
       "actions"
     ]
@@ -7551,21 +7551,21 @@
     "word": "manch-",
     "article": "",
     "sentence": "Manche Nachbarn sind unfreundlich.",
-    "translation": "",
+    "translation": "algunos",
     "tags": []
   },
   {
     "word": "manchmal",
     "article": "",
     "sentence": "Manchmal essen wir im Restaurant.",
-    "translation": "",
+    "translation": "a veces",
     "tags": []
   },
   {
     "word": "Mannschaft",
     "article": "die",
     "sentence": "Meine Lieblingsmannschaft hat 1:0 verloren.",
-    "translation": "",
+    "translation": "equipo",
     "tags": [
       "sports"
     ]
@@ -7581,7 +7581,7 @@
     "word": "Markt",
     "article": "der",
     "sentence": "Ich gehe heute auf den Markt.",
-    "translation": "",
+    "translation": "mercado",
     "tags": [
       "shopping"
     ]
@@ -7590,7 +7590,7 @@
     "word": "Medikament",
     "article": "das",
     "sentence": "Nehmen Sie dieses Medikament dreimal pro Tag!",
-    "translation": "",
+    "translation": "medicamento",
     "tags": []
   },
   {
@@ -7604,21 +7604,21 @@
     "word": "Meinung",
     "article": "die",
     "sentence": "Meine Meinung zu dem Thema ist: …",
-    "translation": "",
+    "translation": "opinión",
     "tags": []
   },
   {
     "word": "meistens",
     "article": "",
     "sentence": "Meistens trinke ich zum Frühstück nur einen Kaffee.",
-    "translation": "",
+    "translation": "generalmente",
     "tags": []
   },
   {
     "word": "Menge",
     "article": "die",
     "sentence": "Wir haben noch eine Menge Zeit.",
-    "translation": "",
+    "translation": "cantidad",
     "tags": []
   },
   {
@@ -7632,14 +7632,14 @@
     "word": "Messe",
     "article": "die",
     "sentence": "Kommst du mit zur Buchmesse nach Frankfurt?",
-    "translation": "",
+    "translation": "feria",
     "tags": []
   },
   {
     "word": "Messer",
     "article": "das",
     "sentence": "Das Messer schneidet nicht gut.",
-    "translation": "",
+    "translation": "cuchillo",
     "tags": [
       "food"
     ]
@@ -7648,35 +7648,35 @@
     "word": "Milch (Sg.)",
     "article": "die",
     "sentence": "Die Milch steht im Kühlschrank.",
-    "translation": "",
+    "translation": "leche",
     "tags": []
   },
   {
     "word": "mindestens",
     "article": "",
     "sentence": "Bitte kommen Sie mindestens zwei Stunden vor Ihrem Flug zum Flughafen.",
-    "translation": "",
+    "translation": "al menos",
     "tags": []
   },
   {
     "word": "Mineralwasser (Sg.)",
     "article": "das",
     "sentence": "Ein Glas Mineralwasser, bitte.",
-    "translation": "",
+    "translation": "agua mineral",
     "tags": []
   },
   {
     "word": "mit (+ mitbringen/-kommen/-machen/-nehmen/-spielen)",
     "article": "",
     "sentence": "Trinken Sie den Kaffee mit oder ohne Zucker?",
-    "translation": "",
+    "translation": "con",
     "tags": []
   },
   {
     "word": "Mitarbeiter",
     "article": "der",
     "sentence": "Unsere Firma hat sieben Mitarbeiter.",
-    "translation": "",
+    "translation": "empleado",
     "tags": [
       "work"
     ]
@@ -7685,7 +7685,7 @@
     "word": "Mittagessen",
     "article": "das",
     "sentence": "Um zwölf Uhr gibt es Mittagessen.",
-    "translation": "",
+    "translation": "almuerzo",
     "tags": [
       "food"
     ]
@@ -7694,14 +7694,14 @@
     "word": "Mittel",
     "article": "das",
     "sentence": "Haben Sie ein Mittel gegen Magenschmerzen?",
-    "translation": "",
+    "translation": "medio / recurso",
     "tags": []
   },
   {
     "word": "Möbel (Pl.)",
     "article": "die",
     "sentence": "Eure Möbel sind sehr schön.",
-    "translation": "",
+    "translation": "muebles",
     "tags": []
   },
   {
@@ -7715,14 +7715,14 @@
     "word": "Mode",
     "article": "die",
     "sentence": "Wie findest du die neue Mode?",
-    "translation": "",
+    "translation": "moda",
     "tags": []
   },
   {
     "word": "modern",
     "article": "",
     "sentence": "Das Stadtzentrum von Frankfurt ist sehr modern.",
-    "translation": "",
+    "translation": "moderno",
     "tags": []
   },
   {
@@ -7736,21 +7736,21 @@
     "word": "Motorroller",
     "article": "der",
     "sentence": "Oskar fährt mit dem Motorroller zur Arbeit.",
-    "translation": "",
+    "translation": "escúter",
     "tags": []
   },
   {
     "word": "Müll (Sg.)",
     "article": "der",
     "sentence": "Bringst du bitte den Müll raus?",
-    "translation": "",
+    "translation": "basura",
     "tags": []
   },
   {
     "word": "Museum",
     "article": "das",
     "sentence": "Im Kunstmuseum gibt es eine neue Ausstellung.",
-    "translation": "",
+    "translation": "museo",
     "tags": [
       "travel"
     ]
@@ -7759,21 +7759,21 @@
     "word": "Musik (Sg.)",
     "article": "die",
     "sentence": "Wie findest du die Musik?",
-    "translation": "",
+    "translation": "música",
     "tags": []
   },
   {
     "word": "Mütze",
     "article": "die",
     "sentence": "Haben Sie rote Mützen?",
-    "translation": "",
+    "translation": "gorro",
     "tags": []
   },
   {
     "word": "Nachbar",
     "article": "der",
     "sentence": "Mein Nachbar kommt aus Brasilien und meine Nachbarin ist Italienerin.",
-    "translation": "",
+    "translation": "vecino",
     "tags": [
       "home"
     ]
@@ -7782,7 +7782,7 @@
     "word": "Nachricht",
     "article": "die",
     "sentence": "Ich sehe abends immer die Nachrichten im Fernsehen.",
-    "translation": "",
+    "translation": "noticia / mensaje",
     "tags": [
       "phone",
       "email"
@@ -7792,42 +7792,42 @@
     "word": "nächste",
     "article": "",
     "sentence": "Sehen wir uns nächste Woche?",
-    "translation": "",
+    "translation": "siguiente / próximo",
     "tags": []
   },
   {
     "word": "Nähe (Sg.)",
     "article": "die",
     "sentence": "Die Post ist in der Nähe vom Bahnhof.",
-    "translation": "",
+    "translation": "cercanía",
     "tags": []
   },
   {
     "word": "nass",
     "article": "",
     "sentence": "Geh nicht mit den nassen Schuhen ins Wohnzimmer!",
-    "translation": "",
+    "translation": "mojado",
     "tags": []
   },
   {
     "word": "Natur (Sg.)",
     "article": "die",
     "sentence": "Ich bin gern draußen in der Natur.",
-    "translation": "",
+    "translation": "naturaleza",
     "tags": []
   },
   {
     "word": "natürlich",
     "article": "",
     "sentence": "Natürlich helfen wir dir.",
-    "translation": "",
+    "translation": "naturalmente / por supuesto",
     "tags": []
   },
   {
     "word": "neben",
     "article": "",
     "sentence": "Neben mir ist noch ein Platz frei.",
-    "translation": "",
+    "translation": "al lado de",
     "tags": []
   },
   {
@@ -7848,42 +7848,42 @@
     "word": "nennen",
     "article": "",
     "sentence": "Mein Freund heißt Alexander, aber alle nennen ihn Alex.",
-    "translation": "",
+    "translation": "llamar / nombrar",
     "tags": []
   },
   {
     "word": "nervös",
     "article": "",
     "sentence": "Bei Prüfungen bin ich immer sehr nervös.",
-    "translation": "",
+    "translation": "nervioso",
     "tags": []
   },
   {
     "word": "nett",
     "article": "",
     "sentence": "Ich habe viele nette Kollegen.",
-    "translation": "",
+    "translation": "amable / simpático",
     "tags": []
   },
   {
     "word": "niemand",
     "article": "",
     "sentence": "Hier ist niemand.",
-    "translation": "",
+    "translation": "nadie",
     "tags": []
   },
   {
     "word": "nirgends",
     "article": "",
     "sentence": "Hier kann man nirgends parken.",
-    "translation": "",
+    "translation": "en ninguna parte",
     "tags": []
   },
   {
     "word": "Note",
     "article": "die",
     "sentence": "Eva hat immer sehr gute Noten in Deutsch.",
-    "translation": "",
+    "translation": "nota / calificación",
     "tags": [
       "education"
     ]
@@ -7892,14 +7892,14 @@
     "word": "notieren",
     "article": "",
     "sentence": "Notieren Sie bitte alle wichtigen Informationen.",
-    "translation": "",
+    "translation": "anotar",
     "tags": []
   },
   {
     "word": "Notiz",
     "article": "die",
     "sentence": "Schreib mir bitte eine Notiz.",
-    "translation": "",
+    "translation": "nota",
     "tags": []
   },
   {
@@ -7934,35 +7934,35 @@
     "word": "offen",
     "article": "",
     "sentence": "Ist das Fenster im Bad noch offen?",
-    "translation": "",
+    "translation": "abierto",
     "tags": []
   },
   {
     "word": "Ohr",
     "article": "das",
     "sentence": "Ich habe Ohrenschmerzen.",
-    "translation": "",
+    "translation": "oído",
     "tags": []
   },
   {
     "word": "Öl",
     "article": "das",
     "sentence": "Machen wir den Salat mit Öl?",
-    "translation": "",
+    "translation": "aceite",
     "tags": []
   },
   {
     "word": "online",
     "article": "",
     "sentence": "Wann bist du wieder online?",
-    "translation": "",
+    "translation": "en línea",
     "tags": []
   },
   {
     "word": "Orange",
     "article": "die",
     "sentence": "Ich esse gern Orangen.",
-    "translation": "",
+    "translation": "naranja",
     "tags": [
       "food"
     ]
@@ -7971,98 +7971,98 @@
     "word": "organisieren",
     "article": "",
     "sentence": "Frau Gomez organisiert unseren Ausflug.",
-    "translation": "",
+    "translation": "organizar",
     "tags": []
   },
   {
     "word": "Paar",
     "article": "das",
     "sentence": "Romeo und Julia sind ein Paar.",
-    "translation": "",
+    "translation": "par",
     "tags": []
   },
   {
     "word": "ein paar",
     "article": "",
     "sentence": "Wir fahren ein paar Tage ans Meer.",
-    "translation": "",
+    "translation": "un par / unos pocos",
     "tags": []
   },
   {
     "word": "packen",
     "article": "",
     "sentence": "Ich muss noch meinen Koffer packen.",
-    "translation": "",
+    "translation": "empacar / hacer la maleta",
     "tags": []
   },
   {
     "word": "Paket",
     "article": "das",
     "sentence": "Bringst du bitte das Paket zur Post?",
-    "translation": "",
+    "translation": "paquete",
     "tags": []
   },
   {
     "word": "Papiere (Pl.)",
     "article": "die",
     "sentence": "Haben Sie Ihre Papiere dabei?",
-    "translation": "",
+    "translation": "papeles / documentos",
     "tags": []
   },
   {
     "word": "Parfüm",
     "article": "das",
     "sentence": "Ich suche ein Parfum als Geschenk für meine Frau.",
-    "translation": "",
+    "translation": "perfume",
     "tags": []
   },
   {
     "word": "Park",
     "article": "der",
     "sentence": "Ich gehe gern im Park spazieren.",
-    "translation": "",
+    "translation": "parque",
     "tags": []
   },
   {
     "word": "parken",
     "article": "",
     "sentence": "Darf ich hier parken?",
-    "translation": "",
+    "translation": "aparcar / estacionar",
     "tags": []
   },
   {
     "word": "Partnerin",
     "article": "die",
     "sentence": "Veronika ist meine Partnerin.",
-    "translation": "",
+    "translation": "pareja / socia",
     "tags": []
   },
   {
     "word": "passen",
     "article": "",
     "sentence": "Die Bluse passt mir nicht.",
-    "translation": "",
+    "translation": "quedar (ropa) / encajar",
     "tags": []
   },
   {
     "word": "passieren",
     "article": "",
     "sentence": "Wie ist der Unfall passiert?",
-    "translation": "",
+    "translation": "pasar / suceder",
     "tags": []
   },
   {
     "word": "Passwort",
     "article": "das",
     "sentence": "Bitte schreiben Sie Ihr Passwort.",
-    "translation": "",
+    "translation": "contraseña",
     "tags": []
   },
   {
     "word": "Person",
     "article": "die",
     "sentence": "Eintritt pro Person: 5 Euro.",
-    "translation": "",
+    "translation": "persona",
     "tags": []
   },
   {
@@ -8085,70 +8085,70 @@
     "word": "Pizza",
     "article": "die",
     "sentence": "Mein Lieblingsessen ist Pizza.",
-    "translation": "",
+    "translation": "pizza",
     "tags": []
   },
   {
     "word": "Plakat",
     "article": "das",
     "sentence": "Wir machen im Unterricht ein Plakat zum Thema „Essen und Trinken“.",
-    "translation": "",
+    "translation": "cartel",
     "tags": []
   },
   {
     "word": "planen",
     "article": "",
     "sentence": "Wir sollen zusammen eine Klassenparty planen.",
-    "translation": "",
+    "translation": "planear",
     "tags": []
   },
   {
     "word": "plötzlich",
     "article": "",
     "sentence": "Plötzlich war das Licht aus.",
-    "translation": "",
+    "translation": "de repente",
     "tags": []
   },
   {
     "word": "Polizei (Sg.)",
     "article": "die",
     "sentence": "Rufen Sie die Polizei!",
-    "translation": "",
+    "translation": "policía",
     "tags": []
   },
   {
     "word": "Pommes frites (Pl.)",
     "article": "die",
     "sentence": "Die Kinder essen Bratwurst mit Pommes frites.",
-    "translation": "",
+    "translation": "patatas fritas",
     "tags": []
   },
   {
     "word": "Portion",
     "article": "die",
     "sentence": "Ich nehme eine kleine Portion Eis.",
-    "translation": "",
+    "translation": "porción",
     "tags": []
   },
   {
     "word": "Post (Sg.)",
     "article": "die",
     "sentence": "Entschuldigung, wo ist die Post?",
-    "translation": "",
+    "translation": "correo",
     "tags": []
   },
   {
     "word": "Poster",
     "article": "das",
     "sentence": "Das Poster hängt über dem Bett.",
-    "translation": "",
+    "translation": "póster",
     "tags": []
   },
   {
     "word": "Postkarte",
     "article": "die",
     "sentence": "Schreibst du mir eine Postkarte aus Kanada?",
-    "translation": "",
+    "translation": "postal",
     "tags": []
   },
   {
@@ -8169,42 +8169,42 @@
     "word": "privat",
     "article": "",
     "sentence": "Das ist meine Nummer im Büro und das ist meine private Handynummer.",
-    "translation": "",
+    "translation": "privado",
     "tags": []
   },
   {
     "word": "pro",
     "article": "",
     "sentence": "Das Zimmer kostet 100 Euro pro Nacht.",
-    "translation": "",
+    "translation": "por",
     "tags": []
   },
   {
     "word": "probieren",
     "article": "",
     "sentence": "Möchten Sie den Käse probieren?",
-    "translation": "",
+    "translation": "probar",
     "tags": []
   },
   {
     "word": "Produkt",
     "article": "das",
     "sentence": "Unsere Produkte haben eine sehr hohe Qualität.",
-    "translation": "",
+    "translation": "producto",
     "tags": []
   },
   {
     "word": "Programm",
     "article": "das",
     "sentence": "Dieses Programm im Radio interessiert mich nicht.",
-    "translation": "",
+    "translation": "programa",
     "tags": []
   },
   {
     "word": "Projekt",
     "article": "das",
     "sentence": "Wir machen ein Projekt über Sehenswürdigkeiten in unserer Stadt.",
-    "translation": "",
+    "translation": "proyecto",
     "tags": [
       "work"
     ]
@@ -8213,7 +8213,7 @@
     "word": "prüfen",
     "article": "",
     "sentence": "Bitte prüfen Sie die Rechnung sofort.",
-    "translation": "",
+    "translation": "comprobar / examinar",
     "tags": [
       "actions"
     ]
@@ -8222,14 +8222,14 @@
     "word": "Pullover",
     "article": "der",
     "sentence": "Ich muss mir einen Pullover kaufen.",
-    "translation": "",
+    "translation": "suéter / jersey",
     "tags": []
   },
   {
     "word": "putzen",
     "article": "",
     "sentence": "Ich muss heute noch das Bad putzen.",
-    "translation": "",
+    "translation": "limpiar",
     "tags": [
       "actions"
     ]
@@ -8238,7 +8238,7 @@
     "word": "Qualität",
     "article": "die",
     "sentence": "Dieser Fernseher hat eine gute Qualität.",
-    "translation": "",
+    "translation": "calidad",
     "tags": [
       "work"
     ]
@@ -8247,14 +8247,14 @@
     "word": "Quiz (Sg.)",
     "article": "das",
     "sentence": "Er schaut gern Quizsendungen an.",
-    "translation": "",
+    "translation": "concurso / cuestionario",
     "tags": []
   },
   {
     "word": "Radio",
     "article": "das",
     "sentence": "Ich höre im Auto gern Radio.",
-    "translation": "",
+    "translation": "radio",
     "tags": []
   },
   {
@@ -8268,7 +8268,7 @@
     "word": "Rathaus",
     "article": "das",
     "sentence": "Das Formular bekommen Sie im Rathaus.",
-    "translation": "",
+    "translation": "ayuntamiento",
     "tags": []
   },
   {
@@ -8282,21 +8282,21 @@
     "word": "rechnen",
     "article": "",
     "sentence": "Sarah kann gut rechnen.",
-    "translation": "",
+    "translation": "calcular",
     "tags": []
   },
   {
     "word": "recht haben",
     "article": "",
     "sentence": "Du hast (nicht) recht.",
-    "translation": "",
+    "translation": "tener razón",
     "tags": []
   },
   {
     "word": "reden",
     "article": "",
     "sentence": "Mit meiner Freundin kann ich über alles reden.",
-    "translation": "",
+    "translation": "hablar",
     "tags": [
       "actions"
     ]
@@ -8305,7 +8305,7 @@
     "word": "Regen (Sg.)",
     "article": "der",
     "sentence": "Bei Regen gehe ich nicht aus dem Haus.",
-    "translation": "",
+    "translation": "lluvia",
     "tags": []
   },
   {
@@ -8319,7 +8319,7 @@
     "word": "Reifen",
     "article": "der",
     "sentence": "Ich brauche neue Reifen für mein Auto.",
-    "translation": "",
+    "translation": "neumático",
     "tags": []
   },
   {
@@ -8340,21 +8340,21 @@
     "word": "Reis (Sg.)",
     "article": "der",
     "sentence": "Ich esse gern Reis mit Gemüse und Fisch.",
-    "translation": "",
+    "translation": "arroz",
     "tags": []
   },
   {
     "word": "reiten",
     "article": "",
     "sentence": "Möchtest du reiten lernen?",
-    "translation": "",
+    "translation": "montar a caballo",
     "tags": []
   },
   {
     "word": "renovieren",
     "article": "",
     "sentence": "Wir renovieren das ganze Haus.",
-    "translation": "",
+    "translation": "renovar",
     "tags": []
   },
   {
@@ -8368,7 +8368,7 @@
     "word": "reservieren",
     "article": "",
     "sentence": "Reservieren Sie bitte ein Doppelzimmer.",
-    "translation": "",
+    "translation": "reservar",
     "tags": []
   },
   {
@@ -8391,49 +8391,49 @@
     "word": "Rind",
     "article": "das",
     "sentence": "Ich esse nur Fleisch vom Rind.",
-    "translation": "",
+    "translation": "res / vaca",
     "tags": []
   },
   {
     "word": "Ring",
     "article": "der",
     "sentence": "Ich habe meinen Ring verloren.",
-    "translation": "",
+    "translation": "anillo",
     "tags": []
   },
   {
     "word": "Rock",
     "article": "der",
     "sentence": "Der Rock ist zu eng.",
-    "translation": "",
+    "translation": "falda",
     "tags": []
   },
   {
     "word": "romantisch",
     "article": "",
     "sentence": "Dieser Film ist sehr romantisch.",
-    "translation": "",
+    "translation": "romántico",
     "tags": []
   },
   {
     "word": "Rose",
     "article": "die",
     "sentence": "Er schenkt seiner Freundin rote Rosen zum Geburtstag.",
-    "translation": "",
+    "translation": "rosa",
     "tags": []
   },
   {
     "word": "Rücken",
     "article": "der",
     "sentence": "Mein Rücken tut mir weh.",
-    "translation": "",
+    "translation": "espalda",
     "tags": []
   },
   {
     "word": "Rucksack",
     "article": "der",
     "sentence": "Ich nehme lieber einen Rucksack als einen Koffer mit.",
-    "translation": "",
+    "translation": "mochila",
     "tags": []
   },
   {
@@ -8454,56 +8454,56 @@
     "word": "rund",
     "article": "",
     "sentence": "Unser Wohnzimmertisch ist rund.",
-    "translation": "",
+    "translation": "redondo",
     "tags": []
   },
   {
     "word": "Rundgang",
     "article": "der",
     "sentence": "Der Rundgang durch das Schloss beginnt in wenigen Minuten.",
-    "translation": "",
+    "translation": "recorrido / vuelta",
     "tags": []
   },
   {
     "word": "Sache",
     "article": "die",
     "sentence": "Ihr könnt eure Sachen im Hotel lassen.",
-    "translation": "",
+    "translation": "cosa / asunto",
     "tags": []
   },
   {
     "word": "sammeln",
     "article": "",
     "sentence": "Peter sammelt Briefmarken.",
-    "translation": "",
+    "translation": "coleccionar / reunir",
     "tags": []
   },
   {
     "word": "sauber",
     "article": "",
     "sentence": "Bringen Sie mir bitte ein sauberes Glas!",
-    "translation": "",
+    "translation": "limpio",
     "tags": []
   },
   {
     "word": "sauer",
     "article": "",
     "sentence": "Zitronen sind mir zu sauer.",
-    "translation": "",
+    "translation": "ácido / enfadado",
     "tags": []
   },
   {
     "word": "schade",
     "article": "",
     "sentence": "Schade, dass du nicht kommen kannst.",
-    "translation": "",
+    "translation": "qué lástima",
     "tags": []
   },
   {
     "word": "schädlich",
     "article": "",
     "sentence": "Rauchen ist schädlich für die Gesundheit.",
-    "translation": "",
+    "translation": "dañino / perjudicial",
     "tags": []
   },
   {
@@ -8517,14 +8517,14 @@
     "word": "scharf",
     "article": "",
     "sentence": "Die Suppe ist mir zu scharf.",
-    "translation": "",
+    "translation": "picante / afilado",
     "tags": []
   },
   {
     "word": "schenken",
     "article": "",
     "sentence": "Was schenken wir Michael zum Geburtstag?",
-    "translation": "",
+    "translation": "regalar",
     "tags": []
   },
   {
@@ -8538,7 +8538,7 @@
     "word": "Schiff",
     "article": "das",
     "sentence": "Wir fahren mit dem Schiff von Basel nach Köln.",
-    "translation": "",
+    "translation": "barco",
     "tags": [
       "travel"
     ]
@@ -8554,14 +8554,14 @@
     "word": "Schirm",
     "article": "der",
     "sentence": "Nimm den Schirm mit, es regnet.",
-    "translation": "",
+    "translation": "paraguas",
     "tags": []
   },
   {
     "word": "Schlafzimmer",
     "article": "das",
     "sentence": "Hier ist das Schlafzimmer.",
-    "translation": "",
+    "translation": "dormitorio",
     "tags": [
       "home"
     ]
@@ -8570,14 +8570,14 @@
     "word": "schlimm",
     "article": "",
     "sentence": "Kein Problem, das ist nicht so schlimm.",
-    "translation": "",
+    "translation": "malo",
     "tags": []
   },
   {
     "word": "Schloss",
     "article": "das",
     "sentence": "Am Wochenende besichtigen wir Schloss Neuschwanstein.",
-    "translation": "",
+    "translation": "castillo",
     "tags": [
       "travel"
     ]
@@ -8586,7 +8586,7 @@
     "word": "Schmerz",
     "article": "der",
     "sentence": "Haben Sie Schmerzen?",
-    "translation": "",
+    "translation": "dolor",
     "tags": [
       "health"
     ]
@@ -8595,35 +8595,35 @@
     "word": "schmutzig",
     "article": "",
     "sentence": "Das Handtuch ist schmutzig.",
-    "translation": "",
+    "translation": "sucio",
     "tags": []
   },
   {
     "word": "Schnee (Sg.)",
     "article": "der",
     "sentence": "In den Bergen liegt viel Schnee.",
-    "translation": "",
+    "translation": "nieve",
     "tags": []
   },
   {
     "word": "schneiden (sich)",
     "article": "",
     "sentence": "Das Messer schneidet nicht gut.",
-    "translation": "",
+    "translation": "cortarse",
     "tags": []
   },
   {
     "word": "schneien",
     "article": "",
     "sentence": "Morgen schneit es.",
-    "translation": "",
+    "translation": "nevar",
     "tags": []
   },
   {
     "word": "Schokolade (Sg.)",
     "article": "die",
     "sentence": "Julia liebt Schokolade.",
-    "translation": "",
+    "translation": "chocolate",
     "tags": []
   },
   {
@@ -8637,14 +8637,14 @@
     "word": "schriftlich",
     "article": "",
     "sentence": "Sie müssen sich schriftlich anmelden.",
-    "translation": "",
+    "translation": "por escrito",
     "tags": []
   },
   {
     "word": "schwach",
     "article": "",
     "sentence": "Er ist krank und schwach.",
-    "translation": "",
+    "translation": "débil",
     "tags": []
   },
   {
@@ -8658,7 +8658,7 @@
     "word": "Schwein",
     "article": "das",
     "sentence": "Ich esse kein Schweinefleisch.",
-    "translation": "",
+    "translation": "cerdo",
     "tags": [
       "animals"
     ]
@@ -8667,42 +8667,42 @@
     "word": "schwierig",
     "article": "",
     "sentence": "Die Prüfung war nicht schwierig.",
-    "translation": "",
+    "translation": "difícil",
     "tags": []
   },
   {
     "word": "See (Sg)",
     "article": "die",
     "sentence": "Die See ist heute ruhig.",
-    "translation": "",
+    "translation": "lago",
     "tags": []
   },
   {
     "word": "Seife",
     "article": "die",
     "sentence": "Hier gibt es keine Seife.",
-    "translation": "",
+    "translation": "jabón",
     "tags": []
   },
   {
     "word": "an sein / aus sein",
     "article": "",
     "sentence": "Das Licht ist noch an/schon aus.",
-    "translation": "",
+    "translation": "estar encendido / estar apagado",
     "tags": []
   },
   {
     "word": "Seite",
     "article": "die",
     "sentence": "Öffnen Sie das Kursbuch auf Seite 20.",
-    "translation": "",
+    "translation": "página / lado",
     "tags": []
   },
   {
     "word": "selbst",
     "article": "",
     "sentence": "Du musst mir nicht helfen, ich mache das selbst.",
-    "translation": "",
+    "translation": "mismo",
     "tags": []
   },
   {
@@ -8718,28 +8718,28 @@
     "word": "Service (Sg.)",
     "article": "der",
     "sentence": "Ich bin mit dem Service in der Werkstatt sehr zufrieden.",
-    "translation": "",
+    "translation": "servicio",
     "tags": []
   },
   {
     "word": "setzen (sich)",
     "article": "",
     "sentence": "Setz dich doch!",
-    "translation": "",
+    "translation": "sentarse",
     "tags": []
   },
   {
     "word": "sicher",
     "article": "",
     "sentence": "Dieses Auto ist besonders sicher.",
-    "translation": "",
+    "translation": "seguro",
     "tags": []
   },
   {
     "word": "singen",
     "article": "",
     "sentence": "Er singt gern.",
-    "translation": "",
+    "translation": "cantar",
     "tags": [
       "actions"
     ]
@@ -8755,7 +8755,7 @@
     "word": "Ski",
     "article": "der",
     "sentence": "Gehen wir am Wochenende Ski fahren?",
-    "translation": "",
+    "translation": "esquí",
     "tags": []
   },
   {
@@ -8769,7 +8769,7 @@
     "word": "sonnig",
     "article": "",
     "sentence": "Morgen ist das Wetter wieder warm und sonnig.",
-    "translation": "",
+    "translation": "soleado",
     "tags": []
   },
   {
@@ -8783,7 +8783,7 @@
     "word": "spannend",
     "article": "",
     "sentence": "Ich finde den Film sehr spannend.",
-    "translation": "",
+    "translation": "emocionante",
     "tags": []
   },
   {
@@ -8797,28 +8797,28 @@
     "word": "Spaß (Sg.)",
     "article": "der",
     "sentence": "Meine Arbeit macht mir Spaß.",
-    "translation": "",
+    "translation": "diversión",
     "tags": []
   },
   {
     "word": "spazieren gehen",
     "article": "",
     "sentence": "Wir gehen sonntags immer spazieren.",
-    "translation": "",
+    "translation": "ir de paseo",
     "tags": []
   },
   {
     "word": "Spaziergang",
     "article": "der",
     "sentence": "Abends mache ich immer einen Spaziergang.",
-    "translation": "",
+    "translation": "paseo",
     "tags": []
   },
   {
     "word": "speichern",
     "article": "",
     "sentence": "Sie müssen die Datei speichern.",
-    "translation": "",
+    "translation": "guardar",
     "tags": []
   },
   {
@@ -8834,56 +8834,56 @@
     "word": "Sport (Sg.)",
     "article": "der",
     "sentence": "Ich mache viel Sport.",
-    "translation": "",
+    "translation": "deporte",
     "tags": []
   },
   {
     "word": "sportlich",
     "article": "",
     "sentence": "Tom ist sehr sportlich.",
-    "translation": "",
+    "translation": "deportivo",
     "tags": []
   },
   {
     "word": "Sportplatz",
     "article": "der",
     "sentence": "Das Fußballtraining ist um 17 Uhr auf dem Sportplatz.",
-    "translation": "",
+    "translation": "campo de deportes",
     "tags": []
   },
   {
     "word": "Sprechstunde",
     "article": "die",
     "sentence": "Frau Doktor Weiß hat von 9:00 bis 12:30 Uhr Sprechstunde.",
-    "translation": "",
+    "translation": "horario de consulta",
     "tags": []
   },
   {
     "word": "Stadtplan",
     "article": "der",
     "sentence": "Haben Sie einen Stadtplan von Salzburg?",
-    "translation": "",
+    "translation": "plano de la ciudad",
     "tags": []
   },
   {
     "word": "Star",
     "article": "der",
     "sentence": "Diese Sängerin ist ein Star in Deutschland.",
-    "translation": "",
+    "translation": "estrella",
     "tags": []
   },
   {
     "word": "stark",
     "article": "",
     "sentence": "Ich habe starke Kopfschmerzen.",
-    "translation": "",
+    "translation": "fuerte",
     "tags": []
   },
   {
     "word": "stattfinden",
     "article": "",
     "sentence": "Das Spiel findet auch bei Regen statt.",
-    "translation": "",
+    "translation": "tener lugar",
     "tags": []
   },
   {
@@ -8899,7 +8899,7 @@
     "word": "Stiefel",
     "article": "der",
     "sentence": "Wie viel kosten die roten Stiefel?",
-    "translation": "",
+    "translation": "bota",
     "tags": []
   },
   {
@@ -8915,28 +8915,28 @@
     "word": "Stipendium",
     "article": "das",
     "sentence": "Wenn ich ein gutes Zeugnis habe, bekomme ich ein Stipendium.",
-    "translation": "",
+    "translation": "beca",
     "tags": []
   },
   {
     "word": "Stockwerk",
     "article": "das",
     "sentence": "Das Gebäude hat zwanzig Stockwerke.",
-    "translation": "",
+    "translation": "piso",
     "tags": []
   },
   {
     "word": "stören",
     "article": "",
     "sentence": "Störe ich?",
-    "translation": "",
+    "translation": "molestar",
     "tags": []
   },
   {
     "word": "Strand",
     "article": "der",
     "sentence": "Im Urlaub bin ich am liebsten am Strand.",
-    "translation": "",
+    "translation": "playa",
     "tags": [
       "travel"
     ]
@@ -8945,49 +8945,49 @@
     "word": "streiten (sich)",
     "article": "",
     "sentence": "Die Kinder streiten (sich) oft.",
-    "translation": "",
+    "translation": "pelearse",
     "tags": []
   },
   {
     "word": "streng",
     "article": "",
     "sentence": "Der Lehrer von meiner Tochter ist sehr streng.",
-    "translation": "",
+    "translation": "estricto",
     "tags": []
   },
   {
     "word": "Stress (Sg.)",
     "article": "der",
     "sentence": "Ich habe bei der Arbeit viel Stress.",
-    "translation": "",
+    "translation": "estrés",
     "tags": []
   },
   {
     "word": "stressig",
     "article": "",
     "sentence": "Meine Arbeit ist stressig.",
-    "translation": "",
+    "translation": "estresante",
     "tags": []
   },
   {
     "word": "Stück",
     "article": "das",
     "sentence": "Möchten Sie noch ein Stück Kuchen?",
-    "translation": "",
+    "translation": "trozo",
     "tags": []
   },
   {
     "word": "Studium (Sg.)",
     "article": "das",
     "sentence": "Das Studium dauert drei Jahre.",
-    "translation": "",
+    "translation": "estudios universitarios",
     "tags": []
   },
   {
     "word": "Stuhl",
     "article": "der",
     "sentence": "Ist der Stuhl frei?",
-    "translation": "",
+    "translation": "silla",
     "tags": [
       "home"
     ]
@@ -8996,14 +8996,14 @@
     "word": "super",
     "article": "",
     "sentence": "Der Film ist super.",
-    "translation": "",
+    "translation": "estupendo",
     "tags": []
   },
   {
     "word": "Supermarkt",
     "article": "der",
     "sentence": "Ich kaufe oft im Supermarkt ein.",
-    "translation": "",
+    "translation": "supermercado",
     "tags": [
       "shopping"
     ]
@@ -9012,7 +9012,7 @@
     "word": "Suppe",
     "article": "die",
     "sentence": "Schmeckt dir die Suppe?",
-    "translation": "",
+    "translation": "sopa",
     "tags": [
       "food"
     ]
@@ -9021,28 +9021,28 @@
     "word": "surfen",
     "article": "",
     "sentence": "Ich möchte gern surfen lernen.",
-    "translation": "",
+    "translation": "navegar",
     "tags": []
   },
   {
     "word": "süß",
     "article": "",
     "sentence": "Ich finde die Torte zu süß.",
-    "translation": "",
+    "translation": "dulce",
     "tags": []
   },
   {
     "word": "Süßigkeiten",
     "article": "die",
     "sentence": "Welche Süßigkeiten isst du am liebsten?",
-    "translation": "",
+    "translation": "golosinas",
     "tags": []
   },
   {
     "word": "sympathisch",
     "article": "",
     "sentence": "Der neue Chef ist sehr sympathisch.",
-    "translation": "",
+    "translation": "simpático",
     "tags": []
   },
   {
@@ -9056,28 +9056,28 @@
     "word": "Tablette",
     "article": "die",
     "sentence": "Du sollst am Abend zwei Tabletten nehmen.",
-    "translation": "",
+    "translation": "pastilla",
     "tags": []
   },
   {
     "word": "Tafel",
     "article": "die",
     "sentence": "Der Lehrer schreibt das neue Wort an die Tafel.",
-    "translation": "",
+    "translation": "pizarra",
     "tags": []
   },
   {
     "word": "Taschengeld (Sg.)",
     "article": "das",
     "sentence": "Wie viel Taschengeld bekommen deine Kinder?",
-    "translation": "",
+    "translation": "dinero de bolsillo",
     "tags": []
   },
   {
     "word": "Tasse",
     "article": "die",
     "sentence": "Möchten Sie eine Tasse Kaffee?",
-    "translation": "",
+    "translation": "taza",
     "tags": [
       "food"
     ]
@@ -9086,14 +9086,14 @@
     "word": "(aus)tauschen",
     "article": "",
     "sentence": "Können wir bitte die Plätze tauschen?",
-    "translation": "",
+    "translation": "intercambiar",
     "tags": []
   },
   {
     "word": "Team",
     "article": "das",
     "sentence": "Ich arbeite gern in einem Team.",
-    "translation": "",
+    "translation": "equipo",
     "tags": [
       "work",
       "sports"
@@ -9103,21 +9103,21 @@
     "word": "teilen",
     "article": "",
     "sentence": "Wollen wir die Pizza teilen?",
-    "translation": "",
+    "translation": "compartir",
     "tags": []
   },
   {
     "word": "teilnehmen",
     "article": "",
     "sentence": "Ich möchte an dem Tanzkurs teilnehmen.",
-    "translation": "",
+    "translation": "participar",
     "tags": []
   },
   {
     "word": "Teller",
     "article": "der",
     "sentence": "Stell die Teller bitte auf den Tisch!",
-    "translation": "",
+    "translation": "plato",
     "tags": [
       "food"
     ]
@@ -9126,28 +9126,28 @@
     "word": "Tennis (Sg.)",
     "article": "das",
     "sentence": "Steffi spielt sehr gut Tennis.",
-    "translation": "",
+    "translation": "tenis",
     "tags": []
   },
   {
     "word": "Theater",
     "article": "das",
     "sentence": "Ich gehe nicht gern ins Theater.",
-    "translation": "",
+    "translation": "teatro",
     "tags": []
   },
   {
     "word": "tief",
     "article": "",
     "sentence": "Vorsicht, das Wasser ist tief!",
-    "translation": "",
+    "translation": "profundo",
     "tags": []
   },
   {
     "word": "Tier",
     "article": "das",
     "sentence": "Wir dürfen keine Tiere in der Wohnung haben.",
-    "translation": "",
+    "translation": "animal",
     "tags": [
       "animals"
     ]
@@ -9156,7 +9156,7 @@
     "word": "Tipp",
     "article": "der",
     "sentence": "Kannst du mir einen guten Tipp geben?",
-    "translation": "",
+    "translation": "consejo",
     "tags": []
   },
   {
@@ -9170,7 +9170,7 @@
     "word": "toll",
     "article": "",
     "sentence": "Der Urlaub war toll.",
-    "translation": "",
+    "translation": "genial",
     "tags": []
   },
   {
@@ -9184,7 +9184,7 @@
     "word": "Torte",
     "article": "die",
     "sentence": "Zum Geburtstag backe ich dir eine Torte.",
-    "translation": "",
+    "translation": "tarta",
     "tags": [
       "food"
     ]
@@ -9193,21 +9193,21 @@
     "word": "total",
     "article": "",
     "sentence": "Der Film ist total langweilig.",
-    "translation": "",
+    "translation": "totalmente",
     "tags": []
   },
   {
     "word": "Tour",
     "article": "die",
     "sentence": "Wo kann ich eine Stadttour buchen?",
-    "translation": "",
+    "translation": "vuelta / recorrido",
     "tags": []
   },
   {
     "word": "Tourist",
     "article": "der",
     "sentence": "Im Sommer kommen viele Touristen in diese Stadt.",
-    "translation": "",
+    "translation": "turista",
     "tags": [
       "travel"
     ]
@@ -9216,7 +9216,7 @@
     "word": "tragen",
     "article": "",
     "sentence": "Ich kann den Koffer nicht tragen, er ist zu schwer.",
-    "translation": "",
+    "translation": "llevar / llevar puesto",
     "tags": [
       "actions"
     ]
@@ -9225,7 +9225,7 @@
     "word": "trainieren",
     "article": "",
     "sentence": "Wir trainieren einmal pro Woche im Sportverein.",
-    "translation": "",
+    "translation": "entrenar",
     "tags": [
       "actions",
       "sports",
@@ -9236,7 +9236,7 @@
     "word": "Training",
     "article": "das",
     "sentence": "Das Training ist immer dienstags.",
-    "translation": "",
+    "translation": "entrenamiento",
     "tags": [
       "sports",
       "exercise"
@@ -9246,14 +9246,14 @@
     "word": "Traum",
     "article": "der",
     "sentence": "Ich möchte eine eigene Firma, das ist mein Traum.",
-    "translation": "",
+    "translation": "sueño",
     "tags": []
   },
   {
     "word": "träumen",
     "article": "",
     "sentence": "Ich träume von einem großen Haus mit Garten.",
-    "translation": "",
+    "translation": "soñar",
     "tags": []
   },
   {
@@ -9267,35 +9267,35 @@
     "word": "treffen (sich)",
     "article": "",
     "sentence": "Ich treffe in der Stadt einen Kollegen.",
-    "translation": "",
+    "translation": "quedar / encontrarse",
     "tags": []
   },
   {
     "word": "trocken",
     "article": "",
     "sentence": "Die Wäsche ist bald trocken.",
-    "translation": "",
+    "translation": "seco",
     "tags": []
   },
   {
     "word": "tschüs",
     "article": "",
     "sentence": "Tschüs, bis morgen!",
-    "translation": "",
+    "translation": "adiós",
     "tags": []
   },
   {
     "word": "T-Shirt",
     "article": "das",
     "sentence": "Haben Sie dieses T-Shirt auch in M?",
-    "translation": "",
+    "translation": "camiseta",
     "tags": []
   },
   {
     "word": "Tür",
     "article": "die",
     "sentence": "Mach bitte die Tür zu!",
-    "translation": "",
+    "translation": "puerta",
     "tags": [
       "home"
     ]
@@ -9304,7 +9304,7 @@
     "word": "typisch",
     "article": "",
     "sentence": "Diese Musik ist typisch für dieses Land.",
-    "translation": "",
+    "translation": "típico",
     "tags": []
   },
   {
@@ -9321,7 +9321,7 @@
     "word": "überall",
     "article": "",
     "sentence": "Ich habe überall gesucht, aber ich kann meine Brille nicht finden.",
-    "translation": "",
+    "translation": "en todas partes",
     "tags": []
   },
   {
@@ -9335,21 +9335,21 @@
     "word": "übersetzen",
     "article": "",
     "sentence": "Können Sie mir den Brief bitte übersetzen?",
-    "translation": "",
+    "translation": "traducir",
     "tags": []
   },
   {
     "word": "Übersetzung",
     "article": "die",
     "sentence": "Ich brauche eine Übersetzung von meinem Zeugnis.",
-    "translation": "",
+    "translation": "traducción",
     "tags": []
   },
   {
     "word": "umsteigen",
     "article": "",
     "sentence": "Sie müssen in Mannheim umsteigen.",
-    "translation": "",
+    "translation": "hacer transbordo",
     "tags": [
       "actions"
     ]
@@ -9358,35 +9358,35 @@
     "word": "sich umziehen",
     "article": "",
     "sentence": "Warte bitte, ich muss mich noch umziehen.",
-    "translation": "",
+    "translation": "cambiarse de ropa",
     "tags": []
   },
   {
     "word": "Umzug",
     "article": "der",
     "sentence": "Der Umzug ist nächste Woche.",
-    "translation": "",
+    "translation": "mudanza",
     "tags": []
   },
   {
     "word": "unbedingt",
     "article": "",
     "sentence": "Ich muss unbedingt mit dir sprechen.",
-    "translation": "",
+    "translation": "sin falta",
     "tags": []
   },
   {
     "word": "Unfall",
     "article": "der",
     "sentence": "Ich hatte gestern einen Unfall.",
-    "translation": "",
+    "translation": "accidente",
     "tags": []
   },
   {
     "word": "Universität",
     "article": "die",
     "sentence": "Er studiert an der Universität Freiburg.",
-    "translation": "",
+    "translation": "universidad",
     "tags": [
       "education"
     ]
@@ -9395,7 +9395,7 @@
     "word": "unterhalten (sich)",
     "article": "",
     "sentence": "Andreas und Nessrin unterhalten sich.",
-    "translation": "",
+    "translation": "conversar",
     "tags": []
   },
   {
@@ -9411,7 +9411,7 @@
     "word": "unternehmen",
     "article": "",
     "sentence": "Wollen wir heute Abend etwas unternehmen?",
-    "translation": "",
+    "translation": "emprender / hacer",
     "tags": [
       "work"
     ]
@@ -9420,7 +9420,7 @@
     "word": "Unterricht (Sg.)",
     "article": "der",
     "sentence": "Der Unterricht dauert bis 19 Uhr.",
-    "translation": "",
+    "translation": "clase",
     "tags": []
   },
   {
@@ -9434,7 +9434,7 @@
     "word": "untersuchen",
     "article": "",
     "sentence": "Der Arzt hat mich untersucht.",
-    "translation": "",
+    "translation": "examinar",
     "tags": []
   },
   {
@@ -9448,7 +9448,7 @@
     "word": "verabredet sein",
     "article": "",
     "sentence": "Ich bin mit meiner Freundin verabredet.",
-    "translation": "",
+    "translation": "tener una cita",
     "tags": []
   },
   {
@@ -9462,42 +9462,42 @@
     "word": "verbieten / verboten sein",
     "article": "",
     "sentence": "Hier ist Rauchen verboten.",
-    "translation": "",
+    "translation": "prohibir / estar prohibido",
     "tags": []
   },
   {
     "word": "vereinbaren",
     "article": "",
     "sentence": "Können wir einen Termin vereinbaren?",
-    "translation": "",
+    "translation": "acordar",
     "tags": []
   },
   {
     "word": "vergessen",
     "article": "",
     "sentence": "Ich habe meine Hausaufgaben vergessen.",
-    "translation": "",
+    "translation": "olvidar",
     "tags": []
   },
   {
     "word": "vergleichen",
     "article": "",
     "sentence": "Vergleichen Sie die Angebote!",
-    "translation": "",
+    "translation": "comparar",
     "tags": []
   },
   {
     "word": "Verkehr (Sg.)",
     "article": "der",
     "sentence": "Morgens gibt es hier immer viel Verkehr.",
-    "translation": "",
+    "translation": "tráfico",
     "tags": []
   },
   {
     "word": "Verkehrsmittel",
     "article": "das",
     "sentence": "Welche Verkehrsmittel benutzen Sie oft?",
-    "translation": "",
+    "translation": "medio de transporte",
     "tags": []
   },
   {
@@ -9511,14 +9511,14 @@
     "word": "verlieben (sich)",
     "article": "",
     "sentence": "Ich bin total verliebt.",
-    "translation": "",
+    "translation": "enamorarse",
     "tags": []
   },
   {
     "word": "verlieren",
     "article": "",
     "sentence": "Ich habe meinen Schlüssel verloren.",
-    "translation": "",
+    "translation": "perder",
     "tags": [
       "sports"
     ]
@@ -9527,35 +9527,35 @@
     "word": "verpassen",
     "article": "",
     "sentence": "Ich habe den Zug verpasst.",
-    "translation": "",
+    "translation": "perder (un transporte/cita)",
     "tags": []
   },
   {
     "word": "verreisen",
     "article": "",
     "sentence": "Verreist ihr in den Ferien?",
-    "translation": "",
+    "translation": "irse de viaje",
     "tags": []
   },
   {
     "word": "verschieben",
     "article": "",
     "sentence": "Leider muss ich den Termin verschieben.",
-    "translation": "",
+    "translation": "posponer",
     "tags": []
   },
   {
     "word": "verschieden",
     "article": "",
     "sentence": "Unsere beiden Kinder sind sehr verschieden.",
-    "translation": "",
+    "translation": "diferente",
     "tags": []
   },
   {
     "word": "Verspätung",
     "article": "die",
     "sentence": "Unser Zug hat leider 15 Minuten Verspätung.",
-    "translation": "",
+    "translation": "retraso",
     "tags": [
       "travel"
     ]
@@ -9564,14 +9564,14 @@
     "word": "versuchen",
     "article": "",
     "sentence": "Kann ich es auch einmal versuchen?",
-    "translation": "",
+    "translation": "intentar",
     "tags": []
   },
   {
     "word": "Vertrag",
     "article": "der",
     "sentence": "Ich muss den Vertrag noch unterschreiben.",
-    "translation": "",
+    "translation": "contrato",
     "tags": [
       "work"
     ]
@@ -9580,7 +9580,7 @@
     "word": "Vogel",
     "article": "der",
     "sentence": "Nadine mag Vögel.",
-    "translation": "",
+    "translation": "pájaro",
     "tags": [
       "animals"
     ]
@@ -9589,21 +9589,21 @@
     "word": "voll",
     "article": "",
     "sentence": "Morgens und abends sind die Züge immer sehr voll.",
-    "translation": "",
+    "translation": "lleno",
     "tags": []
   },
   {
     "word": "Volleyball",
     "article": "der",
     "sentence": "Ich spiele gern Volleyball.",
-    "translation": "",
+    "translation": "voleibol",
     "tags": []
   },
   {
     "word": "vorbei",
     "article": "",
     "sentence": "Die Linie 8 fährt am Krankenhaus vorbei.",
-    "translation": "",
+    "translation": "pasado",
     "tags": []
   },
   {
@@ -9619,7 +9619,7 @@
     "word": "vorgestern",
     "article": "",
     "sentence": "Er hat mich vorgestern angerufen.",
-    "translation": "",
+    "translation": "anteayer",
     "tags": []
   },
   {
@@ -9633,7 +9633,7 @@
     "word": "vorn(e)",
     "article": "",
     "sentence": "Bitte vorn(e) einsteigen!",
-    "translation": "",
+    "translation": "delante",
     "tags": []
   },
   {
@@ -9647,7 +9647,7 @@
     "word": "vorsichtig",
     "article": "",
     "sentence": "Sei vorsichtig!",
-    "translation": "",
+    "translation": "cuidadoso",
     "tags": []
   },
   {
@@ -9661,21 +9661,21 @@
     "word": "vorwärts",
     "article": "",
     "sentence": "Fahren Sie bitte noch ein Stück vorwärts.",
-    "translation": "",
+    "translation": "hacia adelante",
     "tags": []
   },
   {
     "word": "wach",
     "article": "",
     "sentence": "Bist du schon lange wach?",
-    "translation": "",
+    "translation": "despierto",
     "tags": []
   },
   {
     "word": "Wagen",
     "article": "der",
     "sentence": "Wo steht Ihr Wagen?",
-    "translation": "",
+    "translation": "coche",
     "tags": [
       "shopping"
     ]
@@ -9684,77 +9684,77 @@
     "word": "wählen",
     "article": "",
     "sentence": "Sie müssen erst eine Null wählen.",
-    "translation": "",
+    "translation": "elegir",
     "tags": []
   },
   {
     "word": "wahr",
     "article": "",
     "sentence": "Das ist (nicht) wahr!",
-    "translation": "",
+    "translation": "verdad",
     "tags": []
   },
   {
     "word": "wahrscheinlich",
     "article": "",
     "sentence": "Wahrscheinlich mache ich im Herbst einen Deutschkurs.",
-    "translation": "",
+    "translation": "probablemente",
     "tags": []
   },
   {
     "word": "Wald",
     "article": "der",
     "sentence": "Im Wald ist es ruhig.",
-    "translation": "",
+    "translation": "bosque",
     "tags": []
   },
   {
     "word": "warm",
     "article": "",
     "sentence": "Hier ist es sehr warm.",
-    "translation": "",
+    "translation": "caliente",
     "tags": []
   },
   {
     "word": "Wäsche",
     "article": "die",
     "sentence": "Ich muss noch Wäsche waschen.",
-    "translation": "",
+    "translation": "ropa (lavada)",
     "tags": []
   },
   {
     "word": "waschen (sich)",
     "article": "",
     "sentence": "Wo kann ich mir die Hände waschen?",
-    "translation": "",
+    "translation": "lavarse",
     "tags": []
   },
   {
     "word": "Wasser (Sg.)",
     "article": "das",
     "sentence": "Ein Glas Wasser, bitte.",
-    "translation": "",
+    "translation": "agua",
     "tags": []
   },
   {
     "word": "Webseite",
     "article": "die",
     "sentence": "Es gibt viele Webseiten mit Grammatikübungen.",
-    "translation": "",
+    "translation": "página web",
     "tags": []
   },
   {
     "word": "wechseln",
     "article": "",
     "sentence": "Wir müssen den Reifen wechseln.",
-    "translation": "",
+    "translation": "cambiar",
     "tags": []
   },
   {
     "word": "wecken",
     "article": "",
     "sentence": "Bitte wecken Sie mich morgen früh um fünf.",
-    "translation": "",
+    "translation": "despertar",
     "tags": []
   },
   {
@@ -9768,7 +9768,7 @@
     "word": "Weg",
     "article": "der",
     "sentence": "Das ist der kürzeste Weg.",
-    "translation": "",
+    "translation": "camino",
     "tags": [
       "directions"
     ]
@@ -9777,35 +9777,35 @@
     "word": "wegen",
     "article": "",
     "sentence": "Wegen seiner Arbeit kann er leider nicht kommen.",
-    "translation": "",
+    "translation": "a causa de",
     "tags": []
   },
   {
     "word": "wehtun",
     "article": "",
     "sentence": "Wo tut es weh?",
-    "translation": "",
+    "translation": "doler",
     "tags": []
   },
   {
     "word": "weich",
     "article": "",
     "sentence": "Ich möchte zum Frühstück ein weiches Ei.",
-    "translation": "",
+    "translation": "blando",
     "tags": []
   },
   {
     "word": "weil",
     "article": "",
     "sentence": "Ich kann nicht kommen, weil ich arbeiten muss.",
-    "translation": "",
+    "translation": "porque",
     "tags": []
   },
   {
     "word": "weinen",
     "article": "",
     "sentence": "Warum weint das Baby?",
-    "translation": "",
+    "translation": "llorar",
     "tags": [
       "actions"
     ]
@@ -9814,7 +9814,7 @@
     "word": "welcher",
     "article": "",
     "sentence": "Welcher Tag ist heute?",
-    "translation": "",
+    "translation": "cuál",
     "tags": []
   },
   {
@@ -9828,14 +9828,14 @@
     "word": "wenn",
     "article": "",
     "sentence": "Wenn ich nicht arbeiten muss, komme ich.",
-    "translation": "",
+    "translation": "si (condicional) / cuando",
     "tags": []
   },
   {
     "word": "wer (wen",
     "article": "",
     "sentence": "Wer ist das?",
-    "translation": "",
+    "translation": "quién",
     "tags": []
   },
   {
@@ -9849,28 +9849,28 @@
     "word": "Wettbewerb",
     "article": "der",
     "sentence": "Mein Sohn hat bei einem Wettbewerb gewonnen.",
-    "translation": "",
+    "translation": "concurso",
     "tags": []
   },
   {
     "word": "Wetter (Sg.)",
     "article": "das",
     "sentence": "Heute ist das Wetter gut: Es ist sonnig und warm.",
-    "translation": "",
+    "translation": "tiempo (clima)",
     "tags": []
   },
   {
     "word": "wieder",
     "article": "",
     "sentence": "Stefan kann wieder zum Fußballtraining kommen.",
-    "translation": "",
+    "translation": "otra vez",
     "tags": []
   },
   {
     "word": "windig",
     "article": "",
     "sentence": "Heute ist es sehr windig.",
-    "translation": "",
+    "translation": "ventoso",
     "tags": []
   },
   {
@@ -9884,7 +9884,7 @@
     "word": "Witz",
     "article": "der",
     "sentence": "Wir haben Witze erzählt und viel gelacht.",
-    "translation": "",
+    "translation": "chiste",
     "tags": []
   },
   {
@@ -9898,7 +9898,7 @@
     "word": "Wohnzimmer",
     "article": "das",
     "sentence": "Die Kinder sitzen im Wohnzimmer und sehen fern.",
-    "translation": "",
+    "translation": "salón",
     "tags": [
       "home"
     ]
@@ -9914,14 +9914,14 @@
     "word": "Wunsch",
     "article": "der",
     "sentence": "Ich wünsche Ihnen alles Gute!",
-    "translation": "",
+    "translation": "deseo",
     "tags": []
   },
   {
     "word": "wünschen",
     "article": "",
     "sentence": "Ich wünsche mir eine Kamera zum Geburtstag.",
-    "translation": "",
+    "translation": "desear",
     "tags": [
       "actions"
     ]
@@ -9930,7 +9930,7 @@
     "word": "Wurst",
     "article": "die",
     "sentence": "Eine Wurst mit Pommes, bitte.",
-    "translation": "",
+    "translation": "salchicha",
     "tags": [
       "food"
     ]
@@ -9939,14 +9939,14 @@
     "word": "Zahl",
     "article": "die",
     "sentence": "Können Sie die Zahl bitte wiederholen?",
-    "translation": "",
+    "translation": "número",
     "tags": []
   },
   {
     "word": "Zahn",
     "article": "der",
     "sentence": "Der Zahn tut mir schon seit einer Woche weh.",
-    "translation": "",
+    "translation": "diente",
     "tags": []
   },
   {
@@ -9962,7 +9962,7 @@
     "word": "zeigen",
     "article": "",
     "sentence": "Können Sie mir bitte den Weg zum Bahnhof zeigen?",
-    "translation": "",
+    "translation": "mostrar",
     "tags": [
       "actions"
     ]
@@ -9971,21 +9971,21 @@
     "word": "Zeitschrift",
     "article": "die",
     "sentence": "Diese Zeitschrift kauft Andrea jede Woche.",
-    "translation": "",
+    "translation": "revista",
     "tags": []
   },
   {
     "word": "Zelt",
     "article": "das",
     "sentence": "Im Sommer schlafen wir manchmal im Zelt.",
-    "translation": "",
+    "translation": "tienda de campaña",
     "tags": []
   },
   {
     "word": "Zentrum",
     "article": "das",
     "sentence": "Der Bahnhof ist im Stadtzentrum.",
-    "translation": "",
+    "translation": "centro",
     "tags": []
   },
   {
@@ -9999,7 +9999,7 @@
     "word": "Zeugnis",
     "article": "das",
     "sentence": "Morgen bekommen die Kinder ihr Zeugnis.",
-    "translation": "",
+    "translation": "boleta de calificaciones",
     "tags": [
       "education"
     ]
@@ -10008,7 +10008,7 @@
     "word": "(an-)/(aus)ziehen",
     "article": "",
     "sentence": "Ich ziehe (mir) eine Jacke an.",
-    "translation": "",
+    "translation": "ponerse / quitarse (ropa)",
     "tags": []
   },
   {
@@ -10026,14 +10026,14 @@
     "word": "Zirkus",
     "article": "der",
     "sentence": "Heute gehen wir mit den Kindern in den Zirkus.",
-    "translation": "",
+    "translation": "circo",
     "tags": []
   },
   {
     "word": "Zitrone",
     "article": "die",
     "sentence": "Ich trinke den Tee mit Zitrone.",
-    "translation": "",
+    "translation": "limón",
     "tags": [
       "food"
     ]
@@ -10042,21 +10042,21 @@
     "word": "Zoo",
     "article": "der",
     "sentence": "Am Sonntag gehen wir in den Zoo.",
-    "translation": "",
+    "translation": "zoológico",
     "tags": []
   },
   {
     "word": "Zucker (Sg.)",
     "article": "der",
     "sentence": "Trinken Sie den Tee mit oder ohne Zucker?",
-    "translation": "",
+    "translation": "azúcar",
     "tags": []
   },
   {
     "word": "zuerst",
     "article": "",
     "sentence": "Zuerst müsst ihr die Hausaufgaben machen, dann könnt ihr spielen.",
-    "translation": "",
+    "translation": "primero",
     "tags": []
   },
   {
@@ -10070,28 +10070,28 @@
     "word": "zuletzt",
     "article": "",
     "sentence": "Wir haben uns vor drei Jahren zuletzt gesehen.",
-    "translation": "",
+    "translation": "por último",
     "tags": []
   },
   {
     "word": "zum Beispiel",
     "article": "",
     "sentence": "Mein Freund hat viele Hobbys, zum Beispiel Kochen, Lesen und Tanzen.",
-    "translation": "",
+    "translation": "por ejemplo",
     "tags": []
   },
   {
     "word": "zumachen",
     "article": "",
     "sentence": "Machst du bitte das Fenster zu?",
-    "translation": "",
+    "translation": "cerrar",
     "tags": []
   },
   {
     "word": "zurück- (fahren",
     "article": "",
     "sentence": "Fahrt ihr nach der Party zurück nach Hause?",
-    "translation": "",
+    "translation": "volver (conducir de vuelta)",
     "tags": []
   }
 ]

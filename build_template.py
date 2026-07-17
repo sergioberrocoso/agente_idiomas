@@ -694,6 +694,14 @@ async function flipCard() {
     if (!isFlipped) {
         const item = vocab[currentIndex];
         const word = item.word || item.front || '?';
+        if (item.spanish) {
+            backSpanish.textContent = item.spanish;
+            spanishSection.style.display = '';
+        }
+        if (item.example) {
+            backExample.textContent = '\\u0022' + item.example + '\\u0022';
+            exampleSection.style.display = '';
+        }
         await loadDefinition(word);
     }
     isFlipped = !isFlipped;
@@ -726,17 +734,13 @@ function applyDefinition(data) {
     } else {
         backDef.textContent = t('(sin definici\u00f3n disponible)', '(keine Definition verf\u00fcgbar)', '(aucune d\u00e9finition disponible)');
     }
-    if (data.example) {
+    if (data.example && !backExample.textContent) {
         backExample.textContent = '\\u0022' + data.example + '\\u0022';
         exampleSection.style.display = '';
-    } else {
-        exampleSection.style.display = 'none';
     }
-    if (data.spanish) {
+    if (data.spanish && !backSpanish.textContent) {
         backSpanish.textContent = data.spanish;
         spanishSection.style.display = '';
-    } else {
-        spanishSection.style.display = 'none';
     }
     if (data.phonetic) {
         backPhonetic.textContent = data.phonetic;
