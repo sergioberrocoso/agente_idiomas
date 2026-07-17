@@ -713,7 +713,9 @@ async function flipCard() {
             backPhonetic.textContent = item.phonetic;
             phoneticSection.style.display = '';
         }
-        await loadDefinition(word);
+        if (!backDef.textContent) {
+            await loadDefinition(word);
+        }
     }
     isFlipped = !isFlipped;
     card.classList.toggle('flipped', isFlipped);
