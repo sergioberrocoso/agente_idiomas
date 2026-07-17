@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: agente-idiomas
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: gunicorn app:app
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: DEEPL_API_KEY
+        sync: false
