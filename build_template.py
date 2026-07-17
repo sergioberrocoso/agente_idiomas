@@ -702,6 +702,17 @@ async function flipCard() {
             backExample.textContent = '\\u0022' + item.example + '\\u0022';
             exampleSection.style.display = '';
         }
+        if (item.definition) {
+            let html = item.definition;
+            if (item.part_of_speech) {
+                html += ' <span class="pos">' + item.part_of_speech + '</span>';
+            }
+            backDef.innerHTML = html;
+        }
+        if (item.phonetic) {
+            backPhonetic.textContent = item.phonetic;
+            phoneticSection.style.display = '';
+        }
         await loadDefinition(word);
     }
     isFlipped = !isFlipped;
@@ -725,14 +736,16 @@ async function loadDefinition(word) {
 }
 
 function applyDefinition(data) {
-    if (data.definition) {
-        let html = data.definition;
-        if (data.part_of_speech) {
-            html += ' <span class="pos">' + data.part_of_speech + '</span>';
+    if (!backDef.textContent) {
+        if (data.definition) {
+            let html = data.definition;
+            if (data.part_of_speech) {
+                html += ' <span class="pos">' + data.part_of_speech + '</span>';
+            }
+            backDef.innerHTML = html;
+        } else {
+            backDef.textContent = t('(sin definici\u00f3n disponible)', '(keine Definition verf\u00fcgbar)', '(aucune d\u00e9finition disponible)');
         }
-        backDef.innerHTML = html;
-    } else {
-        backDef.textContent = t('(sin definici\u00f3n disponible)', '(keine Definition verf\u00fcgbar)', '(aucune d\u00e9finition disponible)');
     }
     if (data.example && !backExample.textContent) {
         backExample.textContent = '\\u0022' + data.example + '\\u0022';
@@ -742,11 +755,9 @@ function applyDefinition(data) {
         backSpanish.textContent = data.spanish;
         spanishSection.style.display = '';
     }
-    if (data.phonetic) {
+    if (data.phonetic && !backPhonetic.textContent) {
         backPhonetic.textContent = data.phonetic;
         phoneticSection.style.display = '';
-    } else {
-        phoneticSection.style.display = 'none';
     }
 }
 
