@@ -263,6 +263,10 @@ body {
 .word-row { display: flex; align-items: center; gap: 0.8rem; }"""
 
 html_body = """</style>
+<link rel="manifest" href="/static/manifest.json">
+<meta name="theme-color" content="#1a1a2e">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
 </head>
 <body>
 <div class="header">
@@ -1075,6 +1079,10 @@ function hideTyping() {
 renderNotes();
 loadGrammarRules();
 loadVocab('__all__');
+
+if ('serviceWorker' in navigator) {
+    navigator.serviceWorker.register('/static/sw.js');
+}
 </script>
 </body>
 </html>"""

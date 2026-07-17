@@ -1,0 +1,25 @@
+{
+  "name": "Language Tutor",
+  "short_name": "LangTutor",
+  "description": "Aprende inglés, alemán y francés con flashcards, ejercicios y tutor IA",
+  "start_url": "/?lang=en",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/static/icon-192.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/static/icon-512.svg",
+      "type": "image/svg+xml",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ]
+}
