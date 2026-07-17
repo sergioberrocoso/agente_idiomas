@@ -4,7 +4,7 @@ import urllib.request
 from urllib.parse import urlencode
 
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY") or ""
-GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-3.1-flash-lite:generateContent?key={key}"
+GEMINI_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key={key}"
 
 SYSTEM_PROMPT_EN = """You are a native English teacher. The student speaks Spanish and is learning English at a B1 level.
 
