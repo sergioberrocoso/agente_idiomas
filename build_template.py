@@ -338,6 +338,7 @@ html_body = """</style>
     <button data-tab="exercises" onclick="switchTab('exercises')">{{ lc.tab_exercises }}</button>
     <button data-tab="grammar" onclick="switchTab('grammar')">{{ lc.tab_grammar }}</button>
     <button data-tab="tutor" onclick="switchTab('tutor')">{{ lc.tab_tutor }}</button>
+    <button data-tab="newvocab" onclick="switchTab('newvocab')">{{ lc.tab_newvocab }}</button>
     <button data-tab="notes" onclick="switchTab('notes')">{{ lc.tab_notes }}</button>
 </div>
 
@@ -427,6 +428,14 @@ html_body = """</style>
         <button onclick="backToGrammarRules()" style="padding:0.4rem 1rem;border:1px solid #0f3460;border-radius:8px;background:transparent;color:#eee;font-size:0.85rem;cursor:pointer;margin-bottom:1rem">&larr; {{ lc.grammar_back }}</button>
         <div id="grammar-exercise-content"></div>
     </div>
+</div>
+
+<div id="tab-newvocab" class="tab-content">
+    <div style="margin-bottom:0.8rem">
+        <h2 style="font-size:1.1rem;color:#e94560;display:inline">{{ lc.tab_newvocab }}</h2>
+        <button onclick="clearNewVocab()" style="float:right;padding:0.3rem 0.8rem;border:1px solid #f44336;border-radius:8px;background:transparent;color:#f44336;font-size:0.8rem;cursor:pointer">{{ lc.notes_clear }}</button>
+    </div>
+    <div id="newvocab-container"><div class="empty-state">{{ lc.newvocab_empty }}</div></div>
 </div>
 
 <div class="stats" id="stats"></div>
@@ -801,6 +810,7 @@ function switchTab(name) {
     document.querySelectorAll('.tab-content').forEach(t => t.classList.remove('active'));
     document.querySelector('.tabs button[data-tab=\"'+name+'\"]').classList.add('active');
     document.getElementById('tab-'+name).classList.add('active');
+    if (name === 'newvocab') renderNewVocab();
 }
 
 document.getElementById('mission-select').addEventListener('change', function(e) {
@@ -1108,6 +1118,8 @@ async function extractAndAddNewWords(reply, correction, alternatives) {
         const updatedVocab = await updatedRes.json();
         vocab = updatedVocab;
         vocabCount.textContent = vocab.length + ' ' + t('palabras', 'W\u00f6rter', 'mots');
+        for (const w of newWords.slice(0, 5)) addToNewVocab(w);
+        renderNewVocab();
         highlightNewWordsInChat(newWords.slice(0, 5));
         const toast = document.createElement('div');
         toast.style.cssText = 'position:fixed;bottom:1rem;left:50%;transform:translateX(-50%);background:#4caf50;color:#fff;padding:0.6rem 1.2rem;border-radius:8px;font-size:0.85rem;z-index:999;box-shadow:0 4px 12px rgba(0,0,0,0.3);transition:opacity 0.5s';
@@ -1138,9 +1150,69 @@ function hideTyping() {
     if (el) el.remove();
 }
 
+function getNewVocab() {
+    const key = 'tutor_new_vocab_' + currentLang;
+    try { return JSON.parse(localStorage.getItem(key)) || []; } catch(e) { return []; }
+}
+
+function saveNewVocab(list) {
+    const key = 'tutor_new_vocab_' + currentLang;
+    localStorage.setItem(key, JSON.stringify(list));
+}
+
+function addToNewVocab(word) {
+    const list = getNewVocab();
+    if (list.some(w => w.toLowerCase() === word.toLowerCase())) return;
+    list.push(word);
+    saveNewVocab(list);
+}
+
+function renderNewVocab() {
+    const container = document.getElementById('newvocab-container');
+    const list = getNewVocab();
+    if (list.length === 0) {
+        container.innerHTML = '<div class="empty-state">' + t('Aún no hay vocabulario nuevo. Usa el Tutor IA y las palabras nuevas se guardarán aquí.', 'Noch kein neuer Wortschatz. Nutze den KI-Tutor - neue Wörter werden hier gespeichert.', 'Pas encore de nouveau vocabulaire. Utilise le Tuteur IA - les nouveaux mots seront sauvegardés ici.') + '</div>';
+        return;
+    }
+    let html = '';
+    for (const word of list) {
+        const item = vocab.find(v => (v.word || '').toLowerCase() === word.toLowerCase());
+        const spanish = item && item.spanish ? '<span style="color:#aaa;font-size:0.8rem">' + t('Espa\u00f1ol', 'Spanisch', 'Espagnol') + ': ' + item.spanish + '</span>' : '';
+        const definition = item && item.definition ? '<span style="color:#888;font-size:0.8rem;display:block">' + item.definition + '</span>' : '';
+        html += '<div class="dialogue-box" style="cursor:pointer" data-word="' + word.replace(/"/g, '&quot;') + '" onclick="jumpToWord(this.dataset.word)">';
+        html += '<div style="font-weight:600;color:#fff">' + word + '</div>';
+        html += definition;
+        html += '<div style="margin-top:0.2rem">' + spanish + '</div>';
+        html += '</div>';
+    }
+    container.innerHTML = html;
+    if (document.getElementById('tab-newvocab').classList.contains('active')) {
+        container.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+}
+
+function jumpToWord(word) {
+    const idx = vocab.findIndex(v => (v.word || '').toLowerCase() === word.toLowerCase());
+    if (idx >= 0) {
+        currentIndex = idx;
+        isFlipped = false;
+        card.classList.remove('flipped');
+        showCard();
+        switchTab('cards');
+        document.querySelector('.tabs button[data-tab="cards"]').scrollIntoView({ behavior: 'smooth' });
+    }
+}
+
+function clearNewVocab() {
+    if (!confirm(t('Borrar vocabulario nuevo?', 'Neuen Wortschatz löschen?', 'Effacer le nouveau vocabulaire?'))) return;
+    saveNewVocab([]);
+    renderNewVocab();
+}
+
 renderNotes();
 loadGrammarRules();
 loadVocab('__all__');
+renderNewVocab();
 
 if ('serviceWorker' in navigator) {
     navigator.serviceWorker.register('/static/sw.js');
