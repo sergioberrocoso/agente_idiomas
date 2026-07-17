@@ -260,9 +260,54 @@ body {
     transition: all 0.2s;
 }
 .speaker-btn:hover { background: #e94560; color: #fff; }
-.word-row { display: flex; align-items: center; gap: 0.8rem; }"""
+.word-row { display: flex; align-items: center; gap: 0.8rem; }
+
+@media (max-width: 600px) {
+    .header { padding: 0.7rem 1rem; }
+    .header h1 { font-size: 1.1rem; }
+    .controls { gap: 0.4rem; }
+    .controls select, .controls button { font-size: 0.8rem; padding: 0.4rem 0.6rem; }
+    .controls .count { font-size: 0.75rem; }
+    .tabs { max-width: 100%; overflow-x: auto; flex-wrap: nowrap; -webkit-overflow-scrolling: touch; }
+    .tabs button { flex: 0 0 auto; padding: 0.6rem 0.7rem; font-size: 0.8rem; }
+    .tab-content { max-width: 100%; padding: 0.6rem; }
+    .card-container { padding: 0.8rem; }
+    .card-wrapper { max-width: 100%; min-height: 280px; }
+    .card { min-height: 280px; }
+    .card-face { min-height: 280px; padding: 1.2rem; }
+    .card-face .word { font-size: 1.8rem; }
+    .card-face .hint { font-size: 0.75rem; }
+    .back .value { font-size: 0.85rem; }
+    .nav-bar { gap: 0.8rem; }
+    .nav-bar button { padding: 0.4rem 0.8rem; font-size: 0.8rem; }
+    .nav-bar .progress { font-size: 0.8rem; }
+    .exercise-card { padding: 0.8rem; }
+    .exercise-sentence { font-size: 0.95rem; }
+    .exercise-input-row input { font-size: 0.9rem; padding: 0.5rem 0.8rem; }
+    .exercise-input-row button { padding: 0.5rem 0.8rem; font-size: 0.85rem; }
+    .exercise-feedback { font-size: 0.8rem; padding: 0.6rem; }
+    .dialogue-box { padding: 0.8rem; }
+    .tutor-input-row input { font-size: 0.9rem; padding: 0.5rem 0.8rem; }
+    .tutor-input-row button { padding: 0.5rem 1rem; font-size: 0.85rem; }
+    .chat-msg .bubble { font-size: 0.85rem; padding: 0.6rem 0.8rem; max-width: 100%; }
+    .speaker-btn { width: 36px; height: 36px; font-size: 1rem; }
+    .controls select { max-width: 110px; }
+    #mission-select { max-width: 130px; }
+}
+
+@media (min-width: 601px) and (max-width: 1024px) {
+    .header { padding: 0.8rem 1.5rem; }
+    .card-wrapper { min-height: 320px; }
+    .card { min-height: 320px; }
+    .card-face { min-height: 320px; padding: 1.5rem; }
+    .card-face .word { font-size: 2.2rem; }
+    .tabs { max-width: 100%; }
+    .tab-content { max-width: 100%; padding: 0.8rem 1.2rem; }
+    .controls select, .controls button { font-size: 0.85rem; }
+}"""
 
 html_body = """</style>
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 <link rel="manifest" href="/static/manifest.json">
 <meta name="theme-color" content="#1a1a2e">
 <meta name="apple-mobile-web-app-capable" content="yes">
