@@ -1,0 +1,101 @@
+[
+    {
+        "id": "mission_001",
+        "name": "At the park",
+        "goal": "Learn vocabulary related to animals and actions",
+        "vocabulary_tags": ["animals", "actions"],
+        "vocabulary_words": ["dog", "cat", "bird", "fish", "run", "walk", "play", "eat", "sleep", "sit", "stand", "jump", "swim", "sing", "dance", "watch", "look", "hear", "follow", "catch", "throw", "animal", "pet", "bear", "fox", "duck", "frog", "rabbit", "turtle", "mouse", "fur", "tail", "wing", "feather"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_002",
+        "name": "Vacaciones en la playa",
+        "goal": "Planear y describir unas vacaciones en la playa",
+        "vocabulary_tags": ["travel", "actions", "hotel"],
+        "vocabulary_words": ["beach", "hotel", "flight", "trip", "vacation", "holiday", "sun", "swim", "sand", "sea", "plane", "airport", "ticket", "passport", "suitcase", "bag", "reserve", "book", "room", "reservation", "sea", "coast", "island", "tour", "visit", "relax", "enjoy", "travel", "arrive", "leave"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_003",
+        "name": "Preguntar direcciones",
+        "goal": "Aprender a preguntar y dar direcciones en la calle",
+        "vocabulary_tags": ["directions", "travel"],
+        "vocabulary_words": ["left", "right", "straight", "corner", "block", "cross", "follow", "traffic", "light", "street", "road", "avenue", "direction", "route", "way", "distance", "sign", "turn", "walk", "entrance", "exit", "map", "near", "far", "stop", "bridge", "north", "south", "east", "west"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_004",
+        "name": "Reservar un hotel",
+        "goal": "Hacer una reserva de hotel por teléfono",
+        "vocabulary_tags": ["hotel", "phone", "travel"],
+        "vocabulary_words": ["hotel", "room", "book", "reserve", "reservation", "single", "double", "night", "cost", "price", "rate", "breakfast", "included", "available", "check", "confirm", "cancel", "reception", "phone", "call", "number", "arrive", "leave", "stay", "view", "floor", "key", "deposit", "charge", "extra"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_005",
+        "name": "Comprar en el supermercado",
+        "goal": "Vocabulario para ir de compras al supermercado",
+        "vocabulary_tags": ["shopping", "food"],
+        "vocabulary_words": ["buy", "pay", "cash", "card", "price", "cost", "receipt", "discount", "sale", "offer", "total", "change", "cashier", "counter", "cart", "basket", "aisle", "shelf", "checkout", "bag", "food", "fruit", "vegetable", "meat", "fish", "bread", "rice", "milk", "cheese", "egg", "water", "juice", "drink", "snack"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_006",
+        "name": "Contestar una llamada de teléfono",
+        "goal": "Manejar una conversación telefónica en inglés",
+        "vocabulary_tags": ["phone", "work"],
+        "vocabulary_words": ["call", "phone", "mobile", "message", "text", "ring", "answer", "speak", "talk", "listen", "hold", "line", "available", "contact", "number", "reach", "return", "caller", "minute", "moment", "later", "today", "morning", "afternoon", "evening", "meeting", "schedule", "take"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_007",
+        "name": "Escribir un email formal",
+        "goal": "Redactar un correo electrónico profesional",
+        "vocabulary_tags": ["email", "work"],
+        "vocabulary_words": ["email", "send", "receive", "write", "inbox", "attach", "forward", "reply", "draft", "subject", "address", "compose", "schedule", "attachment", "message", "read", "check", "confirm", "update", "information", "document", "file", "copy", "please", "thank", "regards", "contact", "follow", "review", "to"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_008",
+        "name": "Trabajo en una litografía",
+        "goal": "Vocabulario para trabajar en una imprenta o litografía",
+        "vocabulary_tags": ["work", "actions"],
+        "vocabulary_words": ["work", "job", "machine", "operate", "check", "quality", "print", "paper", "order", "produce", "production", "delivery", "material", "supply", "maintain", "clean", "fix", "report", "fill", "complete", "start", "finish", "follow", "instruction", "safe", "speed", "size", "color", "design", "file", "customer", "deadline", "meeting", "arrive", "process", "inspect", "manage", "review", "schedule", "train", "responsible"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_009",
+        "name": "Hablar con proveedores",
+        "goal": "Negociar y comunicarse con proveedores en inglés",
+        "vocabulary_tags": ["work", "phone", "email"],
+        "vocabulary_words": ["order", "supplier", "delivery", "shipment", "invoice", "payment", "price", "cost", "quote", "budget", "negotiate", "agree", "contract", "term", "condition", "quality", "sample", "material", "stock", "available", "confirm", "schedule", "date", "week", "month", "send", "receive", "urgent", "important", "check"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_010",
+        "name": "Conversación sobre fútbol",
+        "goal": "Hablar sobre fútbol y deportes con amigos",
+        "vocabulary_tags": ["sports", "actions"],
+        "vocabulary_words": ["football", "soccer", "match", "team", "player", "score", "goal", "win", "lose", "kick", "pass", "shoot", "defense", "attack", "coach", "referee", "penalty", "foul", "corner", "league", "championship", "cup", "final", "half", "champion", "fan", "stadium", "watch", "play", "practice"],
+        "dialogues": [],
+        "exercises": []
+    },
+    {
+        "id": "mission_011",
+        "name": "Conversación sobre ejercicio",
+        "goal": "Hablar sobre rutinas de ejercicio y vida saludable",
+        "vocabulary_tags": ["actions", "exercise"],
+        "vocabulary_words": ["exercise", "gym", "workout", "run", "lift", "train", "health", "fit", "strong", "muscle", "stretch", "warm", "start", "minute", "hour", "week", "day", "routine", "weight", "cardio", "sweat", "energy", "water", "rest", "push", "pull", "move", "follow", "plan", "goal", "improve", "change", "active"],
+        "dialogues": [],
+        "exercises": []
+    }
+]

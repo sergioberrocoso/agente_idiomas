@@ -1,0 +1,8118 @@
+[
+  {
+    "word": "abdos",
+    "article": "les",
+    "sentence": "Les abdos renforcent le ventre.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "abeille",
+    "article": "l'",
+    "sentence": "L'abeille fait du miel.",
+    "translation": "",
+    "tags": [
+      "animals",
+      "food"
+    ]
+  },
+  {
+    "word": "accepter",
+    "article": "",
+    "sentence": "Il accepte l'invitation.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "achat",
+    "article": "l'",
+    "sentence": "L'achat est sécurisé.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "acheter",
+    "article": "",
+    "sentence": "Tu achètes du pain.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "actif",
+    "article": "",
+    "sentence": "Reste actif toute la journée.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "adorer",
+    "article": "",
+    "sentence": "Tu adores le chocolat.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "adresse",
+    "article": "l'",
+    "sentence": "L'adresse email est valide.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "agenda",
+    "article": "l'",
+    "sentence": "L'agenda est électronique.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "aider",
+    "article": "",
+    "sentence": "Tu aides ton ami.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "aigle",
+    "article": "l'",
+    "sentence": "L'aigle vole très haut.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "ail",
+    "article": "l'",
+    "sentence": "L'ail parfume le plat.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "aile",
+    "article": "l'",
+    "sentence": "L'oiseau bat des ailes.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "aimer",
+    "article": "",
+    "sentence": "J'aime les animaux.",
+    "translation": "",
+    "tags": [
+      "animals",
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "aller",
+    "article": "",
+    "sentence": "Je vais à l'école.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "alternance",
+    "article": "l'",
+    "sentence": "L'alternance combine travail et études.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "amande",
+    "article": "l'",
+    "sentence": "L'amande est un fruit sec.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "ami",
+    "article": "l'",
+    "sentence": "L'ami est fidèle.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "amour",
+    "article": "l'",
+    "sentence": "L'amour est dans l'air.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "ancien",
+    "article": "",
+    "sentence": "Cet hôtel est ancien.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "angle",
+    "article": "l'",
+    "sentence": "L'angle de la rue est à cinquante mètres.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "annuler",
+    "article": "",
+    "sentence": "Ils annulent le vol.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "année",
+    "article": "l'",
+    "sentence": "L'année prochaine je déménage.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "août",
+    "article": "",
+    "sentence": "Août est le mois des vacances.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "appareil photo",
+    "article": "l'",
+    "sentence": "L'appareil photo numérique est léger.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "appel",
+    "article": "l'",
+    "sentence": "L'appel est perdu.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "appeler",
+    "article": "",
+    "sentence": "Tu appelles le médecin.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "apporter",
+    "article": "",
+    "sentence": "Tu apportes le dessert.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "après-midi",
+    "article": "l'",
+    "sentence": "L'après-midi je travaille.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "araignée",
+    "article": "l'",
+    "sentence": "L'araignée tisse sa toile.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "arbitre",
+    "article": "l'",
+    "sentence": "L'arbitre siffle une faute.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "archiver",
+    "article": "",
+    "sentence": "Archive les anciens messages.",
+    "translation": "",
+    "tags": [
+      "email",
+      "actions"
+    ]
+  },
+  {
+    "word": "argent",
+    "article": "l'",
+    "sentence": "L'argent ne fait pas le bonheur.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "argument",
+    "article": "l'",
+    "sentence": "L'argument est convaincant.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "armoire",
+    "article": "l'",
+    "sentence": "L'armoire contient des vêtements.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "arriver",
+    "article": "",
+    "sentence": "Le train arrive en gare.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "arrivée",
+    "article": "l'",
+    "sentence": "L'arrivée a du retard.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "arrêt maladie",
+    "article": "l'",
+    "sentence": "L'arrêt maladie est justifié.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "ascenseur",
+    "article": "l'",
+    "sentence": "L'ascenseur est en panne.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "aspirateur",
+    "article": "l'",
+    "sentence": "L'aspirateur est silencieux.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "assemblée",
+    "article": "l'",
+    "sentence": "L'assemblée générale est annuelle.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "assez",
+    "article": "",
+    "sentence": "C'est assez grand.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "assiette",
+    "article": "l'",
+    "sentence": "L'assiette est vide.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "athlétisme",
+    "article": "l'",
+    "sentence": "L'athlétisme regroupe plusieurs disciplines.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "attaque",
+    "article": "l'",
+    "sentence": "L'attaque est rapide.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "attendre",
+    "article": "",
+    "sentence": "Nous attendons le bus.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "attente",
+    "article": "la",
+    "sentence": "Je suis en attente.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "attraper",
+    "article": "",
+    "sentence": "Tu attrapes la balle.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "actions"
+    ]
+  },
+  {
+    "word": "au revoir",
+    "article": "",
+    "sentence": "Au revoir et bonne journée !",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "auberge",
+    "article": "l'",
+    "sentence": "L'auberge de jeunesse est bon marché.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "word": "aujourd'hui",
+    "article": "",
+    "sentence": "Aujourd'hui il fait beau.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "automne",
+    "article": "l'",
+    "sentence": "L'automne est pluvieux.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "autoroute",
+    "article": "l'",
+    "sentence": "L'autoroute est gratuite.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "autre",
+    "article": "",
+    "sentence": "L'autre chambre est plus grande.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "avec",
+    "article": "",
+    "sentence": "Je viens avec toi.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "aventure",
+    "article": "l'",
+    "sentence": "L'aventure commence maintenant.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "avenue",
+    "article": "l'",
+    "sentence": "L'avenue des Champs-Élysées est célèbre.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "avion",
+    "article": "l'",
+    "sentence": "L'avion décolle dans une heure.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "avocat",
+    "article": "l'",
+    "sentence": "L'avocat est riche en bonnes graisses.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "avoir besoin",
+    "article": "",
+    "sentence": "J'ai besoin d'aide.",
+    "translation": "",
+    "tags": [
+      "work",
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "avril",
+    "article": "",
+    "sentence": "Avril est variable.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "aéroport",
+    "article": "l'",
+    "sentence": "L'aéroport est loin du centre.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "bagage",
+    "article": "le",
+    "sentence": "Le bagage est perdu.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "baignoire",
+    "article": "la",
+    "sentence": "La baignoire est grande.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "balai",
+    "article": "le",
+    "sentence": "Le balai est dans le placard.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "baleine",
+    "article": "la",
+    "sentence": "La baleine chante sous l'eau.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "ballon",
+    "article": "le",
+    "sentence": "Le ballon de gym est gonflé.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "banane",
+    "article": "la",
+    "sentence": "La banane est jaune.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "banlieue",
+    "article": "la",
+    "sentence": "La banlieue est résidentielle.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "bar",
+    "article": "le",
+    "sentence": "Le bar sert des cocktails.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "food"
+    ]
+  },
+  {
+    "word": "barre",
+    "article": "la",
+    "sentence": "La barre de musculation est chargée.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "basketball",
+    "article": "le",
+    "sentence": "Le basketball américain est spectaculaire.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "bateau",
+    "article": "le",
+    "sentence": "Le bateau traverse le fleuve.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "beau",
+    "article": "",
+    "sentence": "Le paysage est beau.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "beaucoup",
+    "article": "",
+    "sentence": "Merci beaucoup.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "bec",
+    "article": "le",
+    "sentence": "Le perroquet a un bec coloré.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "beurre",
+    "article": "le",
+    "sentence": "Le beurre est salé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "biceps",
+    "article": "le",
+    "sentence": "Le biceps est contracté.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "bien",
+    "article": "",
+    "sentence": "Je vais bien.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "bijou",
+    "article": "le",
+    "sentence": "Le bijou en argent est joli.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "billet",
+    "article": "le",
+    "sentence": "Le billet d'avion est cher.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "billet de banque",
+    "article": "le",
+    "sentence": "Le billet de banque est en euros.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "bip",
+    "article": "le",
+    "sentence": "Le bip indique la fin du message.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "bière",
+    "article": "la",
+    "sentence": "La bière est blonde.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "boire",
+    "article": "",
+    "sentence": "Tu bois de l'eau.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "bol",
+    "article": "le",
+    "sentence": "Le bol de soupe est chaud.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "bon",
+    "article": "",
+    "sentence": "Le gâteau est bon.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "bon marché",
+    "article": "",
+    "sentence": "Ce marché est bon marché.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "bonjour",
+    "article": "",
+    "sentence": "Bonjour, comment allez-vous ?",
+    "translation": "",
+    "tags": [
+      "phone",
+      "travel"
+    ]
+  },
+  {
+    "word": "bonne nuit",
+    "article": "",
+    "sentence": "Bonne nuit, fais de beaux rêves.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "bonsoir",
+    "article": "",
+    "sentence": "Bonsoir, madame.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "phone"
+    ]
+  },
+  {
+    "word": "bouger",
+    "article": "",
+    "sentence": "Assis, ne bouge pas !",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "bouillir",
+    "article": "",
+    "sentence": "L'eau bout à cent degrés.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "boulevard",
+    "article": "le",
+    "sentence": "Le boulevard est large.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "bouteille",
+    "article": "la",
+    "sentence": "La bouteille est pleine.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "boutique",
+    "article": "la",
+    "sentence": "La boutique de souvenirs est mignonne.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "travel"
+    ]
+  },
+  {
+    "word": "boîte",
+    "article": "la",
+    "sentence": "La boîte de réception est pleine.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "boîte d'envoi",
+    "article": "la",
+    "sentence": "La boîte d'envoi contient les messages.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "brocoli",
+    "article": "le",
+    "sentence": "Le brocoli est vert.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "brosse à dents",
+    "article": "la",
+    "sentence": "La brosse à dents est rangée.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "brouillon",
+    "article": "le",
+    "sentence": "Le brouillon est sauvegardé.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "bruit",
+    "article": "le",
+    "sentence": "Le bruit de la rue gêne le sommeil.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "budget",
+    "article": "le",
+    "sentence": "Le budget est limité.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "bureau",
+    "article": "le",
+    "sentence": "Le bureau est au troisième étage.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "bus",
+    "article": "le",
+    "sentence": "Le bus est bondé.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "but",
+    "article": "le",
+    "sentence": "Le but est refusé.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "bœuf",
+    "article": "le",
+    "sentence": "Le bœuf bourguignon est un plat typique.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "c'est",
+    "article": "",
+    "sentence": "C'est une bonne idée.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "cabine d'essayage",
+    "article": "la",
+    "sentence": "La cabine d'essayage est libre.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "cacahuète",
+    "article": "la",
+    "sentence": "La cacahuète est salée.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "cacher",
+    "article": "",
+    "sentence": "Le chat se cache.",
+    "translation": "",
+    "tags": [
+      "animals",
+      "actions"
+    ]
+  },
+  {
+    "word": "café",
+    "article": "le",
+    "sentence": "Le café est chaud.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "caisse",
+    "article": "la",
+    "sentence": "La caisse est au fond du magasin.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "caisse enregistreuse",
+    "article": "la",
+    "sentence": "La caisse enregistreuse est automatique.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "calendrier",
+    "article": "le",
+    "sentence": "Le calendrier est sur le mur.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "calme",
+    "article": "",
+    "sentence": "L'hôtel est calme la nuit.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "calories",
+    "article": "les",
+    "sentence": "Les calories brûlées sont affichées.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "canapé",
+    "article": "le",
+    "sentence": "Le canapé est moelleux.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "canard",
+    "article": "le",
+    "sentence": "Le canard nage dans l'étang.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "cannelle",
+    "article": "la",
+    "sentence": "La cannelle parfume le dessert.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "capitaine",
+    "article": "le",
+    "sentence": "Le capitaine porte le brassard.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "cardio",
+    "article": "le",
+    "sentence": "Le cardio améliore l'endurance.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "carnet",
+    "article": "le",
+    "sentence": "Le carnet de voyage est rempli.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "carotte",
+    "article": "la",
+    "sentence": "La carotte crue est croquante.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "carrefour",
+    "article": "le",
+    "sentence": "Le carrefour est dangereux.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "carrière",
+    "article": "la",
+    "sentence": "La carrière évolue rapidement.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "carte",
+    "article": "la",
+    "sentence": "La carte touristique est utile.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "carte postale",
+    "article": "la",
+    "sentence": "La carte postale montre la tour Eiffel.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "carton",
+    "article": "le",
+    "sentence": "Le carton rouge exclut le joueur.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "casserole",
+    "article": "la",
+    "sentence": "La casserole contient de l'eau.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "cc",
+    "article": "",
+    "sentence": "Mets ton chef en cc.",
+    "translation": "",
+    "tags": [
+      "email",
+      "work"
+    ]
+  },
+  {
+    "word": "cci",
+    "article": "",
+    "sentence": "Envoie en cci pour discrétion.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "ce sont",
+    "article": "",
+    "sentence": "Ce sont mes valises.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "ceinture",
+    "article": "la",
+    "sentence": "La ceinture en cuir est solide.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "centre-ville",
+    "article": "le",
+    "sentence": "Le centre-ville est piéton.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "cerf",
+    "article": "le",
+    "sentence": "Le cerf a de grands bois.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "cerise",
+    "article": "la",
+    "sentence": "La cerise est rouge foncé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "chaise",
+    "article": "la",
+    "sentence": "La chaise est confortable.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "chaleur",
+    "article": "la",
+    "sentence": "La chaleur est étouffante.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "chambre",
+    "article": "la",
+    "sentence": "La chambre est confortable.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "champignon",
+    "article": "le",
+    "sentence": "Le champignon est poêlé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "championnat",
+    "article": "le",
+    "sentence": "Le championnat de France commence.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "changer",
+    "article": "",
+    "sentence": "Je change de train.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "chanter",
+    "article": "",
+    "sentence": "Elle chante une chanson.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "chapeau",
+    "article": "le",
+    "sentence": "Le chapeau protège du soleil.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "chaque",
+    "article": "",
+    "sentence": "Chaque jour je fais du sport.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "charge de travail",
+    "article": "la",
+    "sentence": "La charge de travail est lourde.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "chat",
+    "article": "le",
+    "sentence": "Le chat dort sur le canapé.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "chaud",
+    "article": "",
+    "sentence": "Le café est chaud.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "chauffage",
+    "article": "le",
+    "sentence": "Le chauffage est central.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "chauffeur",
+    "article": "le",
+    "sentence": "Le chauffeur de taxi connaît la ville.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "chausson",
+    "article": "le",
+    "sentence": "Le chausson est confortable.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "chaussures",
+    "article": "les",
+    "sentence": "Les chaussures sont confortables.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "check-in",
+    "article": "le",
+    "sentence": "Le check-in est à quinze heures.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "check-out",
+    "article": "le",
+    "sentence": "Le check-out est à onze heures.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "chef",
+    "article": "le",
+    "sentence": "Le chef de service est sévère.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "chemise",
+    "article": "la",
+    "sentence": "La chemise blanche est classique.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "cher",
+    "article": "",
+    "sentence": "Ce sac est trop cher.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "cheval",
+    "article": "le",
+    "sentence": "Le cheval galope dans le pré.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "chez",
+    "article": "",
+    "sentence": "Je vais chez le médecin.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "chien",
+    "article": "le",
+    "sentence": "Le chien court dans le parc.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "chiffon",
+    "article": "le",
+    "sentence": "Le chiffon est propre.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "chiffre",
+    "article": "le",
+    "sentence": "Le chiffre d'affaires augmente.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "chocolat",
+    "article": "le",
+    "sentence": "Le chocolat noir est amer.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "choisir",
+    "article": "",
+    "sentence": "Tu choisis le menu.",
+    "translation": "",
+    "tags": [
+      "food",
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "chèvre",
+    "article": "la",
+    "sentence": "La chèvre grimpe sur la colline.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "citron",
+    "article": "le",
+    "sentence": "Le citron est acide.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "classement",
+    "article": "le",
+    "sentence": "Le classement est mis à jour.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "classeur",
+    "article": "le",
+    "sentence": "Le classeur est étiqueté.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "clavier",
+    "article": "le",
+    "sentence": "Le clavier est sans fil.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "client",
+    "article": "le",
+    "sentence": "Le client est satisfait.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "work"
+    ]
+  },
+  {
+    "word": "climatisation",
+    "article": "la",
+    "sentence": "La climatisation est réglable.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "clé",
+    "article": "la",
+    "sentence": "La clé de la chambre est sur le comptoir.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "cochon",
+    "article": "le",
+    "sentence": "Le cochon se roule dans la boue.",
+    "translation": "",
+    "tags": [
+      "animals",
+      "food"
+    ]
+  },
+  {
+    "word": "code promo",
+    "article": "le",
+    "sentence": "Le code promo donne dix pour cent.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "coin",
+    "article": "le",
+    "sentence": "Le café est au coin de la rue.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "collaborateur",
+    "article": "le",
+    "sentence": "Le collaborateur est efficace.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "collation",
+    "article": "la",
+    "sentence": "La collation est à quatre heures.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "collègue",
+    "article": "le",
+    "sentence": "Le collègue est sympathique.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "comité",
+    "article": "le",
+    "sentence": "Le comité se réunit demain.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "commande",
+    "article": "la",
+    "sentence": "La commande est confirmée.",
+    "translation": "",
+    "tags": [
+      "work",
+      "shopping"
+    ]
+  },
+  {
+    "word": "commander",
+    "article": "",
+    "sentence": "Tu commandes en ligne.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "commencer",
+    "article": "",
+    "sentence": "Le cours commence à neuf heures.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "composer",
+    "article": "",
+    "sentence": "Tu composes le mauvais numéro.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "comprendre",
+    "article": "",
+    "sentence": "Tu comprends la leçon ?",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "compétition",
+    "article": "la",
+    "sentence": "La compétition est féroce.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "concierge",
+    "article": "le",
+    "sentence": "Le concierge donne des conseils.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "concombre",
+    "article": "le",
+    "sentence": "Le concombre est rafraîchissant.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "conduire",
+    "article": "",
+    "sentence": "Il conduit la voiture.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "confirmer",
+    "article": "",
+    "sentence": "Je confirme la réservation.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "actions"
+    ]
+  },
+  {
+    "word": "confiture",
+    "article": "la",
+    "sentence": "La confiture de fraises est maison.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "congés",
+    "article": "les",
+    "sentence": "Les congés sont payés.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "conseiller",
+    "article": "le",
+    "sentence": "Le conseiller clientèle est à l'écoute.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "work"
+    ]
+  },
+  {
+    "word": "construire",
+    "article": "",
+    "sentence": "Ils construisent une maison.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "contact",
+    "article": "le",
+    "sentence": "Le contact est enregistré.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "content",
+    "article": "",
+    "sentence": "Je suis content.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "continuer",
+    "article": "",
+    "sentence": "Continue tout droit.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "actions"
+    ]
+  },
+  {
+    "word": "contrat",
+    "article": "le",
+    "sentence": "Le contrat est signé.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "contre",
+    "article": "",
+    "sentence": "Je suis contre cette idée.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "contrôle",
+    "article": "le",
+    "sentence": "Le contrôle des passeports est lent.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "copie",
+    "article": "la",
+    "sentence": "Mets-moi en copie de l'email.",
+    "translation": "",
+    "tags": [
+      "email",
+      "work"
+    ]
+  },
+  {
+    "word": "corde à sauter",
+    "article": "la",
+    "sentence": "La corde à sauter est un bon cardio.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "corner",
+    "article": "le",
+    "sentence": "Le corner est tiré.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "couleur",
+    "article": "la",
+    "sentence": "La couleur rouge est belle.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "couloir",
+    "article": "le",
+    "sentence": "Le couloir de l'hôtel est long.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "coupe",
+    "article": "la",
+    "sentence": "La coupe du monde est tous les quatre ans.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "couper",
+    "article": "",
+    "sentence": "Tu coupes le pain.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "courir",
+    "article": "",
+    "sentence": "Il court dans le stade.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise",
+      "actions"
+    ]
+  },
+  {
+    "word": "course",
+    "article": "la",
+    "sentence": "La course à pied est populaire.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "couteau",
+    "article": "le",
+    "sentence": "Le couteau est bien aiguisé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "couvercle",
+    "article": "le",
+    "sentence": "Le couvercle est en verre.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "couverture",
+    "article": "la",
+    "sentence": "La couverture est chaude.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "coûter",
+    "article": "",
+    "sentence": "Combien coûte ce sac ?",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "crayon",
+    "article": "le",
+    "sentence": "Le crayon est taillé.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "crevette",
+    "article": "la",
+    "sentence": "La crevette est rose.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "croire",
+    "article": "",
+    "sentence": "Je crois en toi.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "croisement",
+    "article": "le",
+    "sentence": "Le croisement est dangereux.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "crossfit",
+    "article": "le",
+    "sentence": "Le crossfit est intense.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "crème",
+    "article": "la",
+    "sentence": "La crème fraîche est épaisse.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "crêpe",
+    "article": "la",
+    "sentence": "La crêpe au sucre est simple.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "cuillère",
+    "article": "la",
+    "sentence": "La cuillère est en bois.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "cuisine",
+    "article": "la",
+    "sentence": "La cuisine française est réputée.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "cuisiner",
+    "article": "",
+    "sentence": "Elle cuisine un bon repas.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "CV",
+    "article": "le",
+    "sentence": "Le CV est à jour.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "cyclisme",
+    "article": "le",
+    "sentence": "Le cyclisme est un sport d'endurance.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "céréale",
+    "article": "la",
+    "sentence": "La céréale contient des fibres.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "côte",
+    "article": "la",
+    "sentence": "La côte méditerranéenne est belle.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "danser",
+    "article": "",
+    "sentence": "Ils dansent dans la salle.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "dauphin",
+    "article": "le",
+    "sentence": "Le dauphin nage dans l'océan.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "de rien",
+    "article": "",
+    "sentence": "De rien, c'est normal.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "demain",
+    "article": "",
+    "sentence": "Demain je travaille.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "dentifrice",
+    "article": "le",
+    "sentence": "Le dentifrice est à la menthe.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "dernier",
+    "article": "",
+    "sentence": "C'est le dernier train.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "dessert",
+    "article": "le",
+    "sentence": "Le dessert est sucré.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "dessiner",
+    "article": "",
+    "sentence": "Tu dessines un paysage.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "destinataire",
+    "article": "le",
+    "sentence": "Le destinataire est votre collègue.",
+    "translation": "",
+    "tags": [
+      "email",
+      "work"
+    ]
+  },
+  {
+    "word": "destination",
+    "article": "la",
+    "sentence": "La destination finale est Nice.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "devenir",
+    "article": "",
+    "sentence": "Elle devient médecin.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "devoir",
+    "article": "",
+    "sentence": "Tu dois finir ce projet.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "difficile",
+    "article": "",
+    "sentence": "Le problème est difficile.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "dimanche",
+    "article": "",
+    "sentence": "Dimanche je me repose.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "dire",
+    "article": "",
+    "sentence": "Il dit la vérité.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "direction",
+    "article": "la",
+    "sentence": "La direction de Paris est par là.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "discuter",
+    "article": "",
+    "sentence": "Nous discutons du projet.",
+    "translation": "",
+    "tags": [
+      "work",
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "disponible",
+    "article": "",
+    "sentence": "Il y a une chambre disponible.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "document",
+    "article": "le",
+    "sentence": "Le document est signé.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "donner",
+    "article": "",
+    "sentence": "Elle donne un cadeau.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "dormir",
+    "article": "",
+    "sentence": "Il dort huit heures par nuit.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "actions"
+    ]
+  },
+  {
+    "word": "dos",
+    "article": "le",
+    "sentence": "Le dos est large.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "dossier",
+    "article": "le",
+    "sentence": "Le dossier est organisé.",
+    "translation": "",
+    "tags": [
+      "email",
+      "work"
+    ]
+  },
+  {
+    "word": "douane",
+    "article": "la",
+    "sentence": "La douane vérifie les bagages.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "double",
+    "article": "la",
+    "sentence": "La chambre double a un grand lit.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "douche",
+    "article": "la",
+    "sentence": "La douche a de la pression.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "droite",
+    "article": "la",
+    "sentence": "La banque est à droite.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "décembre",
+    "article": "",
+    "sentence": "Décembre est festif.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "décider",
+    "article": "",
+    "sentence": "Elle décide de partir.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "découvrir",
+    "article": "",
+    "sentence": "Tu découvres un nouveau pays.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "décrire",
+    "article": "",
+    "sentence": "Elle décrit le suspect.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "défense",
+    "article": "la",
+    "sentence": "La défense est solide.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "déjeuner",
+    "article": "le",
+    "sentence": "Le déjeuner est à midi.",
+    "translation": "",
+    "tags": [
+      "food",
+      "work"
+    ]
+  },
+  {
+    "word": "délai",
+    "article": "le",
+    "sentence": "Le délai est court.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "départ",
+    "article": "le",
+    "sentence": "Le départ est prévu à midi.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "dépenser",
+    "article": "",
+    "sentence": "Tu dépenses trop d'argent.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "dépôt",
+    "article": "le",
+    "sentence": "Le dépôt de garantie est requis.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "désert",
+    "article": "le",
+    "sentence": "Le désert est aride.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "désolé",
+    "article": "",
+    "sentence": "Je suis désolé.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "détester",
+    "article": "",
+    "sentence": "Elle déteste le froid.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "déviation",
+    "article": "la",
+    "sentence": "La déviation est indiquée.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "dîner",
+    "article": "le",
+    "sentence": "Le dîner est à vingt heures.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "eau",
+    "article": "l'",
+    "sentence": "L'eau est fraîche.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "elliptique",
+    "article": "l'",
+    "sentence": "L'elliptique est doux pour les articulations.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "email",
+    "article": "l'",
+    "sentence": "L'email est envoyé.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "embarquement",
+    "article": "l'",
+    "sentence": "L'embarquement est à la porte trois.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "embaucher",
+    "article": "",
+    "sentence": "L'entreprise embauche des développeurs.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "employeur",
+    "article": "l'",
+    "sentence": "L'employeur offre des avantages.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "employé",
+    "article": "l'",
+    "sentence": "L'employé est ponctuel.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "enchanté",
+    "article": "",
+    "sentence": "Enchanté de faire votre connaissance.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "work"
+    ]
+  },
+  {
+    "word": "endurance",
+    "article": "l'",
+    "sentence": "L'endurance s'améliore avec l'entraînement.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "enfant",
+    "article": "l'",
+    "sentence": "L'enfant dort.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "enquête",
+    "article": "l'",
+    "sentence": "L'enquête est en cours.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "ensemble",
+    "article": "",
+    "sentence": "Nous travaillons ensemble.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "entraînement",
+    "article": "l'",
+    "sentence": "L'entraînement est quotidien.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "entraîneur",
+    "article": "l'",
+    "sentence": "L'entraîneur motive les joueurs.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "entre",
+    "article": "",
+    "sentence": "Entre la gare et l'hôtel.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "entretien",
+    "article": "l'",
+    "sentence": "L'entretien d'embauche est à dix heures.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "entrée",
+    "article": "l'",
+    "sentence": "L'entrée est gratuite.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "envoyer",
+    "article": "",
+    "sentence": "Elle envoie un email.",
+    "translation": "",
+    "tags": [
+      "email",
+      "actions"
+    ]
+  },
+  {
+    "word": "escale",
+    "article": "l'",
+    "sentence": "L'escale dure deux heures.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "escalier",
+    "article": "l'",
+    "sentence": "L'escalier est raide.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "escargot",
+    "article": "l'",
+    "sentence": "L'escargot avance doucement.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "espèces",
+    "article": "les",
+    "sentence": "Je paie en espèces.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "essayer",
+    "article": "",
+    "sentence": "Tu essaies ce nouveau plat.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "est",
+    "article": "l'",
+    "sentence": "L'est de la région est montagneux.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "excusez-moi",
+    "article": "",
+    "sentence": "Excusez-moi, où sont les toilettes ?",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "exercice",
+    "article": "l'",
+    "sentence": "L'exercice est difficile.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "expliquer",
+    "article": "",
+    "sentence": "Peux-tu expliquer la règle ?",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "explorer",
+    "article": "",
+    "sentence": "Ils explorent la vieille ville.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "expéditeur",
+    "article": "l'",
+    "sentence": "L'expéditeur est inconnu.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "facile",
+    "article": "",
+    "sentence": "Cet exercice est facile.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "faim",
+    "article": "la",
+    "sentence": "J'ai faim, je veux manger.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "faire",
+    "article": "",
+    "sentence": "Je fais du sport.",
+    "translation": "",
+    "tags": [
+      "exercise",
+      "sports",
+      "actions"
+    ]
+  },
+  {
+    "word": "faire cuire",
+    "article": "",
+    "sentence": "Je fais cuire les légumes.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "famille",
+    "article": "la",
+    "sentence": "La famille est nombreuse.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "fan",
+    "article": "le",
+    "sentence": "Le fan encourage son équipe.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "farine",
+    "article": "la",
+    "sentence": "La farine est tamisée.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "fatigué",
+    "article": "",
+    "sentence": "Il est fatigué après le sport.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "faute",
+    "article": "la",
+    "sentence": "La faute est sanctionnée.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "fax",
+    "article": "le",
+    "sentence": "Le fax est encore utilisé.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "femme",
+    "article": "la",
+    "sentence": "La femme est élégante.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "femme de chambre",
+    "article": "la",
+    "sentence": "La femme de chambre nettoie la chambre.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "fente",
+    "article": "la",
+    "sentence": "La fente avant muscle les cuisses.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "fenêtre",
+    "article": "la",
+    "sentence": "La fenêtre donne sur la rue.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "fermer",
+    "article": "",
+    "sentence": "Tu fermes la fenêtre.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "fermé",
+    "article": "",
+    "sentence": "Le magasin est fermé.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "fessiers",
+    "article": "les",
+    "sentence": "Les fessiers sont tonifiés.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "feu",
+    "article": "le",
+    "sentence": "Le feu est rouge.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "feuille",
+    "article": "la",
+    "sentence": "La feuille de papier est blanche.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "fichier",
+    "article": "le",
+    "sentence": "Le fichier joint est un PDF.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "fidélité",
+    "article": "la",
+    "sentence": "La carte de fidélité donne des points.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "fille",
+    "article": "la",
+    "sentence": "La fille joue dans le parc.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "fils",
+    "article": "le",
+    "sentence": "Le fils va à l'école.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "finir",
+    "article": "",
+    "sentence": "Elle finit son travail.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "fitness",
+    "article": "le",
+    "sentence": "Le fitness est à la mode.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "fois",
+    "article": "la",
+    "sentence": "La première fois est spéciale.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "football",
+    "article": "le",
+    "sentence": "Le football est populaire.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "force",
+    "article": "la",
+    "sentence": "La force musculaire augmente.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "formation",
+    "article": "la",
+    "sentence": "La formation est obligatoire.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "formulaire",
+    "article": "le",
+    "sentence": "Le formulaire est rempli.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "forêt",
+    "article": "la",
+    "sentence": "La forêt est dense.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "four",
+    "article": "le",
+    "sentence": "Le four est préchauffé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "fourchette",
+    "article": "la",
+    "sentence": "La fourchette est en métal.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "fourmi",
+    "article": "la",
+    "sentence": "La fourmi transporte une feuille.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "fournisseur",
+    "article": "le",
+    "sentence": "Le fournisseur est fiable.",
+    "translation": "",
+    "tags": [
+      "work",
+      "shopping"
+    ]
+  },
+  {
+    "word": "fourrure",
+    "article": "la",
+    "sentence": "La fourrure du renard est épaisse.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "fraise",
+    "article": "la",
+    "sentence": "La fraise est mûre à point.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "frire",
+    "article": "",
+    "sentence": "Tu fais frire les oignons.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "froid",
+    "article": "",
+    "sentence": "L'eau est froide.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "fromage",
+    "article": "le",
+    "sentence": "Le fromage français est varié.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "fruit",
+    "article": "le",
+    "sentence": "Le fruit est mûr.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "frère",
+    "article": "le",
+    "sentence": "Le frère cadet est sportif.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "fâché",
+    "article": "",
+    "sentence": "Le client est fâché.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "février",
+    "article": "",
+    "sentence": "Février est court.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "gagner",
+    "article": "",
+    "sentence": "Notre équipe gagne le match.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "actions"
+    ]
+  },
+  {
+    "word": "gants",
+    "article": "les",
+    "sentence": "Les gants en cuir sont souples.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "garantie",
+    "article": "la",
+    "sentence": "La garantie est de deux ans.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "garder",
+    "article": "",
+    "sentence": "Elle garde les enfants.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "gare",
+    "article": "la",
+    "sentence": "La gare est centrale.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "garçon",
+    "article": "le",
+    "sentence": "Le garçon court vite.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "gauche",
+    "article": "la",
+    "sentence": "Tourne à gauche au feu.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "glace",
+    "article": "la",
+    "sentence": "La glace à la vanille est crémeuse.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "goûter",
+    "article": "",
+    "sentence": "Tu goûtes la sauce.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "grand",
+    "article": "",
+    "sentence": "Le musée est grand.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "grenouille",
+    "article": "la",
+    "sentence": "La grenouille saute dans la mare.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "griller",
+    "article": "",
+    "sentence": "Tu grilles les steaks.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "guide",
+    "article": "le",
+    "sentence": "Le guide montre les monuments.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "gym",
+    "article": "la",
+    "sentence": "La gym est bonne pour la santé.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "gâteau",
+    "article": "le",
+    "sentence": "Le gâteau au chocolat est délicieux.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "hacher",
+    "article": "",
+    "sentence": "Hache les oignons finement.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "haltère",
+    "article": "l'",
+    "sentence": "L'haltère pèse vingt kilos.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "hamburger",
+    "article": "le",
+    "sentence": "Le hamburger est servi avec des frites.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "hamster",
+    "article": "le",
+    "sentence": "Le hamster fait tourner sa roue.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "handball",
+    "article": "le",
+    "sentence": "Le handball est rapide.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "haricot",
+    "article": "le",
+    "sentence": "Le haricot vert est tendre.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "haut-parleur",
+    "article": "le",
+    "sentence": "Le haut-parleur est activé.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "herbe",
+    "article": "l'",
+    "sentence": "L'herbe aromatique parfume le plat.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "heure",
+    "article": "l'",
+    "sentence": "L'heure du départ est dix heures.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "heureux",
+    "article": "",
+    "sentence": "Nous sommes heureux.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "hibou",
+    "article": "le",
+    "sentence": "Le hibou chasse la nuit.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "hier",
+    "article": "",
+    "sentence": "Hier j'ai visité le musée.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "hiver",
+    "article": "l'",
+    "sentence": "L'hiver est froid.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "homme",
+    "article": "l'",
+    "sentence": "L'homme est âgé.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "horaire",
+    "article": "l'",
+    "sentence": "L'horaire des trains est affiché.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "huile",
+    "article": "l'",
+    "sentence": "L'huile d'olive est saine.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "hôtel",
+    "article": "l'",
+    "sentence": "L'hôtel est près de la plage.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "word": "il fait",
+    "article": "",
+    "sentence": "Il fait beau aujourd'hui.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "il neige",
+    "article": "",
+    "sentence": "Il neige en hiver.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "il pleut",
+    "article": "",
+    "sentence": "Il pleut en automne.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "il y a",
+    "article": "",
+    "sentence": "Il y a un problème.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "impasse",
+    "article": "l'",
+    "sentence": "L'impasse est sans issue.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "imprimante",
+    "article": "l'",
+    "sentence": "L'imprimante est en panne.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "inclure",
+    "article": "",
+    "sentence": "Le prix inclut le petit-déjeuner.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "inclus",
+    "article": "",
+    "sentence": "Le petit-déjeuner est inclus.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "food"
+    ]
+  },
+  {
+    "word": "indicatif",
+    "article": "l'",
+    "sentence": "L'indicatif du pays est le 33.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "insecte",
+    "article": "l'",
+    "sentence": "L'insecte vole autour de la fleur.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "interrupteur",
+    "article": "l'",
+    "sentence": "L'interrupteur est à droite.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "ischios",
+    "article": "les",
+    "sentence": "Les ischios sont étirés.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "itinéraire",
+    "article": "l'",
+    "sentence": "L'itinéraire est sur le GPS.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "jamais",
+    "article": "",
+    "sentence": "Je ne fume jamais.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "jambon",
+    "article": "le",
+    "sentence": "Le jambon blanc est doux.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "janvier",
+    "article": "",
+    "sentence": "Janvier est le premier mois.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "jean",
+    "article": "le",
+    "sentence": "Le jean bleu est décontracté.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "jeudi",
+    "article": "",
+    "sentence": "Jeudi je voyage.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "jeune",
+    "article": "",
+    "sentence": "Le joueur est jeune.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "joindre",
+    "article": "",
+    "sentence": "Je joins le fichier.",
+    "translation": "",
+    "tags": [
+      "email",
+      "actions"
+    ]
+  },
+  {
+    "word": "joli",
+    "article": "",
+    "sentence": "La fleur est jolie.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "joueur",
+    "article": "le",
+    "sentence": "Le joueur marque un but.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "jour",
+    "article": "le",
+    "sentence": "Le jour se lève.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "juillet",
+    "article": "",
+    "sentence": "Juillet est chaud.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "juin",
+    "article": "",
+    "sentence": "Juin commence l'été.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "jus",
+    "article": "le",
+    "sentence": "Le jus d'orange est pressé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "kettlebell",
+    "article": "le",
+    "sentence": "Le kettlebell balance entre les jambes.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "lac",
+    "article": "le",
+    "sentence": "Le lac est calme.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "lait",
+    "article": "le",
+    "sentence": "Le lait est dans le frigo.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "laitue",
+    "article": "la",
+    "sentence": "La laitue est lavée.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "lampe",
+    "article": "la",
+    "sentence": "La lampe éclaire la pièce.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "lancer",
+    "article": "",
+    "sentence": "Il lance le ballon.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "actions"
+    ]
+  },
+  {
+    "word": "lapin",
+    "article": "le",
+    "sentence": "Le lapin mange une carotte.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "laver",
+    "article": "",
+    "sentence": "Je lave la voiture.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "lentement",
+    "article": "",
+    "sentence": "La tortue marche lentement.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "libre",
+    "article": "",
+    "sentence": "La table est libre.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "licencier",
+    "article": "",
+    "sentence": "Ils licencient une partie du personnel.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "ligne",
+    "article": "la",
+    "sentence": "La ligne est occupée.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "ligue",
+    "article": "la",
+    "sentence": "La ligue professionnelle a vingt clubs.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "lion",
+    "article": "le",
+    "sentence": "Le lion rugit dans la savane.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "lire",
+    "article": "",
+    "sentence": "Nous lisons un livre intéressant.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "lit",
+    "article": "le",
+    "sentence": "Le lit est confortable.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "livraison",
+    "article": "la",
+    "sentence": "La livraison est sous trois jours.",
+    "translation": "",
+    "tags": [
+      "work",
+      "shopping"
+    ]
+  },
+  {
+    "word": "livraison offerte",
+    "article": "la",
+    "sentence": "La livraison offerte est un avantage.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "loin",
+    "article": "",
+    "sentence": "La plage est loin d'ici.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "loup",
+    "article": "le",
+    "sentence": "Le loup hurle à la lune.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "lundi",
+    "article": "",
+    "sentence": "Lundi je travaille.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "lune",
+    "article": "la",
+    "sentence": "La lune est pleine.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "lunettes",
+    "article": "les",
+    "sentence": "Les lunettes de soleil sont à la mode.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "légume",
+    "article": "le",
+    "sentence": "Le légume est frais.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "magasin",
+    "article": "le",
+    "sentence": "Le magasin ouvre à dix heures.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "mai",
+    "article": "",
+    "sentence": "Mai est ensoleillé.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "maintenant",
+    "article": "",
+    "sentence": "Maintenant je mange.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "mal",
+    "article": "",
+    "sentence": "Je me sens mal.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "malade",
+    "article": "",
+    "sentence": "Elle est malade.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "manager",
+    "article": "le",
+    "sentence": "Le manager organise la réunion.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "manger",
+    "article": "",
+    "sentence": "Je mange une pomme.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "manquer",
+    "article": "",
+    "sentence": "Tu me manques.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "manteau",
+    "article": "le",
+    "sentence": "Le manteau d'hiver est épais.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "marathon",
+    "article": "le",
+    "sentence": "Le marathon fait quarante-deux kilomètres.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "marcher",
+    "article": "",
+    "sentence": "Nous marchons sur le sentier.",
+    "translation": "",
+    "tags": [
+      "exercise",
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "marché",
+    "article": "le",
+    "sentence": "Le marché est en plein air.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "mardi",
+    "article": "",
+    "sentence": "Mardi j'ai une réunion.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "mari",
+    "article": "le",
+    "sentence": "Le mari prépare le voyage.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "marque",
+    "article": "la",
+    "sentence": "La marque est française.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "mars",
+    "article": "",
+    "sentence": "Mars annonce le printemps.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "match",
+    "article": "le",
+    "sentence": "Le match commence à vingt heures.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "matin",
+    "article": "le",
+    "sentence": "Le matin je bois un café.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "mauvais",
+    "article": "",
+    "sentence": "Le temps est mauvais.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "maïs",
+    "article": "le",
+    "sentence": "Le maïs est cultivé dans les champs.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "melon",
+    "article": "le",
+    "sentence": "Le melon est mûr.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "menu",
+    "article": "le",
+    "sentence": "Le menu propose plusieurs choix.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "merci",
+    "article": "",
+    "sentence": "Merci beaucoup pour votre aide.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "hotel"
+    ]
+  },
+  {
+    "word": "mercredi",
+    "article": "",
+    "sentence": "Mercredi je fais du sport.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "message",
+    "article": "le",
+    "sentence": "Le message vocal est enregistré.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "messagerie",
+    "article": "la",
+    "sentence": "La messagerie est pleine.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "mi-temps",
+    "article": "la",
+    "sentence": "La mi-temps dure quinze minutes.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "midi",
+    "article": "",
+    "sentence": "Il est midi.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "miel",
+    "article": "le",
+    "sentence": "Le miel est doux.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "minibar",
+    "article": "le",
+    "sentence": "Le minibar est approvisionné.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "minuit",
+    "article": "",
+    "sentence": "Il est minuit.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "miroir",
+    "article": "le",
+    "sentence": "Le miroir est au-dessus du lavabo.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "mois",
+    "article": "le",
+    "sentence": "Le mois de mai est joli.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "mollet",
+    "article": "le",
+    "sentence": "Le mollet est contracté.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "moment",
+    "article": "le",
+    "sentence": "Le moment est parfait.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "monnaie",
+    "article": "la",
+    "sentence": "La monnaie est rendue.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "montagne",
+    "article": "la",
+    "sentence": "La montagne est enneigée.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "montre",
+    "article": "la",
+    "sentence": "La montre est élégante.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "montrer",
+    "article": "",
+    "sentence": "Je montre le chemin.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "actions"
+    ]
+  },
+  {
+    "word": "monument",
+    "article": "le",
+    "sentence": "Le monument historique est visité.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "mouche",
+    "article": "la",
+    "sentence": "La mouche bourdonne près de la fenêtre.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "mourir",
+    "article": "",
+    "sentence": "Le vieil arbre meurt.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "moutarde",
+    "article": "la",
+    "sentence": "La moutarde de Dijon est forte.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "mouton",
+    "article": "le",
+    "sentence": "Le mouton donne de la laine.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "mur",
+    "article": "le",
+    "sentence": "Le mur est blanc.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "musculation",
+    "article": "la",
+    "sentence": "La musculation développe les muscles.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "musée",
+    "article": "le",
+    "sentence": "Le musée du Louvre est grand.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "mère",
+    "article": "la",
+    "sentence": "La mère cuisine le dîner.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "médaille",
+    "article": "la",
+    "sentence": "La médaille d'or est convoitée.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "méditation",
+    "article": "la",
+    "sentence": "La méditation réduit le stress.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "mélanger",
+    "article": "",
+    "sentence": "Mélange les ingrédients.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "même",
+    "article": "",
+    "sentence": "Le même plat est servi.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "nager",
+    "article": "",
+    "sentence": "Elle nage dans la piscine.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise",
+      "actions"
+    ]
+  },
+  {
+    "word": "natation",
+    "article": "la",
+    "sentence": "La natation est un sport complet.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "neige",
+    "article": "la",
+    "sentence": "La neige recouvre le sol.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "nettoyer",
+    "article": "",
+    "sentence": "Tu nettoies la cuisine.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "actions"
+    ]
+  },
+  {
+    "word": "noisette",
+    "article": "la",
+    "sentence": "La noisette est croquante.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "noix",
+    "article": "la",
+    "sentence": "La noix est riche en oméga.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "non",
+    "article": "",
+    "sentence": "Non, merci.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "food"
+    ]
+  },
+  {
+    "word": "nord",
+    "article": "le",
+    "sentence": "Le nord de la France est vert.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "nouille",
+    "article": "la",
+    "sentence": "La nouille est cuite al dente.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "nourriture",
+    "article": "la",
+    "sentence": "La nourriture est délicieuse.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "nouveau",
+    "article": "",
+    "sentence": "Le nouveau projet commence.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "novembre",
+    "article": "",
+    "sentence": "Novembre est gris.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "nuage",
+    "article": "le",
+    "sentence": "Le nuage est gris.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "nuit",
+    "article": "la",
+    "sentence": "La nuit coûte cent euros.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "numéro",
+    "article": "le",
+    "sentence": "Le numéro de téléphone est sur le site.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "objectif",
+    "article": "l'",
+    "sentence": "L'objectif est atteint.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "objet",
+    "article": "l'",
+    "sentence": "L'objet de l'email est important.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "occupé",
+    "article": "",
+    "sentence": "Le standard est occupé.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "work"
+    ]
+  },
+  {
+    "word": "octobre",
+    "article": "",
+    "sentence": "Octobre est frais.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "offre",
+    "article": "l'",
+    "sentence": "L'offre spéciale dure une semaine.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "offrir",
+    "article": "",
+    "sentence": "Tu offres un cadeau.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "oignon",
+    "article": "l'",
+    "sentence": "L'oignon fait pleurer.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "oiseau",
+    "article": "l'",
+    "sentence": "L'oiseau chante le matin.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "olive",
+    "article": "l'",
+    "sentence": "L'olive verte est salée.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "omelette",
+    "article": "l'",
+    "sentence": "L'omelette aux champignons est bonne.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "orange",
+    "article": "l'",
+    "sentence": "L'orange est pleine de vitamine C.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "ordinateur",
+    "article": "l'",
+    "sentence": "L'ordinateur est allumé.",
+    "translation": "",
+    "tags": [
+      "work",
+      "email"
+    ]
+  },
+  {
+    "word": "ordre du jour",
+    "article": "l'",
+    "sentence": "L'ordre du jour est chargé.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "oreiller",
+    "article": "l'",
+    "sentence": "L'oreiller est moelleux.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "oublier",
+    "article": "",
+    "sentence": "N'oublie pas les clés.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "ouest",
+    "article": "l'",
+    "sentence": "L'ouest a un climat océanique.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "oui",
+    "article": "",
+    "sentence": "Oui, je suis d'accord.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "work"
+    ]
+  },
+  {
+    "word": "ours",
+    "article": "l'",
+    "sentence": "L'ours hiberne en hiver.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "ouvert",
+    "article": "",
+    "sentence": "Le musée est ouvert.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "ouvrir",
+    "article": "",
+    "sentence": "Elle ouvre la porte.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "pain",
+    "article": "le",
+    "sentence": "Le pain est chaud et croustillant.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "panier",
+    "article": "le",
+    "sentence": "Le panier est rempli de produits.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "pantalon",
+    "article": "le",
+    "sentence": "Le pantalon est bien coupé.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "papillon",
+    "article": "le",
+    "sentence": "Le papillon a de belles couleurs.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "pardon",
+    "article": "",
+    "sentence": "Pardon, je suis en retard.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "parfois",
+    "article": "",
+    "sentence": "Parfois je lis avant de dormir.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "parfum",
+    "article": "le",
+    "sentence": "Le parfum français est célèbre.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "parking",
+    "article": "le",
+    "sentence": "Le parking est sécurisé.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "parler",
+    "article": "",
+    "sentence": "Elle parle français couramment.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "partager",
+    "article": "",
+    "sentence": "Nous partageons le gâteau.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "partir",
+    "article": "",
+    "sentence": "Nous partons en vacances demain.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "passage",
+    "article": "le",
+    "sentence": "Le passage piéton est sûr.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "passager",
+    "article": "le",
+    "sentence": "Le passager attache sa ceinture.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "passe",
+    "article": "la",
+    "sentence": "La passe est précise.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "passeport",
+    "article": "le",
+    "sentence": "Le passeport est valide.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "pastèque",
+    "article": "la",
+    "sentence": "La pastèque est rafraîchissante.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "patte",
+    "article": "la",
+    "sentence": "Le chat lève la patte.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "payer",
+    "article": "",
+    "sentence": "Nous payons par carte.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "hotel",
+      "actions"
+    ]
+  },
+  {
+    "word": "pays",
+    "article": "le",
+    "sentence": "Le pays est magnifique.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "pectoraux",
+    "article": "les",
+    "sentence": "Les pectoraux sont développés.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "peignoir",
+    "article": "le",
+    "sentence": "Le peignoir est blanc.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "penalty",
+    "article": "le",
+    "sentence": "Le penalty est transformé.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "penser",
+    "article": "",
+    "sentence": "Tu penses à la solution.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "perdre",
+    "article": "",
+    "sentence": "Il perd toujours ses clés.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "performance",
+    "article": "la",
+    "sentence": "La performance est mesurée.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "permis",
+    "article": "le",
+    "sentence": "Le permis de conduire est international.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "perroquet",
+    "article": "le",
+    "sentence": "Le perroquet parle comme un humain.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "personne",
+    "article": "",
+    "sentence": "Personne n'est venu.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "petit",
+    "article": "",
+    "sentence": "Le chat est petit.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "petit-déjeuner",
+    "article": "le",
+    "sentence": "Le petit-déjeuner est servi à sept heures.",
+    "translation": "",
+    "tags": [
+      "food",
+      "hotel"
+    ]
+  },
+  {
+    "word": "peut-être",
+    "article": "",
+    "sentence": "Peut-être demain.",
+    "translation": "",
+    "tags": [
+      "work",
+      "travel"
+    ]
+  },
+  {
+    "word": "photo",
+    "article": "la",
+    "sentence": "La photo est floue.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "photocopieuse",
+    "article": "la",
+    "sentence": "La photocopieuse est en bas.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "pilates",
+    "article": "le",
+    "sentence": "Le pilates renforce le centre du corps.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "pilote",
+    "article": "le",
+    "sentence": "Le pilote annonce l'atterrissage.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "piscine",
+    "article": "la",
+    "sentence": "La piscine est chauffée.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "sports"
+    ]
+  },
+  {
+    "word": "piste cyclable",
+    "article": "la",
+    "sentence": "La piste cyclable est sécurisée.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "pizza",
+    "article": "la",
+    "sentence": "La pizza est garnie de fromage.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "pièce",
+    "article": "la",
+    "sentence": "La pièce est attachée.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "pièce de monnaie",
+    "article": "la",
+    "sentence": "La pièce de monnaie est en euros.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "pièce jointe",
+    "article": "la",
+    "sentence": "La pièce jointe est trop lourde.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "piéton",
+    "article": "le",
+    "sentence": "Le piéton traverse au passage.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "place",
+    "article": "la",
+    "sentence": "La place est entourée de cafés.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "plafond",
+    "article": "le",
+    "sentence": "Le plafond est haut.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "plage",
+    "article": "la",
+    "sentence": "La plage de sable fin est belle.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "planche",
+    "article": "la",
+    "sentence": "La planche renforce le tronc.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "planifier",
+    "article": "",
+    "sentence": "Tu planifies le voyage.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "plat",
+    "article": "le",
+    "sentence": "Le plat principal est servi.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "plein",
+    "article": "",
+    "sentence": "Le verre est plein.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "pleurer",
+    "article": "",
+    "sentence": "L'enfant pleure.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "pluie",
+    "article": "la",
+    "sentence": "La pluie tombe.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "plume",
+    "article": "la",
+    "sentence": "La plume tombe de l'oiseau.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "podium",
+    "article": "le",
+    "sentence": "Le podium récompense les trois premiers.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "poids",
+    "article": "le",
+    "sentence": "Le poids soulevé est lourd.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "poire",
+    "article": "la",
+    "sentence": "La poire est juteuse.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "poisson",
+    "article": "le",
+    "sentence": "Le poisson nage dans l'aquarium.",
+    "translation": "",
+    "tags": [
+      "animals",
+      "food"
+    ]
+  },
+  {
+    "word": "poivre",
+    "article": "le",
+    "sentence": "Le poivre est trop fort.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "pomme",
+    "article": "la",
+    "sentence": "La pomme est croquante.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "pomme de terre",
+    "article": "la",
+    "sentence": "La pomme de terre est cuite au four.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "pompes",
+    "article": "les",
+    "sentence": "Les pompes travaillent les bras.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "pont",
+    "article": "le",
+    "sentence": "Le pont enjambe la rivière.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "porc",
+    "article": "le",
+    "sentence": "Le porc est bien cuit.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "port",
+    "article": "le",
+    "sentence": "Le port est animé le matin.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "portable",
+    "article": "le",
+    "sentence": "Le portable est déchargé.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "porte",
+    "article": "la",
+    "sentence": "La porte est fermée.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "portefeuille",
+    "article": "le",
+    "sentence": "Le portefeuille est en cuir.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "poste",
+    "article": "le",
+    "sentence": "Le poste est à pourvoir.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "posture",
+    "article": "la",
+    "sentence": "La posture est corrigée.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "poule",
+    "article": "la",
+    "sentence": "La poule picore dans la cour.",
+    "translation": "",
+    "tags": [
+      "animals",
+      "food"
+    ]
+  },
+  {
+    "word": "poulet",
+    "article": "le",
+    "sentence": "Le poulet rôti est parfumé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "pour",
+    "article": "",
+    "sentence": "C'est pour toi.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "pourcentage",
+    "article": "le",
+    "sentence": "Le pourcentage est élevé.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "pousser",
+    "article": "",
+    "sentence": "Pousse la porte pour l'ouvrir.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "pouvoir",
+    "article": "",
+    "sentence": "Je peux venir demain.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "poêle",
+    "article": "la",
+    "sentence": "La poêle est chaude.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "premier",
+    "article": "",
+    "sentence": "C'est le premier jour.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "prendre",
+    "article": "",
+    "sentence": "Nous prenons le train.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "prime",
+    "article": "la",
+    "sentence": "La prime annuelle est versée en décembre.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "printemps",
+    "article": "le",
+    "sentence": "Le printemps est doux.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "prise",
+    "article": "la",
+    "sentence": "La prise électrique est près du lit.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "prix",
+    "article": "le",
+    "sentence": "Le prix est raisonnable.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "shopping"
+    ]
+  },
+  {
+    "word": "prix réduit",
+    "article": "le",
+    "sentence": "Le prix réduit est intéressant.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "prochain",
+    "article": "",
+    "sentence": "La prochaine réunion est lundi.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "procès-verbal",
+    "article": "le",
+    "sentence": "Le procès-verbal est distribué.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "productivité",
+    "article": "la",
+    "sentence": "La productivité augmente.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "projet",
+    "article": "le",
+    "sentence": "Le projet est ambitieux.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "prolongation",
+    "article": "la",
+    "sentence": "La prolongation est de trente minutes.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "promotion",
+    "article": "la",
+    "sentence": "La promotion est méritée.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "proposition",
+    "article": "la",
+    "sentence": "La proposition est acceptée.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "propre",
+    "article": "",
+    "sentence": "La chambre est propre.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "protéger",
+    "article": "",
+    "sentence": "Nous protégeons la nature.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "protéine",
+    "article": "la",
+    "sentence": "La protéine aide à la récupération.",
+    "translation": "",
+    "tags": [
+      "exercise",
+      "food"
+    ]
+  },
+  {
+    "word": "prouver",
+    "article": "",
+    "sentence": "Tu prouves ta théorie.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "près",
+    "article": "",
+    "sentence": "L'hôtel est près de la gare.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "préparer",
+    "article": "",
+    "sentence": "Elle prépare le dîner.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "présentation",
+    "article": "la",
+    "sentence": "La présentation est en anglais.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "prêt",
+    "article": "",
+    "sentence": "Es-tu prêt ?",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "pull",
+    "article": "le",
+    "sentence": "Le pull en cachemire est cher.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "pâtes",
+    "article": "les",
+    "sentence": "Les pâtes sont al dente.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "père",
+    "article": "le",
+    "sentence": "Le père de famille travaille.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "pêche",
+    "article": "la",
+    "sentence": "La pêche est sucrée.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "quadriceps",
+    "article": "le",
+    "sentence": "Le quadriceps est sollicité.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "quartier",
+    "article": "le",
+    "sentence": "Le quartier latin est animé.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "quelqu'un",
+    "article": "",
+    "sentence": "Quelqu'un m'appelle.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "quelque",
+    "article": "",
+    "sentence": "Je cherche quelque chose.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "questionnaire",
+    "article": "le",
+    "sentence": "Le questionnaire est anonyme.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "queue",
+    "article": "la",
+    "sentence": "Le chien remue la queue.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "quitter",
+    "article": "",
+    "sentence": "Il quitte la maison.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "raccrocher",
+    "article": "",
+    "sentence": "Ne raccroche pas !",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "raisin",
+    "article": "le",
+    "sentence": "Le raisin est sucré.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "rameur",
+    "article": "le",
+    "sentence": "Le rameur sollicite tout le corps.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "rappeler",
+    "article": "",
+    "sentence": "Tu rappelles plus tard.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "rapport",
+    "article": "le",
+    "sentence": "Le rapport est terminé.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "rat",
+    "article": "le",
+    "sentence": "Le rat court dans le grenier.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "rayon",
+    "article": "le",
+    "sentence": "Le rayon fruits et légumes est à gauche.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "food"
+    ]
+  },
+  {
+    "word": "recette",
+    "article": "la",
+    "sentence": "La recette est facile à suivre.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "recevoir",
+    "article": "",
+    "sentence": "Tu reçois beaucoup d'emails.",
+    "translation": "",
+    "tags": [
+      "email",
+      "actions"
+    ]
+  },
+  {
+    "word": "refuser",
+    "article": "",
+    "sentence": "Elle refuse l'offre.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "regarder",
+    "article": "",
+    "sentence": "Nous regardons la télévision.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "relais",
+    "article": "le",
+    "sentence": "Le relais 4x100 mètres est spectaculaire.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "relaxation",
+    "article": "la",
+    "sentence": "La relaxation est profonde.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "remboursement",
+    "article": "le",
+    "sentence": "Le remboursement prend une semaine.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "remboursé",
+    "article": "",
+    "sentence": "Tu es remboursé sous sept jours.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "remise",
+    "article": "la",
+    "sentence": "La remise commerciale est de cinq pour cent.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "remplaçant",
+    "article": "le",
+    "sentence": "Le remplaçant entre en jeu.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "renard",
+    "article": "le",
+    "sentence": "Le renard est rusé.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "rencontrer",
+    "article": "",
+    "sentence": "Je rencontre un ami.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "rendez-vous",
+    "article": "le",
+    "sentence": "Le rendez-vous est à quinze heures.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "repas",
+    "article": "le",
+    "sentence": "Le repas était excellent.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "requin",
+    "article": "le",
+    "sentence": "Le requin nage dans les eaux profondes.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "respiration",
+    "article": "la",
+    "sentence": "La respiration est contrôlée.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "restaurant",
+    "article": "le",
+    "sentence": "Le restaurant sert des plats italiens.",
+    "translation": "",
+    "tags": [
+      "food",
+      "travel"
+    ]
+  },
+  {
+    "word": "rester",
+    "article": "",
+    "sentence": "Nous restons à l'hôtel.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "retard",
+    "article": "le",
+    "sentence": "Le train a du retard.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "retour",
+    "article": "le",
+    "sentence": "Le retour est gratuit.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "rez-de-chaussée",
+    "article": "le",
+    "sentence": "Le rez-de-chaussée est accessible.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "reçu",
+    "article": "le",
+    "sentence": "Le reçu est dans le sac.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "rideau",
+    "article": "le",
+    "sentence": "Le rideau est tiré.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "rien",
+    "article": "",
+    "sentence": "Il n'y a rien à faire.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "rire",
+    "article": "",
+    "sentence": "Nous rions ensemble.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "rivière",
+    "article": "la",
+    "sentence": "La rivière traverse la vallée.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "riz",
+    "article": "le",
+    "sentence": "Le riz est un aliment de base.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "robe",
+    "article": "la",
+    "sentence": "La robe bleue est jolie.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "rond-point",
+    "article": "le",
+    "sentence": "Le rond-point a une fontaine.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "route",
+    "article": "la",
+    "sentence": "La route de campagne est belle.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "routine",
+    "article": "la",
+    "sentence": "La routine quotidienne est importante.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "rugby",
+    "article": "le",
+    "sentence": "Le rugby est un sport de contact.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "réception",
+    "article": "la",
+    "sentence": "La réception est ouverte 24 heures.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "réduction",
+    "article": "la",
+    "sentence": "La réduction de vingt pour cent est appliquée.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "régime",
+    "article": "le",
+    "sentence": "Le régime alimentaire est équilibré.",
+    "translation": "",
+    "tags": [
+      "exercise",
+      "food"
+    ]
+  },
+  {
+    "word": "répertoire",
+    "article": "le",
+    "sentence": "Le répertoire est sur la carte SIM.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "répondeur",
+    "article": "le",
+    "sentence": "Le répondeur enregistre les messages.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "répondre",
+    "article": "",
+    "sentence": "Tu réponds au téléphone.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "répétition",
+    "article": "la",
+    "sentence": "La répétition est efficace.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "réservation",
+    "article": "la",
+    "sentence": "La réservation est confirmée.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "word": "réserver",
+    "article": "",
+    "sentence": "Tu réserves une chambre.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "word": "réunion",
+    "article": "la",
+    "sentence": "La réunion commence à quatorze heures.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "réveil",
+    "article": "le",
+    "sentence": "Le réveil sonne à sept heures.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "rôti",
+    "article": "le",
+    "sentence": "Le rôti de bœuf est saignant.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "s'il te plaît",
+    "article": "",
+    "sentence": "Passe-moi le sel, s'il te plaît.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "s'il vous plaît",
+    "article": "",
+    "sentence": "Un café, s'il vous plaît.",
+    "translation": "",
+    "tags": [
+      "food",
+      "hotel"
+    ]
+  },
+  {
+    "word": "sac",
+    "article": "le",
+    "sentence": "Le sac de voyage est lourd.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "sac à dos",
+    "article": "le",
+    "sentence": "Le sac à dos est pratique.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "travel"
+    ]
+  },
+  {
+    "word": "salade",
+    "article": "la",
+    "sentence": "La salade est verte et croquante.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "salaire",
+    "article": "le",
+    "sentence": "Le salaire est négociable.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "salle de bain",
+    "article": "la",
+    "sentence": "La salle de bain est propre.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "salle de sport",
+    "article": "la",
+    "sentence": "La salle de sport est équipée.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "exercise"
+    ]
+  },
+  {
+    "word": "salut",
+    "article": "",
+    "sentence": "Salut, ça va ?",
+    "translation": "",
+    "tags": [
+      "phone",
+      "travel"
+    ]
+  },
+  {
+    "word": "samedi",
+    "article": "",
+    "sentence": "Samedi je fais les courses.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "sandwich",
+    "article": "le",
+    "sentence": "Le sandwich au jambon est bon.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "sans",
+    "article": "",
+    "sentence": "Je bois le café sans sucre.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "santé",
+    "article": "la",
+    "sentence": "La santé est primordiale.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "satisfait",
+    "article": "",
+    "sentence": "Le client est satisfait.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "sauce",
+    "article": "la",
+    "sentence": "La sauce tomate est maison.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "saucisse",
+    "article": "la",
+    "sentence": "La saucisse grillée est chaude.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "saumon",
+    "article": "le",
+    "sentence": "Le saumon fumé est délicieux.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "saut",
+    "article": "le",
+    "sentence": "Le saut en hauteur est impressionnant.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "sauter",
+    "article": "",
+    "sentence": "Le chat saute sur la table.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "sav",
+    "article": "le",
+    "sentence": "Le service après-vente est joignable.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "savoir",
+    "article": "",
+    "sentence": "Il sait nager.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "actions"
+    ]
+  },
+  {
+    "word": "savon",
+    "article": "le",
+    "sentence": "Le savon sent bon.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "scanner",
+    "article": "le",
+    "sentence": "Le scanner numérise les documents.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "score",
+    "article": "le",
+    "sentence": "Le score est de trois à un.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "se battre",
+    "article": "",
+    "sentence": "Les garçons se battent dans la cour.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "actions"
+    ]
+  },
+  {
+    "word": "se rappeler",
+    "article": "",
+    "sentence": "Je me rappelle de toi.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "sel",
+    "article": "le",
+    "sentence": "Ajoute un peu de sel.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "semaine",
+    "article": "la",
+    "sentence": "La semaine prochaine je pars.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "sens interdit",
+    "article": "le",
+    "sentence": "Le sens interdit est signalé.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "septembre",
+    "article": "",
+    "sentence": "Septembre est la rentrée.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "serpent",
+    "article": "le",
+    "sentence": "Le serpent rampe sur le sol.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "service",
+    "article": "le",
+    "sentence": "Le service en chambre est rapide.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "serviette",
+    "article": "la",
+    "sentence": "La serviette en tissu est propre.",
+    "translation": "",
+    "tags": [
+      "hotel",
+      "food"
+    ]
+  },
+  {
+    "word": "serviette de toilette",
+    "article": "la",
+    "sentence": "La serviette de toilette est moelleuse.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "seul",
+    "article": "",
+    "sentence": "Je voyage seul.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "shampooing",
+    "article": "le",
+    "sentence": "Le shampooing est dans la douche.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "short",
+    "article": "le",
+    "sentence": "Le short en jean est estival.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "signal",
+    "article": "le",
+    "sentence": "Le signal est faible.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "signaler",
+    "article": "",
+    "sentence": "Il signale un problème.",
+    "translation": "",
+    "tags": [
+      "work",
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "signature",
+    "article": "la",
+    "sentence": "La signature est automatique.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "silencieux",
+    "article": "",
+    "sentence": "Le téléphone est en mode silencieux.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "simple",
+    "article": "la",
+    "sentence": "La chambre simple est petite.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "singe",
+    "article": "le",
+    "sentence": "Le singe grimpe aux arbres.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "siège",
+    "article": "le",
+    "sentence": "Le siège côté fenêtre est libre.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "soif",
+    "article": "la",
+    "sentence": "J'ai soif, je veux boire.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "soir",
+    "article": "le",
+    "sentence": "Le soir je dîne.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "sol",
+    "article": "le",
+    "sentence": "Le sol est en marbre.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "soldes",
+    "article": "les",
+    "sentence": "Les soldes commencent en janvier.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "soleil",
+    "article": "le",
+    "sentence": "Le soleil brille.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "solution",
+    "article": "la",
+    "sentence": "La solution est simple.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "sondage",
+    "article": "le",
+    "sentence": "Le sondage est en ligne.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "sonner",
+    "article": "",
+    "sentence": "Le téléphone sonne fort.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "sonnerie",
+    "article": "la",
+    "sentence": "La sonnerie est forte.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "sortie",
+    "article": "la",
+    "sentence": "La sortie est à droite.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "soupe",
+    "article": "la",
+    "sentence": "La soupe est chaude.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "souplesse",
+    "article": "la",
+    "sentence": "La souplesse est essentielle.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "sourire",
+    "article": "",
+    "sentence": "Tu souris tout le temps.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "souris",
+    "article": "la",
+    "sentence": "La souris mange le fromage.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "sous-sol",
+    "article": "le",
+    "sentence": "Le sous-sol est sombre.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "sous-total",
+    "article": "le",
+    "sentence": "Le sous-total est affiché.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "souvenir",
+    "article": "le",
+    "sentence": "Le souvenir est un aimant.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "travel"
+    ]
+  },
+  {
+    "word": "souvent",
+    "article": "",
+    "sentence": "Nous allons souvent au cinéma.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "spam",
+    "article": "le",
+    "sentence": "Le spam est dans les indésirables.",
+    "translation": "",
+    "tags": [
+      "email"
+    ]
+  },
+  {
+    "word": "spinning",
+    "article": "le",
+    "sentence": "Le spinning est un cours de vélo.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "sport",
+    "article": "le",
+    "sentence": "Le sport est bon pour la santé.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "sprint",
+    "article": "le",
+    "sentence": "Le sprint final est décisif.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "squat",
+    "article": "le",
+    "sentence": "Le squat travaille les jambes.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "stade",
+    "article": "le",
+    "sentence": "Le stade est plein.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "stage",
+    "article": "le",
+    "sentence": "Le stage dure six mois.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "stationnement",
+    "article": "le",
+    "sentence": "Le stationnement est payant.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "statistique",
+    "article": "la",
+    "sentence": "La statistique montre une tendance.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "step",
+    "article": "le",
+    "sentence": "Le step améliore le cardio.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "stylo",
+    "article": "le",
+    "sentence": "Le stylo écrit en bleu.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "sucre",
+    "article": "le",
+    "sentence": "Tu veux du sucre dans ton café ?",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "sud",
+    "article": "le",
+    "sentence": "Le sud est ensoleillé.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "directions"
+    ]
+  },
+  {
+    "word": "sueur",
+    "article": "la",
+    "sentence": "La sueur coule sur le front.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "suggérer",
+    "article": "",
+    "sentence": "Je suggère une idée.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "suite",
+    "article": "la",
+    "sentence": "La suite présidentielle est luxueuse.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "suivre",
+    "article": "",
+    "sentence": "Suivez cette route.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "supplément",
+    "article": "le",
+    "sentence": "Le supplément pour le parking est de dix euros.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "supporter",
+    "article": "le",
+    "sentence": "Le supporter agite un drapeau.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "supprimer",
+    "article": "",
+    "sentence": "Tu supprimes l'email.",
+    "translation": "",
+    "tags": [
+      "email",
+      "actions"
+    ]
+  },
+  {
+    "word": "sèche-cheveux",
+    "article": "le",
+    "sentence": "Le sèche-cheveux est dans la salle de bain.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "séjour",
+    "article": "le",
+    "sentence": "Le séjour à l'hôtel était agréable.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "série",
+    "article": "la",
+    "sentence": "La série de dix répétitions est finie.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "sœur",
+    "article": "la",
+    "sentence": "La sœur aînée étudie.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "table",
+    "article": "la",
+    "sentence": "La table est en bois.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "taille",
+    "article": "la",
+    "sentence": "La taille M me va bien.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "tapis",
+    "article": "le",
+    "sentence": "Le tapis de sol est antidérapant.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "tapissus",
+    "article": "le",
+    "sentence": "Le tapis roulant est réglable.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "tarte",
+    "article": "la",
+    "sentence": "La tarte aux pommes est chaude.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "tasse",
+    "article": "la",
+    "sentence": "La tasse est remplie de café.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "taxe",
+    "article": "la",
+    "sentence": "La taxe est incluse.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "taxi",
+    "article": "le",
+    "sentence": "Le taxi attend devant l'hôtel.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "hotel"
+    ]
+  },
+  {
+    "word": "temps",
+    "article": "le",
+    "sentence": "Le temps est nuageux.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "temps partiel",
+    "article": "le",
+    "sentence": "Le temps partiel est possible.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "temps plein",
+    "article": "le",
+    "sentence": "Le temps plein est de trente-cinq heures.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "tenir",
+    "article": "",
+    "sentence": "Il tient un parapluie.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "tennis",
+    "article": "le",
+    "sentence": "Le tennis sur gazon est classique.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "terminal",
+    "article": "le",
+    "sentence": "Le terminal est immense.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "terrasse",
+    "article": "la",
+    "sentence": "La terrasse a une belle vue.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "thon",
+    "article": "le",
+    "sentence": "Le thon en boîte est pratique.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "thé",
+    "article": "le",
+    "sentence": "Le thé à la menthe est bon.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "tigre",
+    "article": "le",
+    "sentence": "Le tigre chasse dans la jungle.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "tir",
+    "article": "le",
+    "sentence": "Le tir est cadré.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "tirer",
+    "article": "",
+    "sentence": "Tire la corde doucement.",
+    "translation": "",
+    "tags": [
+      "exercise",
+      "actions"
+    ]
+  },
+  {
+    "word": "tiroir",
+    "article": "le",
+    "sentence": "Le tiroir est bloqué.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "tirs au but",
+    "article": "les",
+    "sentence": "Les tirs au but décident du vainqueur.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "toit",
+    "article": "le",
+    "sentence": "Le toit de l'immeuble est plat.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "tomate",
+    "article": "la",
+    "sentence": "La tomate est rouge et juteuse.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "tortue",
+    "article": "la",
+    "sentence": "La tortue marche lentement.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "total",
+    "article": "le",
+    "sentence": "Le total est cent euros.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "toujours",
+    "article": "",
+    "sentence": "Il est toujours en retard.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "touriste",
+    "article": "le",
+    "sentence": "Le touriste prend des photos.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "tourner",
+    "article": "",
+    "sentence": "Tourne à droite au prochain feu.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "tournoi",
+    "article": "le",
+    "sentence": "Le tournoi de tennis est annuel.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "tout",
+    "article": "",
+    "sentence": "Tout va bien.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "tout droit",
+    "article": "",
+    "sentence": "Continue tout droit pendant deux kilomètres.",
+    "translation": "",
+    "tags": [
+      "directions"
+    ]
+  },
+  {
+    "word": "tractions",
+    "article": "les",
+    "sentence": "Les tractions sont difficiles.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "train",
+    "article": "le",
+    "sentence": "Le train part à neuf heures.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "trancher",
+    "article": "",
+    "sentence": "Tranche le pain.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "transférer",
+    "article": "",
+    "sentence": "Je transfère l'appel.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "travail",
+    "article": "le",
+    "sentence": "Le travail est intéressant.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "traverser",
+    "article": "",
+    "sentence": "Traverse la rue au passage piéton.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "triceps",
+    "article": "le",
+    "sentence": "Le triceps est travaillé.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "trier",
+    "article": "",
+    "sentence": "Trie les emails par date.",
+    "translation": "",
+    "tags": [
+      "email",
+      "actions"
+    ]
+  },
+  {
+    "word": "triste",
+    "article": "",
+    "sentence": "Elle est triste.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "trop",
+    "article": "",
+    "sentence": "C'est trop cher.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "trouver",
+    "article": "",
+    "sentence": "Je trouve le chemin.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "actions"
+    ]
+  },
+  {
+    "word": "très",
+    "article": "",
+    "sentence": "C'est très intéressant.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "tunnel",
+    "article": "le",
+    "sentence": "Le tunnel est long.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "tâche",
+    "article": "la",
+    "sentence": "La tâche est urgente.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "téléphone",
+    "article": "le",
+    "sentence": "Le téléphone sonne.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "téléphone fixe",
+    "article": "le",
+    "sentence": "Le téléphone fixe sonne dans le bureau.",
+    "translation": "",
+    "tags": [
+      "work",
+      "phone"
+    ]
+  },
+  {
+    "word": "téléphoner",
+    "article": "",
+    "sentence": "Je telephone à ma mère.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "actions"
+    ]
+  },
+  {
+    "word": "télétravail",
+    "article": "le",
+    "sentence": "Le télétravail est autorisé deux jours par semaine.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "télévision",
+    "article": "la",
+    "sentence": "La télévision a des chaînes internationales.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "un peu",
+    "article": "",
+    "sentence": "Je parle un peu français.",
+    "translation": "",
+    "tags": [
+      "phone"
+    ]
+  },
+  {
+    "word": "urgent",
+    "article": "",
+    "sentence": "Le message est urgent.",
+    "translation": "",
+    "tags": [
+      "phone",
+      "work"
+    ]
+  },
+  {
+    "word": "utiliser",
+    "article": "",
+    "sentence": "Nous utilisons le dictionnaire.",
+    "translation": "",
+    "tags": [
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "vacances",
+    "article": "les",
+    "sentence": "Les vacances d'été commencent.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "vache",
+    "article": "la",
+    "sentence": "La vache mange de l'herbe.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "valise",
+    "article": "la",
+    "sentence": "La valise est dans le coffre.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "vendeur",
+    "article": "le",
+    "sentence": "Le vendeur est aimable.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "vendre",
+    "article": "",
+    "sentence": "Il vend sa voiture.",
+    "translation": "",
+    "tags": [
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "vendredi",
+    "article": "",
+    "sentence": "Vendredi soir je sors.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "venir",
+    "article": "",
+    "sentence": "Tu viens à la fête ?",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "vent",
+    "article": "le",
+    "sentence": "Le vent souffle fort.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "verre",
+    "article": "le",
+    "sentence": "Le verre est en cristal.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "verser",
+    "article": "",
+    "sentence": "Verse le lait dans le bol.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "veste",
+    "article": "la",
+    "sentence": "La veste en cuir est chaude.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "viande",
+    "article": "la",
+    "sentence": "La viande est bien cuite.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "vide",
+    "article": "",
+    "sentence": "La salle est vide.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "vieux",
+    "article": "",
+    "sentence": "Le bâtiment est vieux.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "village",
+    "article": "le",
+    "sentence": "Le village est paisible.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "ville",
+    "article": "la",
+    "sentence": "La ville est animée.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "vin",
+    "article": "le",
+    "sentence": "Le vin rouge est tannique.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "vinaigre",
+    "article": "le",
+    "sentence": "Le vinaigre balsamique est doux.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "visiter",
+    "article": "",
+    "sentence": "Nous visitons le musée.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "vite",
+    "article": "",
+    "sentence": "Il court vite.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "vivre",
+    "article": "",
+    "sentence": "Elle vit à Paris.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "voici",
+    "article": "",
+    "sentence": "Voici mon ami.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "voie",
+    "article": "la",
+    "sentence": "La voie de gauche est libre.",
+    "translation": "",
+    "tags": [
+      "directions",
+      "travel"
+    ]
+  },
+  {
+    "word": "voilà",
+    "article": "",
+    "sentence": "Voilà la solution.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "voir",
+    "article": "",
+    "sentence": "Tu vois le monument ?",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "voiture",
+    "article": "la",
+    "sentence": "La voiture est garée dehors.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "vol",
+    "article": "le",
+    "sentence": "Le vol dure trois heures.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "voler",
+    "article": "",
+    "sentence": "L'oiseau vole dans le ciel.",
+    "translation": "",
+    "tags": [
+      "animals",
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "volleyball",
+    "article": "le",
+    "sentence": "Le volleyball se joue sur un terrain.",
+    "translation": "",
+    "tags": [
+      "sports"
+    ]
+  },
+  {
+    "word": "vouloir",
+    "article": "",
+    "sentence": "Je veux un café.",
+    "translation": "",
+    "tags": [
+      "food",
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "voyage",
+    "article": "le",
+    "sentence": "Le voyage en France est magnifique.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "voyager",
+    "article": "",
+    "sentence": "Nous voyageons en Europe.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "actions"
+    ]
+  },
+  {
+    "word": "voyageur",
+    "article": "le",
+    "sentence": "Le voyageur a un sac à dos.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "vue",
+    "article": "la",
+    "sentence": "La vue sur la mer est magnifique.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "vélo",
+    "article": "le",
+    "sentence": "Le vélo est un bon moyen de transport.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "exercise"
+    ]
+  },
+  {
+    "word": "vêtement",
+    "article": "le",
+    "sentence": "Le vêtement est en coton.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "wifi",
+    "article": "le",
+    "sentence": "Le wifi est gratuit.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "yaourt",
+    "article": "le",
+    "sentence": "Le yaourt nature est bon pour la santé.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "yoga",
+    "article": "le",
+    "sentence": "Le yoga améliore la souplesse.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "zumba",
+    "article": "la",
+    "sentence": "La zumba est une danse fitness.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "âne",
+    "article": "l'",
+    "sentence": "L'âne porte une lourde charge.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "échange",
+    "article": "l'",
+    "sentence": "L'échange est possible sous trente jours.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "écharpe",
+    "article": "l'",
+    "sentence": "L'écharpe en laine est douce.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "échauffement",
+    "article": "l'",
+    "sentence": "L'échauffement avant le match est essentiel.",
+    "translation": "",
+    "tags": [
+      "sports",
+      "exercise"
+    ]
+  },
+  {
+    "word": "échéance",
+    "article": "l'",
+    "sentence": "L'échéance est dans une semaine.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "économiser",
+    "article": "",
+    "sentence": "Elle économise pour ses vacances.",
+    "translation": "",
+    "tags": [
+      "travel",
+      "shopping",
+      "actions"
+    ]
+  },
+  {
+    "word": "écouter",
+    "article": "",
+    "sentence": "Elle écoute de la musique.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "écran",
+    "article": "l'",
+    "sentence": "L'écran est tactile.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "écrire",
+    "article": "",
+    "sentence": "Tu écris une lettre.",
+    "translation": "",
+    "tags": [
+      "email",
+      "work",
+      "actions"
+    ]
+  },
+  {
+    "word": "écureuil",
+    "article": "l'",
+    "sentence": "L'écureuil cache des noisettes.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "élastique",
+    "article": "l'",
+    "sentence": "L'élastique de résistance est tendu.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "éléphant",
+    "article": "l'",
+    "sentence": "L'éléphant est un grand mammifère.",
+    "translation": "",
+    "tags": [
+      "animals"
+    ]
+  },
+  {
+    "word": "épaule",
+    "article": "l'",
+    "sentence": "L'épaule est musclée.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "épice",
+    "article": "l'",
+    "sentence": "L'épice donne du goût.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  },
+  {
+    "word": "éplucher",
+    "article": "",
+    "sentence": "Épluche les pommes de terre.",
+    "translation": "",
+    "tags": [
+      "food",
+      "actions"
+    ]
+  },
+  {
+    "word": "équilibre",
+    "article": "l'",
+    "sentence": "L'équilibre est bon.",
+    "translation": "",
+    "tags": [
+      "exercise"
+    ]
+  },
+  {
+    "word": "équipe",
+    "article": "l'",
+    "sentence": "L'équipe est motivée.",
+    "translation": "",
+    "tags": [
+      "work",
+      "sports"
+    ]
+  },
+  {
+    "word": "étage",
+    "article": "l'",
+    "sentence": "L'étage est accessible par ascenseur.",
+    "translation": "",
+    "tags": [
+      "hotel"
+    ]
+  },
+  {
+    "word": "étiquette",
+    "article": "l'",
+    "sentence": "L'étiquette indique le prix.",
+    "translation": "",
+    "tags": [
+      "shopping"
+    ]
+  },
+  {
+    "word": "étirer",
+    "article": "",
+    "sentence": "Étire-toi avant l'effort.",
+    "translation": "",
+    "tags": [
+      "exercise",
+      "actions"
+    ]
+  },
+  {
+    "word": "étoile",
+    "article": "l'",
+    "sentence": "L'étoile brille dans le ciel.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "étranger",
+    "article": "l'",
+    "sentence": "L'étranger demande son chemin.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "été",
+    "article": "l'",
+    "sentence": "L'été est chaud.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "évaluation",
+    "article": "l'",
+    "sentence": "L'évaluation annuelle est prévue.",
+    "translation": "",
+    "tags": [
+      "work"
+    ]
+  },
+  {
+    "word": "éviter",
+    "article": "",
+    "sentence": "Évite les ennuis.",
+    "translation": "",
+    "tags": [
+      "actions"
+    ]
+  },
+  {
+    "word": "île",
+    "article": "l'",
+    "sentence": "L'île est entourée d'eau.",
+    "translation": "",
+    "tags": [
+      "travel"
+    ]
+  },
+  {
+    "word": "œuf",
+    "article": "l'",
+    "sentence": "L'œuf est frais.",
+    "translation": "",
+    "tags": [
+      "food"
+    ]
+  }
+]

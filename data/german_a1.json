@@ -1,0 +1,4748 @@
+[
+  {
+    "word": "ab",
+    "article": "",
+    "sentence": "Ab morgen muss ich arbeiten.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "aber",
+    "article": "",
+    "sentence": "Ich bin oft im Büro, aber nur für wenige Stunden.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "abfahren",
+    "article": "",
+    "sentence": "Wir fahren um zwölf Uhr ab.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Abfahrt",
+    "article": "die",
+    "sentence": "Vor der Abfahrt rufe ich an.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "abgeben",
+    "article": "",
+    "sentence": "Ich muss meine Schlüssel abgeben.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "abholen",
+    "article": "",
+    "sentence": "Wann kann ich den Schrank bei dir abholen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Absender",
+    "article": "der",
+    "sentence": "Da ist ein Brief für dich ohne Absender.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Achtung",
+    "article": "",
+    "sentence": "Achtung!",
+    "translation": "Das dürfen Sie nicht tun.",
+    "tags": []
+  },
+  {
+    "word": "Adresse",
+    "article": "die",
+    "sentence": "Können Sie mir seine Adresse sagen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "all-",
+    "article": "",
+    "sentence": "Alles Gute!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "allein",
+    "article": "",
+    "sentence": "Er kommt allein.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "also",
+    "article": "",
+    "sentence": "Also, es ist so: …",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "alt",
+    "article": "",
+    "sentence": "Wie alt sind Sie?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Alter",
+    "article": "das",
+    "sentence": "Alter: 26 Jahre.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "an",
+    "article": "",
+    "sentence": "Fahren Sie an der nächsten Straße nach rechts.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "anbieten",
+    "article": "",
+    "sentence": "Was darf ich dir anbieten?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Angebot",
+    "article": "das",
+    "sentence": "Heute sind Sportschuhe im Angebot.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "ander-",
+    "article": "",
+    "sentence": "Willst du diese Jacke?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "anfangen",
+    "article": "",
+    "sentence": "Hier fängt die Bahnhofstraße an.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Anfang",
+    "article": "der",
+    "sentence": "Sie wohnt am Anfang der Straße.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "anklicken",
+    "article": "",
+    "sentence": "Da musst du dieses Wort anklicken.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "ankommen",
+    "article": "",
+    "sentence": "Wann kommt dieser Zug in Hamburg an?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Ankunft",
+    "article": "die",
+    "sentence": "Auf diesem Plan steht nur die Ankunft(-szeit) der Züge.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "ankreuzen",
+    "article": "",
+    "sentence": "Auf dem Formular müssen Sie an mehreren Stellen etwas ankreuzen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "anmachen",
+    "article": "",
+    "sentence": "Mach bitte das Licht an!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "(sich) anmelden",
+    "article": "",
+    "sentence": "Wo kann ich mich anmelden?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Anmeldung",
+    "article": "die",
+    "sentence": "Eine Anmeldung für diesen Kurs ist nicht mehr möglich.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Anrede",
+    "article": "die",
+    "sentence": "Schreiben Sie auch eine Anrede und einen Gruß.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "anrufen",
+    "article": "",
+    "sentence": "Kann man Sie anrufen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Anruf",
+    "article": "der",
+    "sentence": "Sie bekommt viele Anrufe auf ihrem Handy.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Anrufbeantworter",
+    "article": "der",
+    "sentence": "Wir sind im Moment nicht da.",
+    "translation": "Sprechen Sie bitte auf den Anrufbeantworter.",
+    "tags": []
+  },
+  {
+    "word": "Ansage",
+    "article": "die",
+    "sentence": "Hören Sie die Ansagen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Anschluss",
+    "article": "der",
+    "sentence": "In Mannheim haben Sie Anschluss nach Saarbrücken.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "an sein",
+    "article": "",
+    "sentence": "Heute Nacht war das Licht an.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "antworten",
+    "article": "",
+    "sentence": "Er antwortet nicht.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Antwort",
+    "article": "die",
+    "sentence": "Er gibt leider keine Antwort.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Anzeige",
+    "article": "die",
+    "sentence": "Ich habe Ihre Anzeige in der Zeitung gelesen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "(sich) anziehen",
+    "article": "",
+    "sentence": "Ich muss mich noch anziehen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Apartment",
+    "article": "das",
+    "sentence": "Wir haben ein Apartment gemietet.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Apfel",
+    "article": "der",
+    "sentence": "Ein Pfund Äpfel bitte.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Appetit",
+    "article": "der",
+    "sentence": "Guten Appetit!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "arbeiten",
+    "article": "",
+    "sentence": "Wo arbeiten Sie?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Arbeit",
+    "article": "die",
+    "sentence": "Mein Bruder sucht Arbeit.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "arbeitslos",
+    "article": "",
+    "sentence": "Es gibt bei uns viele Leute, die schon lange arbeitslos sind.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Arbeitsplatz",
+    "article": "der",
+    "sentence": "An meinem Arbeitsplatz fehlt ein Drucker.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Arm",
+    "article": "der",
+    "sentence": "Mein Arm tut weh.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Arzt",
+    "article": "der",
+    "sentence": "Morgen habe ich einen Termin bei meiner Ärztin.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "auch",
+    "article": "",
+    "sentence": "Ich bin auch Spanier.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "auf",
+    "article": "",
+    "sentence": "Die Kinder spielen auf der Straße.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "auf sein",
+    "article": "",
+    "sentence": "Du brauchst den Schlüssel nicht.",
+    "translation": "Die Wohnung ist auf.",
+    "tags": []
+  },
+  {
+    "word": "aufstehen",
+    "article": "",
+    "sentence": "Ich muss immer um vier Uhr aufstehen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Aufzug",
+    "article": "der",
+    "sentence": "In diesem Haus gibt es keinen Aufzug.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Auge",
+    "article": "das",
+    "sentence": "Er hat blaue Augen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "aus",
+    "article": "",
+    "sentence": "Er kommt aus Brasilien.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Ausflug",
+    "article": "der",
+    "sentence": "Morgen machen wir einen Ausflug nach Heidelberg.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "ausfüllen",
+    "article": "",
+    "sentence": "Füllen Sie bitte dieses Formular aus.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Ausgang",
+    "article": "der",
+    "sentence": "Wo ist der Ausgang?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Auskunft",
+    "article": "die",
+    "sentence": "Können Sie mir eine Auskunft geben?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Ausland",
+    "article": "das",
+    "sentence": "Fahren Sie ins Ausland?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Ausländer",
+    "article": "der",
+    "sentence": "Sind Sie Ausländerin?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "ausländisch",
+    "article": "",
+    "sentence": "Leider habe ich nur ausländisches Geld.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "ausmachen",
+    "article": "",
+    "sentence": "Mach bitte das Licht aus!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Aussage",
+    "article": "die",
+    "sentence": "Ist die Aussage richtig oder falsch?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "aussehen",
+    "article": "",
+    "sentence": "Das sieht schön aus.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "aus sein",
+    "article": "",
+    "sentence": "Das Licht ist aus.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "aussteigen",
+    "article": "",
+    "sentence": "Wo muss ich aussteigen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Ausweis",
+    "article": "der",
+    "sentence": "Hier ist mein Ausweis.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "(sich) ausziehen",
+    "article": "",
+    "sentence": "Zieh die Schuhe aus, bitte!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Auto",
+    "article": "das",
+    "sentence": "Er kommt mit dem Auto.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Autobahn",
+    "article": "die",
+    "sentence": "Wo geht‘s hier bitte zur Autobahn?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Automat",
+    "article": "der",
+    "sentence": "Die Fahrkarten gibt es nur am Automaten.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "automatisch",
+    "article": "",
+    "sentence": "Du musst nichts machen.",
+    "translation": "Das geht automatisch.",
+    "tags": []
+  },
+  {
+    "word": "Baby",
+    "article": "das",
+    "sentence": "Mein Kind ist noch ein Baby.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bäckerei",
+    "article": "die",
+    "sentence": "Ich geh mal schnell zur Bäckerei.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bad",
+    "article": "das",
+    "sentence": "Wir haben kein großes Bad.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "baden",
+    "article": "",
+    "sentence": "Ich bade nicht so gern, ich dusche lieber.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bahn",
+    "article": "die",
+    "sentence": "Wir fahren lieber mit der Bahn.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bahnhof",
+    "article": "der",
+    "sentence": "Komme ich hier zum Bahnhof?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bahnsteig",
+    "article": "der",
+    "sentence": "Auf welchem Bahnsteig fährt der Zug?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bald",
+    "article": "",
+    "sentence": "Ich komme bald.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Balkon",
+    "article": "der",
+    "sentence": "Die Wohnung hat auch einen kleinen Balkon.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Banane",
+    "article": "die",
+    "sentence": "Drei Bananen, bitte!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bank",
+    "article": "die",
+    "sentence": "Die Bank schließt schon um vier Uhr.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bar",
+    "article": "",
+    "sentence": "Muss ich bar zahlen oder geht‘s auch mit Karte?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bauch",
+    "article": "der",
+    "sentence": "Seit gestern tut mir der Bauch weh.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Baum",
+    "article": "der",
+    "sentence": "Vorsicht, fahr nicht an den Baum!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Beamte",
+    "article": "der",
+    "sentence": "Fragen Sie die Beamtin am Schalter acht!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bedeuten",
+    "article": "",
+    "sentence": "Was bedeutet das Wort?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "beginnen",
+    "article": "",
+    "sentence": "Das Spiel beginnt um 15.30 Uhr.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bei",
+    "article": "",
+    "sentence": "Offenbach liegt bei Frankfurt.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "beide",
+    "article": "",
+    "sentence": "Beide Eltern arbeiten.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bein",
+    "article": "das",
+    "sentence": "Mein rechtes Bein tut weh.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Beispiel",
+    "article": "das",
+    "sentence": "Kannst du mir ein Beispiel sagen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "zum Beispiel/z. B.",
+    "article": "",
+    "sentence": "Viele meiner Verwandten, z.",
+    "translation": "B. meine beiden Brüder, arbeiten auch hier.",
+    "tags": []
+  },
+  {
+    "word": "bekannt",
+    "article": "",
+    "sentence": "Picasso ist sehr bekannt.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "der/die Bekannte",
+    "article": "",
+    "sentence": "Ein Bekannter von mir heißt Klaus.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bekommen",
+    "article": "",
+    "sentence": "Haben Sie meinen Brief bekommen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "benutzen",
+    "article": "",
+    "sentence": "Die Aufzüge bitte nicht benutzen!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Beruf",
+    "article": "der",
+    "sentence": "Was sind Sie von Beruf?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "besetzt",
+    "article": "",
+    "sentence": "Die Nummer ist immer besetzt.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "besichtigen",
+    "article": "",
+    "sentence": "Ich möchte gern den Dom besichtigen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "besser",
+    "article": "",
+    "sentence": "Es geht mir schon besser.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "best-",
+    "article": "",
+    "sentence": "Am besten treffen wir uns morgen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bestellen",
+    "article": "",
+    "sentence": "Wir möchten bestellen, bitte.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "besuchen",
+    "article": "",
+    "sentence": "Darf ich dich besuchen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bett",
+    "article": "das",
+    "sentence": "Wir brauchen noch ein Kinderbett.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bezahlen",
+    "article": "",
+    "sentence": "Wo muss ich bezahlen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bier",
+    "article": "das",
+    "sentence": "Noch ein Bier bitte.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bild",
+    "article": "das",
+    "sentence": "Hast du ein Bild von deinem Sohn?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "billig",
+    "article": "",
+    "sentence": "Die Jacke kostet nur 10 Euro!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Birne",
+    "article": "die",
+    "sentence": "Ein Kilo Birnen, bitte!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bis",
+    "article": "",
+    "sentence": "Ich fahre nur bis Stuttgart.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bisschen",
+    "article": "",
+    "sentence": "Ich spreche Englisch, Französisch und ein bisschen Deutsch.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bitte",
+    "article": "",
+    "sentence": "Eine Tasse Kaffee, bitte!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bitte",
+    "article": "die",
+    "sentence": "Ich habe noch eine Bitte.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bitten",
+    "article": "",
+    "sentence": "Darf ich Sie um etwas bitten?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bitter",
+    "article": "",
+    "sentence": "Der Kaffee schmeckt bitter.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bleiben",
+    "article": "",
+    "sentence": "Ich bleibe heute zu Hause.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bleistift",
+    "article": "der",
+    "sentence": "Hast du einen Bleistift?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Blick",
+    "article": "der",
+    "sentence": "Von diesem Hotel hat man einen guten Blick auf den Rhein.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Blume",
+    "article": "die",
+    "sentence": "Gefallen dir die Blumen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bogen",
+    "article": "der",
+    "sentence": "Schreiben Sie Ihre Lösungen bitte auf den Antwortbogen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "böse",
+    "article": "",
+    "sentence": "Sie ist böse auf mich.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "brauchen",
+    "article": "",
+    "sentence": "Brauchst du die Zeitung noch?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "breit",
+    "article": "",
+    "sentence": "Wie breit ist der Schrank?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Brief",
+    "article": "der",
+    "sentence": "Haben Sie einen Brief für mich?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Briefmarke",
+    "article": "die",
+    "sentence": "Kaufst du bitte Briefmarken bei der Post.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "bringen",
+    "article": "",
+    "sentence": "Bringen Sie mir bitte noch einen Kaffee!",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Brot",
+    "article": "das",
+    "sentence": "Haben Sie auch Weißbrot?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Brötchen",
+    "article": "das",
+    "sentence": "Möchtest du Brötchen zum Frühstück?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bruder",
+    "article": "der",
+    "sentence": "Sein Bruder arbeitet auch hier.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Buch",
+    "article": "das",
+    "sentence": "Gute Bücher sind oft sehr teuer.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Buchstabe",
+    "article": "der",
+    "sentence": "Diesen Buchstaben gibt es in meiner Sprache nicht.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "buchstabieren",
+    "article": "",
+    "sentence": "Bitte buchstabieren Sie Ihren Namen.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Bus",
+    "article": "der",
+    "sentence": "Wann kommt der nächste Bus?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Butter",
+    "article": "die",
+    "sentence": "Für mich bitte ein Brötchen mit Butter und Käse.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Café",
+    "article": "das",
+    "sentence": "Sollen wir uns im Café treffen?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "CD",
+    "article": "die",
+    "sentence": "Bring bitte deine Lieblings-CD mit.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Chef",
+    "article": "der",
+    "sentence": "Wir haben eine neue Chefin.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "circa/ca.",
+    "article": "",
+    "sentence": "Von Mainz nach Frankfurt sind es circa fünfzig Kilometer.",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Computer",
+    "article": "der",
+    "sentence": "Wann bekommst du deinen neuen Computer?",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "da",
+    "article": "",
+    "sentence": "Da hinten ist er ja.",
+    "translation": "There he is over there.",
+    "tags": []
+  },
+  {
+    "word": "Dame",
+    "article": "die",
+    "sentence": "Damen (an der Toilette) Ladies (at the toilet)",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "daneben",
+    "article": "",
+    "sentence": "Du kennst doch die Post.",
+    "translation": "Daneben ist die Bank. You know the post office. Next to it is the bank.",
+    "tags": []
+  },
+  {
+    "word": "danken",
+    "article": "",
+    "sentence": "Ich danke Ihnen für die Einladung.",
+    "translation": "Thank you for the invitation.",
+    "tags": []
+  },
+  {
+    "word": "Dank",
+    "article": "der",
+    "sentence": "Vielen Dank!",
+    "translation": "Many thanks!",
+    "tags": []
+  },
+  {
+    "word": "danke",
+    "article": "",
+    "sentence": "Soll ich Ihnen helfen?",
+    "translation": "- Nein, danke! Should I help you? - No, thank you!",
+    "tags": []
+  },
+  {
+    "word": "dann",
+    "article": "",
+    "sentence": "Ich muss noch schnell zur Post, dann komme ich.",
+    "translation": "I need to quickly go to the post office, then I'll come.",
+    "tags": []
+  },
+  {
+    "word": "Datum",
+    "article": "das",
+    "sentence": "Bitte schreiben Sie noch das Datum auf das Formular.",
+    "translation": "Please also write the date on the form.",
+    "tags": []
+  },
+  {
+    "word": "dauern",
+    "article": "",
+    "sentence": "Wie lange dauert der Film?",
+    "translation": "How long does the movie last?",
+    "tags": []
+  },
+  {
+    "word": "dein-",
+    "article": "",
+    "sentence": "Ist das dein Auto?",
+    "translation": "Is that your car?",
+    "tags": []
+  },
+  {
+    "word": "denn",
+    "article": "",
+    "sentence": "Ich kann nicht kommen, denn ich bin krank.",
+    "translation": "I can’t come because I’m sick.",
+    "tags": []
+  },
+  {
+    "word": "der",
+    "article": "",
+    "sentence": "Ich nehme das da.",
+    "translation": "I’ll take that one there.",
+    "tags": []
+  },
+  {
+    "word": "dich",
+    "article": "",
+    "sentence": "Die Blumen sind für dich.",
+    "translation": "The flowers are for you.",
+    "tags": []
+  },
+  {
+    "word": "dies-",
+    "article": "",
+    "sentence": "Ich nehme lieber diesen Kuchen.",
+    "translation": "I’d prefer to take this cake.",
+    "tags": []
+  },
+  {
+    "word": "dir",
+    "article": "",
+    "sentence": "Gefallen dir die Blumen?",
+    "translation": "Do you like the flowers?",
+    "tags": []
+  },
+  {
+    "word": "Disco",
+    "article": "die",
+    "sentence": "Heute Abend gehen wir in die Disco tanzen.",
+    "translation": "Tonight, we’re going to dance at the disco.",
+    "tags": []
+  },
+  {
+    "word": "Doktor",
+    "article": "der",
+    "sentence": "Meine Tochter ist krank.",
+    "translation": "Wir gehen zum Doktor. My daughter is sick. We’re going to the doctor.",
+    "tags": []
+  },
+  {
+    "word": "Doppelzimmer",
+    "article": "das",
+    "sentence": "Wollen Sie ein Doppelzimmer oder ein Einzelzimmer?",
+    "translation": "Would you like a double room or a single room?",
+    "tags": []
+  },
+  {
+    "word": "Dorf",
+    "article": "das",
+    "sentence": "Meine Familie lebt in einem Dorf.",
+    "translation": "My family lives in a village.",
+    "tags": []
+  },
+  {
+    "word": "dort",
+    "article": "",
+    "sentence": "Deine Tasche kannst du dorthin stellen.",
+    "translation": "You can place your bag over there.",
+    "tags": []
+  },
+  {
+    "word": "draußen",
+    "article": "",
+    "sentence": "Wollen wir draußen sitzen?",
+    "translation": "Do we want to sit outside?",
+    "tags": []
+  },
+  {
+    "word": "drucken",
+    "article": "",
+    "sentence": "Bitte drucke das Formular für mich.",
+    "translation": "Please print the form for me.",
+    "tags": []
+  },
+  {
+    "word": "Drucker",
+    "article": "der",
+    "sentence": "Mein Drucker ist kaputt.",
+    "translation": "My printer is broken.",
+    "tags": []
+  },
+  {
+    "word": "drücken",
+    "article": "",
+    "sentence": "Drück hier, dann geht der Computer an.",
+    "translation": "Press here, then the computer will turn on.",
+    "tags": []
+  },
+  {
+    "word": "durch",
+    "article": "",
+    "sentence": "Am besten gehen Sie durch die Breite Straße.",
+    "translation": "It’s best to go through Breite Street.",
+    "tags": []
+  },
+  {
+    "word": "Durchsage",
+    "article": "die",
+    "sentence": "Ich habe die Durchsage nicht verstanden.",
+    "translation": "I didn’t understand the announcement.",
+    "tags": []
+  },
+  {
+    "word": "dürfen",
+    "article": "",
+    "sentence": "Sie dürfen hier nicht rauchen.",
+    "translation": "You’re not allowed to smoke here.",
+    "tags": []
+  },
+  {
+    "word": "Durst",
+    "article": "der",
+    "sentence": "Hast du etwas zu trinken? Ich habe großen Durst.",
+    "translation": "Do you have something to drink? I’m very thirsty.",
+    "tags": []
+  },
+  {
+    "word": "(sich) duschen",
+    "article": "",
+    "sentence": "Ich bade nicht so gern, ich dusche lieber.",
+    "translation": "I don’t like bathing much; I prefer showering.",
+    "tags": []
+  },
+  {
+    "word": "Dusche",
+    "article": "die",
+    "sentence": "Unsere Wohnung hat nur eine Dusche.",
+    "translation": "Our apartment only has a shower.",
+    "tags": []
+  },
+  {
+    "word": "Ecke",
+    "article": "die",
+    "sentence": "An der nächsten Ecke links.",
+    "translation": "Turn left at the next corner.",
+    "tags": []
+  },
+  {
+    "word": "Ehefrau",
+    "article": "die",
+    "sentence": "Das ist mein (Ehe-) Mann/meine (Ehe-) Frau.",
+    "translation": "This is my (married) man/my (married) woman.",
+    "tags": []
+  },
+  {
+    "word": "Ei",
+    "article": "das",
+    "sentence": "Möchtest du ein Ei zum Frühstück?",
+    "translation": "Would you like an egg for breakfast?",
+    "tags": []
+  },
+  {
+    "word": "eilig",
+    "article": "",
+    "sentence": "Hast du es eilig?",
+    "translation": "Are you in a hurry?",
+    "tags": []
+  },
+  {
+    "word": "ein-",
+    "article": "",
+    "sentence": "Ich nehme ein Bier.",
+    "translation": "Willst du auch eins? I'll have a beer. Do you want one too?",
+    "tags": []
+  },
+  {
+    "word": "einfach",
+    "article": "",
+    "sentence": "Die Prüfung ist ganz einfach.",
+    "translation": "The exam is very simple.",
+    "tags": []
+  },
+  {
+    "word": "Eingang",
+    "article": "der",
+    "sentence": "Der Eingang ist um die Ecke.",
+    "translation": "The entrance is around the corner.",
+    "tags": []
+  },
+  {
+    "word": "einkaufen",
+    "article": "",
+    "sentence": "Ich muss noch für morgen einkaufen.",
+    "translation": "I still need to shop for tomorrow.",
+    "tags": []
+  },
+  {
+    "word": "einladen",
+    "article": "",
+    "sentence": "Darf ich Sie zu einem Kaffee einladen?",
+    "translation": "May I invite you for a coffee?",
+    "tags": []
+  },
+  {
+    "word": "Einladung",
+    "article": "die",
+    "sentence": "Danke für die Einladung!",
+    "translation": "Thank you for the invitation!",
+    "tags": []
+  },
+  {
+    "word": "einmal",
+    "article": "",
+    "sentence": "Diese Prüfung mache ich nicht noch einmal.",
+    "translation": "I won't take this exam again.",
+    "tags": []
+  },
+  {
+    "word": "einsteigen",
+    "article": "",
+    "sentence": "Schnell, steig ein, der Zug fährt gleich.",
+    "translation": "Quick, get in, the train is leaving soon.",
+    "tags": []
+  },
+  {
+    "word": "Eintritt",
+    "article": "der",
+    "sentence": "Der Preis für den Eintritt ist 5 Euro.",
+    "translation": "The entrance fee is 5 euros.",
+    "tags": []
+  },
+  {
+    "word": "Einzelzimmer",
+    "article": "das",
+    "sentence": "Haben Sie noch ein Einzelzimmer?",
+    "translation": "Do you have a single room available?",
+    "tags": []
+  },
+  {
+    "word": "Eltern (pl.)",
+    "article": "die",
+    "sentence": "Meine Eltern leben in Spanien.",
+    "translation": "My parents live in Spain.",
+    "tags": []
+  },
+  {
+    "word": "E-Mail",
+    "article": "die",
+    "sentence": "Ich habe Ihre E-Mail nicht bekommen.",
+    "translation": "I didn’t receive your email.",
+    "tags": []
+  },
+  {
+    "word": "Empfänger",
+    "article": "der",
+    "sentence": "Auf dem Brief steht dein Name, also bist du der Empfänger.",
+    "translation": "Your name is on the letter, so you are the recipient.",
+    "tags": []
+  },
+  {
+    "word": "empfehlen",
+    "article": "",
+    "sentence": "Welchen Wein können Sie mir empfehlen?",
+    "translation": "Which wine can you recommend to me?",
+    "tags": []
+  },
+  {
+    "word": "enden",
+    "article": "",
+    "sentence": "Die Straße endet hier.",
+    "translation": "The street ends here.",
+    "tags": []
+  },
+  {
+    "word": "Ende",
+    "article": "das",
+    "sentence": "Sie wohnt am Ende der Straße.",
+    "translation": "She lives at the end of the street.",
+    "tags": []
+  },
+  {
+    "word": "entschuldigen",
+    "article": "",
+    "sentence": "Entschuldigen Sie bitte!",
+    "translation": "Please excuse me!",
+    "tags": []
+  },
+  {
+    "word": "Entschuldigung",
+    "article": "die",
+    "sentence": "Entschuldigung! – Bitte.",
+    "translation": "Apologies! – Please.",
+    "tags": []
+  },
+  {
+    "word": "er",
+    "article": "",
+    "sentence": "Er heißt Ali.",
+    "translation": "His name is Ali.",
+    "tags": []
+  },
+  {
+    "word": "Ergebnis",
+    "article": "das",
+    "sentence": "Das Ergebnis des Tests bekommen Sie in zwei Wochen.",
+    "translation": "You will receive the test results in two weeks.",
+    "tags": []
+  },
+  {
+    "word": "erklären",
+    "article": "",
+    "sentence": "Kannst du mir das erklären?",
+    "translation": "Can you explain that to me?",
+    "tags": []
+  },
+  {
+    "word": "erlauben",
+    "article": "",
+    "sentence": "Rauchen ist hier nicht erlaubt.",
+    "translation": "Smoking is not allowed here.",
+    "tags": []
+  },
+  {
+    "word": "Erwachsene",
+    "article": "der",
+    "sentence": "Dieser Film ist nur für Erwachsene.",
+    "translation": "This movie is for adults only.",
+    "tags": []
+  },
+  {
+    "word": "erzählen",
+    "article": "",
+    "sentence": "Wir müssen euch etwas erzählen!",
+    "translation": "We need to tell you something!",
+    "tags": []
+  },
+  {
+    "word": "es",
+    "article": "",
+    "sentence": "Es regnet.",
+    "translation": "It is raining.",
+    "tags": []
+  },
+  {
+    "word": "essen",
+    "article": "",
+    "sentence": "Was gibt es zu essen?",
+    "translation": "What is there to eat?",
+    "tags": []
+  },
+  {
+    "word": "Essen",
+    "article": "das",
+    "sentence": "Das Essen ist heute sehr gut.",
+    "translation": "The food is very good today.",
+    "tags": []
+  },
+  {
+    "word": "euer",
+    "article": "",
+    "sentence": "Euer Kurs beginnt heute.",
+    "translation": "Your course starts today.",
+    "tags": []
+  },
+  {
+    "word": "fahren",
+    "article": "",
+    "sentence": "Ich fahre mit dem Auto zur Arbeit.",
+    "translation": "I drive to work by car.",
+    "tags": []
+  },
+  {
+    "word": "Fahrer",
+    "article": "der",
+    "sentence": "Bitte nicht mit dem Fahrer sprechen!",
+    "translation": "Please do not speak with the driver!",
+    "tags": []
+  },
+  {
+    "word": "Fahrkarte",
+    "article": "die",
+    "sentence": "Hast du schon eine Fahrkarte?",
+    "translation": "Do you already have a ticket?",
+    "tags": []
+  },
+  {
+    "word": "Fahrrad",
+    "article": "das",
+    "sentence": "Fährst du mit dem Fahrrad oder mit dem Auto?",
+    "translation": "Do you ride a bicycle or drive a car?",
+    "tags": []
+  },
+  {
+    "word": "falsch",
+    "article": "",
+    "sentence": "Das ist falsch.",
+    "translation": "That is incorrect.",
+    "tags": []
+  },
+  {
+    "word": "Familie",
+    "article": "die",
+    "sentence": "Meine Familie lebt in Spanien.",
+    "translation": "My family lives in Spain.",
+    "tags": []
+  },
+  {
+    "word": "Familienname",
+    "article": "der",
+    "sentence": "Meine Familiennamen sind García González.",
+    "translation": "My family names are García González.",
+    "tags": []
+  },
+  {
+    "word": "Familienstand",
+    "article": "der",
+    "sentence": "Bei „Familienstand“ musst du „ledig“ ankreuzen.",
+    "translation": "For \"marital status,\" you need to check \"single.\"",
+    "tags": []
+  },
+  {
+    "word": "Farbe",
+    "article": "die",
+    "sentence": "Die Farbe gefällt mir gut.",
+    "translation": "I like the color.",
+    "tags": []
+  },
+  {
+    "word": "Fax",
+    "article": "das",
+    "sentence": "Schicken Sie uns einfach ein Fax!",
+    "translation": "Just send us a fax!",
+    "tags": []
+  },
+  {
+    "word": "Feier-",
+    "article": "",
+    "sentence": "z.",
+    "translation": "B. Feierabend, Feiertag For example, end of work, public holiday",
+    "tags": []
+  },
+  {
+    "word": "feiern",
+    "article": "",
+    "sentence": "Wir feiern heute meinen Geburtstag.",
+    "translation": "We are celebrating my birthday today.",
+    "tags": []
+  },
+  {
+    "word": "fehlen",
+    "article": "",
+    "sentence": "Herr Müller ist nicht da, er fehlt schon seit drei Tagen.",
+    "translation": "Mr. Müller is not here; he has been missing for three days.",
+    "tags": []
+  },
+  {
+    "word": "Fehler",
+    "article": "der",
+    "sentence": "Diesen Fehler mache ich immer.",
+    "translation": "I always make this mistake.",
+    "tags": []
+  },
+  {
+    "word": "fernsehen",
+    "article": "",
+    "sentence": "Wollen wir heute Abend mal fernsehen?",
+    "translation": "Shall we watch TV tonight?",
+    "tags": []
+  },
+  {
+    "word": "fertig",
+    "article": "",
+    "sentence": "Bist du fertig?",
+    "translation": "Are you ready?",
+    "tags": []
+  },
+  {
+    "word": "Feuer",
+    "article": "das",
+    "sentence": "Haben Sie Feuer?",
+    "translation": "Do you have a light?",
+    "tags": []
+  },
+  {
+    "word": "Fieber",
+    "article": "das",
+    "sentence": "Mein Mann hat noch immer Fieber.",
+    "translation": "My husband still has a fever.",
+    "tags": []
+  },
+  {
+    "word": "Film",
+    "article": "der",
+    "sentence": "Ich möchte gern diesen Film sehen.",
+    "translation": "I would like to see this film.",
+    "tags": []
+  },
+  {
+    "word": "finden",
+    "article": "",
+    "sentence": "Wir müssen den Schlüssel finden.",
+    "translation": "We need to find the key.",
+    "tags": []
+  },
+  {
+    "word": "Firma",
+    "article": "die",
+    "sentence": "Er arbeitet jetzt bei einer anderen Firma.",
+    "translation": "He now works at another company.",
+    "tags": []
+  },
+  {
+    "word": "Fisch",
+    "article": "der",
+    "sentence": "Ich esse gern Fisch.",
+    "translation": "Fleisch mag ich nicht. I like to eat fish. I don’t like meat.",
+    "tags": []
+  },
+  {
+    "word": "Flasche",
+    "article": "die",
+    "sentence": "Eine Flasche Bier, bitte.",
+    "translation": "A bottle of beer, please.",
+    "tags": []
+  },
+  {
+    "word": "Fleisch",
+    "article": "das",
+    "sentence": "Fleisch mag ich nicht.",
+    "translation": "I don’t like meat.",
+    "tags": []
+  },
+  {
+    "word": "fliegen",
+    "article": "",
+    "sentence": "Ich fliege nicht gern.",
+    "translation": "Deshalb fahre ich mit dem Zug. I don’t like flying. That’s why I take the train.",
+    "tags": []
+  },
+  {
+    "word": "abfliegen",
+    "article": "",
+    "sentence": "Wann fliegst du ab?",
+    "translation": "When do you depart?",
+    "tags": []
+  },
+  {
+    "word": "Abflug",
+    "article": "der",
+    "sentence": "Der Abflug ist um 11.20 Uhr.",
+    "translation": "The departure is at 11:20.",
+    "tags": []
+  },
+  {
+    "word": "Flughafen",
+    "article": "der",
+    "sentence": "Kannst du mich zum Flughafen bringen?",
+    "translation": "Can you take me to the airport?",
+    "tags": []
+  },
+  {
+    "word": "Flugzeug",
+    "article": "das",
+    "sentence": "Das Flugzeug aus Berlin kommt heute später an.",
+    "translation": "The plane from Berlin will arrive later today.",
+    "tags": []
+  },
+  {
+    "word": "Formular",
+    "article": "das",
+    "sentence": "Sie müssen dieses Formular ausfüllen.",
+    "translation": "You need to fill out this form.",
+    "tags": []
+  },
+  {
+    "word": "Foto",
+    "article": "das",
+    "sentence": "Darf ich ein Foto machen?",
+    "translation": "May I take a photo?",
+    "tags": []
+  },
+  {
+    "word": "fragen",
+    "article": "",
+    "sentence": "Er möchte Sie etwas fragen.",
+    "translation": "Wann kommen Sie? He would like to ask you something. When are you coming?",
+    "tags": []
+  },
+  {
+    "word": "Frage",
+    "article": "die",
+    "sentence": "Ich habe eine Frage.",
+    "translation": "I have a question.",
+    "tags": []
+  },
+  {
+    "word": "Frau",
+    "article": "die",
+    "sentence": "Das ist Frau Becker.",
+    "translation": "This is Mrs. Becker.",
+    "tags": []
+  },
+  {
+    "word": "frei",
+    "article": "",
+    "sentence": "Ist der Platz noch frei?",
+    "translation": "Is the seat still free?",
+    "tags": []
+  },
+  {
+    "word": "Freizeit",
+    "article": "die",
+    "sentence": "In meiner Freizeit spiele ich oft Fußball.",
+    "translation": "In my free time, I often play soccer.",
+    "tags": []
+  },
+  {
+    "word": "fremd",
+    "article": "",
+    "sentence": "Das weiß ich nicht; ich bin fremd hier.",
+    "translation": "I don’t know; I’m a stranger here.",
+    "tags": []
+  },
+  {
+    "word": "(sich) freuen",
+    "article": "",
+    "sentence": "Ich freue mich auf den Urlaub.",
+    "translation": "I am looking forward to the vacation.",
+    "tags": []
+  },
+  {
+    "word": "Freund",
+    "article": "der",
+    "sentence": "Das ist ein Freund von mir.",
+    "translation": "This is a friend of mine.",
+    "tags": []
+  },
+  {
+    "word": "früher",
+    "article": "",
+    "sentence": "Früher waren wir oft zusammen im Kino.",
+    "translation": "We used to go to the movies together often.",
+    "tags": []
+  },
+  {
+    "word": "frühstücken",
+    "article": "",
+    "sentence": "Am Sonntag frühstücke ich gern im Bett.",
+    "translation": "On Sundays, I like to have breakfast in bed.",
+    "tags": []
+  },
+  {
+    "word": "Frühstück",
+    "article": "das",
+    "sentence": "Möchtest du ein Ei zum Frühstück?",
+    "translation": "Would you like an egg for breakfast?",
+    "tags": []
+  },
+  {
+    "word": "Führung",
+    "article": "die",
+    "sentence": "Die Führung durch das Haus beginnt in 3 Minuten.",
+    "translation": "The tour of the house begins in 3 minutes.",
+    "tags": []
+  },
+  {
+    "word": "für",
+    "article": "",
+    "sentence": "Das ist für Sie.",
+    "translation": "This is for you.",
+    "tags": []
+  },
+  {
+    "word": "Fuß",
+    "article": "der",
+    "sentence": "Der linke Fuß tut mir weh.",
+    "translation": "My left foot hurts.",
+    "tags": []
+  },
+  {
+    "word": "Fußball",
+    "article": "der",
+    "sentence": "Spielt ihr gerne Fußball?",
+    "translation": "Do you like to play soccer?",
+    "tags": []
+  },
+  {
+    "word": "Garten",
+    "article": "der",
+    "sentence": "Wir haben leider keinen Garten.",
+    "translation": "Unfortunately, we don't have a garden.",
+    "tags": []
+  },
+  {
+    "word": "Gast",
+    "article": "der",
+    "sentence": "Am Wochenende haben wir mehrere Gäste.",
+    "translation": "We have several guests over the weekend.",
+    "tags": []
+  },
+  {
+    "word": "geben",
+    "article": "",
+    "sentence": "Kannst du mir bitte deinen Kugelschreiber geben?",
+    "translation": "Can you please give me your pen?",
+    "tags": []
+  },
+  {
+    "word": "geboren",
+    "article": "",
+    "sentence": "Ich bin in Zagreb geboren.",
+    "translation": "I was born in Zagreb.",
+    "tags": []
+  },
+  {
+    "word": "Geburtsjahr",
+    "article": "das",
+    "sentence": "Das Geburtsjahr Ihres Sohnes, bitte?",
+    "translation": "Your son's year of birth, please?",
+    "tags": []
+  },
+  {
+    "word": "Geburtsort",
+    "article": "der",
+    "sentence": "Bitte schreiben Sie Ihren Geburtsort auf das Formular.",
+    "translation": "Please write your place of birth on the form.",
+    "tags": []
+  },
+  {
+    "word": "Geburtstag",
+    "article": "der",
+    "sentence": "Herzlichen Glückwunsch zum Geburtstag!",
+    "translation": "Happy birthday!",
+    "tags": []
+  },
+  {
+    "word": "gefallen",
+    "article": "",
+    "sentence": "Das gefällt mir.",
+    "translation": "I like that.",
+    "tags": []
+  },
+  {
+    "word": "gegen",
+    "article": "",
+    "sentence": "Fahr nicht gegen den Baum!",
+    "translation": "Don’t drive into the tree!",
+    "tags": []
+  },
+  {
+    "word": "gehen",
+    "article": "",
+    "sentence": "Ich weiß nicht, wie das geht.",
+    "translation": "I don’t know how it works.",
+    "tags": []
+  },
+  {
+    "word": "gehören",
+    "article": "",
+    "sentence": "Wem gehört das?",
+    "translation": "Whose is this?",
+    "tags": []
+  },
+  {
+    "word": "Geld",
+    "article": "das",
+    "sentence": "Hast du noch Geld?",
+    "translation": "Do you still have money?",
+    "tags": []
+  },
+  {
+    "word": "Gemüse",
+    "article": "das",
+    "sentence": "Gemüse brauchen wir auch noch.",
+    "translation": "We also need vegetables.",
+    "tags": []
+  },
+  {
+    "word": "Gepäck",
+    "article": "das",
+    "sentence": "Wollen Sie Ihr Gepäck mitnehmen?",
+    "translation": "Do you want to take your luggage with you?",
+    "tags": []
+  },
+  {
+    "word": "gerade",
+    "article": "",
+    "sentence": "Da kommt er ja gerade.",
+    "translation": "There he comes just now.",
+    "tags": []
+  },
+  {
+    "word": "gern(e)",
+    "article": "",
+    "sentence": "Ich gehe gerne einkaufen.",
+    "translation": "I like to go shopping.",
+    "tags": []
+  },
+  {
+    "word": "Geschäft",
+    "article": "das",
+    "sentence": "Die Geschäfte schließen um 18.30 Uhr.",
+    "translation": "The stores close at 6:30 PM.",
+    "tags": []
+  },
+  {
+    "word": "Geschenk",
+    "article": "das",
+    "sentence": "Danke für das schöne Geschenk.",
+    "translation": "Thank you for the lovely gift.",
+    "tags": []
+  },
+  {
+    "word": "Geschwister (pl.)",
+    "article": "die",
+    "sentence": "Ich habe leider keine Geschwister.",
+    "translation": "Unfortunately, I have no siblings.",
+    "tags": []
+  },
+  {
+    "word": "Gespräch",
+    "article": "das",
+    "sentence": "Das Gespräch mit Frau Kunz ist um 14 Uhr.",
+    "translation": "The conversation with Ms. Kunz is at 2 PM.",
+    "tags": []
+  },
+  {
+    "word": "gestern",
+    "article": "",
+    "sentence": "Gestern war ich krank.",
+    "translation": "I was sick yesterday.",
+    "tags": []
+  },
+  {
+    "word": "gestorben",
+    "article": "",
+    "sentence": "Meine Frau ist gestern gestorben.",
+    "translation": "My wife passed away yesterday.",
+    "tags": []
+  },
+  {
+    "word": "Getränk",
+    "article": "das",
+    "sentence": "Mein Lieblingsgetränk ist Tomatensaft.",
+    "translation": "My favorite drink is tomato juice.",
+    "tags": []
+  },
+  {
+    "word": "Gewicht",
+    "article": "das",
+    "sentence": "Bei „Gewicht“ schreibst du: 62 Kilo.",
+    "translation": "For \"weight,\" write: 62 kilos.",
+    "tags": []
+  },
+  {
+    "word": "gewinnen",
+    "article": "",
+    "sentence": "Wer gewinnt das Spiel?",
+    "translation": "Who wins the game?",
+    "tags": []
+  },
+  {
+    "word": "Glas",
+    "article": "das",
+    "sentence": "Bitte noch ein Glas Wein!",
+    "translation": "Please another glass of wine!",
+    "tags": []
+  },
+  {
+    "word": "glauben",
+    "article": "",
+    "sentence": "Sie können mir glauben, es ist so.",
+    "translation": "You can believe me, it is so.",
+    "tags": []
+  },
+  {
+    "word": "gleich",
+    "article": "",
+    "sentence": "Das ist mir gleich.",
+    "translation": "It doesn’t matter to me.",
+    "tags": []
+  },
+  {
+    "word": "Gleis",
+    "article": "das",
+    "sentence": "Der ICE nach Berlin hält heute an Gleis 12.",
+    "translation": "The ICE to Berlin stops at platform 12 today.",
+    "tags": []
+  },
+  {
+    "word": "Glück",
+    "article": "das",
+    "sentence": "Viel Glück!",
+    "translation": "Good luck!",
+    "tags": []
+  },
+  {
+    "word": "glücklich",
+    "article": "",
+    "sentence": "Meine Kinder sind glücklich verheiratet.",
+    "translation": "My children are happily married.",
+    "tags": []
+  },
+  {
+    "word": "Glückwunsch",
+    "article": "der",
+    "sentence": "Herzlichen Glückwunsch zum Geburtstag.",
+    "translation": "Happy birthday!",
+    "tags": []
+  },
+  {
+    "word": "Grad (Celsius)",
+    "article": "",
+    "sentence": "Heute haben wir dreißig Grad.",
+    "translation": "Today we have thirty degrees.",
+    "tags": []
+  },
+  {
+    "word": "gratulieren",
+    "article": "",
+    "sentence": "Ich gratuliere dir!",
+    "translation": "I congratulate you!",
+    "tags": []
+  },
+  {
+    "word": "grillen",
+    "article": "",
+    "sentence": "Heute grillen wir im Garten.",
+    "translation": "Today we are grilling in the garden.",
+    "tags": []
+  },
+  {
+    "word": "groß",
+    "article": "",
+    "sentence": "Mein Bruder und ich sind gleich groß.",
+    "translation": "My brother and I are the same height.",
+    "tags": []
+  },
+  {
+    "word": "Größe",
+    "article": "die",
+    "sentence": "Haben Sie das auch in Größe 40?",
+    "translation": "Do you have this in size 40?",
+    "tags": []
+  },
+  {
+    "word": "Großeltern (pl.)",
+    "article": "die",
+    "sentence": "Meine Großeltern leben in Japan.",
+    "translation": "My grandparents live in Japan.",
+    "tags": []
+  },
+  {
+    "word": "Großmutter",
+    "article": "die",
+    "sentence": "Meine Großmutter heißt Eva.",
+    "translation": "My grandmother's name is Eva.",
+    "tags": []
+  },
+  {
+    "word": "Großvater",
+    "article": "der",
+    "sentence": "Mein Großvater ist schon 80.",
+    "translation": "My grandfather is already 80.",
+    "tags": []
+  },
+  {
+    "word": "Gruppe",
+    "article": "die",
+    "sentence": "Die erste Gruppe beginnt um 16 Uhr.",
+    "translation": "The first group starts at 4 PM.",
+    "tags": []
+  },
+  {
+    "word": "Gruß",
+    "article": "der",
+    "sentence": "Viele Grüße an Ihre Frau.",
+    "translation": "Best regards to your wife.",
+    "tags": []
+  },
+  {
+    "word": "gültig",
+    "article": "",
+    "sentence": "Der Pass ist nicht mehr gültig.",
+    "translation": "The passport is no longer valid.",
+    "tags": []
+  },
+  {
+    "word": "günstig",
+    "article": "",
+    "sentence": "Dort gibt es günstige Angebote.",
+    "translation": "There are good deals there.",
+    "tags": []
+  },
+  {
+    "word": "gut",
+    "article": "",
+    "sentence": "Das finde ich gut.",
+    "translation": "I think that’s good.",
+    "tags": []
+  },
+  {
+    "word": "Haar",
+    "article": "das",
+    "sentence": "Sie hat lange Haare.",
+    "translation": "She has long hair.",
+    "tags": []
+  },
+  {
+    "word": "haben",
+    "article": "",
+    "sentence": "Ich habe ein neues Auto.",
+    "translation": "I have a new car.",
+    "tags": []
+  },
+  {
+    "word": "Hähnchen",
+    "article": "das",
+    "sentence": "Ein Hähnchen mit Pommes bitte!",
+    "translation": "A chicken with fries, please!",
+    "tags": []
+  },
+  {
+    "word": "Halbpension",
+    "article": "die",
+    "sentence": "Möchten Sie Vollpension oder Halbpension?",
+    "translation": "Would you like full board or half board?",
+    "tags": []
+  },
+  {
+    "word": "Halle",
+    "article": "die",
+    "sentence": "Wir treffen uns in Halle B.",
+    "translation": "We are meeting in Hall B.",
+    "tags": []
+  },
+  {
+    "word": "hallo",
+    "article": "",
+    "sentence": "Hallo Inge! Wie geht’s?",
+    "translation": "Hello Inge! How are you?",
+    "tags": []
+  },
+  {
+    "word": "halten",
+    "article": "",
+    "sentence": "Dieser Zug hält nicht in Rüdesheim.",
+    "translation": "This train does not stop in Rüdesheim.",
+    "tags": []
+  },
+  {
+    "word": "Haltestelle",
+    "article": "die",
+    "sentence": "An der nächsten Haltestelle müssen Sie aussteigen.",
+    "translation": "At the next stop, you need to get off.",
+    "tags": []
+  },
+  {
+    "word": "Hand",
+    "article": "die",
+    "sentence": "Er gibt mir die Hand.",
+    "translation": "He shakes my hand.",
+    "tags": []
+  },
+  {
+    "word": "Handy",
+    "article": "das",
+    "sentence": "In der Schule bitte die Handys ausmachen!",
+    "translation": "Please turn off the mobile phones at school!",
+    "tags": []
+  },
+  {
+    "word": "Haus",
+    "article": "das",
+    "sentence": "In welchem Haus wohnst du?",
+    "translation": "In which house do you live?",
+    "tags": []
+  },
+  {
+    "word": "Hausaufgabe",
+    "article": "die",
+    "sentence": "Kannst du mir bei den Hausaufgaben helfen?",
+    "translation": "Can you help me with the homework?",
+    "tags": []
+  },
+  {
+    "word": "Hausfrau",
+    "article": "die",
+    "sentence": "Die Hausfrau/der Hausmann wäscht, kocht und kauft ein.",
+    "translation": "The housewife/househusband washes, cooks, and shops.",
+    "tags": []
+  },
+  {
+    "word": "Heimat",
+    "article": "die",
+    "sentence": "Ich komme aus der Schweiz.",
+    "translation": "Das ist meine Heimat. I come from Switzerland. That is my homeland.",
+    "tags": []
+  },
+  {
+    "word": "heiraten",
+    "article": "",
+    "sentence": "Meine Schwester heiratet einen Japaner.",
+    "translation": "My sister is marrying a Japanese person.",
+    "tags": []
+  },
+  {
+    "word": "heißen",
+    "article": "",
+    "sentence": "Ich heiße Charlotte Meier.",
+    "translation": "My name is Charlotte Meier.",
+    "tags": []
+  },
+  {
+    "word": "helfen",
+    "article": "",
+    "sentence": "Können Sie mir helfen, bitte?",
+    "translation": "Can you help me, please?",
+    "tags": []
+  },
+  {
+    "word": "hell",
+    "article": "",
+    "sentence": "Im Sommer ist es bis 21 Uhr hell.",
+    "translation": "It is light until 9 PM in summer.",
+    "tags": []
+  },
+  {
+    "word": "Herd",
+    "article": "der",
+    "sentence": "In der neuen Küche fehlt noch der Herd.",
+    "translation": "The stove is still missing in the new kitchen.",
+    "tags": []
+  },
+  {
+    "word": "Herr",
+    "article": "der",
+    "sentence": "Guten Tag, Herr Sommer! Good day, Mr.",
+    "translation": "Sommer!",
+    "tags": []
+  },
+  {
+    "word": "herzlich",
+    "article": "",
+    "sentence": "Herzlichen Glückwunsch!",
+    "translation": "Best wishes!",
+    "tags": []
+  },
+  {
+    "word": "heute",
+    "article": "",
+    "sentence": "Heute ist ein schöner Tag.",
+    "translation": "Today is a beautiful day.",
+    "tags": []
+  },
+  {
+    "word": "hier",
+    "article": "",
+    "sentence": "Hier ist 06131-553221, Pamela Linke.",
+    "translation": "Here is 06131-553221, Pamela Linke.",
+    "tags": []
+  },
+  {
+    "word": "Hilfe",
+    "article": "die",
+    "sentence": "Hilfe!",
+    "translation": "Bitte helfen Sie mir! Help! Please help me!",
+    "tags": []
+  },
+  {
+    "word": "hinten",
+    "article": "",
+    "sentence": "Die Tür zum Aussteigen ist hinten.",
+    "translation": "The door to get out is at the back.",
+    "tags": []
+  },
+  {
+    "word": "Hobby",
+    "article": "das",
+    "sentence": "Meine Hobbys sind Wandern und Schwimmen.",
+    "translation": "My hobbies are hiking and swimming.",
+    "tags": []
+  },
+  {
+    "word": "hoch",
+    "article": "",
+    "sentence": "Der Mount Everest ist 8.880 Meter hoch.",
+    "translation": "Mount Everest is 8,880 meters high.",
+    "tags": []
+  },
+  {
+    "word": "Hochzeit",
+    "article": "die",
+    "sentence": "Zur dieser Hochzeit kommen mehr als fünfzig Gäste.",
+    "translation": "More than fifty guests are coming to this wedding.",
+    "tags": []
+  },
+  {
+    "word": "holen",
+    "article": "",
+    "sentence": "Ich hole zwei Flaschen Wasser aus der Küche.",
+    "translation": "I will get two bottles of water from the kitchen.",
+    "tags": []
+  },
+  {
+    "word": "hören",
+    "article": "",
+    "sentence": "Hör mal! Was ist das?",
+    "translation": "Listen! What is that?",
+    "tags": []
+  },
+  {
+    "word": "Hotel",
+    "article": "das",
+    "sentence": "Im Urlaub sind wir in einem Hotel am Meer.",
+    "translation": "On vacation, we are staying in a hotel by the sea.",
+    "tags": []
+  },
+  {
+    "word": "Hund",
+    "article": "der",
+    "sentence": "Der Hund ist noch jung.",
+    "translation": "The dog is still young.",
+    "tags": []
+  },
+  {
+    "word": "Hunger",
+    "article": "der",
+    "sentence": "Ich habe Hunger! Wann ist das Essen fertig?",
+    "translation": "I’m hungry! When is the food ready?",
+    "tags": []
+  },
+  {
+    "word": "ich",
+    "article": "",
+    "sentence": "Ich heiße Veronika.",
+    "translation": "My name is Veronika.",
+    "tags": []
+  },
+  {
+    "word": "ihr/ihm/ihn",
+    "article": "",
+    "sentence": "Gib ihr/ihm bitte das Buch.",
+    "translation": "Please give her/him the book.",
+    "tags": []
+  },
+  {
+    "word": "immer",
+    "article": "",
+    "sentence": "Frau Bast kommt immer zu spät.",
+    "translation": "Ms. Bast always arrives late.",
+    "tags": []
+  },
+  {
+    "word": "in",
+    "article": "",
+    "sentence": "Ich wohne in Wiesbaden.",
+    "translation": "I live in Wiesbaden.",
+    "tags": []
+  },
+  {
+    "word": "Information",
+    "article": "die",
+    "sentence": "Wenn Sie Fragen haben, gehen Sie zur Information.",
+    "translation": "If you have questions, go to the information desk.",
+    "tags": []
+  },
+  {
+    "word": "international",
+    "article": "",
+    "sentence": "Unser Deutschkurs ist international: Silvana kommt aus Italien, Conchi aus Spanien, Yin aus China … Our German course is international: Silvana comes from Italy, Conchi from Spain, Yin from China …",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "Internet",
+    "article": "das",
+    "sentence": "Das findest du im Internet.",
+    "translation": "You can find that on the internet.",
+    "tags": []
+  },
+  {
+    "word": "ja",
+    "article": "",
+    "sentence": "Sind Sie Herr Watanabe? – Ja.",
+    "translation": "Are you Mr. Watanabe? – Yes.",
+    "tags": []
+  },
+  {
+    "word": "Jacke",
+    "article": "die",
+    "sentence": "Zieh dir eine Jacke an.",
+    "translation": "Es ist kalt. Put on a jacket. It’s cold.",
+    "tags": []
+  },
+  {
+    "word": "jed-",
+    "article": "",
+    "sentence": "Blumen kannst du in jedem Bahnhof kaufen.",
+    "translation": "You can buy flowers at any train station.",
+    "tags": []
+  },
+  {
+    "word": "jetzt",
+    "article": "",
+    "sentence": "Jetzt machen wir eine Pause.",
+    "translation": "Now we are taking a break.",
+    "tags": []
+  },
+  {
+    "word": "Job",
+    "article": "der",
+    "sentence": "Jenny hat einen neuen Job bei der Post.",
+    "translation": "Jenny has a new job at the post office.",
+    "tags": []
+  },
+  {
+    "word": "Jugendliche",
+    "article": "der",
+    "sentence": "Viele Jugendliche kaufen gern ein.",
+    "translation": "Many teenagers like to shop.",
+    "tags": []
+  },
+  {
+    "word": "jung",
+    "article": "",
+    "sentence": "Claudia ist 21.",
+    "translation": "– Was? Noch so jung? Claudia is 21. – What? Still so young?",
+    "tags": []
+  },
+  {
+    "word": "Junge",
+    "article": "der",
+    "sentence": "Ich habe zwei Kinder.",
+    "translation": "Einen Jungen und ein Mädchen. I have two children. A boy and a girl.",
+    "tags": []
+  },
+  {
+    "word": "Kaffee",
+    "article": "der",
+    "sentence": "Zum Frühstück trinke ich immer Kaffee.",
+    "translation": "I always drink coffee for breakfast.",
+    "tags": []
+  },
+  {
+    "word": "kaputt",
+    "article": "",
+    "sentence": "Das Glas war teuer.",
+    "translation": "Es geht sehr leicht kaputt. The glass was expensive. It breaks very easily.",
+    "tags": []
+  },
+  {
+    "word": "Karte",
+    "article": "die",
+    "sentence": "Ich schreibe meinen Bekannten eine Karte aus dem Urlaub.",
+    "translation": "I write my acquaintances a card from the vacation.",
+    "tags": []
+  },
+  {
+    "word": "(Kredit)-Karte",
+    "article": "",
+    "sentence": "Kann ich auch mit Karte (be-) zahlen?",
+    "translation": "Can I also pay by card?",
+    "tags": []
+  },
+  {
+    "word": "Kartoffel",
+    "article": "die",
+    "sentence": "Für Pommes frites braucht man Kartoffeln.",
+    "translation": "You need potatoes for french fries.",
+    "tags": []
+  },
+  {
+    "word": "Kasse",
+    "article": "die",
+    "sentence": "Zahlen Sie bitte an der Kasse.",
+    "translation": "Please pay at the checkout.",
+    "tags": []
+  },
+  {
+    "word": "kaufen",
+    "article": "",
+    "sentence": "Tim kauft sich ein neues Auto.",
+    "translation": "Tim is buying a new car.",
+    "tags": []
+  },
+  {
+    "word": "kein",
+    "article": "",
+    "sentence": "Es gibt keine Eintrittskarten mehr.",
+    "translation": "There are no more tickets.",
+    "tags": []
+  },
+  {
+    "word": "kennen",
+    "article": "",
+    "sentence": "Kennen Sie diese Frau? – Nein, leider nicht.",
+    "translation": "Do you know this woman? – No, unfortunately not.",
+    "tags": []
+  },
+  {
+    "word": "kennenlernen",
+    "article": "",
+    "sentence": "Wir sind neu hier.",
+    "translation": "Wir möchten Sie kennenlernen. We are new here. We’d like to get to know you.",
+    "tags": []
+  },
+  {
+    "word": "Kind",
+    "article": "das",
+    "sentence": "Wie viele Kinder haben Sie?",
+    "translation": "How many children do you have?",
+    "tags": []
+  },
+  {
+    "word": "Kindergarten",
+    "article": "der",
+    "sentence": "Die kleine Laura geht schon in den Kindergarten.",
+    "translation": "Little Laura is already going to kindergarten.",
+    "tags": []
+  },
+  {
+    "word": "Kino",
+    "article": "das",
+    "sentence": "Wir sehen heute Abend im Kino einen schönen Film.",
+    "translation": "We’re going to see a nice movie at the cinema tonight.",
+    "tags": []
+  },
+  {
+    "word": "Kiosk",
+    "article": "der",
+    "sentence": "Am Kiosk bekommen Sie Getränke, Zigaretten und Zeitungen.",
+    "translation": "At the kiosk, you can get drinks, cigarettes, and newspapers.",
+    "tags": []
+  },
+  {
+    "word": "klar",
+    "article": "",
+    "sentence": "Kommst du mit?",
+    "translation": "– Klar! Are you coming along? – Sure!",
+    "tags": []
+  },
+  {
+    "word": "Klasse",
+    "article": "die",
+    "sentence": "In unserer Klasse sind fünfundzwanzig Schüler.",
+    "translation": "There are twenty-five students in our class.",
+    "tags": []
+  },
+  {
+    "word": "Kleidung",
+    "article": "die",
+    "sentence": "Wo finde ich Kleidung? – Jacken im ersten, Jeans im zweiten Stock.",
+    "translation": "Where can I find clothing? – Jackets on the first floor, jeans on the second floor.",
+    "tags": []
+  },
+  {
+    "word": "klein",
+    "article": "",
+    "sentence": "Eltville ist eine kleine Stadt am Rhein.",
+    "translation": "Eltville is a small town on the Rhine.",
+    "tags": []
+  },
+  {
+    "word": "kochen",
+    "article": "",
+    "sentence": "Herr Georgi kann gut kochen.",
+    "translation": "Mr. Georgi can cook well.",
+    "tags": []
+  },
+  {
+    "word": "Koffer",
+    "article": "der",
+    "sentence": "Ist das Ihr Koffer?",
+    "translation": "Is that your suitcase?",
+    "tags": []
+  },
+  {
+    "word": "Kollege",
+    "article": "der",
+    "sentence": "Wie heißt die neue Kollegin?",
+    "translation": "What’s the name of the new female colleague?",
+    "tags": []
+  },
+  {
+    "word": "kommen",
+    "article": "",
+    "sentence": "Woher kommen Sie? – Aus Frankreich.",
+    "translation": "Where are you from? – From France.",
+    "tags": []
+  },
+  {
+    "word": "können",
+    "article": "",
+    "sentence": "Ich kann Deutsch und Russisch.",
+    "translation": "I can speak German and Russian.",
+    "tags": []
+  },
+  {
+    "word": "Konto",
+    "article": "das",
+    "sentence": "Das Geld überweisen wir am ersten März auf Ihr Konto.",
+    "translation": "We will transfer the money to your account on March 1st.",
+    "tags": []
+  },
+  {
+    "word": "Kopf",
+    "article": "der",
+    "sentence": "Mein Kopf tut weh!",
+    "translation": "My head hurts!",
+    "tags": []
+  },
+  {
+    "word": "kosten",
+    "article": "",
+    "sentence": "Wie viel kostet das? – 10 Euro.",
+    "translation": "How much does it cost? – 10 euros.",
+    "tags": []
+  },
+  {
+    "word": "krank",
+    "article": "",
+    "sentence": "Ich kann heute nicht zur Arbeit kommen, ich bin krank und liege im Bett.",
+    "translation": "I can’t come to work today, I’m sick and lying in bed.",
+    "tags": []
+  },
+  {
+    "word": "kriegen",
+    "article": "",
+    "sentence": "Ich kriege 15 Euro in der Stunde für meine Arbeit.",
+    "translation": "I get 15 euros an hour for my work.",
+    "tags": []
+  },
+  {
+    "word": "Küche",
+    "article": "die",
+    "sentence": "Der neue Herd kommt in die Küche.",
+    "translation": "The new stove is going into the kitchen.",
+    "tags": []
+  },
+  {
+    "word": "Kuchen",
+    "article": "der",
+    "sentence": "Ich nehme ein Stück Kuchen.",
+    "translation": "I’ll have a piece of cake.",
+    "tags": []
+  },
+  {
+    "word": "Kugelschreiber",
+    "article": "der",
+    "sentence": "Hast du einen Kugelschreiber für mich?",
+    "translation": "Do you have a pen for me?",
+    "tags": []
+  },
+  {
+    "word": "Kühlschrank",
+    "article": "der",
+    "sentence": "Haben wir noch Milch? – Ja, im Kühlschrank.",
+    "translation": "Do we still have milk? – Yes, in the fridge.",
+    "tags": []
+  },
+  {
+    "word": "kulturell",
+    "article": "",
+    "sentence": "Ich bin kulturell interessiert.",
+    "translation": "Ich gehe oft ins Museum. I’m culturally interested. I often go to the museum.",
+    "tags": []
+  },
+  {
+    "word": "sich kümmern",
+    "article": "",
+    "sentence": "Jede Mutter kümmert sich um ihre kleinen Kinder.",
+    "translation": "Every mother takes care of her small children.",
+    "tags": []
+  },
+  {
+    "word": "Kunde",
+    "article": "der",
+    "sentence": "Einen Moment, bitte.",
+    "translation": "Ich habe eine Kundin. One moment, please. I have a customer.",
+    "tags": []
+  },
+  {
+    "word": "Kurs",
+    "article": "der",
+    "sentence": "Der Deutschkurs geht bis zum Sommer.",
+    "translation": "The German course goes until summer.",
+    "tags": []
+  },
+  {
+    "word": "kurz",
+    "article": "",
+    "sentence": "Ricardo hat kurzes Haar.",
+    "translation": "Ricardo has short hair.",
+    "tags": []
+  },
+  {
+    "word": "lachen",
+    "article": "",
+    "sentence": "Die Kinder lachen viel.",
+    "translation": "The children laugh a lot.",
+    "tags": []
+  },
+  {
+    "word": "Laden",
+    "article": "der",
+    "sentence": "Im Buchladen können Sie Bücher kaufen.",
+    "translation": "You can buy books in the bookstore.",
+    "tags": []
+  },
+  {
+    "word": "Land",
+    "article": "das",
+    "sentence": "Italien ist ein schönes Land.",
+    "translation": "Italy is a beautiful country.",
+    "tags": []
+  },
+  {
+    "word": "lang",
+    "article": "",
+    "sentence": "Die Jeans ist zu lang.",
+    "translation": "The jeans are too long.",
+    "tags": []
+  },
+  {
+    "word": "lange",
+    "article": "",
+    "sentence": "Wie lange fährt der Zug von Hamburg nach Berlin?",
+    "translation": "How long does the train from Hamburg to Berlin take?",
+    "tags": []
+  },
+  {
+    "word": "langsam",
+    "article": "",
+    "sentence": "Könnten Sie bitte etwas langsamer sprechen?",
+    "translation": "Could you please speak a little slower?",
+    "tags": []
+  },
+  {
+    "word": "laufen",
+    "article": "",
+    "sentence": "Ich möchte nicht Auto fahren, ich möchte laufen.",
+    "translation": "I don’t want to drive; I want to walk.",
+    "tags": []
+  },
+  {
+    "word": "laut",
+    "article": "",
+    "sentence": "Nicht so laut! Das Baby schläft.",
+    "translation": "Not so loud! The baby is sleeping.",
+    "tags": []
+  },
+  {
+    "word": "leben",
+    "article": "",
+    "sentence": "Sie lebt bei ihrer Schwester.",
+    "translation": "She lives with her sister.",
+    "tags": []
+  },
+  {
+    "word": "Leben",
+    "article": "das",
+    "sentence": "Das Leben in diesem Land ist teuer.",
+    "translation": "Life in this country is expensive.",
+    "tags": []
+  },
+  {
+    "word": "Lebensmittel (pl.)",
+    "article": "die",
+    "sentence": "Lebensmittel bekommen Sie im Supermarkt.",
+    "translation": "You can get groceries at the supermarket.",
+    "tags": []
+  },
+  {
+    "word": "ledig",
+    "article": "",
+    "sentence": "Sind Sie verheiratet? – Nein.",
+    "translation": "Ledig. Are you married? – No. Single.",
+    "tags": []
+  },
+  {
+    "word": "legen",
+    "article": "",
+    "sentence": "Legen Sie das Buch auf den Tisch.",
+    "translation": "Put the book on the table.",
+    "tags": []
+  },
+  {
+    "word": "Lehrer",
+    "article": "der",
+    "sentence": "Unsere Deutschlehrerin heißt Frau Müller.",
+    "translation": "Our German teacher is called Mrs. Müller.",
+    "tags": []
+  },
+  {
+    "word": "leicht",
+    "article": "",
+    "sentence": "Der Koffer ist leicht.",
+    "translation": "The suitcase is light.",
+    "tags": []
+  },
+  {
+    "word": "leider",
+    "article": "",
+    "sentence": "Leider kann ich nicht kommen.",
+    "translation": "Ich muss zum Arzt. Unfortunately, I can’t come. I have to go to the doctor.",
+    "tags": []
+  },
+  {
+    "word": "leise",
+    "article": "",
+    "sentence": "Seid leise.",
+    "translation": "Die anderen schlafen schon. Be quiet. The others are already sleeping.",
+    "tags": []
+  },
+  {
+    "word": "lernen",
+    "article": "",
+    "sentence": "Wie lange lernen Sie schon Deutsch?",
+    "translation": "How long have you been learning German?",
+    "tags": []
+  },
+  {
+    "word": "lesen",
+    "article": "",
+    "sentence": "Ich lese ein Buch von García Márquez.",
+    "translation": "I’m reading a book by García Márquez.",
+    "tags": []
+  },
+  {
+    "word": "letzt-",
+    "article": "",
+    "sentence": "Morgen ist der letzte Kurstag.",
+    "translation": "Tomorrow is the last day of the course.",
+    "tags": []
+  },
+  {
+    "word": "Leute (pl.)",
+    "article": "die",
+    "sentence": "In der Disko sind viele Leute.",
+    "translation": "There are many people at the disco.",
+    "tags": []
+  },
+  {
+    "word": "Licht",
+    "article": "das",
+    "sentence": "Wo macht man hier das Licht an?",
+    "translation": "Where do you turn on the light here?",
+    "tags": []
+  },
+  {
+    "word": "lieb-",
+    "article": "",
+    "sentence": "Liebe Susanne, lieber Hans, Dear Susanne, dear Hans,",
+    "translation": "",
+    "tags": []
+  },
+  {
+    "word": "lieben",
+    "article": "",
+    "sentence": "Ich liebe dich!",
+    "translation": "I love you!",
+    "tags": []
+  },
+  {
+    "word": "lieber",
+    "article": "",
+    "sentence": "Sie fährt lieber mit der Bahn.",
+    "translation": "She prefers to travel by train.",
+    "tags": []
+  },
+  {
+    "word": "Lieblings-",
+    "article": "",
+    "sentence": "Mein Lieblingsfilm ist Schwarze Augen.",
+    "translation": "My favorite movie is \"Black Eyes.\"",
+    "tags": []
+  },
+  {
+    "word": "Lied",
+    "article": "das",
+    "sentence": "Welches ist dein Lieblingslied?",
+    "translation": "What is your favorite song?",
+    "tags": []
+  },
+  {
+    "word": "liegen",
+    "article": "",
+    "sentence": "Um neun Uhr liegt Judith noch im Bett.",
+    "translation": "At nine o’clock, Judith is still in bed.",
+    "tags": []
+  },
+  {
+    "word": "links",
+    "article": "",
+    "sentence": "Gehen Sie die nächste Straße links.",
+    "translation": "Go down the next street on the left.",
+    "tags": []
+  },
+  {
+    "word": "Lkw",
+    "article": "der",
+    "sentence": "Dieser Lastkraftwagen ist sehr groß.",
+    "translation": "This truck is very large.",
+    "tags": []
+  },
+  {
+    "word": "Lokal",
+    "article": "das",
+    "sentence": "In unserer Straße gibt es ein neues Lokal.",
+    "translation": "There’s a new pub in our street.",
+    "tags": []
+  },
+  {
+    "word": "Lösung",
+    "article": "die",
+    "sentence": "Die Lösung ist ganz einfach.",
+    "translation": "The solution is quite simple.",
+    "tags": []
+  },
+  {
+    "word": "lustig",
+    "article": "",
+    "sentence": "Frau Mertens ist lustig.",
+    "translation": "Sie lacht immer. Mrs. Mertens is funny. She always laughs.",
+    "tags": []
+  },
+  {
+    "word": "machen",
+    "article": "",
+    "sentence": "Was machst du heute Abend?",
+    "translation": "What are you doing this evening?",
+    "tags": []
+  },
+  {
+    "word": "Mädchen",
+    "article": "das",
+    "sentence": "Familie Kurz bekommt ein Baby.",
+    "translation": "– Junge oder Mädchen? The Kurz family is having a baby. – Boy or girl?",
+    "tags": []
+  },
+  {
+    "word": "man",
+    "article": "",
+    "sentence": "Hier darf man nicht rauchen.",
+    "translation": "Smoking is not allowed here.",
+    "tags": []
+  },
+  {
+    "word": "Mann",
+    "article": "der",
+    "sentence": "Mein Mann arbeitet bei der Polizei.",
+    "translation": "My husband works at the police.",
+    "tags": []
+  },
+  {
+    "word": "männlich",
+    "article": "",
+    "sentence": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "translation": "Please check: “female” or “male.”",
+    "tags": []
+  },
+  {
+    "word": "Maschine",
+    "article": "die",
+    "sentence": "Die Waschmaschine ist günstig.",
+    "translation": "The washing machine is inexpensive.",
+    "tags": []
+  },
+  {
+    "word": "Meer",
+    "article": "das",
+    "sentence": "Wir machen Urlaub am Meer.",
+    "translation": "We are vacationing by the sea.",
+    "tags": []
+  },
+  {
+    "word": "mehr",
+    "article": "",
+    "sentence": "Dieses Auto kostet 1.000 Euro mehr als das andere.",
+    "translation": "This car costs 1,000 euros more than the other one.",
+    "tags": []
+  },
+  {
+    "word": "mein",
+    "article": "",
+    "sentence": "Mein Vater ist Arzt.",
+    "translation": "My father is a doctor.",
+    "tags": []
+  },
+  {
+    "word": "meist-",
+    "article": "",
+    "sentence": "Die meisten Norddeutschen sind sehr groß.",
+    "translation": "Most North Germans are very tall.",
+    "tags": []
+  },
+  {
+    "word": "Mensch",
+    "article": "der",
+    "sentence": "Die Menschen sind hier anders als bei uns.",
+    "translation": "People here are different from us.",
+    "tags": []
+  },
+  {
+    "word": "mieten",
+    "article": "",
+    "sentence": "Ich möchte ein Auto mieten.",
+    "translation": "I would like to rent a car.",
+    "tags": []
+  },
+  {
+    "word": "Miete",
+    "article": "die",
+    "sentence": "Die Miete für diese Wohnung ist 600 Euro.",
+    "translation": "The rent for this apartment is 600 euros.",
+    "tags": []
+  },
+  {
+    "word": "Milch",
+    "article": "die",
+    "sentence": "Die Milch steht im Kühlschrank.",
+    "translation": "The milk is in the refrigerator.",
+    "tags": []
+  },
+  {
+    "word": "mit",
+    "article": "",
+    "sentence": "Trinken Sie den Kaffee mit Milch?",
+    "translation": "Do you take your coffee with milk?",
+    "tags": []
+  },
+  {
+    "word": "mitbringen",
+    "article": "",
+    "sentence": "Ich gehe einkaufen.",
+    "translation": "Soll ich dir was mitbringen? I’m going shopping. Should I bring you something?",
+    "tags": []
+  },
+  {
+    "word": "mitkommen",
+    "article": "",
+    "sentence": "Ich gehe ins Kino.",
+    "translation": "Kommst du mit? I’m going to the cinema. Are you coming?",
+    "tags": []
+  },
+  {
+    "word": "mitmachen",
+    "article": "",
+    "sentence": "Warum macht ihr nicht mit?",
+    "translation": "Why don’t you join in?",
+    "tags": []
+  },
+  {
+    "word": "mitnehmen",
+    "article": "",
+    "sentence": "Nehmen wir meine Schwester ins Kino mit?",
+    "translation": "Should we take my sister to the cinema with us?",
+    "tags": []
+  },
+  {
+    "word": "Mitte",
+    "article": "die",
+    "sentence": "Der Lehrer steht in der Mitte des Klassenzimmers.",
+    "translation": "The teacher is standing in the middle of the classroom.",
+    "tags": []
+  },
+  {
+    "word": "Möbel (pl.)",
+    "article": "die",
+    "sentence": "Sind die Möbel neu?",
+    "translation": "Are the furniture new?",
+    "tags": []
+  },
+  {
+    "word": "möchten",
+    "article": "",
+    "sentence": "Was möchten Sie trinken?",
+    "translation": "What would you like to drink?",
+    "tags": []
+  },
+  {
+    "word": "mögen",
+    "article": "",
+    "sentence": "Magst du Kaffee oder Tee?",
+    "translation": "Do you like coffee or tea?",
+    "tags": []
+  },
+  {
+    "word": "möglich",
+    "article": "",
+    "sentence": "Mit dieser Fahrkarte ist die Fahrt ab 9 Uhr möglich.",
+    "translation": "With this ticket, travel is possible from 9 a.m.",
+    "tags": []
+  },
+  {
+    "word": "Moment",
+    "article": "der",
+    "sentence": "Moment mal bitte!",
+    "translation": "Just a moment, please!",
+    "tags": []
+  },
+  {
+    "word": "morgen",
+    "article": "",
+    "sentence": "Morgen beginnt die Schule um 10 Uhr.",
+    "translation": "School starts at 10 a.m. tomorrow.",
+    "tags": []
+  },
+  {
+    "word": "müde",
+    "article": "",
+    "sentence": "Ich bin müde.",
+    "translation": "Ich gehe schlafen. I’m tired. I’m going to sleep.",
+    "tags": []
+  },
+  {
+    "word": "Mund",
+    "article": "der",
+    "sentence": "Öffnen Sie den Mund.",
+    "translation": "Open your mouth.",
+    "tags": []
+  },
+  {
+    "word": "müssen",
+    "article": "",
+    "sentence": "Ich muss jeden Tag von 8 Uhr bis 18 Uhr arbeiten.",
+    "translation": "I have to work every day from 8 a.m. to 6 p.m.",
+    "tags": []
+  },
+  {
+    "word": "Mutter",
+    "article": "die",
+    "sentence": "Frau Berghäuser ist die Mutter von Michaela.",
+    "translation": "Mrs. Berghäuser is Michaela’s mother.",
+    "tags": []
+  },
+  {
+    "word": "nach",
+    "article": "",
+    "sentence": "Ich gehe jetzt nach Hause.",
+    "translation": "I’m going home now.",
+    "tags": []
+  },
+  {
+    "word": "nächst-",
+    "article": "",
+    "sentence": "Sehen wir uns nächste Woche?",
+    "translation": "Shall we see each other next week?",
+    "tags": []
+  },
+  {
+    "word": "Name",
+    "article": "der",
+    "sentence": "Mein Name ist Thomas Schmidt.",
+    "translation": "My name is Thomas Schmidt.",
+    "tags": []
+  },
+  {
+    "word": "nehmen",
+    "article": "",
+    "sentence": "Heute gibt es Hähnchen.",
+    "translation": "Das nehme ich. Today there’s chicken. I’ll take that.",
+    "tags": []
+  },
+  {
+    "word": "nein",
+    "article": "",
+    "sentence": "Fährst du auch nach München? – Nein, ich habe keine Zeit.",
+    "translation": "Are you going to Munich too? – No, I don’t have time.",
+    "tags": []
+  },
+  {
+    "word": "neu",
+    "article": "",
+    "sentence": "Ich bin der neue Kollege.",
+    "translation": "I’m the new colleague.",
+    "tags": []
+  },
+  {
+    "word": "nicht",
+    "article": "",
+    "sentence": "Das stimmt nicht.",
+    "translation": "That’s not true.",
+    "tags": []
+  },
+  {
+    "word": "nichts",
+    "article": "",
+    "sentence": "Das macht nichts.",
+    "translation": "It doesn’t matter.",
+    "tags": []
+  },
+  {
+    "word": "nie",
+    "article": "",
+    "sentence": "Er kommt nie pünktlich.",
+    "translation": "He never arrives on time.",
+    "tags": []
+  },
+  {
+    "word": "noch",
+    "article": "",
+    "sentence": "Vielleicht kommt er noch.",
+    "translation": "Maybe he’ll come after all.",
+    "tags": []
+  },
+  {
+    "word": "normal",
+    "article": "",
+    "sentence": "75 kg.",
+    "translation": "Sein Gewicht ist normal. 75 kg. His weight is normal.",
+    "tags": []
+  },
+  {
+    "word": "Nummer",
+    "article": "die",
+    "sentence": "Sie haben Zimmer Nummer zwölf.",
+    "translation": "You have room number twelve.",
+    "tags": []
+  },
+  {
+    "word": "nur",
+    "article": "",
+    "sentence": "Ich möchte nur ein Glas Wasser.",
+    "translation": "I’d like only a glass of water.",
+    "tags": []
+  },
+  {
+    "word": "oben",
+    "article": "",
+    "sentence": "Ich wohne oben.",
+    "translation": "I live upstairs.",
+    "tags": []
+  },
+  {
+    "word": "Obst",
+    "article": "das",
+    "sentence": "Im Sommer ist das Obst billig.",
+    "translation": "In summer, the fruit is cheap.",
+    "tags": []
+  },
+  {
+    "word": "oder",
+    "article": "",
+    "sentence": "Wann können Sie kommen – heute oder morgen?",
+    "translation": "When can you come – today or tomorrow?",
+    "tags": []
+  },
+  {
+    "word": "öffnen",
+    "article": "",
+    "sentence": "Ich öffne die Tür.",
+    "translation": "I’m opening the door.",
+    "tags": []
+  },
+  {
+    "word": "geöffnet",
+    "article": "",
+    "sentence": "Der Laden ist samstags bis 16.00 Uhr geöffnet.",
+    "translation": "The store is open until 4 p.m. on Saturdays.",
+    "tags": []
+  },
+  {
+    "word": "oft",
+    "article": "",
+    "sentence": "Petra treffe ich oft.",
+    "translation": "I often meet Petra.",
+    "tags": []
+  },
+  {
+    "word": "ohne",
+    "article": "",
+    "sentence": "Ohne Geld kann er nichts kaufen.",
+    "translation": "Without money, he can’t buy anything.",
+    "tags": []
+  },
+  {
+    "word": "Oma",
+    "article": "die",
+    "sentence": "Meine Oma ist schon tot.",
+    "translation": "My grandma is already dead.",
+    "tags": []
+  },
+  {
+    "word": "Opa",
+    "article": "der",
+    "sentence": "Mein Opa heißt Hans.",
+    "translation": "My grandpa’s name is Hans.",
+    "tags": []
+  },
+  {
+    "word": "Ordnung",
+    "article": "die",
+    "sentence": "Das ist in Ordnung.",
+    "translation": "That’s all right.",
+    "tags": []
+  },
+  {
+    "word": "Ort",
+    "article": "der",
+    "sentence": "Der Ort liegt am Meer.",
+    "translation": "The place is by the sea.",
+    "tags": []
+  },
+  {
+    "word": "Papier",
+    "article": "das",
+    "sentence": "Hier sind Papier und Bleistift.",
+    "translation": "Here are paper and pencil.",
+    "tags": []
+  },
+  {
+    "word": "Papiere (pl.)",
+    "article": "die",
+    "sentence": "Haben Sie Ihre Papiere dabei?",
+    "translation": "Do you have your papers with you?",
+    "tags": []
+  },
+  {
+    "word": "Partner",
+    "article": "der",
+    "sentence": "Sie ist meine Partnerin.",
+    "translation": "She is my partner.",
+    "tags": []
+  },
+  {
+    "word": "Party",
+    "article": "die",
+    "sentence": "Heute Abend machen wir eine Party.",
+    "translation": "We’re having a party tonight.",
+    "tags": []
+  },
+  {
+    "word": "Pass",
+    "article": "der",
+    "sentence": "Im Hotel brauchst du deinen Pass.",
+    "translation": "You need your passport at the hotel.",
+    "tags": []
+  },
+  {
+    "word": "Pause",
+    "article": "die",
+    "sentence": "Von 12.00 bis 12.30 Uhr haben wir Mittagspause.",
+    "translation": "We have a lunch break from 12:00 to 12:30.",
+    "tags": []
+  },
+  {
+    "word": "Plan",
+    "article": "der",
+    "sentence": "Ich kaufe mir einen Stadtplan.",
+    "translation": "I’m buying a city map.",
+    "tags": []
+  },
+  {
+    "word": "Platz",
+    "article": "der",
+    "sentence": "Tut mir leid, der Platz ist besetzt.",
+    "translation": "Sorry, the seat is taken.",
+    "tags": []
+  },
+  {
+    "word": "Polizei",
+    "article": "die",
+    "sentence": "Holen Sie die Polizei!",
+    "translation": "Call the police!",
+    "tags": []
+  },
+  {
+    "word": "Pommes frites (pl.)",
+    "article": "die",
+    "sentence": "Die Kinder essen Hähnchen mit Pommes frites.",
+    "translation": "The children are eating chicken with fries.",
+    "tags": []
+  },
+  {
+    "word": "Post",
+    "article": "die",
+    "sentence": "Wo ist die Post, bitte?",
+    "translation": "Where is the post office, please?",
+    "tags": []
+  },
+  {
+    "word": "Postleitzahl",
+    "article": "die",
+    "sentence": "Wie ist Ihre Postleitzahl?",
+    "translation": "What is your postal code?",
+    "tags": []
+  },
+  {
+    "word": "Praktikum",
+    "article": "das",
+    "sentence": "Ich mache ein Praktikum bei Siemens.",
+    "translation": "I’m doing an internship at Siemens.",
+    "tags": []
+  },
+  {
+    "word": "Praxis",
+    "article": "die",
+    "sentence": "Die Praxis ist ab acht Uhr geöffnet.",
+    "translation": "The practice is open from 8 a.m.",
+    "tags": []
+  },
+  {
+    "word": "Preis",
+    "article": "der",
+    "sentence": "Die Preise sind hoch.",
+    "translation": "The prices are high.",
+    "tags": []
+  },
+  {
+    "word": "Problem",
+    "article": "das",
+    "sentence": "Mein Problem ist die Sprache.",
+    "translation": "My problem is the language.",
+    "tags": []
+  },
+  {
+    "word": "Prospekt",
+    "article": "der",
+    "sentence": "Bitte schicken Sie mir einen Prospekt von Ihrem Hotel.",
+    "translation": "Please send me a brochure of your hotel.",
+    "tags": []
+  },
+  {
+    "word": "Prüfung",
+    "article": "die",
+    "sentence": "Die Prüfung ist am Montag um 8.00 Uhr.",
+    "translation": "The exam is on Monday at 8 a.m.",
+    "tags": []
+  },
+  {
+    "word": "pünktlich",
+    "article": "",
+    "sentence": "Der Bus fährt pünktlich um acht Uhr.",
+    "translation": "The bus leaves on time at 8 a.m.",
+    "tags": []
+  },
+  {
+    "word": "Rad fahren",
+    "article": "",
+    "sentence": "Das Kind kann schon Rad fahren.",
+    "translation": "The child can already ride a bike.",
+    "tags": []
+  },
+  {
+    "word": "rauchen",
+    "article": "",
+    "sentence": "Ich rauche nicht.",
+    "translation": "I don’t smoke.",
+    "tags": []
+  },
+  {
+    "word": "Raum",
+    "article": "der",
+    "sentence": "Der Unterricht ist in Raum 332.",
+    "translation": "The class is in room 332.",
+    "tags": []
+  },
+  {
+    "word": "Rechnung",
+    "article": "die",
+    "sentence": "Die Rechnung, bitte.",
+    "translation": "The bill, please.",
+    "tags": []
+  },
+  {
+    "word": "rechts",
+    "article": "",
+    "sentence": "Die Schillerstraße ist hier rechts.",
+    "translation": "Schiller Street is on the right here.",
+    "tags": []
+  },
+  {
+    "word": "regnen",
+    "article": "",
+    "sentence": "Heute regnet es.",
+    "translation": "It’s raining today.",
+    "tags": []
+  },
+  {
+    "word": "Regen",
+    "article": "der",
+    "sentence": "Bei diesem Regen gehe ich nicht raus.",
+    "translation": "I’m not going out in this rain.",
+    "tags": []
+  },
+  {
+    "word": "Reis",
+    "article": "der",
+    "sentence": "Ich esse gern Reis.",
+    "translation": "I like eating rice.",
+    "tags": []
+  },
+  {
+    "word": "reisen",
+    "article": "",
+    "sentence": "Ich reise gern.",
+    "translation": "I like traveling.",
+    "tags": []
+  },
+  {
+    "word": "Reise",
+    "article": "die",
+    "sentence": "Wir machen eine Reise nach Österreich.",
+    "translation": "We’re taking a trip to Austria.",
+    "tags": []
+  },
+  {
+    "word": "Reisebüro",
+    "article": "das",
+    "sentence": "Mein Mann arbeitet im Reisebüro.",
+    "translation": "My husband works at a travel agency.",
+    "tags": []
+  },
+  {
+    "word": "Reiseführer",
+    "article": "der",
+    "sentence": "Ich kaufe mir einen Reiseführer von Berlin.",
+    "translation": "I’m buying a guidebook about Berlin.",
+    "tags": []
+  },
+  {
+    "word": "reparieren",
+    "article": "",
+    "sentence": "Er hat das Fahrrad repariert.",
+    "translation": "He repaired the bike.",
+    "tags": []
+  },
+  {
+    "word": "Reparatur",
+    "article": "die",
+    "sentence": "Die Reparatur ist sehr teuer.",
+    "translation": "The repair is very expensive.",
+    "tags": []
+  },
+  {
+    "word": "Restaurant",
+    "article": "das",
+    "sentence": "Wir essen heute in einem Restaurant.",
+    "translation": "We’re eating at a restaurant today.",
+    "tags": []
+  },
+  {
+    "word": "Rezeption",
+    "article": "die",
+    "sentence": "Fragen Sie bitte im Hotel an der Rezeption.",
+    "translation": "Please ask at the reception desk at the hotel.",
+    "tags": []
+  },
+  {
+    "word": "richtig",
+    "article": "",
+    "sentence": "Habe ich das richtig verstanden?",
+    "translation": "Did I understand that correctly?",
+    "tags": []
+  },
+  {
+    "word": "riechen",
+    "article": "",
+    "sentence": "Dieser Wein riecht gut.",
+    "translation": "This wine smells good.",
+    "tags": []
+  },
+  {
+    "word": "ruhig",
+    "article": "",
+    "sentence": "Ich möchte ein ruhiges Zimmer.",
+    "translation": "I’d like a quiet room.",
+    "tags": []
+  },
+  {
+    "word": "Saft",
+    "article": "der",
+    "sentence": "Möchtest du einen Apfelsaft?",
+    "translation": "Would you like an apple juice?",
+    "tags": []
+  },
+  {
+    "word": "sagen",
+    "article": "",
+    "sentence": "Sag mal, wie geht es dir denn?",
+    "translation": "Tell me, how are you doing?",
+    "tags": []
+  },
+  {
+    "word": "Salat",
+    "article": "der",
+    "sentence": "Wie schmeckt dir der Salat?",
+    "translation": "How do you like the salad?",
+    "tags": []
+  },
+  {
+    "word": "Salz",
+    "article": "das",
+    "sentence": "Herr Ober, kann ich bitte Salz haben?",
+    "translation": "Waiter, may I have some salt, please?",
+    "tags": []
+  },
+  {
+    "word": "Satz",
+    "article": "der",
+    "sentence": "Dieser Satz ist sehr einfach.",
+    "translation": "This sentence is very simple.",
+    "tags": []
+  },
+  {
+    "word": "S-Bahn",
+    "article": "die",
+    "sentence": "Ich nehme lieber die S-Bahn.",
+    "translation": "I’d prefer to take the S-Bahn.",
+    "tags": []
+  },
+  {
+    "word": "Schalter",
+    "article": "der",
+    "sentence": "Gehen Sie bitte zum Schalter drei!",
+    "translation": "Please go to counter three!",
+    "tags": []
+  },
+  {
+    "word": "scheinen",
+    "article": "",
+    "sentence": "Die Sonne scheint.",
+    "translation": "The sun is shining.",
+    "tags": []
+  },
+  {
+    "word": "schicken",
+    "article": "",
+    "sentence": "Bitte schicken Sie mir eine E-Mail.",
+    "translation": "Please send me an email.",
+    "tags": []
+  },
+  {
+    "word": "Schild",
+    "article": "das",
+    "sentence": "Haben Sie nicht das Schild gesehen?",
+    "translation": "Didn’t you see the sign?",
+    "tags": []
+  },
+  {
+    "word": "Schinken",
+    "article": "der",
+    "sentence": "Ich möchte gern ein Schinkenbrot.",
+    "translation": "I’d like a ham sandwich.",
+    "tags": []
+  },
+  {
+    "word": "schlafen",
+    "article": "",
+    "sentence": "Ich schlafe meistens acht Stunden.",
+    "translation": "I usually sleep for eight hours.",
+    "tags": []
+  },
+  {
+    "word": "schlecht",
+    "article": "",
+    "sentence": "Mir ist schlecht!",
+    "translation": "I feel sick!",
+    "tags": []
+  },
+  {
+    "word": "schließen",
+    "article": "",
+    "sentence": "Bitte, schließen Sie die Tür.",
+    "translation": "Please close the door.",
+    "tags": []
+  },
+  {
+    "word": "geschlossen",
+    "article": "",
+    "sentence": "Die Bank hat am Samstag geschlossen.",
+    "translation": "The bank is closed on Saturday.",
+    "tags": []
+  },
+  {
+    "word": "Schluss",
+    "article": "der",
+    "sentence": "Ich muss jetzt Schluss machen.",
+    "translation": "I have to finish now.",
+    "tags": []
+  },
+  {
+    "word": "Schlüssel",
+    "article": "der",
+    "sentence": "Ich gebe Ihnen noch den Zimmerschlüssel.",
+    "translation": "I’ll give you the room key.",
+    "tags": []
+  },
+  {
+    "word": "schmecken",
+    "article": "",
+    "sentence": "Schmeckt das gut?",
+    "translation": "Does it taste good?",
+    "tags": []
+  },
+  {
+    "word": "schnell",
+    "article": "",
+    "sentence": "Er fährt schnell.",
+    "translation": "He drives fast.",
+    "tags": []
+  },
+  {
+    "word": "schon",
+    "article": "",
+    "sentence": "Ist das Essen schon fertig?",
+    "translation": "Is the food ready yet?",
+    "tags": []
+  },
+  {
+    "word": "schön",
+    "article": "",
+    "sentence": "Schönen Urlaub!",
+    "translation": "Have a nice vacation!",
+    "tags": []
+  },
+  {
+    "word": "Schrank",
+    "article": "der",
+    "sentence": "Die Gläser stehen im Schrank.",
+    "translation": "The glasses are in the cupboard.",
+    "tags": []
+  },
+  {
+    "word": "schreiben",
+    "article": "",
+    "sentence": "Er schreibt jeden Tag fünfzig E-Mails.",
+    "translation": "He writes fifty emails every day.",
+    "tags": []
+  },
+  {
+    "word": "Schuh",
+    "article": "der",
+    "sentence": "Zieh die Schuhe aus!",
+    "translation": "Take off your shoes!",
+    "tags": []
+  },
+  {
+    "word": "Schule",
+    "article": "die",
+    "sentence": "Meine Tochter geht schon in die Schule.",
+    "translation": "My daughter is already in school.",
+    "tags": []
+  },
+  {
+    "word": "Schüler",
+    "article": "der",
+    "sentence": "In meinem Kurs sind acht Schülerinnen und fünf Schüler.",
+    "translation": "In my class, there are eight female students and five male students.",
+    "tags": []
+  },
+  {
+    "word": "schwer",
+    "article": "",
+    "sentence": "Ist Ihr Gepäck sehr schwer?",
+    "translation": "Is your luggage very heavy?",
+    "tags": []
+  },
+  {
+    "word": "Schwester",
+    "article": "die",
+    "sentence": "Meine Schwester kommt am Dienstag.",
+    "translation": "My sister is coming on Tuesday.",
+    "tags": []
+  },
+  {
+    "word": "schwimmen",
+    "article": "",
+    "sentence": "Ich schwimme jeden Tag einen Kilometer.",
+    "translation": "I swim a kilometer every day.",
+    "tags": []
+  },
+  {
+    "word": "Schwimmbad",
+    "article": "das",
+    "sentence": "Kommst du mit ins Schwimmbad?",
+    "translation": "Are you coming to the swimming pool?",
+    "tags": []
+  },
+  {
+    "word": "See",
+    "article": "der",
+    "sentence": "Komm, wir fahren zum Starnberger See.",
+    "translation": "Let’s go to Lake Starnberg.",
+    "tags": []
+  },
+  {
+    "word": "sehen",
+    "article": "",
+    "sentence": "Ich kann dich nicht sehen.",
+    "translation": "I can’t see you.",
+    "tags": []
+  },
+  {
+    "word": "Sehenswürdigkeit",
+    "article": "die",
+    "sentence": "Welche Sehenswürdigkeiten gibt es in Frankfurt?",
+    "translation": "What sights are there to see in Frankfurt?",
+    "tags": []
+  },
+  {
+    "word": "sehr",
+    "article": "",
+    "sentence": "Danke sehr!",
+    "translation": "Thank you very much!",
+    "tags": []
+  },
+  {
+    "word": "sein",
+    "article": "",
+    "sentence": "Herr Müller ist in seinem Zimmer.",
+    "translation": "Mr. Müller is in his room.",
+    "tags": []
+  },
+  {
+    "word": "weg sein",
+    "article": "",
+    "sentence": "Herr Meier ist schon weg.",
+    "translation": "Mr. Meier is already gone.",
+    "tags": []
+  },
+  {
+    "word": "zu sein",
+    "article": "",
+    "sentence": "Die Tür ist zu.",
+    "translation": "The door is closed.",
+    "tags": []
+  },
+  {
+    "word": "seit",
+    "article": "",
+    "sentence": "Ich wohne seit drei Jahren in Köln.",
+    "translation": "I have been living in Cologne for three years.",
+    "tags": []
+  },
+  {
+    "word": "selbstständig",
+    "article": "",
+    "sentence": "Er ist selbstständig.",
+    "translation": "He is self-employed.",
+    "tags": []
+  },
+  {
+    "word": "sich",
+    "article": "",
+    "sentence": "Sie müssen sich erst anmelden.",
+    "translation": "You must first register.",
+    "tags": []
+  },
+  {
+    "word": "sie",
+    "article": "",
+    "sentence": "Wie heißt sie?",
+    "translation": "What’s her name?",
+    "tags": []
+  },
+  {
+    "word": "Sie",
+    "article": "",
+    "sentence": "Wie heißen Sie, bitte?",
+    "translation": "What’s your name, please?",
+    "tags": []
+  },
+  {
+    "word": "sitzen",
+    "article": "",
+    "sentence": "Wo sitzen Sie?",
+    "translation": "Where are you sitting?",
+    "tags": []
+  },
+  {
+    "word": "so",
+    "article": "",
+    "sentence": "Sie müssen das so machen!",
+    "translation": "You have to do it like this!",
+    "tags": []
+  },
+  {
+    "word": "Sofa",
+    "article": "das",
+    "sentence": "Das Sofa ist neu.",
+    "translation": "The sofa is new.",
+    "tags": []
+  },
+  {
+    "word": "sofort",
+    "article": "",
+    "sentence": "Bitte antworten Sie sofort.",
+    "translation": "Please answer immediately.",
+    "tags": []
+  },
+  {
+    "word": "Sohn",
+    "article": "der",
+    "sentence": "Das ist Hans, mein Sohn.",
+    "translation": "This is Hans, my son.",
+    "tags": []
+  },
+  {
+    "word": "sollen",
+    "article": "",
+    "sentence": "Soll ich kommen?",
+    "translation": "Should I come?",
+    "tags": []
+  },
+  {
+    "word": "Sonne",
+    "article": "die",
+    "sentence": "Die Sonne scheint.",
+    "translation": "The sun is shining.",
+    "tags": []
+  },
+  {
+    "word": "spät",
+    "article": "",
+    "sentence": "Es ist schon spät, ich muss gehen.",
+    "translation": "It’s already late, I have to go.",
+    "tags": []
+  },
+  {
+    "word": "später",
+    "article": "",
+    "sentence": "Das können wir später machen.",
+    "translation": "We can do that later.",
+    "tags": []
+  },
+  {
+    "word": "Speisekarte",
+    "article": "die",
+    "sentence": "Bringen Sie mir die Speisekarte, bitte.",
+    "translation": "Please bring me the menu.",
+    "tags": []
+  },
+  {
+    "word": "spielen",
+    "article": "",
+    "sentence": "Die Kinder spielen draußen.",
+    "translation": "The children are playing outside.",
+    "tags": []
+  },
+  {
+    "word": "Sport",
+    "article": "der",
+    "sentence": "Ich mache viel Sport.",
+    "translation": "I do a lot of sports.",
+    "tags": []
+  },
+  {
+    "word": "Sprache",
+    "article": "die",
+    "sentence": "Welche Sprachen sprichst du?",
+    "translation": "What languages do you speak?",
+    "tags": []
+  },
+  {
+    "word": "sprechen",
+    "article": "",
+    "sentence": "Kann ich (mit) Herrn Klein sprechen? May I speak with Mr.",
+    "translation": "Klein?",
+    "tags": []
+  },
+  {
+    "word": "Stadt",
+    "article": "die",
+    "sentence": "Heidelberg ist eine alte Stadt.",
+    "translation": "Heidelberg is an old city.",
+    "tags": []
+  },
+  {
+    "word": "stehen",
+    "article": "",
+    "sentence": "Ich glaube es nicht, aber es steht in der Zeitung.",
+    "translation": "I don’t believe it, but it’s written in the newspaper.",
+    "tags": []
+  },
+  {
+    "word": "Stelle",
+    "article": "die",
+    "sentence": "Ich habe eine neue Stelle.",
+    "translation": "I have a new job.",
+    "tags": []
+  },
+  {
+    "word": "stellen",
+    "article": "",
+    "sentence": "Stell die Tasche rechts in die Ecke!",
+    "translation": "Put the bag in the corner on the right!",
+    "tags": []
+  },
+  {
+    "word": "Stock",
+    "article": "der",
+    "sentence": "Unsere Wohnung liegt im ersten Stock.",
+    "translation": "Our apartment is on the first floor.",
+    "tags": []
+  },
+  {
+    "word": "Straße",
+    "article": "die",
+    "sentence": "In welcher Straße wohnen Sie?",
+    "translation": "Which street do you live on?",
+    "tags": []
+  },
+  {
+    "word": "Straßenbahn",
+    "article": "die",
+    "sentence": "Wo fährt die Straßenbahn ab?",
+    "translation": "Where does the tram depart from?",
+    "tags": []
+  },
+  {
+    "word": "studieren",
+    "article": "",
+    "sentence": "Ich studiere in Mainz.",
+    "translation": "I study in Mainz.",
+    "tags": []
+  },
+  {
+    "word": "Studium",
+    "article": "das",
+    "sentence": "Das Studium beginnt im Oktober.",
+    "translation": "The studies begin in October.",
+    "tags": []
+  },
+  {
+    "word": "Student",
+    "article": "der",
+    "sentence": "Ich bin Studentin.",
+    "translation": "I’m a student (female).",
+    "tags": []
+  },
+  {
+    "word": "Stunde",
+    "article": "die",
+    "sentence": "Ich bin in einer Stunde zurück.",
+    "translation": "I’ll be back in an hour.",
+    "tags": []
+  },
+  {
+    "word": "suchen",
+    "article": "",
+    "sentence": "Suchst du etwas?",
+    "translation": "Are you looking for something?",
+    "tags": []
+  },
+  {
+    "word": "tanzen",
+    "article": "",
+    "sentence": "Tanzen Sie gern?",
+    "translation": "Do you like dancing?",
+    "tags": []
+  },
+  {
+    "word": "Tasche",
+    "article": "die",
+    "sentence": "Ich habe die Schlüssel in der Tasche.",
+    "translation": "I have the keys in the bag.",
+    "tags": []
+  },
+  {
+    "word": "Taxi",
+    "article": "das",
+    "sentence": "Es gibt heute keinen Bus mehr.",
+    "translation": "Er fährt mit dem Taxi. There’s no more bus today. He’s taking a taxi.",
+    "tags": []
+  },
+  {
+    "word": "Tee",
+    "article": "der",
+    "sentence": "Ich trinke morgens immer Tee.",
+    "translation": "I always drink tea in the morning.",
+    "tags": []
+  },
+  {
+    "word": "Teil",
+    "article": "der",
+    "sentence": "Lies bitte auch den zweiten Teil.",
+    "translation": "Please also read the second part.",
+    "tags": []
+  },
+  {
+    "word": "telefonieren",
+    "article": "",
+    "sentence": "Darf ich mal telefonieren?",
+    "translation": "May I make a phone call?",
+    "tags": []
+  },
+  {
+    "word": "Telefon",
+    "article": "das",
+    "sentence": "Haben Sie Telefon?",
+    "translation": "Do you have a phone?",
+    "tags": []
+  },
+  {
+    "word": "Termin",
+    "article": "der",
+    "sentence": "Am besten machen wir sofort einen Termin.",
+    "translation": "It’s best if we schedule an appointment right away.",
+    "tags": []
+  },
+  {
+    "word": "Test",
+    "article": "der",
+    "sentence": "Der Test war einfach.",
+    "translation": "The test was easy.",
+    "tags": []
+  },
+  {
+    "word": "teuer",
+    "article": "",
+    "sentence": "Das ist mir zu teuer.",
+    "translation": "That’s too expensive for me.",
+    "tags": []
+  },
+  {
+    "word": "Text",
+    "article": "der",
+    "sentence": "Lesen Sie bitte diesen Text.",
+    "translation": "Please read this text.",
+    "tags": []
+  },
+  {
+    "word": "Thema",
+    "article": "das",
+    "sentence": "Wir sprechen heute über das Thema „Essen und Trinken“.",
+    "translation": "Today, we’re talking about the topic of \"food and drink\".",
+    "tags": []
+  },
+  {
+    "word": "Ticket",
+    "article": "das",
+    "sentence": "Wie viel kostet das Ticket?",
+    "translation": "How much does the ticket cost?",
+    "tags": []
+  },
+  {
+    "word": "Tisch",
+    "article": "der",
+    "sentence": "Die Fotos liegen auf dem Tisch.",
+    "translation": "The photos are on the table.",
+    "tags": []
+  },
+  {
+    "word": "Tochter",
+    "article": "die",
+    "sentence": "Das ist meine Tochter Katharina.",
+    "translation": "This is my daughter Katharina.",
+    "tags": []
+  },
+  {
+    "word": "Toilette",
+    "article": "die",
+    "sentence": "Wo ist die Toilette, bitte?",
+    "translation": "Where is the restroom, please?",
+    "tags": []
+  },
+  {
+    "word": "Tomate",
+    "article": "die",
+    "sentence": "Die Tomate ist noch grün.",
+    "translation": "The tomato is still green.",
+    "tags": []
+  },
+  {
+    "word": "tot",
+    "article": "",
+    "sentence": "Sein Vater ist schon lange tot.",
+    "translation": "His father has been dead for a long time.",
+    "tags": []
+  },
+  {
+    "word": "(sich) treffen",
+    "article": "",
+    "sentence": "Ich treffe in der Stadt einen Kollegen.",
+    "translation": "I’m meeting a colleague in the city.",
+    "tags": []
+  },
+  {
+    "word": "Treppe",
+    "article": "die",
+    "sentence": "Die Toilette? Die Treppe hoch und dann links.",
+    "translation": "The restroom? Up the stairs and then to the left.",
+    "tags": []
+  },
+  {
+    "word": "trinken",
+    "article": "",
+    "sentence": "Möchtest du etwas trinken?",
+    "translation": "Would you like something to drink?",
+    "tags": []
+  },
+  {
+    "word": "tschüss",
+    "article": "",
+    "sentence": "Junge Leute sagen meistens „tschüss!“ und nicht „auf Wiedersehen“.",
+    "translation": "Young people mostly say \"bye\" and not \"goodbye.\"",
+    "tags": []
+  },
+  {
+    "word": "tun",
+    "article": "",
+    "sentence": "Ich habe noch etwas zu tun.",
+    "translation": "I still have something to do.",
+    "tags": []
+  },
+  {
+    "word": "über",
+    "article": "",
+    "sentence": "Gehen Sie hier über die Straße.",
+    "translation": "Cross the street here.",
+    "tags": []
+  },
+  {
+    "word": "übernachten",
+    "article": "",
+    "sentence": "Du kannst bei mir übernachten.",
+    "translation": "You can stay the night at my place.",
+    "tags": []
+  },
+  {
+    "word": "überweisen",
+    "article": "",
+    "sentence": "Sie können das Geld auch überweisen.",
+    "translation": "You can also transfer the money.",
+    "tags": []
+  },
+  {
+    "word": "Uhr",
+    "article": "die",
+    "sentence": "Es ist vier Uhr.",
+    "translation": "It’s four o'clock.",
+    "tags": []
+  },
+  {
+    "word": "um",
+    "article": "",
+    "sentence": "Er kommt um sieben Uhr.",
+    "translation": "He’s coming at seven o'clock.",
+    "tags": []
+  },
+  {
+    "word": "umziehen",
+    "article": "",
+    "sentence": "Nächsten Monat ziehen wir um.",
+    "translation": "We are moving next month.",
+    "tags": []
+  },
+  {
+    "word": "und",
+    "article": "",
+    "sentence": "Peter und Helmut sind meine Söhne.",
+    "translation": "Peter and Helmut are my sons.",
+    "tags": []
+  },
+  {
+    "word": "unser-",
+    "article": "",
+    "sentence": "Das ist unsere Lehrerin.",
+    "translation": "This is our teacher.",
+    "tags": []
+  },
+  {
+    "word": "unten",
+    "article": "",
+    "sentence": "Er wohnt ganz unten im Haus.",
+    "translation": "He lives at the very bottom of the house.",
+    "tags": []
+  },
+  {
+    "word": "unter",
+    "article": "",
+    "sentence": "Unter uns wohnt eine Familie mit drei Kindern.",
+    "translation": "A family with three children lives below us.",
+    "tags": []
+  },
+  {
+    "word": "Unterricht",
+    "article": "der",
+    "sentence": "Wir haben Unterricht von 8.00 bis 12.00 Uhr.",
+    "translation": "We have class from 8:00 to 12:00.",
+    "tags": []
+  },
+  {
+    "word": "unterschreiben",
+    "article": "",
+    "sentence": "Wo muss ich unterschreiben?",
+    "translation": "Where do I have to sign?",
+    "tags": []
+  },
+  {
+    "word": "Unterschrift",
+    "article": "die",
+    "sentence": "Hier fehlt noch Ihre Unterschrift.",
+    "translation": "Your signature is still missing here.",
+    "tags": []
+  },
+  {
+    "word": "Urlaub",
+    "article": "der",
+    "sentence": "Ich nehme im September Urlaub.",
+    "translation": "I’m taking a vacation in September.",
+    "tags": []
+  },
+  {
+    "word": "Vater",
+    "article": "der",
+    "sentence": "Mein Vater ist Arbeiter.",
+    "translation": "My father is a worker.",
+    "tags": []
+  },
+  {
+    "word": "verboten",
+    "article": "",
+    "sentence": "Hier ist Rauchen verboten.",
+    "translation": "Smoking is forbidden here.",
+    "tags": []
+  },
+  {
+    "word": "verdienen",
+    "article": "",
+    "sentence": "Ich verdiene 1.500 Euro im Monat.",
+    "translation": "I earn 1,500 euros a month.",
+    "tags": []
+  },
+  {
+    "word": "Verein",
+    "article": "der",
+    "sentence": "Es gibt einen neuen Sportverein in der Stadt.",
+    "translation": "There’s a new sports club in the city.",
+    "tags": []
+  },
+  {
+    "word": "verheiratet",
+    "article": "",
+    "sentence": "Ich bin verheiratet und habe drei Kinder.",
+    "translation": "I am married and have three children.",
+    "tags": []
+  },
+  {
+    "word": "verkaufen",
+    "article": "",
+    "sentence": "Er verkauft sein altes Auto.",
+    "translation": "He’s selling his old car.",
+    "tags": []
+  },
+  {
+    "word": "Verkäufer",
+    "article": "der",
+    "sentence": "Meine Mutter ist Verkäuferin im Kaufhaus.",
+    "translation": "My mother is a saleswoman in the department store.",
+    "tags": []
+  },
+  {
+    "word": "vermieten",
+    "article": "",
+    "sentence": "Die Wohnung ist schon vermietet.",
+    "translation": "The apartment has already been rented out.",
+    "tags": []
+  },
+  {
+    "word": "Vermieter",
+    "article": "der",
+    "sentence": "Unser Vermieter heißt Huber.",
+    "translation": "Er wohnt auch hier. Our landlord’s name is Huber. He lives here too.",
+    "tags": []
+  },
+  {
+    "word": "verstehen",
+    "article": "",
+    "sentence": "Können Sie mich verstehen?",
+    "translation": "Can you understand me?",
+    "tags": []
+  },
+  {
+    "word": "Verwandte",
+    "article": "der",
+    "sentence": "Peter besucht seine Verwandten in Polen.",
+    "translation": "Peter is visiting his relatives in Poland.",
+    "tags": []
+  },
+  {
+    "word": "viel",
+    "article": "",
+    "sentence": "Hier regnet es viel.",
+    "translation": "It rains a lot here.",
+    "tags": []
+  },
+  {
+    "word": "vielleicht",
+    "article": "",
+    "sentence": "Ich komme vielleicht mit dem Bus.",
+    "translation": "Maybe I’ll take the bus.",
+    "tags": []
+  },
+  {
+    "word": "von",
+    "article": "",
+    "sentence": "Das Auto von Felix ist kaputt.",
+    "translation": "Felix's car is broken.",
+    "tags": []
+  },
+  {
+    "word": "vor",
+    "article": "",
+    "sentence": "Der Termin war vor einer Stunde.",
+    "translation": "The appointment was an hour ago.",
+    "tags": []
+  },
+  {
+    "word": "Vorname",
+    "article": "der",
+    "sentence": "Ich heiße Müller, mein Vorname ist Eva.",
+    "translation": "My last name is Müller, my first name is Eva.",
+    "tags": []
+  },
+  {
+    "word": "Vorsicht",
+    "article": "die",
+    "sentence": "Vorsicht! Da kommt ein Auto.",
+    "translation": "Watch out! A car is coming.",
+    "tags": []
+  },
+  {
+    "word": "(sich) vorstellen",
+    "article": "",
+    "sentence": "Wir wollen uns kennenlernen.",
+    "translation": "Können Sie sich bitte vorstellen? We want to get to know each other. Could you please introduce yourself?",
+    "tags": []
+  },
+  {
+    "word": "Vorwahl",
+    "article": "die",
+    "sentence": "Wie ist die Vorwahl von München?",
+    "translation": "What’s the area code for Munich?",
+    "tags": []
+  },
+  {
+    "word": "wandern",
+    "article": "",
+    "sentence": "Wir wandern um den Chiemsee.",
+    "translation": "We are hiking around Lake Chiemsee.",
+    "tags": []
+  },
+  {
+    "word": "wann",
+    "article": "",
+    "sentence": "Wann bist du fertig?",
+    "translation": "When will you be done?",
+    "tags": []
+  },
+  {
+    "word": "warten",
+    "article": "",
+    "sentence": "Können Sie ein paar Minuten warten?",
+    "translation": "Can you wait for a few minutes?",
+    "tags": []
+  },
+  {
+    "word": "warum",
+    "article": "",
+    "sentence": "Warum kommt er nicht?",
+    "translation": "Why isn’t he coming?",
+    "tags": []
+  },
+  {
+    "word": "was",
+    "article": "",
+    "sentence": "Was ist das?",
+    "translation": "What is that?",
+    "tags": []
+  },
+  {
+    "word": "was für ein",
+    "article": "",
+    "sentence": "Was für eine Farbe möchten Sie?",
+    "translation": "What color would you like?",
+    "tags": []
+  },
+  {
+    "word": "(sich) waschen",
+    "article": "",
+    "sentence": "Wo kann ich mir die Hände waschen?",
+    "translation": "Where can I wash my hands?",
+    "tags": []
+  },
+  {
+    "word": "Wasser",
+    "article": "das",
+    "sentence": "Ein Glas Wasser, bitte.",
+    "translation": "A glass of water, please.",
+    "tags": []
+  },
+  {
+    "word": "weh tun",
+    "article": "",
+    "sentence": "Ich muss zum Arzt.",
+    "translation": "Mein Bein tut weh. I need to see the doctor. My leg hurts.",
+    "tags": []
+  },
+  {
+    "word": "weiblich",
+    "article": "",
+    "sentence": "Kreuzen Sie bitte an: „weiblich“ oder „männlich“.",
+    "translation": "Please check: “female” or “male.”",
+    "tags": []
+  },
+  {
+    "word": "Wein",
+    "article": "der",
+    "sentence": "Nein danke, ich möchte keinen Wein.",
+    "translation": "No thanks, I don’t want any wine.",
+    "tags": []
+  },
+  {
+    "word": "weit",
+    "article": "",
+    "sentence": "Zum Bahnhof ist es nicht weit.",
+    "translation": "It’s not far to the train station.",
+    "tags": []
+  },
+  {
+    "word": "weiter",
+    "article": "",
+    "sentence": "Der Bus fährt nicht weiter.",
+    "translation": "The bus isn’t going any further.",
+    "tags": []
+  },
+  {
+    "word": "welch-",
+    "article": "",
+    "sentence": "Welches Buch möchtest du?",
+    "translation": "Which book do you want?",
+    "tags": []
+  },
+  {
+    "word": "Welt",
+    "article": "die",
+    "sentence": "Es gibt viele Probleme auf der Welt.",
+    "translation": "There are many problems in the world.",
+    "tags": []
+  },
+  {
+    "word": "wenig",
+    "article": "",
+    "sentence": "Ich habe leider nur wenig verstanden.",
+    "translation": "Unfortunately, I understood very little.",
+    "tags": []
+  },
+  {
+    "word": "wer",
+    "article": "",
+    "sentence": "Wer ist das?",
+    "translation": "Who is that?",
+    "tags": []
+  },
+  {
+    "word": "werden",
+    "article": "",
+    "sentence": "Mein Sohn will Arzt werden.",
+    "translation": "My son wants to become a doctor.",
+    "tags": []
+  },
+  {
+    "word": "Wetter",
+    "article": "das",
+    "sentence": "Wir hatten schlechtes Wetter.",
+    "translation": "We had bad weather.",
+    "tags": []
+  },
+  {
+    "word": "wichtig",
+    "article": "",
+    "sentence": "Dieses Formular ist sehr wichtig.",
+    "translation": "This form is very important.",
+    "tags": []
+  },
+  {
+    "word": "wie",
+    "article": "",
+    "sentence": "Wie heißt du?",
+    "translation": "What’s your name?",
+    "tags": []
+  },
+  {
+    "word": "wiederholen",
+    "article": "",
+    "sentence": "Können Sie das bitte wiederholen?",
+    "translation": "Could you please repeat that?",
+    "tags": []
+  },
+  {
+    "word": "Wiederhören",
+    "article": "das",
+    "sentence": "Wir müssen jetzt Schluss machen.",
+    "translation": "Also auf Wiederhören! We have to end now. So, goodbye!",
+    "tags": []
+  },
+  {
+    "word": "Wiedersehen",
+    "article": "das",
+    "sentence": "Auf Wiedersehen!",
+    "translation": "Goodbye!",
+    "tags": []
+  },
+  {
+    "word": "wie viel",
+    "article": "",
+    "sentence": "Wie viel Milch nehmen Sie?",
+    "translation": "How much milk would you like?",
+    "tags": []
+  },
+  {
+    "word": "willkommen",
+    "article": "",
+    "sentence": "Herzlich willkommen!",
+    "translation": "Welcome!",
+    "tags": []
+  },
+  {
+    "word": "Wind",
+    "article": "der",
+    "sentence": "Der Wind kommt aus Osten.",
+    "translation": "The wind is coming from the east.",
+    "tags": []
+  },
+  {
+    "word": "wir",
+    "article": "",
+    "sentence": "Wir lernen Deutsch.",
+    "translation": "We are learning German.",
+    "tags": []
+  },
+  {
+    "word": "wissen",
+    "article": "",
+    "sentence": "Weißt du, wie er heißt?",
+    "translation": "Do you know what his name is?",
+    "tags": []
+  },
+  {
+    "word": "wo",
+    "article": "",
+    "sentence": "Wo waren Sie im Urlaub?",
+    "translation": "Where were you on vacation?",
+    "tags": []
+  },
+  {
+    "word": "woher",
+    "article": "",
+    "sentence": "Woher kommen Sie?",
+    "translation": "Where do you come from?",
+    "tags": []
+  },
+  {
+    "word": "wohin",
+    "article": "",
+    "sentence": "Wohin fährt dieser Bus?",
+    "translation": "Where is this bus going?",
+    "tags": []
+  },
+  {
+    "word": "wohnen",
+    "article": "",
+    "sentence": "Ich wohne in München.",
+    "translation": "I live in Munich.",
+    "tags": []
+  },
+  {
+    "word": "Wohnung",
+    "article": "die",
+    "sentence": "Seit wann haben Sie diese Wohnung?",
+    "translation": "How long have you had this apartment?",
+    "tags": []
+  },
+  {
+    "word": "wollen",
+    "article": "",
+    "sentence": "Wollen Sie einen Kaffee trinken?",
+    "translation": "Do you want to drink some coffee?",
+    "tags": []
+  },
+  {
+    "word": "Wort",
+    "article": "das",
+    "sentence": "Ich kenne das Wort nicht.",
+    "translation": "I don’t know the word.",
+    "tags": []
+  },
+  {
+    "word": "wunderbar",
+    "article": "",
+    "sentence": "Das Essen schmeckt wunderbar.",
+    "translation": "The food tastes wonderful.",
+    "tags": []
+  },
+  {
+    "word": "zahlen",
+    "article": "",
+    "sentence": "Zahlen, bitte!",
+    "translation": "Can I have the bill, please?",
+    "tags": []
+  },
+  {
+    "word": "Zeit",
+    "article": "die",
+    "sentence": "Ich habe heute keine Zeit.",
+    "translation": "I don’t have time today.",
+    "tags": []
+  },
+  {
+    "word": "zurzeit",
+    "article": "",
+    "sentence": "Zurzeit habe ich sehr viel zu tun.",
+    "translation": "Currently, I have a lot to do.",
+    "tags": []
+  },
+  {
+    "word": "Zeitung",
+    "article": "die",
+    "sentence": "Ich lese gern Zeitung.",
+    "translation": "I like reading the newspaper.",
+    "tags": []
+  },
+  {
+    "word": "Zigarette",
+    "article": "die",
+    "sentence": "Wie teuer sind die Zigaretten?",
+    "translation": "How much are the cigarettes?",
+    "tags": []
+  },
+  {
+    "word": "Zimmer",
+    "article": "das",
+    "sentence": "Das Zimmer ist groß.",
+    "translation": "The room is large.",
+    "tags": []
+  },
+  {
+    "word": "Zoll",
+    "article": "der",
+    "sentence": "Wir müssen noch durch den Zoll.",
+    "translation": "We still have to go through customs.",
+    "tags": []
+  },
+  {
+    "word": "zu",
+    "article": "",
+    "sentence": "Der Bus fährt zum Bahnhof.",
+    "translation": "The bus goes to the train station.",
+    "tags": []
+  },
+  {
+    "word": "zufrieden",
+    "article": "",
+    "sentence": "Ich bin mit der Wohnung zufrieden.",
+    "translation": "I am satisfied with the apartment.",
+    "tags": []
+  },
+  {
+    "word": "Zug",
+    "article": "der",
+    "sentence": "Ich fahre gern mit dem Zug.",
+    "translation": "I like traveling by train.",
+    "tags": []
+  },
+  {
+    "word": "zurück",
+    "article": "",
+    "sentence": "Einmal Frankfurt und zurück.",
+    "translation": "Once to Frankfurt and back.",
+    "tags": []
+  },
+  {
+    "word": "zusammen",
+    "article": "",
+    "sentence": "Sollen wir zusammen essen gehen?",
+    "translation": "Should we go out to eat together?",
+    "tags": []
+  },
+  {
+    "word": "zwischen",
+    "article": "",
+    "sentence": "Heidelberg liegt zwischen Frankfurt und Stuttgart.",
+    "translation": "Heidelberg is located between Frankfurt and Stuttgart.",
+    "tags": []
+  }
+]

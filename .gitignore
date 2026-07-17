@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+*.pyc
+data/definitions_cache.json
+*.zip
+.DS_Store

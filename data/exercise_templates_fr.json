@@ -1,0 +1,86 @@
+{
+  "animals": [
+    {"sentence": "Mon ____ s'appelle Médor.", "hint": "Mascota común", "valid_answers": ["chien"]},
+    {"sentence": "Le ____ dort sur le canapé.", "hint": "Animal doméstico", "valid_answers": ["chat"]},
+    {"sentence": "Un ____ vit dans l'eau et nage.", "hint": "Animal acuático", "valid_answers": ["poisson"]},
+    {"sentence": "Le ____ chante dans l'arbre.", "hint": "Animal que vuela", "valid_answers": ["oiseau"]}
+  ],
+  "actions": [
+    {"sentence": "Je ____ français à l'école.", "hint": "Estudiar un idioma", "valid_answers": ["parle"]},
+    {"sentence": "Nous ____ au restaurant ce soir.", "hint": "Comer fuera", "valid_answers": ["mangeons"]},
+    {"sentence": "Ils ____ dans un grand appartement.", "hint": "Residir en algún lugar", "valid_answers": ["habitent"]},
+    {"sentence": "Tu ____ la télévision le soir.", "hint": "Ver algo", "valid_answers": ["regardes"]},
+    {"sentence": "Elle ____ de la musique classique.", "hint": "Escuchar algo", "valid_answers": ["écoute"]},
+    {"sentence": "J'____ à la bibliothèque demain.", "hint": "Estudiar para un examen", "valid_answers": ["étudie"]}
+  ],
+  "food": [
+    {"sentence": "Je voudrais du ____ s'il vous plaît.", "hint": "Pan francés típico", "valid_answers": ["pain"]},
+    {"sentence": "Le ____ est un fromage français célèbre.", "hint": "Queso blando francés", "valid_answers": ["camembert"]},
+    {"sentence": "Elle mange une ____ verte.", "hint": "Fruta o verdura", "valid_answers": ["pomme"]},
+    {"sentence": "Je bois un ____ noir le matin.", "hint": "Bebida caliente", "valid_answers": ["café"]},
+    {"sentence": "L'____ est très importante pour la santé.", "hint": "Líquido vital", "valid_answers": ["eau"]},
+    {"sentence": "Garçon, l'____ s'il vous plaît !", "hint": "Pedir la cuenta", "valid_answers": ["addition"]}
+  ],
+  "travel": [
+    {"sentence": "Je prends le ____ pour aller à Paris.", "hint": "Medio de transporte sobre rieles", "valid_answers": ["train"]},
+    {"sentence": "L'____ est loin du centre-ville.", "hint": "Lugar donde aterrizan aviones", "valid_answers": ["aéroport"]},
+    {"sentence": "Nous réservons une ____ d'hôtel.", "hint": "Habitación", "valid_answers": ["chambre"]},
+    {"sentence": "La ____ est belle et le sable est chaud.", "hint": "Lugar de veraneo junto al mar", "valid_answers": ["plage"]},
+    {"sentence": "Les ____ d'été commencent en juillet.", "hint": "Periodo de descanso", "valid_answers": ["vacances"]}
+  ],
+  "hotel": [
+    {"sentence": "Je voudrais ____ une chambre pour deux nuits.", "hint": "Apartar con anticipación", "valid_answers": ["réserver"]},
+    {"sentence": "La ____ se trouve au rez-de-chaussée.", "hint": "Lugar donde se recibe a los huéspedes", "valid_answers": ["réception"]},
+    {"sentence": "Nous avons besoin de la ____ de la chambre.", "hint": "Objeto para abrir la puerta", "valid_answers": ["clé"]},
+    {"sentence": "Le ____ est à 12 heures.", "hint": "Momento de salir del hotel", "valid_answers": ["check-out"]},
+    {"sentence": "L'____ se fait à partir de 15 heures.", "hint": "Momento de llegar al hotel", "valid_answers": ["enregistrement"]}
+  ],
+  "directions": [
+    {"sentence": "Tournez à ____ au prochain feu.", "hint": "Lado opuesto a la derecha", "valid_answers": ["gauche"]},
+    {"sentence": "La banque est à ____ après le supermarché.", "hint": "Dirección opuesta a izquierda", "valid_answers": ["droite"]},
+    {"sentence": "Allez tout ____ jusqu'au monument.", "hint": "Seguir sin desviarse", "valid_answers": ["droit"]},
+    {"sentence": "Traversez le ____ au passage piéton.", "hint": "Cruce de calles", "valid_answers": ["carrefour"]},
+    {"sentence": "____ sont les toilettes s'il vous plaît ?", "hint": "Pregunta de ubicación", "valid_answers": ["où"]}
+  ],
+  "shopping": [
+    {"sentence": "C'est combien le ____ de ce sac ?", "hint": "Costo de un artículo", "valid_answers": ["prix"]},
+    {"sentence": "Je vais ____ par carte bancaire.", "hint": "Acción de pagar", "valid_answers": ["payer"]},
+    {"sentence": "Puis-je avoir le ____ s'il vous plaît ?", "hint": "Comprobante de compra", "valid_answers": ["reçu"]},
+    {"sentence": "Avez-vous ce pull en ____ S ?", "hint": "Medida de vestimenta", "valid_answers": ["taille"]},
+    {"sentence": "Je préfère le ____ bleu.", "hint": "Característica visual", "valid_answers": ["couleur"]}
+  ],
+  "phone": [
+    {"sentence": "Je vais ____ à ma mère ce soir.", "hint": "Acción de telefonear", "valid_answers": ["téléphoner"]},
+    {"sentence": "Laissez un ____ après le bip sonore.", "hint": "Mensaje grabado", "valid_answers": ["message"]},
+    {"sentence": "Ne ____ pas, c'est important.", "hint": "Finalizar llamada", "valid_answers": ["raccrochez"]},
+    {"sentence": "Composez le ____ avant le numéro.", "hint": "Prefijo telefónico", "valid_answers": ["code"]},
+    {"sentence": "Votre ____ est plein, veuillez rappeler.", "hint": "Buzón de voz", "valid_answers": ["messagerie"]}
+  ],
+  "email": [
+    {"sentence": "Je vais ____ un email à mon professeur.", "hint": "Enviar un mensaje", "valid_answers": ["envoyer"]},
+    {"sentence": "Pouvez-vous ____ le fichier à cet email ?", "hint": "Incluir un documento", "valid_answers": ["joindre"]},
+    {"sentence": "Il faut ____ ce message à toute l'équipe.", "hint": "Enviar de nuevo a otros", "valid_answers": ["transférer"]},
+    {"sentence": "Je dois ____ à son email avant ce soir.", "hint": "Contestar un mensaje", "valid_answers": ["répondre"]}
+  ],
+  "work": [
+    {"sentence": "La ____ commence à 9 heures précises.", "hint": "Junta de trabajo", "valid_answers": ["réunion"]},
+    {"sentence": "Le ____ du projet est vendredi prochain.", "hint": "Fecha límite de entrega", "valid_answers": ["délai"]},
+    {"sentence": "J'écris un ____ pour mon chef.", "hint": "Documento de trabajo", "valid_answers": ["rapport"]},
+    {"sentence": "Ma ____ travaille dans le même bureau.", "hint": "Persona con quien se labora", "valid_answers": ["collègue"]},
+    {"sentence": "Ce ____ est très intéressant et innovant.", "hint": "Tarea o emprendimiento laboral", "valid_answers": ["projet"]}
+  ],
+  "sports": [
+    {"sentence": "Ce ____ est le meilleur buteur de l'équipe.", "hint": "Deportista", "valid_answers": ["joueur"]},
+    {"sentence": "Notre ____ a gagné le championnat.", "hint": "Conjunto de deportistas", "valid_answers": ["équipe"]},
+    {"sentence": "Il a marqué un ____ à la dernière minute.", "hint": "Punto en el fútbol", "valid_answers": ["but"]},
+    {"sentence": "Le ____ de tennis commence à 14 heures.", "hint": "Competencia deportiva", "valid_answers": ["match"]},
+    {"sentence": "Le ____ est plein ce soir pour le concert.", "hint": "Recinto deportivo grande", "valid_answers": ["stade"]}
+  ],
+  "exercise": [
+    {"sentence": "Je vais à la ____ tous les lundis.", "hint": "Lugar para hacer ejercicio", "valid_answers": ["salle de sport"]},
+    {"sentence": "Faire une ____ le matin est bon pour la santé.", "hint": "Rutina de ejercicios", "valid_answers": ["séance de sport"]},
+    {"sentence": "Tu devrais ____ avant de courir.", "hint": "Estirar los músculos", "valid_answers": ["t'étirer"]},
+    {"sentence": "Il ____ cinq kilomètres chaque jour.", "hint": "Acción de correr", "valid_answers": ["court"]},
+    {"sentence": "La ____ est importante pour rester en forme.", "hint": "Actividad física en general", "valid_answers": ["forme"]}
+  ]
+}

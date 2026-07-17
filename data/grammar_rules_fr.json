@@ -1,0 +1,106 @@
+[
+  {
+    "id": "fr_articles",
+    "title": "Artículos (le/la/l'/les)",
+    "description": "En francés, los sustantivos tienen género: masculino (le) y femenino (la). 'l'' se usa delante de vocal. 'les' para plural.",
+    "formula": "le → masculino (le livre) | la → femenino (la table) | l' → vocal (l'enfant) | les → plural (les livres)",
+    "examples": ["le chien (el perro)", "la chaise (la silla)", "l'hôtel (el hotel)", "les enfants (los niños)"],
+    "exercises": [
+      {"sentence": "____ chien est dans le jardin.", "answer": "Le", "hint": "Chien es masculino"},
+      {"sentence": "____ table est en bois.", "answer": "La", "hint": "Table es femenino"},
+      {"sentence": "____ hôtel est très grand.", "answer": "L'", "hint": "hôtel empieza con vocal"},
+      {"sentence": "____ livres sont sur la table.", "answer": "Les", "hint": "livres está en plural"}
+    ]
+  },
+  {
+    "id": "fr_present",
+    "title": "Presente (Présent) - verbos regulares",
+    "description": "Los verbos regulares en francés se conjugan según su terminación: -er (parler), -ir (finir), -re (vendre). Cada grupo tiene sus propias terminaciones.",
+    "formula": "-er: e, es, e, ons, ez, ent | -ir: is, is, it, issons, issez, issent | -re: s, s, -, ons, ez, ent",
+    "examples": ["je parle (yo hablo)", "tu finis (tú terminas)", "il/elle vend (él/ella vende)", "nous parlons (nosotros hablamos)"],
+    "exercises": [
+      {"sentence": "Je ____ français.", "answer": "parle", "hint": "parler, verbo -er, primera persona"},
+      {"sentence": "Nous ____ nos devoirs.", "answer": "finissons", "hint": "finir, verbo -ir, primera persona plural"},
+      {"sentence": "Elle ____ des fruits au marché.", "answer": "vend", "hint": "vendre, verbo -re, tercera persona singular"},
+      {"sentence": "Vous ____ très bien.", "answer": "chantez", "hint": "chanter, verbo -er, segunda persona plural"}
+    ]
+  },
+  {
+    "id": "fr_passe_compose",
+    "title": "Pasado (Passé Composé) con avoir/être",
+    "description": "El passé composé se forma con el presente del auxiliar (avoir o être) + participio pasado. La mayoría usa avoir; être se usa con verbos de movimiento y reflexivos.",
+    "formula": "avoir/être (presente) + participio pasado | être: aller→allé, venir→venu, naître→né, etc.",
+    "examples": ["j'ai parlé (yo hablé)", "je suis allé(e) (yo fui)", "elle a fini (ella terminó)", "nous sommes partis (nosotros salimos)"],
+    "exercises": [
+      {"sentence": "Hier, j'____ mangé une pizza.", "answer": "ai", "hint": "manger usa el auxiliar avoir"},
+      {"sentence": "Elle ____ allée au cinéma.", "answer": "est", "hint": "aller usa être como auxiliar"},
+      {"sentence": "Nous ____ fini nos devoirs.", "answer": "avons", "hint": "finir usa avoir, primera persona plural"},
+      {"sentence": "Ils ____ arrivés à l'heure.", "answer": "sont", "hint": "arriver usa être, tercera persona plural"}
+    ]
+  },
+  {
+    "id": "fr_futur_proche",
+    "title": "Futuro próximo (Futur Proche) - aller + infinitivo",
+    "description": "El futuro próximo expresa una acción que va a ocurrir pronto. Se forma con el verbo aller conjugado en presente + el infinitivo del verbo principal.",
+    "formula": "aller (presente) + infinitivo | je vais, tu vas, il/elle va, nous allons, vous allez, ils/elles vont + infinitivo",
+    "examples": ["je vais manger (voy a comer)", "tu vas partir (vas a salir)", "elle va arriver (ella va a llegar)", "nous allons danser (vamos a bailar)"],
+    "exercises": [
+      {"sentence": "Je ____ voyager demain.", "answer": "vais", "hint": "aller, primera persona singular"},
+      {"sentence": "Tu ____ regarder un film.", "answer": "vas", "hint": "aller, segunda persona singular"},
+      {"sentence": "Nous ____ acheter une maison.", "answer": "allons", "hint": "aller, primera persona plural"},
+      {"sentence": "Elles ____ préparer le dîner.", "answer": "vont", "hint": "aller, tercera persona plural"}
+    ]
+  },
+  {
+    "id": "fr_imparfait",
+    "title": "Imperfecto (Imparfait) - descripciones en el pasado",
+    "description": "El imparfait se usa para describir acciones habituales o continuas en el pasado, así como descripciones físicas y emocionales. Se forma con la raíz de la primera persona plural del presente + terminaciones: ais, ais, ait, ions, iez, aient.",
+    "formula": "raíz de nous (presente) + ais/ais/ait/ions/iez/aient | ejemplo: nous parlons → je parlais",
+    "examples": ["je parlais (yo hablaba)", "tu finissais (tú terminabas)", "il faisait beau (hacía buen tiempo)", "nous étions jeunes (éramos jóvenes)"],
+    "exercises": [
+      {"sentence": "Quand j'étais petit, je ____ à la campagne.", "answer": "habitais", "hint": "habiter, primera persona singular, terminación -ais"},
+      {"sentence": "Il ____ toujours du gâteau après l'école.", "answer": "mangeait", "hint": "manger, tercera persona singular, terminación -ait"},
+      {"sentence": "Nous ____ ensemble chaque été.", "answer": "jouions", "hint": "jouer, primera persona plural, terminación -ions"},
+      {"sentence": "Elles ____ très heureuses.", "answer": "étaient", "hint": "être en imparfait, tercera persona plural"}
+    ]
+  },
+  {
+    "id": "fr_pronouns",
+    "title": "Pronombres objeto (me/te/nous/vous/le/la/les/lui/leur)",
+    "description": "Los pronombres objeto reemplazan a un sustantivo y van delante del verbo. me/te/nous/vous son para personas, le/la/les para cosas, lui/leur para 'a él/ella' y 'a ellos/ellas'.",
+    "formula": "me/te/nous/vous → persona | le/la/les → cosa directo | lui/leur → indirecto (a él/ella/ellos)",
+    "examples": ["je te vois (yo te veo)", "il le mange (él lo come)", "je lui parle (yo le hablo)", "elle leur dit (ella les dice)"],
+    "exercises": [
+      {"sentence": "Tu ____ vois dans la rue. (a mí)", "answer": "me", "hint": "Primera persona, objeto directo"},
+      {"sentence": "Je ____ parle tous les jours. (a ella)", "answer": "lui", "hint": "Pronombre indirecto femenino singular"},
+      {"sentence": "Il ____ regarde. (a ellos)", "answer": "les", "hint": "Tercera persona plural, objeto directo"},
+      {"sentence": "Nous ____ donnons le livre. (a ti)", "answer": "te", "hint": "Segunda persona singular, objeto indirecto"}
+    ]
+  },
+  {
+    "id": "fr_negation",
+    "title": "Negación (ne...pas, ne...jamais, ne...rien)",
+    "description": "En francés, la negación rodea al verbo: ne + verbo + pas (no), ne + verbo + jamais (nunca), ne + verbo + rien (nada). En lenguaje informal, 'ne' a menudo se omite.",
+    "formula": "ne + verbo + pas → negación simple | ne + verbo + jamais → nunca | ne + verbo + rien → nada",
+    "examples": ["je ne parle pas (no hablo)", "il ne mange jamais (él nunca come)", "elle ne voit rien (ella no ve nada)", "nous ne dansons pas (no bailamos)"],
+    "exercises": [
+      {"sentence": "Je ____ parle ____ espagnol.", "answer": "ne ... pas", "hint": "Negación simple con pas"},
+      {"sentence": "Il ____ voyage ____ en avion.", "answer": "ne ... jamais", "hint": "Jamás viaja en avión"},
+      {"sentence": "Elle ____ mange ____.", "answer": "ne ... rien", "hint": "No come nada"},
+      {"sentence": "Nous ____ avons ____ de temps.", "answer": "n' ... pas", "hint": "avoir empieza con vocal → ne se convierte en n'"}
+    ]
+  },
+  {
+    "id": "fr_conditional",
+    "title": "Condicional (Conditionnel présent) para cortesía",
+    "description": "El condicional se usa para expresar cortesía, deseos o peticiones suaves. Se forma con el infinitivo + terminaciones del imparfait: ais, ais, ait, ions, iez, aient.",
+    "formula": "infinitivo + ais/ais/ait/ions/iez/aient | je voudrais (quisiera), tu pourrais (podrías), il faudrait (haría falta)",
+    "examples": ["je voudrais un café (quisiera un café)", "tu pourrais m'aider (podrías ayudarme)", "elle aimerait venir (a ella le gustaría venir)", "nous voudrions réserver (quisieramos reservar)"],
+    "exercises": [
+      {"sentence": "Je ____ un verre d'eau, s'il vous plaît.", "answer": "voudrais", "hint": "vouloir en condicional, primera persona"},
+      {"sentence": "Tu ____ m'aider avec ce sac ?", "answer": "pourrais", "hint": "pouvoir en condicional, segunda persona"},
+      {"sentence": "Elle ____ visiter Paris un jour.", "answer": "aimerait", "hint": "aimer en condicional, tercera persona singular"},
+      {"sentence": "Nous ____ réserver une table.", "answer": "voudrions", "hint": "vouloir en condicional, primera persona plural"}
+    ]
+  }
+]

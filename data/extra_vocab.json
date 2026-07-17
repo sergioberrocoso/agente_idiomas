@@ -1,0 +1,226 @@
+{
+  "__all__": [
+    {
+      "word": "it's",
+      "definition": "",
+      "spanish": "es",
+      "phonetic": "",
+      "example": "",
+      "part_of_speech": "",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "i'm",
+      "definition": "",
+      "spanish": "Soy",
+      "phonetic": "",
+      "example": "",
+      "part_of_speech": "",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "excited",
+      "definition": "To stir the emotions of.",
+      "spanish": "emocionado",
+      "phonetic": "/ɪkˈsaɪtɪd/",
+      "example": "The fireworks which opened the festivities excited anyone present.",
+      "part_of_speech": "verb",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "learning",
+      "definition": "To acquire, or attempt to acquire knowledge or an ability to do something.",
+      "spanish": "aprendizaje",
+      "phonetic": "/ˈlɜːnɪŋ/",
+      "example": "",
+      "part_of_speech": "verb",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "enthusiasm",
+      "definition": "Possession by a god; divine inspiration or frenzy.",
+      "spanish": "entusiasmo",
+      "phonetic": "/-θuː-/",
+      "example": "",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "wow",
+      "definition": "Anything exceptionally surprising, unbelievable, outstanding, etc.",
+      "spanish": "¡Vaya!",
+      "phonetic": "/waʊ̯/",
+      "example": "He did? That's a wow!",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "disciplined",
+      "definition": "To train someone by instruction and practice.",
+      "spanish": "disciplinado",
+      "phonetic": "/ˈdɪsɪplɪnd/",
+      "example": "",
+      "part_of_speech": "verb",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "energized",
+      "definition": "To invigorate; to make energetic.",
+      "spanish": "activado",
+      "phonetic": "",
+      "example": "",
+      "part_of_speech": "verb",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "workout",
+      "definition": "An exercise session; a period of physical exercise.",
+      "spanish": "entrenamiento",
+      "phonetic": "/ˈwəːk.aʊt/",
+      "example": "",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "meditation",
+      "definition": "A devotional exercise of, or leading to contemplation.",
+      "spanish": "meditación",
+      "phonetic": "/mɛdɪˈteɪʃən/",
+      "example": "",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "improving",
+      "definition": "To make (something) better; to increase the value or productivity (of something).",
+      "spanish": "mejorando",
+      "phonetic": "/ɪmˈpɹuːvɪŋ/",
+      "example": "Buying more servers would improve performance.",
+      "part_of_speech": "verb",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "english",
+      "definition": "Spinning or rotary motion given to a ball around the vertical axis, as in billiards or bowling.",
+      "spanish": "inglés",
+      "phonetic": "/ˈɪŋ.ɡlɪʃ/",
+      "example": "You can't hit it directly, but maybe if you give it some english.",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "started",
+      "definition": "To begin, commence, initiate.",
+      "spanish": "comenzó",
+      "phonetic": "/ˈstɑːtɪd/",
+      "example": "",
+      "part_of_speech": "verb",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "weekday",
+      "definition": "A day of the week except those which form the weekend; that is:",
+      "spanish": "día laborable",
+      "phonetic": "/ˈwiːkdeɪ/",
+      "example": "",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "typo",
+      "definition": "A typographical error.",
+      "spanish": "error tipográfico",
+      "phonetic": "/ˈtaɪpəʊ/",
+      "example": "",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    }
+  ],
+  "mission_008": [
+    {
+      "word": "great",
+      "definition": "A person of major significance, accomplishment or acclaim.",
+      "spanish": "genial",
+      "phonetic": "/ɡɹeɪt/",
+      "example": "Newton and Einstein are two of the greats of the history of science.",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "professional",
+      "definition": "A person who belongs to a profession",
+      "spanish": "profesional",
+      "phonetic": "/pɹəˈfɛʃənəl/",
+      "example": "",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "setting",
+      "definition": "To put (something) down, to rest.",
+      "spanish": "configuración",
+      "phonetic": "/ˈsɛtɪŋ/",
+      "example": "Set the tray there.",
+      "part_of_speech": "verb",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "lithography",
+      "definition": "The process of printing an image by drawing the image with a water-repellent material onto a hard, flat surface (typically metal), then copying the surface by applying water and ink (or the equivalent) to it and pressing another material against it.",
+      "spanish": "litografía",
+      "phonetic": "",
+      "example": "",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    },
+    {
+      "word": "studio",
+      "definition": "An artist’s or photographer’s workshop or the room in which an artist works.",
+      "spanish": "estudio",
+      "phonetic": "/ˈstjuːdiəʊ/",
+      "example": "His studio was cramped when he began as an artist.",
+      "part_of_speech": "noun",
+      "tags": [
+        "user-added"
+      ]
+    }
+  ]
+}

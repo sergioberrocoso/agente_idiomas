@@ -1,0 +1,101 @@
+[
+  {
+    "id": "mission_de_001",
+    "name": "Im Park",
+    "goal": "Tier- und Aktionswortschatz im Park lernen",
+    "vocabulary_tags": ["animals", "actions"],
+    "vocabulary_words": ["Hund", "Katze", "Vogel", "Fisch", "laufen", "gehen", "spielen", "essen", "schlafen", "sitzen", "stehen", "springen", "schwimmen", "singen", "tanzen", "sehen", "hören", "folgen", "fangen", "werfen", "Tier", "Maus", "Ente", "Frosch", "Kaninchen", "Schildkröte"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_002",
+    "name": "Strandurlaub",
+    "goal": "Urlaubs- und Reisevokabular lernen",
+    "vocabulary_tags": ["travel", "actions", "hotel"],
+    "vocabulary_words": ["Strand", "Hotel", "Flug", "Reise", "Urlaub", "Sonne", "schwimmen", "Sand", "Meer", "Flugzeug", "Flughafen", "Ticket", "Pass", "Koffer", "Tasche", "reservieren", "buchen", "Zimmer", "Reservierung", "Insel", "Tour", "besuchen", "reisen", "ankommen", "abfahren", "entspannen"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_003",
+    "name": "Nach dem Weg fragen",
+    "goal": "Nach dem Weg fragen und Wegbeschreibungen verstehen",
+    "vocabulary_tags": ["directions", "travel"],
+    "vocabulary_words": ["links", "rechts", "geradeaus", "Ecke", "Kreuzung", "Ampel", "Straße", "Weg", "Richtung", "Route", "Karte", "Eingang", "Ausgang", "nah", "weit", "Brücke", "biegen", "folgen", "überqueren", "Haltestelle", "Bahnhof", "Nord", "Süd", "Ost", "West"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_004",
+    "name": "Ein Hotel reservieren",
+    "goal": "Telefonisch ein Hotelzimmer reservieren",
+    "vocabulary_tags": ["hotel", "phone", "travel"],
+    "vocabulary_words": ["Hotel", "Zimmer", "buchen", "reservieren", "Reservierung", "Einzelzimmer", "Doppelzimmer", "Nacht", "Preis", "Frühstück", "verfügbar", "Bestätigung", "Check-in", "Rezeption", "Telefon", "anrufen", "Nummer", "ankommen", "bleiben", "Schlüssel", "Rechnung", "Extrabett", "Aussicht"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_005",
+    "name": "Im Supermarkt einkaufen",
+    "goal": "Einkaufsvokabular für den Supermarkt",
+    "vocabulary_tags": ["shopping", "food"],
+    "vocabulary_words": ["kaufen", "bezahlen", "bar", "Karte", "Preis", "Kosten", "Quittung", "Rabatt", "Angebot", "Kasse", "Korb", "Wagen", "Regal", "Tasche", "Essen", "Obst", "Gemüse", "Fleisch", "Fisch", "Brot", "Reis", "Milch", "Käse", "Ei", "Wasser", "Saft", "Getränk"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_006",
+    "name": "Telefonieren",
+    "goal": "Ein Telefongespräch auf Deutsch führen",
+    "vocabulary_tags": ["phone", "work"],
+    "vocabulary_words": ["anrufen", "Telefon", "Handy", "Nachricht", "klingeln", "melden", "sprechen", "hören", "warten", "Leitung", "verfügbar", "Kontakt", "Nummer", "erreichen", "zurückrufen", "Minute", "Termin", "heute", "morgen", "nachmittag", "Besprechung"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_007",
+    "name": "Eine formelle E-Mail schreiben",
+    "goal": "Eine professionelle E-Mail auf Deutsch verfassen",
+    "vocabulary_tags": ["email", "work"],
+    "vocabulary_words": ["E-Mail", "senden", "erhalten", "schreiben", "Postfach", "anhängen", "weiterleiten", "antworten", "Betreff", "Adresse", "Anhang", "Nachricht", "lesen", "prüfen", "bestätigen", "Dokument", "Datei", "Kopie", "bitte", "danke", "Kontakt", "folgen"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_008",
+    "name": "Arbeit in einer Druckerei",
+    "goal": "Wortschatz für die Arbeit in einer Druckerei",
+    "vocabulary_tags": ["work", "actions"],
+    "vocabulary_words": ["arbeiten", "Job", "Maschine", "bedienen", "prüfen", "Qualität", "drucken", "Papier", "Bestellung", "produzieren", "Produktion", "Lieferung", "Material", "reinigen", "reparieren", "Bericht", "ausfüllen", "anfangen", "beenden", "folgen", "Anweisung", "sicher", "Größe", "Farbe", "Design", "Kunde", "Frist"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_009",
+    "name": "Mit Lieferanten sprechen",
+    "goal": "Mit Lieferanten auf Deutsch verhandeln",
+    "vocabulary_tags": ["work", "phone", "email"],
+    "vocabulary_words": ["Bestellung", "Lieferant", "Lieferung", "Versand", "Rechnung", "Zahlung", "Preis", "Kosten", "Angebot", "Budget", "verhandeln", "zustimmen", "Vertrag", "Qualität", "Muster", "Material", "Lager", "verfügbar", "bestätigen", "Termin", "senden", "erhalten", "dringend", "wichtig"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_010",
+    "name": "Über Fußball sprechen",
+    "goal": "Über Fußball und Sport auf Deutsch reden",
+    "vocabulary_tags": ["sports", "actions"],
+    "vocabulary_words": ["Fußball", "Spiel", "Mannschaft", "Team", "Spieler", "Sieg", "Tor", "gewinnen", "verlieren", "schießen", "passen", "Trainer", "Schiedsrichter", "Elfmeter", "Foul", "Ecke", "Liga", "Meisterschaft", "Pokal", "Finale", "Fan", "Stadion", "zuschauen", "spielen", "trainieren"],
+    "dialogues": [],
+    "exercises": []
+  },
+  {
+    "id": "mission_de_011",
+    "name": "Über Bewegung und Fitness sprechen",
+    "goal": "Über Fitness und gesunde Bewegung sprechen",
+    "vocabulary_tags": ["actions", "exercise"],
+    "vocabulary_words": ["Sport", "Fitness", "Training", "laufen", "trainieren", "Gesundheit", "fit", "stark", "Muskel", "dehnen", "aufwärmen", "Minute", "Stunde", "Woche", "Routine", "Gewicht", "schwimmen", "Energie", "Wasser", "Pause", "schieben", "ziehen", "bewegen", "Plan", "Ziel", "verbessern", "aktiv"],
+    "dialogues": [],
+    "exercises": []
+  }
+]
